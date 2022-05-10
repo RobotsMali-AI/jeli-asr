@@ -10,7 +10,7 @@
 | griots_r5 | Bakoroba Diabate | [1, 6] | [2, 3, 4, 5, 7] | Integration ready |
 | **griots_r6** |  **Zoumana Baki Diabate** | - |  -  | refer to RecID griots_r6b |
 | griots_r7 | Sory Sissoko | [1, 3] | [2, 4, 5, 6] | Integration ready |
-| **griots_r8** | Fatoumata Tounkara | [**3**, 5] | [1, 2, 5, 6] | **eaf for 8.3** missing w/ Correction text & 8.4 ready for integration |
+| griots_r8 | Fatoumata Tounkara | [3, 5] | [1, 2, 5, 6] | 8.3 ready for integration & 8.4 ready for integration |
 | griots_r9 | Aliou N'Diaye | [2, 3, 4] | [1, 5, 6] | Appear to have 3 eaf files, missing correction text for 9.3 and 9.2 |
 | griots_r10 | Korotoumou Sissoko | [1, 5] | [2, 3, 4, 6] | 10.5 txt file missing,  10.1 ready for integration  |
 | griots_r11 | Fode Doumbia | [1, 4] | [2, 3, 5, 6] |  11.4 missing text file, 11.4 (being prepared by AMALAN) |
