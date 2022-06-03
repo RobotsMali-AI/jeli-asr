@@ -1,9 +1,9 @@
 # jeli-mt-asr
 
 ## Audio Catalog
-| Recording ID | Speaker | Training Frgts. | Inference Frgts. | Status |
-|:--------------:|:---------:|:---------------:|:----------------:|:-------:|
-| griots_r1 | **Zoumana Baki Diabate** | [2, 4] | [1, 3, 5, 6] | No text files |
+| Recording ID | Speaker | Training Frgts. | Inference Frgts. | Theme | Dialect | Status |
+|:--------------:|:---------:|:---------------:|:----------------:|:--------:|:-------:|:-------:|
+| griots_r1 | **Zoumana Baki Diabate** | [2, 4] | [1, 3, 5, 6] | L'histoire d'une fille | Bamako | No text files |
 | griots_r2 | Tidiane Camara | [2, 4] | [1, 3, 5, 6] | Integration ready |
 | griots_r3 | Baba Yaya Samadiare | [2, 6] | [1, 3, 4, 5] | Integration ready |
 | griots_r4 | Facko Bagayoko | [1, 6] | [2, 3, 4, 5. 7] | Integration ready |
