@@ -1,6 +1,3 @@
-sdiarra@robotsmali.org
-
-
 ## Characteristics
 - Recording ID
 - Speaker
