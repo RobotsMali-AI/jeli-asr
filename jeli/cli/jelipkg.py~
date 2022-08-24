@@ -1,9 +1,0 @@
-"""
-"""
-
-import os
-from jeli.core import jeli
-
-def main():
-    Al = jeli.JeliASR()
-    Al.valid_recordings()
