@@ -33,7 +33,11 @@ $ pip install -U https://github.com/s7d11/daba/releases/download/v0.0.1-alpha/da
 - Install `jelipkg`
 
 ```sh
+	
+$ pip install -U https://github.com/RobotsMali-AI/jeli-asr/releases/download/v0.0.1-alpa/jelipkg.tar.gz
+
 ```
+
 
 ### Quickstart
 
