@@ -1,0 +1,4607 @@
+\_sh v3.0  1296 MDF 4.0
+
+\lang bam
+\name togow
+\ver 0.3
+
+\lx Ábà
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Abdulayi
+\va Abdulaye
+\va Abudulayi
+\va Abudulaye
+\va Abudɛli
+\va Abuduli
+\va Abudulu
+\di (bambara)
+\va Abdlaye
+\va Abdul
+\va Àbudù
+\va Abilayi
+\di (senufo)
+\va Dulayi
+\va Duleyi
+\di (senufo)
+\va Ábùlo
+\cm dim.
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\cm Abdul, Abdu, Abulo - formes diminutives
+\dt 03/Jun/2018
+
+\lx Abdurahman
+\va Abduraman
+\va Abudurahamani
+\va Abudarahamani
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Ábiba
+\va Hábiba
+\va Ábibatu
+\va Ábibata
+\va Ábi
+\va Hábi
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Àbú
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\di (maninka)
+\dt 02/May/2010
+
+\lx Abubakari
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\di (bambara)
+\dt 02/May/2010
+
+\lx Abudaramani
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\di (bambara)
+\dt 02/May/2010
+
+\lx Ádama
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\ps n.prop
+\dt 19/Dec/2014
+
+\lx Àfaana
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\di (maninka)
+\dt 03/May/2010
+
+\lx Ájà
+\va Bájà
+\ps n.prop
+\gf NOM.F
+\smf (de Hajja, une femme que a fait pélirinage)
+\dt 14/Jul/2017
+
+\lx Ájaratu
+\va Ájara
+\va Járatu
+\ps n.prop
+\gf NOM.F
+\smf (vient d'Aghar)
+\dt 14/Jul/2017
+
+\lx Áladìnyɛ
+\di (maninka)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 03/May/2010
+
+\lx Aladungo
+\di (bambara)
+\ps n.prop
+\gf NOM
+\dt 02/May/2010
+
+\lx Álafɛ̀
+\di (maninka)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 02/May/2010
+
+\lx Alakanyi
+\ps n.prop
+\gf NOM
+\dt 02/May/2010
+
+\lx Alama
+\di (maninka)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 03/May/2010
+
+\lx Álamàko
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 03/May/2010
+
+\lx Alasani
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Alhassan
+\dt 10/Mar/2018
+
+\lx Alase
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Álfà
+\di (bambara, soninké, peul)
+\va Álifàa
+\va Álifà
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Àli
+\va Àliù
+\va Àliyù
+\va Àlu
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 07/Apr/2017
+
+\lx Alikawu
+\va Alkaw
+\di (bambara)
+\ps n.prop
+\gf NOM
+\dt 02/May/2010
+
+\lx Alimani
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 02/May/2010
+
+\lx Àlimátà
+\va Àlimátù
+\va Àlímà
+\ps n.prop
+\gf NOM.F
+\smf (Àlimá est une forme diminutive)
+\dt 14/Jul/2017
+
+\lx Alimin
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 17/May/2017
+
+\lx Alimu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 16/May/2017
+
+\lx Ámàdu
+\va Ámadu
+\va Àmadú
+\va Ahmadu
+\va Ahamadu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Ahmad
+\dt 07/Aug/2017
+
+\lx Àmára
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 22/Jul/2017
+
+\lx Amedini
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\gvf Ahmeddin
+\dt 07/Dec/2018
+
+\lx Ámì
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 02/May/2010
+
+\lx Àmídù
+\di (bambara)
+\va Ámadù
+\va Ámadi
+\va Ámàdu
+\va Ámɛ̀di
+\va Ahamadi
+\dt 09/Aug/2017
+\ps n.prop
+\gf NOM.M
+
+\lx Àminatà
+\va Mínatà
+\va Mínɛtà
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\gvf Aminata
+\dt 08/Jul/2017
+
+\lx Anatu
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 09/Apr/2017
+
+\lx Ansumani
+\va Ansmane
+\va Ànsumánà
+\va Nsumanɛ
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/Jun/2018
+
+\lx Áràba
+\ps n.prop
+\gf NOM.F
+\smf (nom d'une fille née un mercredi)
+\dt 14/Jul/2017
+
+\lx Arafan
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 02/May/2010
+
+\lx Àrákì
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Àramátà
+\va Àrá
+\ps n.prop
+\gf NOM.F
+\smf (Àrá est une forme diminutive)
+\dt 14/Jul/2017
+
+\lx Àramatuláyì
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Àri
+\di (wassolon)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Àrúnà
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Asaku
+\di (maninka, soninké)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 27/Jan/2016
+
+\lx Àsímù
+\va Àsím
+\ps n.prop
+\gf NOM.M
+\smf (Àsím est une forme diminutive)
+\dt 14/Jul/2017
+
+\lx Àtiku
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Áwà
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Àyá
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Áyá
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Ayi
+\di (maninka)
+\hn Ayiba
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Áyìda
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Áyisàta
+\va Asta
+\di (bambara)
+\va Ásitàn
+\va Ásità
+\va Sítàn
+\va Asetu
+\va Sátù
+\va Sata
+\va Ayisa
+\va Asan
+\cm forme diminutive
+\va Ásà
+\cm forme diminutive
+\va Basan
+\cm forme honorifique
+\di (m)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Ayo
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Bàabílen
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf ("père à teint clair")
+\dt 14/Jul/2017
+
+\lx Báabugu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Mar/2018
+
+\lx Báarɔ̀
+\va Bárɔ̀
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Bàba
+\ps n.prop
+\gf NOM.M
+\smf ("papa")
+\dt 14/Jul/2017
+
+\lx Bàbenba
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Bábì
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Bábilen
+\mm bá:n:mère
+\mm bìlen:adj:rouge
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 01/May/2017
+
+\lx Bácì
+\va Bati
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Bàcó
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Bádì
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Bádrà
+\va Bádràalú
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom musilman)
+\dt 14/Jul/2017
+
+\lx Bádu
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Bàdúkà
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 22/Jul/2017
+
+\lx Bafaraji
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Bàfin
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf ("papa noir")
+\dt 14/Jul/2017
+
+\lx Bàfú
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 22/Jul/2017
+
+\lx Bagi
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Bajaka
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 16/May/2017
+
+\lx Bàjan
+\va Bwàjan
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Bajini
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Bakanmɛn
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Bákàri
+\va Bwákàri
+\va Búkàri
+\va Bwàrí
+\va Bùbákàri
+\va Bubakar
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 21/Jul/2017
+
+\lx Bákarijan
+\di (bambara)
+\va Bwákarijan
+\di (bambara de Ségou)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Aug/2017
+
+\lx Bákayì
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Bakolo
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 01/May/2017
+
+\lx Bákɔ̀rɔbá
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Bakuba
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Bakun
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Bàla
+\di (bambara, maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Balemori
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Bamanankɛ
+\dm Bamankɛ
+\ps n.prop
+\gf NOM.M
+\smf (probablement, ce n'est pas un vrai prénom, mais plutôt une
+forme d'adresse à n'importe quel homme)
+\dt 14/Jul/2017
+
+\lx Bamasa
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Bamɛ
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Bámori
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Bàmóyì
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Bamutu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Banba
+\ps n.prop
+\gf NOM
+\smf (normalement, c'est un nom de famille, plutôt qu'un prénom)
+\dt 14/Jul/2017
+
+\lx Banɛsa
+\va Banɛyisa
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 01/May/2017
+
+\lx Banfali
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Bàngalí
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Bánjan
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Banjugu
+\di (bambara)
+\va Bánjuu
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Bánkàli
+\va Bángàli
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 10/Oct/2017
+
+\lx Baramanin
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Bǎrímà
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 22/Jul/2017
+
+\lx Bàrû
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Basi
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Basirima
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Básiru
+\va Baseri
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Bátà
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Bátùru
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Bàya
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Báya
+\va Báyaya
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Bayan
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 17/May/2017
+
+\lx Baydi
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Bayegi
+\ps n.prop
+\gf NOM
+\dt 14/Jul/2017
+
+\lx Báyì
+\ps n.prop
+\gf NOM.M
+\smf (un prénom chez Peuls et Diawambé)
+\dt 14/Jul/2017
+
+\lx Békayi
+\va Békaye
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Bɛ̀nbá
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Bɛnu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 01/May/2017
+
+\lx Bíbì
+\ps n.prop
+\gf NOM.F
+\smf (un prénom peul ou diawambé)
+\dt 14/Jul/2017
+
+\lx Bìnáa
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 14/Jul/2017
+
+\lx Bìnɛfù
+\va Bìnafù
+\va Bùnafù
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (un prénom fréquent à Sikasso)
+\dt 14/Jul/2017
+
+\lx Bíntà
+\va Bíntu
+\va Béntu
+\va Bínetà
+\di (bambara, maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Binyɛ
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Binyɛsɔn
+\va Bìyansɔ́n
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Biratigɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 03/May/2010
+
+\lx Bisiri
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Bìton
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Boliko
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 06/Nov/2014
+
+\lx Bolodanɛ
+\di (soninké)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Boroma
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 29/Mar/2017
+
+\lx Boyi
+\va Baboyi
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Búbà
+\di (bambara)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 14/Jul/2017
+
+\lx Búbù
+\ps n.prop
+\gf NOM.M
+\smf (prénom soninké)
+\dt 14/Jul/2017
+
+\lx Bufunɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Buguri
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Buja
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 17/May/2017
+
+\lx Bulonko
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Bulonkun
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Bunu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Buru
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Bùruláyì
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Bùwá
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Buwɔ
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 06/Mar/2017
+
+\lx Bwàlì
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Bwatu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 01/May/2017
+
+\lx Cɛ̀bá
+\di (bambara, maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Cɛ̀ble
+\va Cɛ̀bilen
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Cɛ̀fin
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Cɛ̀jɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Cɛ̀jugu
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Cɛ̀kɔrɔ
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Cɛ̀kura
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Cɛ̀man
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 06/Feb/2016
+
+\lx Cɛ̀mɔgɔ
+\va Cɛ̀mɔkɔ
+\di (bambara)
+\va Cɛ̀mɔɔ
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Cɛ̀mɔkɔba
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 07/Nov/2014
+
+\lx Cɛ̀nege
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Cɛrinɔ
+\va Cɛrino
+\va Cɛ́rnɔ̀
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Tierno
+\smf (prénom peul)
+\dt 14/Jul/2017
+
+\lx Cɛ̀sama
+\ps n.prop
+\gf NOM.MF
+\smf (nom parfois donné à l'enfant d'une fille-mère si elle arrive à se marier)
+\sy nànkɔraden
+\dt 24/Nov/2014
+
+\lx Cɛ̀sɔn
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Cɛ̀timɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Cɛ̀tin
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Cɛ̀yiri
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Cónà
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Dabi
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Daliba
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Daloba
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Dàman
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Damu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Dànbá
+\di (maninka)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 03/May/2010
+
+\lx Danfin
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Dànsɛ́ni
+\va Dansɛnɛ
+\di (bambara)
+\va Dasɛnɛ
+\di (bambara Bélédougou)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Daramani
+\va Daraman
+\va Dára
+\ps n.prop
+\gf NOM.M
+\smf (Dara est une forme diminutive)
+\dt 14/Jul/2017
+
+\lx Dáuda
+\va Dáwuda
+\va Dádà
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (Dádà est une forme diminutive)
+\dt 14/Jul/2017
+
+\lx Dému
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Dènba
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Dɛndɛ
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Dilaye
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Dirisa
+\va Ídrìsa
+\va Idirisa
+\va Díri
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (Diri est une forme diminutive)
+\dt 14/Jul/2017
+
+\lx Disilame
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 01/May/2017
+
+\lx Doboda
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Dofɛn
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 28/Oct/2017
+
+\lx Dose
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Dɔkala
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 07/Nov/2014
+
+\lx Dùdù
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Dùgufana
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Dura
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Dúsu
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Fà
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Fàamanjɛ
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 06/Nov/2014
+
+\lx Fàantannjɛ
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 06/Nov/2014
+
+\lx Fáatumata
+\va Fatumata
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Fàbilen
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Fàbori
+\di (m, b)
+\va Faboli
+\di (senufo)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/Jun/2018
+
+\lx Fàbu
+\di (bambara, maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Fádama
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Fàdebi
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Fádima
+\va Fádì
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (Fadi est une forme diminutive)
+\dt 14/Jul/2017
+
+\lx Fajala
+\di (b)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Fàjo
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Fakanda
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Fakara
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Fàkoli
+\di (bambara)
+\gf NOM.M
+\smf (nom masculin)
+\ps n.prop
+\dt 14/Jul/2017
+
+\lx Fàkɔ
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 24/Nov/2014
+\smf (‘Après-le-père’ prénom donné à un enfant (né après la mort de son père))
+
+\lx Fálen
+\va Fále
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Fàlibo
+\di (b)
+\va Halibu
+\di (maninka Kita)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/Jun/2018
+
+\lx Fàmori
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Famɔrɔ
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Fánkelen
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Fántà
+\va Fántàn
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 30/Nov/2017
+
+\lx Fáɲanama
+\va Nfaɲanama
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Fàɲɛnama
+\va Nfàɲanama
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Fáraban
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Fárankali
+\di (b, m)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Fárima
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Fárina
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Fasale
+\di (bambara)
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Fasedi
+\di (maninka)
+\va Fàséri
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 15/Jul/2017
+
+\lx Fàsun
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Fatine
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 01/May/2017
+
+\lx Fátuma
+\va Fàtú
+\va Fátimata
+\va Fátì
+\ps n.prop
+\gf NOM.F
+\smf (Fàtú, Fátì sont des formes diminutives)
+\dt 14/Jul/2017
+
+\lx Fɛntɛalabɔ
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Fílì
+\di (b)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 14/Jul/2017
+
+\lx Fìlifɛn
+\ps n.prop
+\gf NOM.MF
+\smf (prénom apotropaïque donné à l'enfant né après plusieurs bébés morts)
+\dt 11/Mar/2018
+
+\lx Fìnɛ́
+\va Fùnɛ́
+\va Mafinɛ
+\ps n.prop
+\gf NOM.F
+\smf (nom d'une jumelle)
+\dt 14/Jul/2017
+
+\lx Fódè
+\va Fòdé
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Fɔ́nbà
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 16/Jul/2017
+
+\lx Fùséni
+\va Fùséyini
+\va Huseni
+\va Huseyini
+\va Useyni
+\va Àlusénì
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Gabukɔrɔ
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Gancɔ
+\va Gwancɔ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Gandiki
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 01/May/2017
+
+\lx Gansenin
+\va Gwansenin
+\va Ganseni
+\va Gwanseni
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Gansun
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Gantɛnɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Gàɲi
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Gárabà
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Gáùsu
+\va Gáwùsu
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Géjuma
+\va Gée
+\ps n.prop
+\gf NOM.M
+\smf (Gée est une forme diminutive)
+\dt 14/Jul/2017
+
+\lx Gwatiya
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Hàbíbù
+\va Àbíbù
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Habib
+\dt 14/Jul/2017
+
+\lx Haji
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Hadji
+\dt 16/Jun/2017
+
+\lx Halifa
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Hámà
+\di (peul, songhaï, dogon)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Hámàdi
+\va Hámàdu
+\va Hàmídu
+\va Hàmadí
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Hásana
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Hásàna
+\va Hásànatu
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Hasi
+\ps n.prop
+\gf NOM
+\dt 01/Feb/2017
+
+\lx Hásimù
+\va Ásì
+\va Hásì
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Háwa
+\va Máwa
+\va Áwa
+\di (maninka)
+\va Áwà
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Húmun
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Ibrahima
+\va Ibarahimu
+\va Ibarahima
+\va Iburahimu
+\va Iburahima
+\va Ibrim
+\va Berehima
+\va Béremà
+\va Bírimà
+\va Birama
+\va Birahima
+\va Brahima
+\va Barahima
+\va Barayima
+\va Barima
+\va Bùramà
+\va Bùremà
+\va Bùremù
+\va Bùremàn
+\va Bùram
+\va Bram
+\va Bùrayimà
+\va Bùraymà
+\va Brɛyma
+\va Bureyima
+\va Bereyima
+\va Béè
+\va Íbèe
+\ps n.prop
+\gf NOM.M
+\smf (formes diminutives: Béè, Íbèe, Buram)
+\cm Zumana Dembele ne reconnait pas les formes suivantes: Ibarahimu,
+Bírimà, Barahima, Barima, Bùremù, Buram, Brɛyma, Bereyima;  la
+forme francaise: Berehima
+\dt 22/Feb/2019
+
+\lx Ísa
+\va Yisa
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 21/Dec/2014
+
+\lx Ìsiaka
+\va Ìsaka
+\va Siaka
+\va Siyaka
+\va Syaka
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 15/Jun/2017
+
+\lx Jàaká
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Jàara
+\di (b)
+\ps n.prop
+\gf NOM.F
+\smf (probablement, diminutif d'Ajaara)
+\dt 14/Jul/2017
+
+\lx Jafode
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Jájɛ̀
+\ps n.prop
+\gf NOM.M
+\smf (Songhaï)
+\dt 14/Jul/2017
+
+\lx Jajiri
+\di (peul)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Jala
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Jàmako
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Jámùru
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Janginɛ
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 01/Feb/2017
+
+\lx Janjiki
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Jara
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Jariso
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Jawey
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Jédi
+\di (peul)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Jèlíkà
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 19/Jul/2017
+
+\lx Jélimàkan
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Jɛjɛ
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Jɛ̀nɛ
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Jɛ̀nɛ́bà
+\va Jɛ̀nɛbu
+\va Jènebu
+\va Jainab
+\va Nsɛ̀nɛbú
+\va Zeyinabu
+\va Bájènebá
+\va Jɛ̀nɛ́
+\di (bambara, maninka)
+\ps n.prop
+\gf NOM.F
+\smf (Jɛ̀nɛ́ est une forme diminutive)
+\dt 21/Aug/2017
+
+\lx Jɛ́nfà
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Jíbi
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Jibiru
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 16/May/2017
+
+\lx Jíbril
+\va Jibirili
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Djibril
+\dt 14/Jul/2017
+
+\lx Jígi
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Jigibi
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Jòkolon
+\va Jòkolo
+\va Jókolo
+\dm Jò
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Jóma
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Jongolon
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Jóse
+\ps n.prop
+\gf NOM.M
+\smf (Bamana)
+\dt 14/Jul/2017
+
+\lx Jɔngɔbaba
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Jɔngɔlɔn
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Jɔ̀nkunda
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Dioncounda
+\dt 23/Feb/2017
+
+\lx Jùba
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Júgà
+\di (khasonka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Káalà
+\di (soussou)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Kaba
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Kábìnɛ
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Kádè
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Káfunɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Kaguja
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (dim. Kaja, cf. Kajatu)
+\dt 14/Jul/2017
+
+\lx Kàjátù
+\va Kaja
+\va Kadija
+\va Kadiya
+\va Kadidiya
+\va Kadiyatu
+\va Kàriyátù
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\gvf Kadidjatou
+\gve
+\smf (Kaja est une forme diminutive)
+\cm Zumana Dembele ne connait pas: Kadidiya
+\dt 14/Jul/2017
+
+\lx Kájini
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Kàlífa
+\va Kàrífa
+\va Kàrfá
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Kamama
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/Jun/2018
+
+\lx Kàmísa
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Kàndé
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Kandya
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Káni
+\va Kánin
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Káninfin
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Káningbɛ
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Kànjá
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Kánjà
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Kànkú
+\va Kànkún
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Káranba
+\ps n.prop
+\gf NOM.MF
+\\smf (nom masculin ou féminin)
+gvf Karamba
+\dt 14/Jul/2017
+
+\lx Kárì
+\di (bambara, senufo)
+\ps n.prop
+\gf NOM.M
+\smf (nom d'enfant né le dimanche)
+\dt 03/Jun/2018
+
+\lx Kàribá
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 08/Jul/2017
+
+\lx Karija
+\va Kàrijátù
+\va Kàríì
+\ps n.prop
+\gf NOM.F
+\smf (Karii est une forme diminutive)
+\dt 14/Jul/2017
+
+\lx Kárimu
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Káronkan
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Karunga
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 15/Nov/2017
+
+\lx Kàsímù
+\va Kàsúmù
+\va Kasime
+\va Kásùn
+\va Kás
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (Kásun, Kás sont des formes diminutives)
+\dt 14/Jul/2017
+
+\lx Kawali
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Kenda
+\di (peul)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Kɛfa
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Kɛ̀rífà
+\va Kɛ̀rɛfà
+\va Cɛ̀rɛfà
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Kída
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Kìtagbɛ
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Kòdárì
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Kòlí
+\di (soninké)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/Jun/2018
+
+\lx Kónì
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Kóninbà
+\va Kòninba
+\di (bambara)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 06/Nov/2014
+
+\lx Konsan
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 16/May/2017
+
+\lx Korɛjo
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Koso
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 01/May/2017
+
+\lx Kóyan
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Kóyibà
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Kɔbaba
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Kɔjɔrɔ
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Kɔmɔko
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Kɔmɔkɔrɔ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Kɔ̀nɔjugu
+\di (bambara)
+\va Kɔ̀nɔjúu
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Kɔnu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Kɔ̀ɔkɛ
+\va Kɔ̀kɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 26/Mar/2017
+
+\lx Kɔrɔnababa
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Kɔ̀rɔtumu
+\va Kɔ̀rɔtimi
+\dm Kɔ̀rɔ́
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 15/Mar/2018
+
+\lx Kɔsyan
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 09/Apr/2017
+
+\lx Kɔtyatu
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Kúda
+\hn Makuda
+\di (maninka)
+\va Kúra
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Kúlako
+\di (maninka)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 03/May/2010
+
+\lx Kúlunba
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Kúmànjan
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Kumufa
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 01/May/2017
+
+\lx Kùnadi
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Kúnbà
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Kùnta
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Làháwù
+\va Làháù
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Làji
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Ladji
+\dt 29/Mar/2017
+
+\lx Lálà
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 09/Aug/2017
+
+\lx Làmínì
+\va Làmíne
+\di (bambara)
+\va Làminìn
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 18/Jul/2017
+
+\lx Lánsàna
+\va Làsánà
+\va Lónsanin
+\di (m)
+\ps n.prop
+\gf NOM.M
+\smf (nom d'un de jumeaux)
+\dt 14/Jul/2017
+
+\lx Lásìnɛ
+\va Làansénì
+\va Lansinɛ
+\va Lásìne
+\va Làsení
+\va Lansenu
+\va Làsí
+\di (bambara, maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom d'un de jumeaux)
+\cm Zumana Denbele ne connait pas le formes Lansenu, Lansinɛ
+\dt 14/Jul/2017
+
+\lx Lawu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 17/May/2017
+
+\lx Lemu
+\di (soninké)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Lúkumàni
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Màcé
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom chrétien, de Matieu)
+\dt 14/Jul/2017
+
+\lx Màdami
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Màdánì
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Madani
+\dt 14/Jul/2017
+
+\lx Mádù
+\va Mádi
+\va Bamaro
+\va Bámàdu
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 16/Jul/2017
+
+\lx Magansire
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Màhamani
+\va Màhaman
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 07/Apr/2017
+
+\lx Máhmud
+\va Mamudu
+\va Mámuru
+\va Mámutu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Mǎjɛ́
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 15/Jul/2017
+
+\lx Majugu
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Makaja
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 09/Apr/2017
+
+\lx Màkán
+\va Màgán
+\va Maka
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\cm Zumana Denbele ne connait pas Maka
+\dt 14/Jul/2017
+
+\lx Makotimi
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 09/Apr/2017
+
+\lx Makɔnɔ
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Mákùruni
+\va Mákùrunin
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Màladɔ́
+\va Màaládɔ
+\di (peul, soninké)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/Jun/2018
+
+\lx Malamini
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Malamine
+\dt 16/Nov/2017
+
+\lx Málìki
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Màlisájò
+\di (bambara)
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Màlobálì
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 03/May/2010
+
+\lx Málɔ̀n
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Mámà
+\va Màmá
+\di (maninka)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 30/Apr/2017
+
+\lx Màmadí
+\va Màmadú
+\va Mamari
+\va Mamani
+\va Máhamadu
+\va Mahamudu
+\va Mohamɛdi
+\va Mohamadu
+\va Mówamèd
+\di (maninka de Faranah)
+\va Mómo
+\di (bambara, maninka)
+\ps n.prop
+\gf NOM.M
+\smf (Momo est une forme diminutive)
+\dt 14/Jul/2017
+
+\lx Mamaniɲuman
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Mamanja
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Mámù
+\di (bambara)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 14/Jul/2017
+
+\lx Managama
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Manbi
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Mamby
+\dt 23/May/2017
+
+\lx Mangɔrɔ
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Mánjù
+\va Mànjú
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Manugu
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Mapogo
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Màrí
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\gvf Marie
+\smf (prénom chrétien)
+\dt 14/Jul/2017
+
+\lx Mári
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Marifu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Máriyamu
+\va Mariyama
+\va Márìam
+\va Màríyà
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Masanata
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 16/May/2017
+
+\lx Másarka
+\va Másàran
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Masɔgɔna
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Mata
+\di (maninka)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 15/Mar/2018
+
+\lx Mawula
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Màyimúnà
+\va Màyimúnatà
+\va Màyí
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\gvf Maïmouna
+\smf (Mayi est une forme diminutive)
+\dt 14/Jul/2017
+
+\lx Mɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Mɛ́nkɔ̀rɔ
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Mɛta
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 17/May/2017
+
+\lx Mìna
+\di (wassolon)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Minanba
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 02/Feb/2017
+
+\lx Mìsi
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Módìbo
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 16/Jul/2017
+
+\lx Mohamari
+\va Muhamari
+\va Mohamarali
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Mouammar
+\dt 01/Jun/2016
+
+\lx Mòri
+\di (bambara, maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Mòribà
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Mórikɛ
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 01/Feb/2017
+
+\lx Mɔnbana
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 16/Oct/2017
+
+\lx Mɔ̀nsɔn
+\va Mɔ̀nzɔn
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Mùktárì
+\va Mukutar
+\va Mukutari
+\va Mukitari
+\va Mokitari
+\va Mɔkutari
+\va Mɔ̀ktar
+\va Mùkú
+\ps n.prop
+\gf NOM.M
+\smf (Mùkú est la forme diminutive)
+\dt 14/Jul/2017
+
+\lx Mùláyì
+\va Mulaye
+\va Mùrláyì
+\va Mòrláyè
+\va Bámùlaye
+\va Bámùlayi
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 22/Jul/2017
+
+\lx Múntàga
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 16/Mar/2018
+
+\lx Músà
+\di (bambara, maninka)
+\va Mísa
+\di (maninka)
+\va Mùsá
+\di (b)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 15/Aug/2017
+
+\lx Musofɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Musojugu
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Mùsokɔrɔ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Mùsokura
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Musoni
+\va Musonin
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Nàfína
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Nákàn
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Nàmá
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (de "hyène")
+\dt 14/Jul/2017
+
+\lx Namakɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Nàmakɔ́rɔ
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (de "hyène")
+\dt 14/Jul/2017
+
+\lx Námàn
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Namasen
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Namasɔn
+\di (bambara)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 03/May/2010
+
+\lx Namatɛnɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Namayiri
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Nambugare
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Námìnata
+\ps n.prop
+\gf NOM
+\dt 14/Jul/2017
+
+\lx Nàna
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Nanamisa
+\dm Namisa
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Nango
+\di (minyanka)
+\ps n.prop
+\gf NOM.M
+\smf (en minyanka, "homme noir")
+\dt 14/Jul/2017
+
+\lx Nankɛɲɛ
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\gvf Nankènyè
+\dt 10/Jun/2016
+
+\lx Nánkuman
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Náɲùma
+\va Náɲùman
+\di (bambara, maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 21/Jul/2017
+
+\lx Náronbà
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Nbáalì
+\va Nbáalù
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Ncí
+\va Njí
+\va Ncì
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 02/Aug/2017
+
+\lx Ncidɔri
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 19/Dec/2012
+
+\lx Ncɔ̀
+\ps n.prop
+\gf NOM.M
+\smf (prénom du 5e fils)
+\dt 14/Jul/2017
+
+\lx Negesama
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Negesɔn
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Negetin
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Nɛba
+\ps n.prop
+\gf NOM
+\dt 15/Jun/2017
+
+\lx Nɛgɛ
+\di (bambara)
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Nɛ́nɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Nfaadaman
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Nfáalì
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Ngonfinba
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Ngɔ̀lɔ
+\va Ŋɔ̀lɔ
+\va Ngòlo
+\va Ŋòlo
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\gvf Ngolo
+\smf (prénom masculin qu'on donne au 3e fils)
+\dt 03/Jun/2018
+
+\lx Nitiye
+\di (bobo)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Nja
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Njɛ́
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 06/Nov/2014
+
+\lx Ńnàgbɛ
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Npɛ́nɛn
+\va Mápɛ̀nɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Npyɛ́
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Nsànga
+\va Nzànga
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (prénom du 2e fils)
+\dt 14/Jul/2017
+
+\lx Nsè
+\ps n
+\gf NOM.F
+\gvf Nsé
+\smf (souvent donné à la 8 ème fille d'une même mère)
+\dt 16/Mar/2018
+
+\lx Ntifɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Ntɔ́
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Núhùn
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Nukumane
+\va Nukumani
+\va Nuhumane
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\cm Zumana Denbele ne connait pas: Nukumani, Nuhumane
+\dt 14/Jul/2017
+
+\lx Numan
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Nùmóri
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Númoso
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Nùmu
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 03/May/2010
+
+\lx Numujɔn
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Nùmukɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Numuni
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Numusira
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Nùmuso
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Numusoma
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Núnkɛ̀
+\va Núncɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/Jun/2018
+
+\lx Nùnkúmàn
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Núnkùn
+\hn Núnkùnba
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Nuntɛnɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Nuru
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Nour
+\dt 09/Apr/2017
+
+\lx Nuwa
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Nyima
+\di (kisi)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Nzàn
+\va Nsàn
+\va Zàn
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Ɲà
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Ɲàama
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Ɲaci
+\va Ɲaciya
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 01/May/2017
+
+\lx Ɲàgalen
+\di (bambara)
+\va Ɲaalen
+\va Ɲakalen
+\di (maninka)
+\va Ɲàlen
+\di (maninka de Faranah)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Ɲàma
+\di (bambara)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 14/Jul/2017
+
+\lx Ɲàmankolon
+\va Ɲàmakolon
+\di (b)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\gvf Gniamakolon
+\smf (prénom apotropaïque donné à l'enfant né après plusieurs bébés morts)
+\dt 11/Mar/2018
+
+\lx Ɲàmanton
+\va Ɲàmaton
+\di (bambara)
+\ps n.prop
+\gf NOM.MF
+\smf (prénom apotropaïque donné à l'enfant né après plusieurs bébés morts)
+\dt 11/Mar/2018
+
+\lx Ɲaminɛma
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 09/Apr/2017
+
+\lx Ɲamodi
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 07/Nov/2014
+
+\lx Ɲanankɔrɔ
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 08/Feb/2016
+
+\lx Ɲánsɔn
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Ɲanti
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 17/May/2017
+
+\lx Ɲanze
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 17/May/2017
+
+\lx Ɲèle
+\va Ɲèlen
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Ɲɛ̀ba
+\va Ɲɛ́ba
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Ɲɛkɔrɔ
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 06/Nov/2014
+
+\lx Ɲɛ́lɛ
+\di (b)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Ɲìnɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Pápa
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Patɛ
+\va Pate
+\di (peul)
+\ps n.prop
+\gf NOM.M
+\smf (prénom peul)
+\dt 14/Jul/2017
+
+\lx Pènda
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Pɔrɛ
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Sáajɔ̀
+\va Sàajɔ
+\va Sajɔ
+\va Sajo
+\di (bambara)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 09/Apr/2017
+
+\lx Sàbali
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 28/Oct/2019
+
+\lx Sábu
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sàdá
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sádanken
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Sàfiyátù
+\va Sàfiyá
+\va Sáfì
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (Sáfì est une forme diminutive)
+\dt 14/Jul/2017
+
+\lx Safura
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Sálèmatú
+\va Sálèmatá
+\dm Sàlé
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Sálifu
+\va Sálif
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Salika
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Sàlíyà
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Saliya
+\dt 14/Jul/2017
+
+\lx Sàma
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Samakun
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Saminɛ
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 17/May/2017
+
+\lx Sámu
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sánà
+\di (bambara, dogon, sénoufo)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Sànaba
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Sánàsa
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Sanata
+\va Ásànata
+\va Ásàna
+\ps n.prop
+\gf NOM.F
+\smf (Asana est une forme diminutive)
+\dt 14/Jul/2017
+
+\lx Sànba
+\di (maninka, peul)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sánbàla
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Sànbu
+\di (bambara, maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Saninba
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Sánsi
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sánu
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 14/Jul/2017
+
+\lx Sánumu
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sànusi
+\dm Sàsí
+\di (bambara)
+\va Sanunsi
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sanusiga
+\di (bambara)
+\gf NOM.M
+\smf (nom masculin)
+\ps n.prop
+
+\lx Sàran
+\va Sáràn
+\hn Nasaran
+\di (bambara, maninka)
+\va Sádàn
+\di (maninka)
+\di (peul)
+\dt 03/Jun/2018
+\ps n.prop
+\gf NOM.F
+
+\lx Sárata
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Sàró
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sàyón
+\di (m)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 14/Jul/2017
+
+\lx Sayɔn
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Sayon
+\dt 15/Oct/2017
+
+\lx Sébu
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sédu
+\va Sèdu
+\di (bambara, maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Segikolon
+\di (bambara)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 03/May/2010
+
+\lx Seko
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Sékù
+\va Sheku
+\va Sékì
+\va Sɛ́kù
+\va Shɛ́k
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (Shek est une forme diminutive)
+\dt 14/Jul/2017
+
+\lx Séni
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sénkun
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sérè
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Sériba
+\va Seri
+\di (b, senufo)
+\ps n.prop
+\gf NOM.M
+\smf (Seri est la forme diminutive)
+\dt 03/Jun/2018
+
+\lx Sétù
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Séyìbu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Séyìdu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Sɛnɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sɛrɛba
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Shasaba
+\va Casaba
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Mar/2018
+
+\lx Shɛ́knà
+\va Shɛ́kina
+\va Shekinɛ
+\va Syɛkinɛ
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Sekhna
+\dt 14/Jul/2017
+
+\lx Shɔ́
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Síbìri
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sídì
+\va Sídi
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 21/Apr/2018
+
+\lx Sìdikì
+\va Siriki
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 11/Feb/2017
+
+\lx Sidiya
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 21/Apr/2018
+
+\lx Sijama
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 06/Nov/2014
+
+\lx Siliman
+\va Slimana
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sìnɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sìra
+\di (bambara)
+\va Sìira
+\va Síira
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Sirama
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 01/May/2017
+
+\lx Siramama
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 17/May/2017
+
+\lx Siriba
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Síriman
+\va Sirman
+\va Sirimamanu
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 01/May/2017
+
+\lx Sise
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\gvf Sissé
+\dt 15/Mar/2018
+
+\lx Sìtafa
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Síyata
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Sòba
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Sòliba
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Oct/2016
+
+\lx Sòlomani
+\va Sòlomana
+\va Sòlomaana
+\va Sulemani
+\va Suleyimani
+\va Suleyimane
+\va Sulaye
+\va Suleye
+\va Sùlé
+\va Sòló
+\di (bambara, maninka)
+\ps n.prop
+\gf NOM.M
+\smf (Sòló, Sùlé sont des formes diminutives)
+\dt 14/Jul/2017
+
+\lx Sóma
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sòri
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 11/Feb/2017
+
+\lx Soyibajan
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Oct/2016
+
+\lx Sɔ̀gɔná
+\di (b, soninké, peul)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/Jun/2018
+
+\lx Sùmayíla
+\va Isimayɛli
+\va Isimayila
+\va Ismayila
+\va Sumayira
+\di (senufo)
+\va Sumi
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Soumaïla
+\smf (Sumi est une forme diminutive)
+\cm Zumana Denbele ne connait pas Isimayɛli
+\xf
+\dt 03/Jun/2018
+
+\lx Súnba
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Sùnjata
+\di (bambara)
+\va Sonjade
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Súnkalo
+\va Súngalo
+\di (bambara)
+\va Sunkaro
+\di (maninka)
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 03/May/2010
+
+\lx Sùntúrà
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Sùnunkun
+\di (bambara)
+\va Suntunkun
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (prénom apotropaïque donné à l'enfant né après plusieurs bébés morts)
+\dt 11/Mar/2018
+
+\lx Súrugu
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Swansɛy
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Tajini
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Tara
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 30/Apr/2017
+
+\lx Taso
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 09/Apr/2017
+
+\lx Tátà
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Tàtí
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Tayibu
+\va Teyibu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Mar/2018
+
+\lx Táyiru
+\di (maninka)
+\va Tahiru
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Tɛnɛgata
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 09/Apr/2017
+
+\lx Tɛ̀nɛmagan
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Tɛ̀nɛman
+\va Tɛnɛma
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 14/Jul/2017
+
+\lx Tɛ̀nɛn
+\va Tɛ̀nɛ
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 16/May/2017
+
+\lx Tɛ̀nɛnba
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Tɛ̀nɛnfin
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Tɛ̀nɛngbɛ
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Tɛta
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 17/May/2017
+
+\lx Tíbù
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Tigidanke
+\di (bambara)
+\va Tiidanke
+\va Tiiranke
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Tìjánì
+\va Tíjane
+\ps n.prop
+\gf NOM.M
+\gvf Tijani
+\smf (nom masculin)
+\dt 11/Apr/2019
+
+\lx Tikani
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 17/May/2017
+
+\lx Tiramagan
+\di (bambara)
+\gf NOM.M
+\smf (nom masculin, nom d’aïeul du clan Traoré)
+\ps n.prop
+
+\lx Tòmá
+\ps n.prop
+\gf NOM.M
+\smf (nom chrétien, Thomas)
+\dt 14/Jul/2017
+
+\lx Tónkɔ
+\ps n.prop
+\gf NOM.F
+\smf ("rester-après-moi" prénom donné à la fille  qui naît après la mort de son père ou de l'enfant qui survit à sa mère morte en couches)
+\dt 17/Apr/2016
+
+\lx Tɔ́gɔntan
+\di (bambara)
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Tɔma
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 01/May/2017
+
+\lx Túba
+\ps n.prop
+\gf NOM.MF
+\smf (le sens: "grande forêt")
+\dt 14/Jul/2017
+
+\lx Túmani
+\va Tumaane
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Úmarù
+\va Ómarù
+\va Moru
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Oumar
+\dt 14/Jul/2017
+
+\lx Úmù
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Ùsmánì
+\va Usmana
+\va Usumana
+\va Usmane
+\va Usumani
+\va Sumana
+\va Zumana
+\va Sumanɛ
+\va Nsumanɛ
+\va Zú
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\cm Zumana Denbele ne connait pas: Usmane
+\dt 14/Jul/2017
+
+\lx Usubi
+\va Uzubi
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017
+
+\lx Wálì
+\di (bambara, maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Wáraba
+\di (bambara)
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Warajugu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Wári
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 03/May/2010
+
+\lx Wàrikɛ
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Wàsa
+\di (bambara)
+\ps n.prop
+\gf NOM.MF
+\smf (nom d'une jumelle)
+\dt 14/Jul/2017
+
+\lx Watɛni
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 16/Oct/2017
+
+\lx Wɛnzɛn
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\gvf Ouezzin
+\dt 23/May/2017
+
+\lx Woba
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 01/May/2017
+
+\lx Wobana
+\di (bobo)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Wòrokià
+\va Òrokíyà
+\va Marokiya
+\va Wòrokiyà
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 15/Mar/2018
+
+\lx Wuye
+\ps n.prop
+\gf NOM
+\dt 15/Jun/2017
+
+\lx Yàa
+\va Ya
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Yaama
+\di (maninka)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Yadi
+\di (maninka)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Yàkubà
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Yalam
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 02/Feb/2017
+
+\lx Yama
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 09/Apr/2017
+
+\lx Yámusa
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Yaranga
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 01/May/2017
+
+\lx Yawu
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 09/Apr/2017
+
+\lx Yáya
+\ps n.prop
+\gf NOM.MF
+\smf (nom masculin ou féminin)
+\dt 29/Mar/2017
+
+\lx Yaye
+\di (bambara)
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 03/May/2010
+
+\lx Yíriba
+\ps n.prop
+\gf NOM
+\dt 03/May/2010
+
+\lx Yisa
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 16/May/2017
+
+\lx Yúba
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 03/May/2010
+
+\lx Yúmà
+\ps n.prop
+\gf NOM.F
+\smf (nom féminin)
+\dt 14/Jul/2017
+
+\lx Yusufu
+\va Yusuf
+\va Isufu
+\va Yúsu
+\va Yísu
+\di (bambara)
+\ps n.prop
+\gf NOM.M
+\smf (Yúsu, Yísu sont des formes diminutives)
+\gvf Youssouf
+\dt 14/Jul/2017
+
+\lx Zànkɛ́
+\ps n.prop
+\gf NOM.M
+\smf (nom masculin)
+\dt 14/Jul/2017

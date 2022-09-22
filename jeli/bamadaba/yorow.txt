@@ -1,0 +1,7518 @@
+\_sh v3.0  1296 MDF 4.0
+
+\lang bam
+\name yorow
+\ver 0.3
+
+\lx Abeyibara
+\ps n.prop
+\gf TOP
+\gvf Abeïbara
+\smf (cercle, région de Kidal)
+\dt 01/Feb/2017
+
+\lx Àbíjàn
+\di b
+\di m
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale du Sénégal)
+\gvf Abidjan
+\ru Абиджан
+\dt 15/Jul/2017
+
+\lx Abisini
+\ps n.prop
+\gf TOP
+\gvf Abyssinie
+\smf (ancien nom de l'Ethiopie)
+\dt 11/Mar/2018
+
+\lx Abudulayibugu
+\ps n.prop
+\gf TOP
+\gvf Abdoulayebougou
+\smf (un secteur du quartier Djicoroni Para, Commune IV de Bamako)
+\dt 03/Mar/2019
+
+\lx Abuja
+\ps n.prop
+\gf TOP
+\smf (capitale du Nigeria)
+\gvf Abuja
+\dt 31/May/2016
+
+\lx Adarari-dɛ-ziforasi
+\ps n.prop
+\gf TOP
+\gvf Adrar des Ifoghas
+\smf (un massif montagneux au Nord-Est du Mali et dans le Sud
+de l'Algérie)
+\dt 07/Feb/2017
+
+\lx Adisabeba
+\va Adisi Abeba
+\di b
+\di m
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale de l'Ethiopie)
+\gvf Addis-Abeba
+\ru Аддис-Абеба
+\dt 24/Oct/2016
+
+\lx Afiganisitan
+\va Afuganisitan
+\va Áfugan
+\di b
+\di m
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Afghanistan
+\ru Афганистан
+\dt 05/Feb/2017
+
+\lx Afirikidisidi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Afrique du Sud
+\dt 01/Jun/2016
+
+\lx Áfriki
+\va Afrika
+\va Àfrik
+\va Áfiriki
+\sy Farafinna
+\di b
+\sy Fadafinna
+\di m
+\ty конт.
+\ps n.prop
+\gf TOP
+\smf (continent)
+\gvf Afrique
+\ru Африка
+\dt 23/Feb/2014
+
+\lx Agelɔgi
+\va Agelɔki
+\va Agelihɔgi
+\ps n.prop
+\gf TOP
+\smf (commune dans le cercle de Tessalit, région de Kidal)
+\gvf Aguel'hoc
+\dt 30/Jan/2017
+
+\lx Agɛlihɔki
+\va Agelihɔku
+\ps n.prop
+\gf TOP
+\smf (commune dans le cercle de Tessalit, région de Kidal)
+\gvf Aguelhok
+\dt 04/Feb/2017
+
+\lx Aka
+\ps n.prop
+\gf TOP
+\gvf Aka
+\smf (village, région de Mopti)
+\dt 03/Jun/2017
+
+\lx Akkra
+\va Akra
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale du Ghana)
+\gvf Akkra
+\ru Аккра
+\dt 23/May/2010
+
+\lx Áliban
+\va Álibani
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Albanie
+\ru Албания
+\dt 05/Feb/2016
+
+\lx Alimani
+\va Alimaɲi
+\va Aliman
+\et fr. Allemagne
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Allemagne
+\ru Германия
+\dt 23/May/2010
+
+\lx Álizeri
+\va Álize
+\di b
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Algérie
+\ru Алжир
+\dt 05/Apr/2016
+
+\lx Ámdàláy
+\ty кв.
+\cm (в Сегу)
+\ps n.prop
+\gf TOP
+\smf (quartier à Ségou)
+\dt 05/Dec/2010
+
+\lx Ameriki
+\va Lamerikɛnjamana
+\va Lameriki
+\ty гос.
+\ty конт.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Amerique
+\ru Америка
+\dt 08/Dec/2018
+
+\lx Anbodejo
+\ps n.prop
+\gf TOP
+\gvf Hambodejo
+\smf (aéroport à Sévaré)
+\dt 23/Feb/2019
+
+\lx Andalusi
+\va Andalu
+\ps n.prop
+\gf TOP
+\smf (région d'Espagne)
+\gvf Andalousie
+\dt 06/Feb/2017
+
+\lx Andelimani
+\ps n.prop
+\gf TOP
+\gvf Indelimane
+\smf (village, 75 km d'Ansongo)
+\dt 03/Jun/2017
+
+\lx Anderabukani
+\ps n.prop
+\gf TOP
+\gvf Andéramboukane
+\smf (une petite ville, commune de Ménaka, région de Gao)
+\dt 17/May/2017
+
+\lx Anderabukani
+\ps n.prop
+\gf TOP
+\gvf Andéramboukane
+\smf (ville et commune, cercle et région de Ménaka)
+\dt 30/Sep/2018
+
+\lx Anderanbukani
+\ps n.prop
+\gf TOP
+\gvf Andéramboukane
+\smf (ville et commune, cercle et région de Ménaka)
+\dt 03/Jun/2017
+
+\lx Anefisi
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Anefis
+\gvf Anéfis
+\smf (village et commune, dans le cercle et rétion de Kidal)
+\dt 03/Jun/2017
+
+\lx Angleteri
+\va Ankili
+\va Angletɛrɛ
+\va Ankiletɛrɛ
+\va Angiletɛri
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Angleterre
+\ru Англия
+\dt 05/Feb/2016
+
+\lx Àngola
+\di b
+\di m
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Angola
+\ru Ангола
+\dt 24/Jul/2017
+
+\lx Ángolem
+\cm (в Бамако)
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\dt 05/Dec/2010
+
+\lx Angulɛmu
+\ps n.prop
+\gf TOP
+\smf (ville en France, quartier à Ségou)
+\gvf Angoulème
+\dt 08/Feb/2016
+
+\lx Ansongo
+\va Ansɔngɔ
+\va Ansɔngo
+\ps n.prop
+\gf TOP
+\smf (cercle, région de Gao)
+\gvf Ansongo
+\ty г.
+\ru Ансонго
+\dt 05/Feb/2016
+
+\lx Arabi Sawuditi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Arabie Saoudite
+\dt 30/Jan/2017
+
+\lx Árabula
+\nk ߊߙߊߓߎߟߊ
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Arabie
+\ru Аравия
+\dt 01/Jun/2016
+
+\lx Arameni
+\va Arimeni
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Arménie
+\ru Армения
+\dt 23/May/2010
+
+\lx Ararusi
+\va Arawurusi
+\va Ararusu
+\ps n.prop
+\gf TOP
+\gvf Rharous
+\smf (commune, chef-lieu du cercle de Gourma-Rharous, région de
+Tombouctou)
+\dt 03/Jun/2017
+
+\lx Arawan
+\va Arawani
+\ps n.prop
+\gf TOP
+\gvf Araouane
+\gvf Arawan
+\smf (village 260 km au nord de Tombouktou, communauté
+Salam, Cercle de Tombouctou)
+\dt 07/Feb/2017
+
+\lx Àrayida
+\va Rayeda
+\ps n.prop
+\gf TOP
+\gvf Bord des Rails
+\smf (quartier du Bamako)
+\dt 04/May/2017
+
+\lx Aritizana
+\ps n.prop
+\gf TOP
+\smf (la Maison des Artisans à Bamako)
+\gvf Artisanat
+\dt 07/Feb/2017
+
+\lx Arizantini
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Argentine
+\ru Аргенина
+\dt 23/May/2010
+
+\lx Aselari
+\ps n.prop
+\gf TOP
+\gvf Asselar
+\smf (une localité dans la région de Kidal)
+\dt 01/Feb/2017
+
+\lx Aseyi demili
+\ps n.prop
+\gf TOP
+\gvf ACI 2000
+\smf (quartier dans la commune de Hamdallaye à Bamako)
+\dt 05/Feb/2016
+
+\lx Ashikabadi
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale du Turkménistan)
+\gvf Achkhabad
+\ru Ашхабад
+\dt 23/May/2010
+
+\lx Asi
+\va Azi
+\ty конт.
+\ps n.prop
+\gf TOP
+\smf (continent)
+\gvf Asie
+\ru Азия
+\dt 23/May/2010
+
+\lx Asimara
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale de l'Erythrée)
+\gvf Asmara
+\ru Асмера
+\dt 23/May/2010
+
+\lx Atɛn
+\va Ahɛn
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale de la Grèce)
+\gvf Athènes
+\ru Афины
+\dt 23/May/2010
+
+\lx Atɛni
+\ps n.prop
+\gf TOP
+\smf (capitale de la Grèce)
+\gvf Athènes
+\dt 05/Feb/2017
+
+\lx Atilantiki
+\va Atlantiki
+\et fr. Atlantique
+\ps n.prop
+\gf TOP
+\smf (océan)
+\gvf Atlantique
+\ty ок.
+\ru Атлантический
+\dt 23/May/2010
+
+\lx Awa Dɛnbaya
+\ps n.prop
+\gf TOP
+\gvf Haya Dembaya
+\smf (commune dans le cercle et région de Kayes)
+\dt 11/Mar/2018
+
+\lx Awiɲɔn
+\ps n.prop
+\gf TOP
+\smf (ville en France)
+\gvf Avignon
+\dt 07/Feb/2017
+
+\lx Awuru
+\ps n.prop
+\gf TOP
+\gvf Aourou
+\smf (village dans le cercle et région de Kayes)
+\dt 11/Mar/2018
+
+\lx Azani
+\di b
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (côte de Somalie)
+\gvf Azanie
+\gvf Côte d'Ajan
+\ru Азания
+\dt 23/May/2010
+
+\lx Azawadi
+\ps n.prop
+\gf TOP
+\smf ("zone de paturage" dans le Nord-Mali)
+\gvf Azawad
+\dt 04/May/2017
+
+\lx Baba
+\ty р.
+\ps n.prop
+\gf TOP
+\smf (fleuve)
+\gvf Niger
+\ru Нигер
+\dt 23/May/2010
+
+\lx Babilen
+\va Babulen
+\va Bablen
+\va Bable
+\va Bawulen
+\ty р.
+\ps n.prop
+\gf TOP
+\smf (rivière affluent du fleuve Niger)
+\gvf Baoulé
+\ru Бавулен
+\cm (приток Нигера)
+\dt 23/May/2010
+
+\lx Bádalabugu 
+\ty кв. 
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\cm (в Бамако)
+\dt 05/Dec/2010
+
+\lx Badogo
+\ps n.prop
+\gf TOP
+\gvf Badogo
+\smf (village, cerce de Yanfolila, région de Sikasso)
+\dt 15/Jun/2017
+
+\lx Bafilabɛn
+\va Bafulabe
+\et букв. "сплетение двух рек", т.е. Бакой и Бафин
+\ty г.
+\ps n.prop
+\gf TOP
+\gvf Bafoulabé
+\smf (ville et commune, chef-lieu de cercle, région de Kayes)
+\ru Бафулабе
+\dt 04/Feb/2017
+
+\lx Bafin
+\ty р.
+\ps n.prop
+\gf TOP
+\smf (rivière affluent du fleuve Sénégal)
+\gvf Bafing
+\ru Бафин
+\dt 23/May/2010
+
+\lx Bafo
+\ps n.prop
+\gf TOP
+\gvf Bafou
+\smf (village, région de Ségou)
+\dt 29/Mar/2017
+
+\lx Bágadaji
+\ps n.prop
+\gf TOP
+\gvf Bagadadji
+\smf (un quartier de la Commune 2 de Bamako)
+\dt 01/Jun/2016
+
+\lx Baginda
+\va Bagineda
+\ps n.prop
+\gf TOP
+\gvf Baginda
+\smf (village à l'est de Bamako, à la rive droite du Niger)
+\dt 24/Mar/2017
+
+\lx Bagindakan
+\ps n.prop
+\gf TOP
+\gvf Baguineda-Camp
+\smf (village et commune, cercle de Kati, cercle de Koulikoro)
+\dt 30/Apr/2017
+
+\lx Baharɛni
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Bahrein
+\dt 15/Sep/2016
+
+\lx Bájalan
+\va Bajalana
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\cm (в Бамако)
+\dt 28/May/2017
+
+\lx Bajangara
+\va Bajankara
+\ps n.prop
+\gf TOP
+\gvf Badiangara
+\smf (ville et commune, région de Mopti)
+\dt 31/May/2017
+
+\lx Bajɛ
+\di b
+\va Bagbɛ
+\va Bagwɛ
+\di m
+\ty р.
+\ps n.prop
+\gf TOP
+\smf (rivière affluent du Bani)
+\gvf Bagoe
+\ru Багое
+\dt 23/May/2010
+
+\lx Bajiba
+\cm поэт.
+\ty р.
+\ru Нигер
+\ps n.prop
+\gf TOP
+\smf (fleuve)
+\gvf Niger
+\dt 23/May/2010
+
+\lx Bajugunin
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 09/Apr/2017
+
+\lx Bákaribugu
+\ty кв.
+\ps n.prop
+\gf TOP
+\gvf Bakaribougou
+\smf (un quartier de la Commune 2 de Bamako)
+\dt 01/Jun/2016
+
+\lx Báko Jíkoroni
+\va Bakɔjikɔrɔnin
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\cm (в Бамако)
+\dt 10/Jan/2013
+
+\lx Bakoyi
+\ty р.
+\ru Бакой
+\ps n.prop
+\gf TOP
+\smf (rivière affluent du fleuve Sénégal)
+\gvf Bakoy
+\cm (приток Нигера)
+\dt 23/May/2010
+
+\lx Bakɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Bacoro
+\smf (village, commune de Socoura, cercle et région de Mopti)
+\dt 01/Mar/2019
+
+\lx Balanzan
+\ps n.prop
+\gf TOP
+\gvf Balansan
+\smf (villace, cercle de Kangaba, Région de Koulikoro)
+\dt 04/Feb/2017
+
+\lx Bale
+\ps n.prop
+\gf TOP
+\gvf Wassoulou-Ballé
+\smf (commune, cercle de Yanfolila, région de Sikasso)
+\dt 02/Mar/2019
+
+\lx Bàmakɔ
+\va Bàmako
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale du Mali)
+\gvf Bamako
+\ru Бамако
+\dt 23/May/2010
+
+\lx Bàmakɔkura
+\va Bàmakɔ-kura
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\cm (в Бамако)
+\dt 01/Feb/2017
+
+\lx Bámànángin
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Ségou)
+\cm (в Сегу)
+\dt 05/Dec/2010
+
+\lx Bamandugu
+\ps n.prop
+\gf TOP
+\gvf Bamandougou
+\smf (un village de commune de Téné, cercle de San, région de
+Ségou)
+\dt 15/Nov/2017
+
+\lx Bamanula
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 09/Apr/2017
+
+\lx Bànakolo
+\ps n.prop
+\gf TOP
+\gvf Banakolo
+\smf (village, région de Koulikoro)
+\dt 26/Feb/2017
+
+\lx Bananba
+\ps n.prop
+\gf TOP
+\gvf Banamba
+\smf (ville, centre de cercle, région de Koulikoro)
+\dt 06/Feb/2017
+
+\lx Bánanisabakɔrɔ
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Ségou)
+\cm (в Сегу)
+\dt 05/Dec/2010
+
+\lx Banankabugu
+\ps n.prop
+\gf TOP
+\gvf Banankabougou
+\smf (un quartier dans la commune 6 de Bamako)
+\dt 04/Jun/2016
+
+\lx Bànankɔrɔ
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\ms 1
+\gvf Banankoro
+\smf (village dans la commune de Ouelessébougou, cercle de Kati,
+région de Koulikoro)
+\ms 2
+\gvf Banankoro
+\smf (village près de Ségou)
+\dt 16/Oct/2017
+
+\lx Banankɔrɔba
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Banankoroba
+\dt 29/Mar/2017
+
+\lx Banankɔrɔnin
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Banankoroni
+\dt 09/Apr/2017
+
+\lx Banbara Mawude
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Bambara Maoudé
+\gvf Bambara Maoundé
+\smf (commune dans le cercle de Gourma-Rharous, région de
+Tombouctou)
+\dt 06/Feb/2017
+
+\lx Banbugu
+\va Baamugu
+\ps n.prop
+\gf TOP
+\gvf Bambougou
+\smf (village, région de Ségou, sur le bord de Niger à l'est de Ségou)
+\dt 15/Jun/2017
+
+\lx Banbuguwɛrɛ
+\ps n.prop
+\gf TOP
+\gvf Bambougouwere
+\smf (village, région de Ségou)
+\dt 01/May/2017
+
+\lx Bandama
+\ps n.prop
+\gf TOP
+\gvf Bandama
+\smf (fleuve en Côte d'Ivoire)
+\dt 05/Feb/2017
+
+\lx Banfora
+\ps n.prop
+\gf TOP
+\gvf Banfora
+\smf (centre de la région des Cascades et de la province de la
+Comoé, Burkina Faso)
+\dt 04/Feb/2017
+
+\lx Banga
+\ps n.prop
+\gf TOP
+\gvf Banga
+\smf (un village, commune de Sabila, région de Ségou)
+\dt 04/Jun/2016
+
+\lx Bangi
+\ty р.
+\ru Банги
+\ps n.prop
+\gf TOP
+\smf (capitale de la République Centrafricaine)
+\gvf Bangui
+\dt 23/May/2010
+
+\lx Bángɔni
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\cm (в Бамако)
+\dt 05/Dec/2010
+
+\lx Bánin
+\ps n.prop
+\gf TOP
+\gvf Bani
+\smf (rivière, affluent de Niger)
+\dt 29/Mar/2017
+
+\lx Baninfin
+\ty р.
+\ru Бани Чёрная
+\ps n.prop
+\gf TOP
+\smf (rivière affluent du Bani)
+\gvf Banifing
+\cm (приток Бани)
+\dt 23/May/2010
+
+\lx Báninkɔ
+\ps n.prop
+\gf TOP
+\gvf Baninko
+\smf (zone historique au sud-est de Mali, au sud de rivière de Bani)
+\dt 05/Feb/2017
+
+\lx Baninsira
+\va Banisira
+\va Banisilayila
+\va Banisirayila
+\va Isirayɛli
+\et ar. bnu-sraa'il 'евреи'
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Israël
+\ru Израиль
+\dt 05/Feb/2016
+
+\lx Bánjagara
+\ps n.prop
+\gf TOP
+\gvf Bandiagara
+\smf (ville et cercle, région de Mopti; plateau)
+\ru Бандиагара
+\dt 30/Sep/2018
+
+\lx Banjulu
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale de la Gambie)
+\gvf Banjoul
+\ru Банджул
+\dt 23/May/2010
+
+\lx Bankasi
+\ty дер.
+\ru Банкаси
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Bankassi
+\cm (к северу от Бамако)
+\dt 23/May/2010
+
+\lx Bankɔnin
+\ps n.prop
+\gf TOP
+\gvf Banconi
+\smf (un quartier de la Commune 1 de Bamako)
+\dt 01/Jun/2016
+
+\lx Bankumana
+\ps n.prop
+\gf TOP
+\gvf Bankoumana
+\gvf Bancoumana
+\smf (village et commune rurale, cercle de Kati, région de Koulikoro)
+\dt 03/Mar/2019
+
+\lx Barala
+\ps n.prop
+\gf TOP
+\smf (village, du côté de Djenné)
+\dt 17/Mar/2018
+
+\lx Baraselɔni
+\ps n.prop
+\gf TOP
+\smf (ville de Catalogne, en Espagne)
+\gvf Barcelone
+\dt 01/Jun/2016
+
+\lx Barawuli
+\va Barawili
+\ps n.prop
+\gf TOP
+\smf (cercle de la région de Ségou)
+\gvf Barouéli
+\dt 06/Feb/2017
+
+\lx Barazawil
+\va Barazaduu
+\va Barazawili
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale de la République du Congo)
+\gvf Brazzaville
+\ru Браззавиль
+\dt 05/Feb/2017
+
+\lx Basabugu
+\ps n.prop
+\gf TOP
+\gvf Bassabougou
+\smf (village, cercle de Kati, région de Koulikoro)
+\dt 05/Feb/2017
+
+\lx Basutoland
+\va Basutola
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (ancien nom du Lesotho)
+\gvf Basutoland
+\ru Басутоленд
+\dt 23/May/2010
+
+\lx Batɔsi
+\ty г.
+\ru Батерст
+\ps n.prop
+\gf TOP
+\smf (ancien nom de Banjul, capitale de la Gambie)
+\gvf Bathurst
+\cm (с1973 г.  - Банджул)
+\dt 23/May/2010
+
+\lx Báwulen
+\va Báwule
+\ps n.prop
+\gf TOP
+\gvf Baoulé
+\smf (fleuve)
+\dt 06/Feb/2017
+
+\lx Bàyabugu
+\ps n.prop
+\gf TOP
+\smf (nom d'un village)
+\dt 24/Jul/2017
+
+\lx Bayo
+\ps n.prop
+\gf TOP
+\smf (village, région de Ségou)
+\dt 16/May/2017
+
+\lx Becuwanaduu
+\va Becuwanadugu
+\va Becuwanaland
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (ancien nom du Botswana)
+\gvf Betchouanaland 
+\ru Бечуаналенд
+\cm (с 1966 г. - Ботсвана)
+\dt 23/May/2010
+
+\lx Belendugu
+\ps n.prop
+\gf TOP
+\gvf Bellen
+\smf (commune rurale, cercle de Ségou)
+\dt 20/Mar/2017
+
+\lx Benɛn
+\va Bɛnɛn
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Bénin
+\ru Бенин
+\dt 31/May/2016
+
+\lx Beresili
+\va Berezili
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Brésil
+\ru Бразилия
+\dt 23/May/2010
+
+\lx Bɛlɛdugu
+\ps n.prop
+\gf TOP
+\smf (aire culturelle dans la région de Koulikoro)
+\gvf Bélédougou
+\dt 04/May/2017
+
+\lx Bɛlɛkɔ
+\ps n.prop
+\gf TOP
+\smf (arrondissement)
+\dt 23/Oct/2016
+
+\lx Bɛliziki
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Belgique
+\dt 05/Feb/2016
+
+\lx Bɛnɛna
+\ps n.prop
+\gf TOP
+\gvf Bénéna
+\smf (village et commune, cercle de Tominian, région de Ségou)
+\dt 11/Mar/2018
+
+\lx Bɛngazi
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (vilel de Lybie)
+\gvf Benghazi
+\ru Бенгази
+\dt 23/May/2010
+
+\lx Bɛnuwɛ
+\ty р.
+\ru Бенуэ
+\ps n.prop
+\gf TOP
+\smf (rivière, affluent du Niger)
+\gvf Bénoué
+\cm (в Нигерии, приток Нигера)
+\dt 23/May/2010
+
+\lx Bila
+\ps n.prop
+\gf TOP
+\gvf Bla
+\smf (cercle, région de Ségou)
+\dt 01/Feb/2017
+
+\lx Biriko
+\ps n.prop
+\gf TOP
+\gvf Birgo
+\smf (village, commune de Sirakoro, cercle de Kita, région de Kayes)
+\dt 11/Mar/2018
+
+\lx Birimani
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Birmanie
+\dt 01/Jun/2016
+
+\lx Bìritan
+\va m
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Royaume-Uni
+\ru Британия
+\dt 23/May/2010
+
+\lx Bisao
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Bissau
+\ru Бисау
+\dt 23/May/2010
+
+\lx Bla
+\ps n.prop
+\gf TOP
+\gvf Bla
+\smf (commune et cercle, région de Ségou)
+\dt 01/May/2017
+
+\lx Bófà
+\di m
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Bofa
+\ru Бофа
+\cm Гвинея
+\dt 23/May/2010
+
+\lx Bólibana
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\cm (в Бамако)
+\dt 05/Dec/2010
+
+\lx Bolivi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Bolivie
+\dt 07/Feb/2017
+
+\lx Boni
+\ps n.prop
+\gf TOP
+\gvf Boni
+\smf (village, cetre de commune Haïré, commune de Douentza, région de Mopti)
+\dt 13/Mar/2018
+
+\lx Bore
+\ps n.prop
+\gf TOP
+\gvf Boré
+\smf (village, chef-lieu de la commune Dangol Boré, cercle de Douentza, région de Mopti)
+\dt 10/Mar/2018
+
+\lx Bósola
+\va Bózola
+\ps n.prop
+\gf TOP
+\gvf Bozola
+\smf (un quartier de la Commune 2 de Bamako)
+\dt 05/Feb/2017
+
+\lx Boyi
+\ps n.prop
+\gf TOP
+\gvf Boyi
+\smf (village, cercle de Bougouni, région de Sikasso)
+\dt 09/Apr/2017
+
+\lx Bɔbɔjulaso
+\va Bɔbɔ Julaso
+\va Bobojulaso
+\va Bobo Julaso
+\ps n.prop
+\gf TOP
+\smf (ville du Burkiba Faso)
+\gvf Bobo-Dioulasso
+\dt 04/Feb/2017
+
+\lx Bɔ̀rɔ
+\ps n.prop
+\gf TOP
+\gvf Boron
+\smf (centre de la commune de Boron, cercle de Banamba, région
+de Koulikoro)
+\dt 26/Feb/2017
+
+\lx Bɔrɔdizi Bazi Mɔkutari
+\ps n.prop
+\gf TOP
+\gvf Bordj Badji Mokhtar
+\smf (commune de la wilaya d'Adrar, en Algérie, à la frontière
+malienne)
+\dt 03/Jun/2017
+
+\lx Bɔsinihɛrizekowuni
+\ps n.prop
+\gf TOP
+\gvf Bosnie-Herzgovine
+\dt 09/Dec/2018
+
+\lx Bɔsuwana
+\va Bɔsiwana
+\ps n.prop
+\gf TOP
+\gvf Botswana
+\smf (pays)
+\dt 30/Sep/2018
+
+\lx Buguba
+\ps n.prop
+\gf TOP
+\gvf Bougouba
+\smf (un quartier de la Commune 2 de Bamako)
+\dt 01/Jun/2016
+
+\lx Bugunin
+\va Buguni
+\ps n.prop
+\gf TOP
+\gvf Bougouni
+\smf (une ville et un cercle dans la région de Sikasso)
+\dt 05/Feb/2017
+
+\lx Bujumbura
+\di b
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale du Burundi)
+\gvf Bujumbura
+\ru Бужумбура
+\dt 23/May/2010
+
+\lx Bulantiya
+\ty г.
+\ru Блантайр
+\ps n.prop
+\gf TOP
+\smf (ville du Malawi)
+\gvf Blantyre
+\cm (Малави)
+\dt 23/May/2010
+
+\lx Bulbine
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Conakry)
+\ru Бульбине
+\cm (В Конакри)
+\dt 23/May/2010
+
+\lx Bulgari
+\va Bíligari
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Bulgarie
+\ru Болгария
+\dt 23/May/2010
+
+\lx Búlukasùnbugu
+\va Búlkasùnbugu
+\ps n.prop
+\gf TOP
+\gvf Boulkassombougou
+\smf (un quartier de la Commune 1 de Bamako)
+\dt 01/Jun/2016
+
+\lx Bunjali
+\ps n.prop
+\gf TOP
+\gvf Boundiali
+\smf (ville et département au nord de Côte d'Ivoire)
+\dt 01/Feb/2017
+
+\lx Bura
+\ps n.prop
+\gf TOP
+\gvf Boura
+\smf (une commune dans le cercle de Yorosso, région de Sikasso)
+\dt 07/Feb/2017
+
+\lx Bure
+\ps n.prop
+\gf TOP
+\gvf Bouré
+\smf (zone aurifère à l'ouest du Mali)
+\dt 24/Nov/2019
+
+\lx Burɛmu
+\ps n.prop
+\gf TOP
+\smf (cercle dans la région de Gao)
+\gvf Bourem
+\dt 05/Feb/2016
+
+\lx Búrukinafaso
+\va Búrukina Faso
+\va Búrukina
+\va Búrikina
+\ty гос.
+\ps n.prop
+\ru Буркина Фасо
+\cm (до 1984 г. - Верхняя Вольта)
+\dt 23/Feb/2017
+\gf TOP
+\smf (pays)
+\gvf Burkina Faso
+
+\lx Burundi
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Bouroundi
+\ru Бурунди
+\dt 23/May/2010
+
+\lx Busɛn
+\ps n.prop
+\gf TOP
+\smf (un village près de Ségou)
+\dt 24/Apr/2018
+
+\lx Busuunbura
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale du Burundi)
+\gvf 	
+\ru Бужумбура
+\dt 23/May/2010
+
+\lx Buwakɛ
+\ps n.prop
+\gf TOP
+\gvf Bouaké
+\smf (une grande ville en Côte d'Ivoire)
+\dt 03/Mar/2019
+
+\lx Cadi
+\va Caadi
+\ty гос.
+\ty оз.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Tchad
+\ru Чад
+\dt 23/May/2010
+
+\lx Cakadugu-Jalakɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Tiakadougou-Dialakoro
+\smf (village et commune, cercle de Kati,
+région de Koulikoro)
+\dt 25/Apr/2018
+
+\lx Cala
+\ps n.prop
+\gf TOP
+\smf (nom d'un village)
+\dt 16/Oct/2017
+
+\lx Cegɔsilowaki
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Tchécoslovaquie
+\dt 24/Oct/2016
+
+\lx Cɛkijamana
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Tchéquie
+\gvf République Tchèque
+\dt 04/May/2017
+
+\lx Cɛkisilowaki
+\ps n.prop
+\gf TOP
+\gvf Tchécoslovaquie
+\dt 09/Dec/2018
+
+\lx Cɛkumala
+\ps n.prop
+\gf TOP
+\smf (village, commune de Garalo, cercle de Bougouni, région de
+Sikasso)
+\dt 22/Feb/2017
+
+\lx Cɛkurala
+\ps n.prop
+\gf TOP
+\smf (nom d'un village)
+\dt 16/Oct/2017
+
+\lx Cɛparandugu
+\ps n.prop
+\gf TOP
+\gvf Tiéparandougou
+\smf (village, région de Ségou)
+\dt 09/Mar/2018
+
+\lx Cicɛnna
+\ps n.prop
+\gf TOP
+\smf (village de la commune de Niéna, cercle et région de Sikasso)
+\dt 18/Oct/2017
+
+\lx Cɔribugu
+\ps n.prop
+\gf TOP
+\gvf Tioribougou
+\smf (village et commune, cercle de Kolokani, région de Koulikoro)
+\dt 28/Oct/2017
+
+\lx Dabanaani
+\ps n.prop
+\gf TOP
+\gvf Dabanani
+\smf (marché dans la commune 3 de Bamako; dans la position de l'oblique, le plus souvent avec la postposition lá)
+\dt 14/Mar/2018
+
+\lx Dagi-Dagi
+\ps n.prop
+\gf TOP
+\gvf Dag Dag
+\smf (aéroport de Kayes)
+\dt 11/Mar/2018
+
+\lx Dahomɛ
+\ps n.prop
+\gf TOP
+\gvf Dahomey
+\smf (pays, ancien nom du Bénin)
+\dt 23/May/2017
+
+\lx Dákajaalà
+\va Dákajaalàn
+\va Dákajaanà
+\ps n.prop
+\gf TOP
+\gvf Dakajalan
+\smf (un village sur la rive droite du Niger, 7 km au sud de
+Kirina, lieu de bataille entre Soundiata et Soumangourou)
+\dt 28/Feb/2017
+
+\lx Dákaro
+\va Dakaru
+\va Dakari
+\va Dakar
+\ps n.prop
+\gf TOP
+\gvf Dakar
+\smf (capitale du Sénégal)
+\dt 22/Feb/2019
+
+\lx Dalaba
+\di m
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Dalaba
+\ru Далаба
+\dt 23/May/2010
+
+\lx Damasi
+\ty г.
+\ru Дамаск
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Damas
+\dt 23/May/2010
+
+\lx Danbana
+\ps n.prop
+\gf TOP
+\smf (village, cercle de Kita)
+\dt 11/Mar/2018
+
+\lx Dandugu
+\ps n.prop
+\gf TOP
+\smf (village (rég. de Dioila))
+\dt 23/Oct/2016
+
+\lx Danemariki
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Danemark
+\dt 15/Jun/2017
+
+\lx Dàomɛ
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (ancien nom de pays)
+\gvf Dahomey
+\ru Дагомея
+\cm (с 1972 г. - Бенин)
+\dt 23/May/2010
+
+\lx Darafuri
+\ps n.prop
+\gf TOP
+\gvf Darfour
+\smf (région du Sudan)
+\dt 14/Oct/2017
+
+\lx Darisalamu
+\va Daaru Salaami
+\va Darasalamu
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Dar es Salam
+\ru Дар-эс-Салам
+\dt 08/Feb/2016
+
+\lx Dársàlám
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\cm (в Бамако)
+\dt 05/Dec/2010
+
+\lx Dawulabugu
+\ps n.prop
+\gf TOP
+\smf (village, région de Sikasso)
+\dt 16/Oct/2017
+
+\lx Debo
+\ty оз.
+\ru Дебо
+\ps n.prop
+\gf TOP
+\smf (lac sur le fleuve Niger dans le "delta intérieur")
+\gvf Debo
+\cm (в Мали, центр внутренний дельты Нигера)
+\dt 23/May/2010
+
+\lx Degɛnbere
+\ps n.prop
+\gf TOP
+\gvf Deguembéré
+\smf (zone montagneuse à 19 km de Bandiagara, le dernier refuge d'El Hadj Oumar Tal)
+\dt 03/May/2019
+
+\lx Dɛ́rsàlám
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Ségou)
+\dt 05/Dec/2010
+
+\lx Dibidanin
+\ps n.prop
+\gf TOP
+\gvf Dibida
+\smf (marché dans la commune 3 de Bamako)
+\dt 04/Jun/2016
+
+\lx Diboli
+\ps n.prop
+\gf TOP
+\gvf Diboli
+\smf (un village, commune de Falémé, cercle et région de Kayes,
+à la frontière avec le Sénégal)
+\dt 25/Feb/2017
+
+\lx Digato
+\ps n.prop
+\gf TOP
+\gvf Digato
+\smf (village, commune de Sanankoroba, cercle de Kati, région de
+Koulikoro)
+\dt 30/Apr/2017
+
+\lx Dikani
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 09/Apr/2017
+
+\lx Dinbali
+\ps n.prop
+\gf TOP
+\smf (un village au Mali)
+\dt 21/Feb/2017
+
+\lx Dire
+\ps n.prop
+\gf TOP
+\gvf Diré
+\smf (ville, commune et cercle, région de Tombouctou)
+\dt 03/Jun/2017
+
+\lx Direyi
+\ps n.prop
+\gf TOP
+\gvf Diré
+\smf (commune et cercle, région de Tombouctou)
+\dt 05/Feb/2017
+
+\lx Dogo
+\ps n.prop
+\gf TOP
+\gvf Dogo
+\smf (commune, cercle de Bougouni, région de Sikasso)
+\dt 22/Feb/2017
+
+\lx Dogobala
+\ps n.prop
+\gf TOP
+\gvf Dogobala
+\smf (un village dans la commune de Moribabougou, cercle de Kati, région de Koulikoro)
+\dt 03/Mar/2019
+
+\lx Dogonin
+\ps n.prop
+\gf TOP
+\gvf Dogoni
+\smf (commune et petite ville, cercle et région de Sikasso)
+\dt 03/Mar/2019
+
+\lx Dominiki
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Dominique
+\ru Доминикана
+\dt 23/May/2010
+
+\lx Dɔ́
+\ps n.prop
+\gf TOP
+\gvf Do
+\smf (un ancien pays d'où vient la mère de Soundianta Keïta,
+Sogolon Koné)
+\dt 07/Jun/2017
+
+\lx Dɔgɔfiri
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Dogofiri
+\gvf Dogofry
+\smf (village et commune, cercle de Niono, région de Ségou)
+\dt 15/Jun/2017
+
+\lx Dɔyila
+\va Doyila
+\ps n.prop
+\gf TOP
+\gvf Dioïla
+\smf (une ville et un cercle dans la région de Koulikoro)
+\dt 01/Feb/2017
+
+\lx Dràwela
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\cm (в Бамако)
+\dt 05/Dec/2010
+
+\lx Dubabugu
+\va Dugabugu
+\ps n.prop
+\gf TOP
+\gvf Doubabougou
+\smf (village et commune rurale, cercle de Kati, région de
+Koulikoro)
+\dt 01/Feb/2017
+
+\lx Dùguba
+\ps n.prop
+\gf TOP
+\gvf Dougouba
+\smf (village à 20 km de Ségou)
+\dt 29/Mar/2017
+
+\lx Dùgukuna
+\va Dùgukunan
+\ps n.prop
+\gf TOP
+\gvf Dougoukouna
+\smf (village, environ 10 km à l'ouest de Ségou, province de
+Ségou)
+\dt 03/Jun/2018
+
+\lx Dùgutigibugu
+\ps n.prop
+\gf TOP
+\gvf Dougoutiguibougou
+\smf (village, commune de Soignébougou, cercle et région de Ségou)
+\dt 01/Apr/2017
+
+\lx Dumanzana
+\ps n.prop
+\gf TOP
+\gvf Doumanzana
+\smf (un quartier de la Commune 1 de Bamako)
+\dt 01/Jun/2016
+
+\lx Duna-Pɛn
+\ps n.prop
+\gf TOP
+\gvf Douna-Pen
+\smf (village, commune de Dioungani, cercle de Koro, région de
+Mopti)
+\dt 09/Mar/2018
+
+\lx Dunfin
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\ty др.
+\ru Дунфин
+\cm (один из порогов на Нигере между Бамако и Куликоро)
+\dt 01/Jun/2016
+\ps n.prop
+
+\lx Dura
+\ps n.prop
+\gf TOP
+\gvf Doura
+\smf (villace, cetre de la commune de N'Koumandougou, cercle de
+Ségou)
+\dt 20/Mar/2017
+
+\lx Dúwanzà
+\va Dúwazà
+\va Dúwazàn
+\ty г.
+\ru Дуэнца
+\ps n.prop
+\gf TOP
+\gvf Douentza
+\smf (une ville et commune urbaine dans la région de Mompti)
+\dt 31/Jan/2017
+
+\lx Ecopi
+\va Ecupi
+\va Ɛcopi
+\va Ɛtiyopi
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Éthiopie
+\ru Эфиопия
+\dt 01/Jun/2016
+
+\lx Ekuwatɛri
+\va Ekatɛri
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Equateur
+\dt 09/Dec/2018
+
+\lx Emira Arabu Uni
+\va Emira Arabu
+\va Emira Arabi
+\va Arabu Emiri
+\ps n.prop
+\gf TOP
+\gvf Emirats Arabes Unis
+\dt 22/Feb/2019
+
+\lx Enedi
+\ps n.prop
+\gf TOP
+\gvf TOP
+\gvf Ennedi
+\smf (région nord-est du Tchad)
+\dt 21/Apr/2019
+
+\lx Eritere
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Érithrée
+\ru Эритрея
+\dt 23/May/2010
+
+\lx Èrɔpu
+\va Ɛ̀ropu
+\va Ɛ̀ropi
+\ps n.prop
+\gf TOP
+\gvf Europe
+\dt 23/Nov/2019
+
+\lx Esuki
+\ps n.prop
+\gf TOP
+\gvf Essouk
+\smf (village commune rurale, région de Kidal, près de ruines de
+Tadmekka)
+\dt 01/Feb/2017
+
+\lx Esuku
+\ps n.prop
+\gf TOP
+\gvf Essouk
+\smf (village et commune, région de Kidal)
+\dt 03/Jun/2017
+
+\lx Etazini
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf États-Unis
+\dt 15/Feb/2017
+
+\lx Eziputi
+\va Ezipiti
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Égypte
+\dt 22/Feb/2017
+
+\lx Ɛndelimani
+\ps n.prop
+\gf TOP
+\gvf
+\smf (une localité entre Menaka et Ansɔngo)
+\dt 09/Dec/2018
+
+\lx Ɛndonezi
+\va Indonezi
+\va Ɛndonesi
+\ps n.prop
+\gf TOP
+\gvf Indonésie
+\dt 03/Nov/2019
+
+\lx Ɛ̀ndu
+\va Híndi
+\va Èndu
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Inde
+\ru Индия
+\dt 05/Feb/2017
+
+\lx Ɛ̀njen
+\et fr. Indien
+\ty ок.
+\ps n.prop
+\gf TOP
+\smf (océan)
+\gvf Océan Indien
+\ru Индийский
+\dt 23/May/2010
+
+\lx Ɛsipaɲi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Espagne
+\dt 19/Dec/2012
+
+\lx Fabugu
+\ps n.prop
+\gf TOP
+\gvf Fabougou
+\smf (village, région de Ségou)
+\dt 09/Apr/2017
+
+\lx Fabula
+\ps n.prop
+\gf TOP
+\gvf Faboula
+\smf (village, cerce de Yanfolila, région de Sikasso; un gisement
+d'or)
+\dt 15/Jun/2017
+
+\lx Fagibini
+\ty оз.
+\ru Фагибини
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Faguibini
+\cm (в Мали, к северу от внутренней дельты Нигера)
+\dt 23/May/2010
+
+\lx Fajigila
+\ps n.prop
+\gf TOP
+\gvf Fadjiguila
+\smf (un quartier de la Commune 1 de Bamako)
+\dt 01/Jun/2016
+
+\lx Falajɛ
+\ps n.prop
+\gf TOP
+\gvf Faladié
+\smf (un quartier dans la commune 6 de Bamako)
+\dt 04/Jun/2016
+
+\lx Faleme
+\ty р.
+\ru Фалеме
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Falémé
+\cm (левый приток р. Сенегал)
+\dt 23/May/2010
+
+\lx Famisabugu
+\ps n.prop
+\gf TOP
+\gvf Famissabougou
+\smf (village, commune de Monimpébougou, cercle de Macina)
+\dt 20/Mar/2017
+
+\lx Fana
+\ps n.prop
+\gf TOP
+\gvf Fana
+\smf (ville, chef-lieu de la commune de Guégnéka, région de
+Koulikoro)
+\dt 09/Apr/2017
+
+\lx Fanafiyɛkoro
+\ps n.prop
+\gf TOP
+\gvf Fanafiè Koro
+\smf (village, cercle de Kati, région de Koulikoro)
+\dt 15/Jun/2017
+
+\lx Fangaso
+\ps n.prop
+\gf TOP
+\gvf Fangasso
+\smf (village et commune, cercle de Tominian, région de Ségou)
+\dt 15/Jun/2017
+
+\lx Farabanna
+\ps n.prop
+\gf TOP
+\gvf Farabana
+\smf (village, région de Koulikoro)
+\dt 01/Mar/2019
+
+\lx Fàrafinna
+\mm fàra:n:écorce
+\mm fìn:adj:noir
+\mm na:mrph:LOC
+\ps n.prop
+\gf TOP
+\smf (continent)
+\gvf Afrique
+
+\lx Farakɔ
+\ps n.prop
+\gf TOP
+\gvf Farako
+\smf (rivière à la limite des communes 3 et 4 à Bamako)
+\dt 04/Jun/2016
+
+\lx Fàransi
+\ty гос.
+\ru Франция
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf France
+\sy Tubabula
+\dt 23/May/2010
+
+\lx Faransiwili
+\ps n.prop
+\gf TOP
+\gvf Franceville
+\smf (une ville au Gabon)
+\dt 08/Feb/2017
+
+\lx Fasala
+\ps n.prop
+\gf TOP
+\gvf Fassala
+\smf (village à l'Est de Mali)
+\dt 03/Jun/2017
+
+\lx Fàsokanu
+\ps n.prop
+\gf TOP
+\gvf Fassokanou
+\smf (un quartier dans la commune 6 de Bamako)
+\dt 04/Jun/2016
+
+\lx Fasudebe
+\ps n.prop
+\gf TOP
+\gvf Fassoudebé
+\smf (village et commune, cercle de Diéma, région de Kayes)
+\dt 02/Mar/2019
+
+\lx Fekola
+\ps n.prop
+\gf TOP
+\gvf Fékola
+\smf (ville et mine d'or, région de Kayes)
+\dt 01/Feb/2017
+
+\lx Ferekesedugu
+\ps n.prop
+\gf TOP
+\gvf Ferkessédougou
+\smf (une ville du District des Savanes au nord de Côte d'Ivoire)
+\dt 04/Feb/2017
+
+\lx Fezan
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Fezzan
+\dt 07/Feb/2017
+
+\lx Fɛnkolon
+\ps n.prop
+\gf TOP
+\gvf Finkolon
+\smf (village, cercle et région de Sikasso)
+\dt 11/Mar/2018
+
+\lx Fɛsi
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Fès
+\dt 07/Feb/2017
+
+\lx Fieyn
+\ty горы
+\ru Фиен
+\cm (в Мали)
+\dt 27/Jan/2016
+\ps n.prop
+\gf TOP
+
+\lx Filipini
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Philippines
+\dt 20/Oct/2017
+
+\lx Firitɔn
+\di m
+\ty г.
+\ru Фритаун
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Freetown
+\sy Hɔrɔyaso
+\dt 23/May/2010
+
+\lx Fíriya
+\ty окр.
+\ru Фрия
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Fria
+\cm (в Гвинее)
+\dt 23/May/2010
+
+\lx Folona
+\ps n.prop
+\gf TOP
+\gvf Folona
+\smf (zone historique dont le centre est Kadiolo)
+\dt 04/Feb/2017
+
+\lx Fororifemayi
+\ps n.prop
+\gf TOP
+\gvf Forori-Femaye
+\smf (village, région de Mopti)
+\dt 06/Feb/2017
+
+\lx Fɔrulami
+\ty г.
+\ru Форт-Лами
+\ps n.prop
+\gf TOP
+\smf (ville)
+\gvf Fort-Lamy
+\cm (с 1973 г. - Нджамена)
+\dt 23/May/2010
+
+\lx Fúlabugu
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 07/Nov/2014
+
+\lx Fúladugu
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Fouladougou
+\dt 22/Feb/2017
+
+\lx Furu
+\ps n.prop
+\gf TOP
+\gvf Fourou
+\smf (ville et commune, cercle de Kadiolo, région de Sikasso)
+\dt 02/Mar/2019
+
+\lx Futa
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 07/Nov/2014
+
+\lx Futa Jalɔn
+\ty горы
+\ru Фута-Джалон
+\ps n.prop
+\gf TOP
+\smf (montagne en Guinée)
+\gvf Fouta Djallon
+\cm (в Гвинее)
+\dt 23/May/2010
+
+\lx Futa Toro
+\ty горы
+\ru Фута Торо
+\ps n.prop
+\gf TOP
+\smf (région du Sénégal)
+\gvf Fouta Toro
+\cm (в Сенегале)
+\dt 23/May/2010
+
+\lx Futuba
+\ps n.prop
+\gf TOP
+\gvf Foutouba
+\smf (ville, région de Kayes)
+\dt 02/Feb/2017
+
+\lx Gabakuru
+\ps n.prop
+\gf TOP
+\gvf Gabakourou
+\smf (commune rurale au sud de Bamako)
+\dt 01/Jun/2016
+
+\lx Gabera
+\ps n.prop
+\gf TOP
+\gvf Gabera
+\smf (une localité au Nord du Mali)
+\dt 06/Feb/2017
+
+\lx Gabon
+\va Gabɔ́n
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Gabon
+\ru Габон
+\dt 23/May/2010
+
+\lx Gadamɛsi
+\ps n.prop
+\gf TOP
+\gvf Ghadamès
+\smf (une ville et une oasis du désert en Libye, à la frontière de la
+Tunisie et de l’Algérie)
+\dt 07/Feb/2017
+
+\lx Gana
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Ghana
+\ru Гана
+\dt 23/May/2010
+
+\lx Ganadugu
+\ps n.prop
+\gf TOP
+\gvf Ganadugu
+\smf (villege, commune de Niéna, cercle et région de Sikasso)
+\dt 05/Feb/2017
+
+\lx Ganbiya
+\va Ganbi
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Gambie
+\ru Гамбия
+\dt 04/Jun/2016
+
+\lx Gangaran
+\ps n.prop
+\gf TOP
+\gvf Gangaran
+\smf (massif montagneux, cercle de Kita)
+\dt 02/Mar/2019
+
+\lx Gaɲiwa
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Gagnoa
+\dt 05/Feb/2016
+
+\lx Gáo
+\ps n.prop
+\gf TOP
+\smf (ville)
+\gvf Gao
+\dt 05/Apr/2016
+
+\lx Garala
+\ps n.prop
+\gf TOP
+\gvf Garala
+\smf (village, région de Mopti)
+\dt 09/Apr/2017
+
+\lx Garali
+\ps n.prop
+\gf TOP
+\cm (village à Buguni)
+\dt 01/Apr/2014
+
+\lx Garalo
+\ps n.prop
+\gf TOP
+\gvf Garalo
+\smf (commune, cercle de Bougouni, région de Ségou)
+\dt 22/Feb/2017
+
+\lx Garan Basamu
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Grand Bassam
+\dt 22/May/2016
+
+\lx Garigando
+\ps n.prop
+\gf TOP
+\gvf Gargando
+\smf (village et commune, cercle de Goundam, région de
+Tombouctou)
+\dt 17/May/2017
+
+\lx Garuwa
+\ps n.prop
+\gf TOP
+\gvf Garoua
+\smf (une ville au nord de Cameroun)
+\dt 03/Jun/2018
+
+\lx Gàwó
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (ville)
+\gvf Gao
+\ru Гао
+\cm (на востоке Мали)
+\dt 07/Apr/2017
+
+\lx Gerenadi
+\ps n.prop
+\gf TOP
+\smf (ville d'Espagne)
+\gvf Grenade
+\dt 06/Feb/2017
+
+\lx Gɛrɛsi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Grèce
+\dt 31/May/2016
+
+\lx Gidime
+\ps n.prop
+\gf TOP
+\gvf Guidimé
+\smf (commune dans le cercle de Yélimané, région de Kayes)
+\dt 06/Feb/2017
+
+\lx Gíne
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Guinée
+\dt 05/Apr/2016
+
+\lx Ginɛbiso
+\va Ginebisawo
+\ty гос.
+\ru Гвинея-Бисау
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Guinée-Bissau
+\dt 23/May/2010
+
+\lx Gize
+\ps n.prop
+\gf TOP
+\gvf Gizeh
+\gvf Giza
+\smf (ville en Egypte où se trouvent les pyramides)
+\dt 27/Oct/2019
+
+\lx Gomakura
+\ps n.prop
+\gf TOP
+\gvf Gomakoura
+\smf (village, cercle de Niono, région de Ségou)
+\dt 05/Feb/2017
+
+\lx Gori-Kopela
+\ps n.prop
+\gf TOP
+\gvf Gory Gopéla
+\smf (village et commune, cercle et région de Kayes)
+\dt 03/Mar/2019
+
+\lx Gosi
+\ps n.prop
+\gf TOP
+\gvf Gossi
+\smf (ville et commune, cercle de Gourma-Rharous, région de
+Tombouctou)
+\dt 03/Jun/2017
+
+\lx Gumankɔ
+\ps n.prop
+\gf TOP
+\gvf Goumanko
+\smf (cercle de Kita, région de Kayes)
+\dt 04/Feb/2017
+
+\lx Gundamu
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Goundam
+\dt 01/Jun/2016
+
+\lx Gundoguru Dogɔn
+\ps n.prop
+\gf TOP
+\gvf Goundogourou Dogon
+\smf (village, commune de Diankabou, cercle de Koro, région de
+Mopti)
+\dt 09/Mar/2018
+
+\lx Guruma
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Gourma
+\dt 05/Feb/2016
+
+\lx Guyani
+\va Guwani
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Guyane
+\dt 05/Feb/2017
+
+\lx Gbékeduu
+\di m
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Gbekedou
+\ru Гекеду
+\cm (в Гвинее)
+\dt 23/May/2010
+
+\lx Gben Kɔɔjida
+\va Gbenkɔɔijida
+\di m
+\ty гос.
+\ru Кот-д'Ивуар
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Côte d'Ivoire
+\sy Kɔ́nɔwari
+\dt 23/May/2010
+
+\lx Hámdàlay
+\va Hámudàlayi
+\ty кв.
+\ps n.prop
+\ms 1
+\gf TOP
+\smf (quartier à Bamako)
+\smf (в Бамако)
+\ms 2
+\gvf Hamdallaye
+\smf (la capitale de l'Empire peule de Macina)
+\dt 23/Jul/2017
+
+\lx Haribomo
+\ty оз.
+\ru Харибомо
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Haribomo
+\cm (в Мали, к востоку от внутренней дельты Нигера)
+\dt 23/May/2010
+
+\lx Hɛrɛmakɔnɔ
+\ps n.prop
+\gf TOP
+\gvf Heremakono
+\smf (village, cercle de Kati)
+\dt 10/Mar/2018
+
+\lx Hipodɔrɔmu
+\ps n.prop
+\gf TOP
+\gvf Hippodrome
+\smf (un quartier de la Commune 2 de Bamako)
+\dt 01/Jun/2016
+
+\lx Hòngiri
+\va Hɔ̀ngiri
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Hongrie
+\ru Венгрия
+\dt 24/Oct/2016
+
+\lx Horo
+\ty оз.
+\ru Хоро
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Horo
+\cm (к северу от внутренней дельты Нигера)
+\dt 23/May/2010
+
+\lx Hɔnbori
+\va Honbori
+\ps n.prop
+\gf TOP
+\gvf Hombori
+\smf (une ville, commune et montagnes dans le cercle de Douentza)
+\dt 31/Jan/2017
+
+\lx Hɔrɔyaso
+\di m
+\ty г.
+\ru Фритаун
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Freetown
+\sy Firiton
+\dt 23/May/2010
+
+\lx Ifogasi
+\ps n.prop
+\gf TOP
+\gvf Ifoghas
+\smf (un massif montagneux situé dans le Nord-Est du Mali et dans
+le Sud de l'Algérie)
+\dt 04/Jun/2016
+
+\lx Ikɛrɛni
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Ukraine
+\dt 05/Feb/2016
+
+\lx Inajatafani
+\ps n.prop
+\gf TOP
+\gvf Inadiatafane
+\smf (commune, cercle de Gourma-Rharous, région de
+Tombouctou)
+\dt 22/Feb/2017
+
+\lx Indelimani
+\ps n.prop
+\gf TOP
+\gvf Indelimane
+\smf (un village, 75 km d'Ansongo)
+\dt 22/Feb/2017
+
+\lx Indi
+\ps n.prop
+\gf TOP
+\gvf Inde
+\dt 22/Feb/2019
+
+\lx Inekari
+\ps n.prop
+\gf TOP
+\gvf Inékar
+\smf (un village et une commune, cercle de Ménaka, région de Gao)
+\dt 30/Sep/2018
+
+\lx Ípɔdrɔm
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\cm (в Бамако)
+\dt 05/Dec/2010
+
+\lx Iraki
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Irak
+\dt 15/Sep/2016
+
+\lx Iran
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Iran
+\ru Иран
+\dt 23/May/2010
+
+\lx Irilandi
+\va Ɛri
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Irlande
+\dt 24/Oct/2016
+
+\lx Ìrisi
+\va Ìrisila
+\va Rùsí
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Russie
+\ru Росcия
+\ru Советский Союз
+\dt 05/Sep/2017
+
+\lx Iriyo
+\ps n.prop
+\gf TOP
+\gvf Rio de Janeiro
+\dt 30/Sep/2018
+
+\lx Isilandi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Islande
+\dt 05/Feb/2016
+
+\lx Itali
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Italie
+\dt 19/Dec/2012
+
+\lx Izinikin
+\ps n.prop
+\gf TOP
+\gvf Zone industrielle
+\smf (un quartier de la Commune 2 de Bamako)
+\dt 01/Jun/2016
+
+\lx Jabali
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Diabaly
+\gvf Dyabaly
+\smf (une ville et commune dans le cercle de Niono, la région de
+Ségou)
+\dt 24/Oct/2016
+
+\lx Ja-Bozo
+\ps n.prop
+\gf TOP
+\gvf Diabozo
+\smf (village, cercle de Ténenkou, région de Mopti)
+\dt 06/Feb/2017
+
+\lx Jadakuru
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Sierra Leone
+\ru Сьерра-Леоне
+\dt 23/May/2010
+
+\lx Jado
+\ps n.prop
+\gf TOP
+\gvf Diado
+\smf (village, commune de N'Gara, cercle et région de Ségou)
+\dt 16/May/2017
+
+\lx Jafarabe
+\ps n.prop
+\gf TOP
+\gvf Diafarabé
+\smf (commune au cercle de Ténenkou, région de Mopti)
+\dt 06/Feb/2017
+
+\lx Jafaranakɔ
+\ps n.prop
+\gf TOP
+\gvf Diafaranko
+\smf (rivière dans la commune 4 de Bamako)
+\dt 04/Jun/2016
+
+\lx Jafunu
+\va Jafunun
+\ps n.prop
+\gf TOP
+\gvf Diafounou
+\smf (zone historique dans le cercle de Yélimané, région de Kayes)
+\dt 06/Feb/2017
+
+\lx Jaka
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Diaka
+\dt 05/Feb/2016
+
+\lx Jakarata
+\ps n.prop
+\gf TOP
+\smf (capitale de l'Indonésie)
+\gvf Djakarta
+\dt 08/Feb/2017
+
+\lx Jakɔ
+\ps n.prop
+\gf TOP
+\gvf Diako
+\smf (un village, région de Ségou)
+\dt 01/May/2017
+
+\lx Jakɔrɔla
+\ps n.prop
+\gf TOP
+\smf (nom d'un village, région de Sikasso)
+\dt 15/Oct/2017
+
+\lx Jalakɔrɔba
+\ps n.prop
+\gf TOP
+\gvf Dialakoroba
+\smf (village et commune dans le cercle de Kati, région de
+Koulikoro)
+\dt 30/Apr/2017
+
+\lx Jalakɔrɔji
+\ps n.prop
+\gf TOP
+\gvf Dialakorodji
+\smf (commune au Cercle de Kati, au sud de Bamako)
+\dt 01/Jun/2016
+
+\lx Jalasagu
+\ps n.prop
+\gf TOP
+\gvf Dialassagou
+\smf (localité près de Bankas)
+\dt 23/Feb/2017
+
+\lx Jalasugu
+\ps n.prop
+\gf TOP
+\gvf Diallassougou
+\smf (village et commune, cercle de Bankass, région de Mopti)
+\dt 30/Apr/2017
+
+\lx Jalube
+\ps n.prop
+\gf TOP
+\gvf Dialloubé
+\smf (commune dans le cercle et région de Mopti)
+\dt 06/Feb/2017
+
+\lx Janbugu
+\ps n.prop
+\gf TOP
+\smf (village de la commune de Niéna, cercle et région de Sikasso)
+\dt 18/Oct/2017
+
+\lx Janginebugu
+\ps n.prop
+\gf TOP
+\gvf Janginebugu
+\smf (village, région de Koulikoro, au bord du Niger)
+\dt 03/Mar/2019
+
+\lx Janikɔrɔ
+\ps n.prop
+\gf TOP
+\smf (village, commune de Ouélessébougou, cercle de Kati, région
+de Koulikouro)
+\dt 23/May/2017
+
+\lx Jankabu
+\ps n.prop
+\gf TOP
+\gvf Diankabou
+\smf (commune du cercle de Koro, région de Mopti)
+\dt 09/Mar/2018
+
+\lx Jannegala
+\ps n.prop
+\gf TOP
+\gvf Djanékéla
+\smf (un quartier dans la commune 6 de Bamako)
+\dt 04/Jun/2016
+
+\lx Jaramana
+\ps n.prop
+\gf TOP
+\gvf Diaramana
+\smf (village et commune, cercle de Bla, région de Ségou)
+\dt 15/Jun/2017
+
+\lx Jasadeni
+\ps n.prop
+\gf TOP
+\smf (un village)
+\dt 16/Oct/2017
+
+\lx Jawaribugu
+\ps n.prop
+\gf TOP
+\smf (une localité à 5 km de Macina)
+\dt 20/Mar/2017
+
+\lx Jeda
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Jeddah
+\dt 01/Jun/2016
+
+\lx Jefale
+\ps n.prop
+\gf TOP
+\smf (nom d'un village)
+\dt 15/Oct/2017
+
+\lx Jèliba
+\di m
+\va Jòliba
+\va Bájoliba
+\mm bá:n:fleuve
+\mm Jòliba:n.prop:TOP
+\di b
+\va Yálìba
+\va Yólìba
+\di mF
+\ty р.
+\ps n.prop
+\gf TOP
+\smf (fleuve)
+\gvf Niger
+\ru Нигер
+\dt 22/Feb/2017
+
+\lx Jelibaduu
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Niger
+\ru Нигер
+\dt 23/May/2010
+
+\lx Jèlibugu
+\ty кв.
+\ps n.prop
+\gf TOP
+\gvf Djélibougou
+\smf (un quartier de la Commune 1 de Bamako)
+\dt 01/Jun/2016
+
+\lx Jema
+\ps n.prop
+\gf TOP
+\gvf Diéma
+\smf (ville, centre d'une commune et cercle, région de Kayes)
+\dt 16/Oct/2017
+
+\lx Jene
+\di b
+\va Jɛ̀nɛ
+\di m
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (ville)
+\gvf Dienné
+\ru Дженне
+\dt 23/May/2010
+
+\lx Jɛ́bùgu
+\ps n.prop
+\gf TOP
+\gvf Diebougou
+\smf (village, région de Koulikoro)
+\dt 26/Feb/2017
+
+\lx Jɛdugu
+\ps n.prop
+\gf TOP
+\gvf Diédougou
+\smf (une commune, cercle de Koutiala,
+région de Sikasso)
+\dt 24/Apr/2018
+
+\lx Jɛki
+\ps n.prop
+\gf TOP
+\smf (village, près de Dioïla)
+\dt 16/Oct/2017
+
+\lx Jɛma
+\ps n.prop
+\gf TOP
+\gvf Diéma
+\smf (une ville et un cercle dans la région de Kayes)
+\dt 31/Jan/2017
+
+\lx Jɛyu
+\ps n.prop
+\gf TOP
+\gvf Diou
+\smf (une commune du cercle de Kadiolo, province de Sikasso)
+\dt 08/Feb/2017
+
+\lx Jiburula
+\ps n.prop
+\gf TOP
+\gvf Jiburula
+\smf (un village à nord-ouest de Bamako)
+\dt 03/Mar/2019
+
+\lx Jibuti
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Djibouti
+\ru Джибути
+\dt 23/May/2010
+
+\lx Jijɛnin
+\ps n.prop
+\gf TOP
+\gvf Didiéni
+\smf (village et commune, cercle de Kolokani, région de Koulikoro)
+\dt 28/Oct/2017
+
+\lx Jikɔrɔnin-Para
+\ps n.prop
+\gf TOP
+\gvf Djikoroni-Para
+\smf (un quartier de la commune 4 de Bamako)
+\dt 04/Jun/2016
+
+\lx Jikɔrɔnipara
+\ps n.prop
+\gf TOP
+\gvf Jikoroni Para
+\smf (un quartier de Bamako)
+\dt 31/Jan/2017
+
+\lx Jinɛ
+\va Lágìnɛ
+\va Láginɛ
+\va Lajinɛ
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Guinée
+\ru Гвинея
+\dt 04/Jun/2016
+
+\lx Jitumu
+\va Jitumun
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Jitoumou
+\sm (un région historique au sud de Bamako)
+\dt 30/Apr/2017
+
+\lx Joma
+\ty ист.
+\ru Джома
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Dioma
+\cm (историческая область в южной Гвинее)
+\dt 23/May/2010
+
+\lx Jonjori
+\ps n.prop
+\gf TOP
+\gvf Diondiori
+\smf (village, cercle de Ténénkou, région de Mopti)
+\dt 01/Mar/2019
+
+\lx Jorila
+\ps n.prop
+\gf TOP
+\gvf Diorila
+\smf (village dans la commune de Dialakoroba, cercle de Kati,
+région de Koulikoro)
+\dt 30/Apr/2017
+
+\lx Joro
+\ps n.prop
+\gf TOP
+\gvf Dioro
+\smf (village et commune, cercle et région de Ségou)
+\dt 25/Mar/2017
+
+\lx Joyila
+\ps n.prop
+\gf TOP
+\gvf Dioïla
+\smf (ville et cercle, région de Koulikoro)
+\dt 15/Jun/2017
+
+\lx Jɔ̀maaji
+\ps n.prop
+\gf TOP
+\gvf Diamadji
+\smf (village dans le cercle de Banamba, région de Koulikoro)
+\dt 26/Feb/2017
+
+\lx Jɔngaga
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Diongaga
+\gvf Diafounou Diongaga
+\smf (commune, cercle de Yélimané,
+région de Kayes)
+\dt 25/Apr/2018
+
+\lx Jɔnin
+\ps n.prop
+\gf TOP
+\gvf
+\smf (un village, région de Koulikoro, au bord du Niger)
+\dt 03/Mar/2019
+
+\lx Jɔ́nkala
+\ps n.prop
+\gf TOP
+\smf (un village de la commune de Sanso, cercle de Bougouni,
+région de Sikasso)
+\dt 23/Jan/2018
+
+\lx Jɔ́nkɔlɔnin
+\ps n.prop
+\gf TOP
+\gvf Dionkolonin
+\smf (village près de Mourdiah)
+\dt 26/Feb/2017
+
+\lx Julafondo
+\ps n.prop
+\gf TOP
+\gvf Dioulafondo
+\smf (village, commune de Siby, cercle de Kati, région de Koulikoro)
+\dt 15/Jun/2017
+
+\lx Julafundo
+\ps n.prop
+\gf TOP
+\gvf Dioulafoundo
+\smf (village, région de Kayes)
+\dt 02/Feb/2017
+
+\lx Júmanzana
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (nom de lieuquartier à Bamako)
+\cm (в Бамако)
+\dt 05/Dec/2010
+
+\lx Jungani
+\ps n.prop
+\gf TOP
+\gvf Dioungani
+\smf (commune, cercle de Koro, région de Mopti)
+\dt 09/Mar/2018
+
+\lx Jura
+\ps n.prop
+\gf TOP
+\gvf Dioura
+\smf (centre de la commune de Karéri dans le cercle de Ténenkou,
+région de Mopti)
+\dt 31/Jan/2017
+
+\lx Kaaba
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 07/Nov/2014
+
+\lx Kababugu
+\ps n.prop
+\gf TOP
+\gvf Kababougou
+\smf (village de potières, cercle de Kati, région de Koulikoro)
+\dt 15/Jun/2017
+
+\lx Kabala
+\ps n.prop
+\gf TOP
+\gvf Kabala
+\smf (quartier au sud de Bamako, emplacement d'un université depuis 2017)
+\dt 30/Sep/2018
+
+\lx Kabara
+\ps n.prop
+\gf TOP
+\gvf Kabara
+\smf (une port près de Tombouctou)
+\dt 07/Feb/2017
+
+\lx Kabate
+\ps n.prop
+\gf TOP
+\gvf Kabaté
+\smf (village, cercle et région de Kayes)
+\dt 02/Mar/2019
+
+\lx Kabiyo
+\ps n.prop
+\gf TOP
+\gvf Kabio
+\smf (village, région de Mopti)
+\dt 06/Feb/2017
+
+\lx Kacɛna
+\ps n.prop
+\gf TOP
+\gvf Katiéna
+\smf (un village et commune, cercle et
+région de Ségou)
+\dt 24/Apr/2018
+
+\lx Kacɔrɔnin
+\ps n.prop
+\gf TOP
+\smf (un village de la région de Sikasso)
+\dt 04/Jun/2016
+
+\lx Kafuzera
+\ps n.prop
+\gf TOP
+\smf (nom d'un village, région de Sikasso)
+\dt 15/Oct/2017
+
+\lx Kahera
+\va Kahira
+\va Kahiira
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale de l'Egypte)
+\gvf Caire
+\ru Каир
+\dt 23/May/2010
+
+\lx Kajolo
+\ps n.prop
+\gf TOP
+\gvf Kadiolo
+\smf (cercle dans la province de Sikasso)
+\dt 01/Jun/2016
+
+\lx Kajolondugu
+\ps n.prop
+\gf TOP
+\gvf Kadiolo
+\smf (centre d'un cercle dans la province de Sikasso)
+\dt 30/Jan/2017
+
+\lx Kakolondugu
+\ps n.prop
+\gf TOP
+\smf (une commune de la région de Sikasso)
+\dt 04/Jun/2016
+
+\lx Kala
+\ps n.prop
+\gf TOP
+\gvf Kala
+\smf (village, cercle de Niono, région de Ségou)
+\dt 09/Apr/2017
+
+\lx Kalabanbugu
+\ps n.prop
+\gf TOP
+\gvf Kalabambougou
+\smf (un quartier de la commune 4 de Bamako)
+\dt 04/Jun/2016
+
+\lx Kalabankɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Kalaban-Coro
+\smf (commune au sud du Bamako)
+\dt 04/Jun/2016
+
+\lx Kalabankura
+\ps n.prop
+\gf TOP
+\gvf Kalaban-Coura
+\smf (un quartier dans la commune 5 de Bamako)
+\dt 04/Jun/2016
+
+\lx Kalabugu
+\ps n.prop
+\gf TOP
+\gvf Kalabougou
+\smf (village à 10 km de Ségou connu pas sa potterie)
+\dt 24/Mar/2017
+
+\lx Kalahari
+\ps n.prop
+\gf TOP
+\gvf Kalahari
+\smf (désert en Afrique du Sud)
+\dt 25/Apr/2018
+
+\lx Kalana
+\ps n.prop
+\gf TOP
+\gvf Kalana
+\smf (chef-lieu de la commune de Gouandiaka, cercle de Yanfolila,
+région de Sikasso)
+\dt 06/Feb/2017
+
+\lx Kalikuti
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Calicut
+\gvf Kolkata
+\dt 10/Mar/2018
+
+\lx Kamale
+\ps n.prop
+\gf TOP
+\smf (village, région de Ségou)
+\dt 16/May/2017
+
+\lx Kameruni
+\va Kamerun
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Cameroun
+\ru Камерун
+\dt 23/May/2010
+
+\lx Kanada
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Canada
+\ru Канада
+\dt 23/May/2010
+
+\lx Kanbiya
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Gambie
+\ru Гамбия
+\dt 23/May/2010
+
+\lx Kangaba
+\ps n.prop
+\gf TOP
+\gvf Kangaba
+\smf (une ville et un cercle dans la région de Koulikoro)
+\dt 04/Feb/2017
+
+\lx Kangura
+\ps n.prop
+\gf TOP
+\gvf Kangoura
+\smf (commune rurale, département de Loumana, province de
+Léraba, région des Cascades, Burkina Faso)
+\dt 04/Feb/2017
+
+\lx Kanina
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 06/Nov/2014
+
+\lx Kankaba
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 07/Nov/2014
+
+\lx Kánkan
+\ty г.
+\ru Канкан
+\ps n.prop
+\gf TOP
+\smf (ville de Guinée)
+\gvf Kankan
+\cm (в Гвинее)
+\dt 23/May/2010
+
+\lx Kano
+\ps n.prop
+\gf TOP
+\gvf Kano
+\smf (capitale de l'État de Kano, Nigeria)
+\dt 21/Feb/2017
+
+\lx Kanpala
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Kampala
+\ru Кампала
+\dt 23/May/2010
+
+\lx Kaɲaga Kirane
+\ps n.prop
+\gf TOP
+\gvf Kirané Kaniaga
+\smf (une commune dans le cercle de Yélimané, de Kayes)
+\dt 06/Feb/2017
+
+\lx Kapolondugu
+\ps n.prop
+\gf TOP
+\gvf Kapolondougou
+\smf (un commune rurale, cercle de Sikasso, région de Sikasso)
+\dt 31/Jan/2017
+
+\lx Kapu Wɛri
+\va Kapuwɛri
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Cap-Vert
+\ru Кабо-Верде
+\dt 23/May/2010
+
+\lx Karako
+\ps n.prop
+\gf TOP
+\gvf Karako
+\smf (village, région de Ségou)
+\dt 29/Mar/2017
+
+\lx Karakoro
+\ty р.
+\ru Каракоро
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Karakoro
+\cm (правый приток р. Сенегал)
+\dt 23/May/2010
+
+\lx Karan
+\ps n.prop
+\gf TOP
+\gvf Karan
+\smf (village et commune, cercle de Kangaba, région de Koulikoro)
+\dt 03/Mar/2019
+
+\lx Karangaso
+\ps n.prop
+\gf TOP
+\gvf Karangasso
+\smf (village, province de Sikasso)
+\dt 20/Mar/2017
+
+\lx Kàrata
+\ty ист.
+\ru Каарта
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Kaarta
+\cm (к северу от Бамако)
+\gf TOP
+\smf (nom de lieu)
+\dt 23/May/2010
+
+\lx Karayibu
+\ps n.prop
+\gf TOP
+\gvf Caraïbes
+\dt 30/Sep/2018
+
+\lx Kareri
+\ps n.prop
+\gf TOP
+\gvf Karéri
+\smf (une commune dans le cercle de Ténenkou, région de Mopti)
+\dt 31/Jan/2017
+
+\lx Karicemali
+\ps n.prop
+\gf TOP
+\gvf Quantrier Mali
+\smf (un quartier dans la commune 5 de Bamako)
+\dt 04/Jun/2016
+
+\lx Karitum
+\va Karitumu
+\di m
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale du Soudan)
+\gvf Khartoum
+\ru Хартум
+\dt 15/Sep/2016
+
+\lx Karo
+\ps n.prop
+\gf TOP
+\gvf Karo
+\smf (village, cercle de Kita, région de Kayes)
+\dt 02/Feb/2017
+
+\lx Kasamansi
+\ps n.prop
+\gf TOP
+\gvf Casamance
+\smf (région sud du Sénégal)
+\dt 22/Feb/2017
+
+\lx Kasaro
+\ps n.prop
+\gf TOP
+\gvf Kassaro
+\smf (ville et commune, cercle de Kita, région de Kayes)
+\dt 22/Feb/2017
+
+\lx Kasela
+\ps n.prop
+\gf TOP
+\gvf Kaséla
+\smf (cerce de Banamba, région de Koulikoro)
+\dt 23/May/2017
+
+\lx Katari
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Qatar
+\dt 15/Sep/2016
+
+\lx Kati
+\va Katibugu
+\ps n.prop
+\gf TOP
+\gvf Kati
+\smf (une ville et un cercle dans la région de Koulikoro)
+\dt 01/Feb/2017
+
+\lx Kaveri
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Cap-Vert
+\ru Кабо-Верде
+\dt 23/May/2010
+
+\lx Káwàya
+\di m
+\ty г.
+\ru Кавайа
+\cm (в Гвинее)
+\dt 27/Jan/2016
+\ps n.prop
+\gf TOP
+
+\lx Kawolaki
+\ps n.prop
+\gf TOP
+\gvf Kaolack
+\smf (une ville portuaire au Sénégal)
+\dt 04/Jun/2016
+
+\lx Káyì
+\ty г.
+\ru Каес
+\ps n.prop
+\gf TOP
+\smf (ville)
+\gvf Kayes
+\cm (на северо-западе Мали)
+\dt 23/May/2010
+
+\lx Kayo
+\ps n.prop
+\gf TOP
+\gvf Kayo
+\smf (un pont sur la route
+Bamako-Koulikoro)
+\dt 30/Sep/2018
+
+\lx Kazamansi
+\ty пров.
+\ru Казаманс
+\ps n.prop
+\gf TOP
+\smf (région du Sénégal)
+\gvf Casamance
+\cm (в Сенегале)
+\dt 23/May/2010
+
+\lx Kela
+\va Keela
+\ps n.prop
+\gf TOP
+\gvf Keyla
+\gvf Kela
+\smf (un village de griots maninka, à 10 km de Kangaba, région de Koulikoro)
+\dt 01/Mar/2019
+
+\lx Ke-Masina
+\ps n.prop
+\gf TOP
+\gvf Ké-Macina
+\smf (commune, cercle de Macina, région de Ségou)
+\dt 03/Mar/2019
+
+\lx Keniya
+\va Keninya
+\va Kenya
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Kenya
+\ru Кения
+\dt 23/May/2010
+
+\lx Kénzanbugu
+\ps n.prop
+\gf TOP
+\gvf Quinzambougou
+\smf (un quartier de la Commune 2 de Bamako)
+\dt 01/Jun/2016
+
+\lx Kerekumala
+\ps n.prop
+\gf TOP
+\smf (village, commune de Garalo, cercle de Bougouni, région de
+Sikasso)
+\dt 22/Feb/2017
+
+\lx Keri
+\va Kɛri
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale de l'Egypte)
+\gvf Caire
+\ru Каир
+\dt 04/Feb/2016
+
+\lx Keruwanɛ
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Kerouané
+\dt 05/Feb/2016
+
+\lx Kɛ̀ɛmasina
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Kè-Macina
+\dt 12/Aug/2017
+
+\lx Kɛlɛku
+\ps n.prop
+\gf TOP
+\gvf Kélékou
+\smf (village, région de Ségou)
+\dt 09/Apr/2017
+
+\lx Kɛlɛkunmana
+\ps n.prop
+\gf TOP
+\smf (rivière, près de Dioïla)
+\dt 16/Oct/2017
+
+\lx Kɛnɛdugu
+\va Kenedugu
+\ps n.prop
+\gf TOP
+\gvf Kénédougou
+\smf (royaume sénoufo en XVIII-XIX siècles, avec le centre à
+Sikasso)
+\dt 04/Feb/2017
+
+\lx Kɛɲɛba
+\ps n.prop
+\gf TOP
+\gvf Kéniéba
+\smf (une ville et un cercle dans la région de Kayes)
+\dt 31/Jan/2017
+
+\lx Kɛrɛna
+\ps n.prop
+\gf TOP
+\gvf Kéréna
+\smf (une commune dans le cercle de Douentza, région de Mopti)
+\dt 07/Feb/2017
+
+\lx Kidali
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 07/Nov/2014
+
+\lx Kigali
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Kigali
+\ru Кигали
+\dt 23/May/2010
+
+\lx Kilela
+\ps n.prop
+\gf TOP
+\gvf Kilela
+\smf (localité, région de Sikasso)
+\dt 23/Feb/2017
+
+\lx Kilimanjaro
+\ps n.prop
+\gf TOP
+\gvf Kilimanjaro
+\dt 20/Mar/2019
+
+\lx Kinsasa
+\va Kinshasa
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale de la RDC)
+\gvf Kinshassa
+\ru Киншаса
+\dt 04/Apr/2016
+
+\lx Kiɲan
+\ps n.prop
+\gf TOP
+\gvf Kignan
+\smf (une ville et commune à la cercle de Sikasso)
+\dt 22/Oct/2017
+
+\lx Kirango
+\ps n.prop
+\gf TOP
+\gvf Kirango
+\smf (un village, 35
+\dt 14/Mar/2018
+
+\lx Kirikizi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Kirghizie
+\dt 05/Feb/2017
+
+\lx Kirimalen
+\ps n.prop
+\gf TOP
+\gvf Kirimalen
+\smf (commune de Bankoumana, cercle de Kati, région de Koulikoro)
+\dt 03/Mar/2019
+
+\lx Kìsiduu
+\di m
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Kisidou
+\ru Кисиду
+\cm (Гвинея)
+\dt 23/May/2010
+
+\lx Kita
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (ville)
+\gvf Kita
+\ru Кита
+\cm (на северо-западе Мали)
+\dt 23/May/2010
+
+\lx Kofi
+\ps n.prop
+\gf TOP
+\gvf Kofi
+\smf (un village et mine d'or, commune rurale de Sitakili, cercle de
+Kéniéba)
+\dt 01/Feb/2017
+
+\lx Kogoni
+\ps n.prop
+\gf TOP
+\gvf Kogoni
+\smf (station agricole, région de Ségou, vers le nord de Banamba)
+\dt 15/Jun/2017
+
+\lx Kokiri
+\ps n.prop
+\gf TOP
+\gvf Kokiri
+\smf (village, au nord de Ségou)
+\dt 15/Jun/2017
+
+\lx Kolama
+\ps n.prop
+\gf TOP
+
+\lx Kolinbine
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Kolimbiné
+\gvf Colimbiné
+\smf (village et commune, cercle et région de Kayes)
+\dt 01/Jun/2017
+
+\lx Kolinbinna
+\ty р.
+\ru Колинбинна
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Colimbiné
+\cm (правый приток реки Сенегал)
+\dt 23/May/2010
+
+\lx Kolongo
+\ps n.prop
+\gf TOP
+\gvf Kolongo
+\smf (commune dans le cercle de Macina, région de Ségou)
+\dt 08/Feb/2016
+
+\lx Kolongotomo
+\ps n.prop
+\gf TOP
+\smf (un village entre Ségou et Mopti)
+\dt 04/Jun/2016
+
+\lx Kolonina
+\ps n.prop
+\gf TOP
+\gvf Kolonina
+\smf (village, région de Sikasso)
+\dt 15/Jun/2017
+
+\lx Kòngo
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Congo
+\ru Конго
+\dt 23/May/2010
+
+\lx Kongo Baraza
+\va Kongo Barazawili
+\ps n.prop
+\gf TOP
+\smf (pays  République du Congo)
+\gvf Congo-Brazzaville
+\dt 22/Feb/2017
+
+\lx Kòngo Demokaratiki
+\ps n.prop
+\gf TOP
+\smf (pays, RDC)
+\gvf République Démocratique du Congo
+\dt 22/Feb/2017
+
+\lx Konina
+\ps n.prop
+\gf TOP
+\gvf Konina
+\smf (une commune, cercle de Koutiala,
+région de Sikasso)
+\dt 24/Apr/2018
+
+\lx Konu
+\ps n.prop
+\gf TOP
+\gvf Konou
+\smf (un village)
+\dt 17/May/2017
+
+\lx Kore
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Corée
+\ru Корея
+\dt 31/Jan/2017
+
+\lx Koredisidi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Corée du Sud
+\dt 31/Jan/2017
+
+\lx Koriyanze
+\ps n.prop
+\gf TOP
+\gvf Korientzé
+\smf (village, chef-lieu de la commune de Korombana, cercle et
+région de Mopti)
+\dt 03/Jun/2017
+
+\lx Koriyɔme
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village à 10 km de Tombouctou)
+\dt 02/May/2019
+
+\lx Koro
+\ps n.prop
+\gf TOP
+\gvf Koro
+\smf (cercle dans la région de Mopti)
+\dt 31/Jan/2017
+
+\lx Korogo
+\ps n.prop
+\gf TOP
+\gvf Korhogo
+\smf (4e ville de Côte d'Ivoire, chef-lieu du District des Savanes et
+de la Région du Poro)
+\dt 05/Feb/2017
+
+\lx Korowasi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Croatie
+\dt 24/Oct/2016
+
+\lx Kotonu
+\va Kotonun
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale du Bénin)
+\gvf Cotonou
+\ru Котону
+\dt 23/May/2010
+
+\lx Kówɛti
+\ty гос.
+\ru Кувейт
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Koweït
+\dt 05/Apr/2016
+
+\lx Kɔdugu
+\ps n.prop
+\gf TOP
+\gvf Kodougou
+\smf (village, commune rurale de Doubabougou, cercle de Kati,
+région de Koulikoro)
+\dt 01/Feb/2017
+
+\lx Kɔdumandala
+\ps n.prop
+\gf TOP
+\smf (village, commune de Nonkon, cercle et région de Kolokani)
+\dt 10/Mar/2018
+
+\lx Kɔjalanda
+\ps n.prop
+\gf TOP
+\gvf Kodialanda
+\smf (lieu de culte, commune Nonsonbougou, cercle de Kolokani,
+région de Koulikoro)
+\dt 05/Feb/2017
+
+\lx Kɔkɛbugu
+\ps n.prop
+\gf TOP
+\gvf Kokebougou
+\smf (village, cercle et région de Ségou)
+\dt 01/Apr/2017
+
+\lx Kɔkuna
+\ps n.prop
+\gf TOP
+\smf (un village dans la commune de Kakolondugu, Sikaso)
+\dt 04/Jun/2016
+
+\lx Kɔla
+\ps n.prop
+\gf TOP
+\ms 1
+\gvf Kola
+\smf (commune, cercle de Bougouni, région de Sikasso)
+\ms 2
+\gvf Kola
+\smf (un village de la commune de Safo, cercle de Kati, région de Koulikoro)
+\dt 03/Mar/2019
+
+\lx Kɔlena
+\ps n.prop
+\gf TOP
+\gvf Koléla
+\smf (village dans la commune de Ouelessébougou, cercle de Kati,
+région de Koulikoro)
+\dt 30/Apr/2017
+
+\lx Kɔlɔkanin
+\va Kɔlɔkani
+\va Kolokanin
+\ve Kolokani
+\ps n.prop
+\gf TOP
+\gvf Kolokani
+\smf (une ville et un cercle dans la région de Koulikoro)
+\dt 05/Feb/2017
+
+\lx Kɔlɔnbi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Colombie
+\dt 20/Mar/2017
+
+\lx Kɔlɔnjɛba
+\ps n.prop
+\gf TOP
+\gvf Kolondiéba
+\smf (ville et cercle, région de Sikasso)
+\dt 01/Feb/2017
+
+\lx Kɔminɛ
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf nom d'un village
+\dt 27/Feb/2017
+
+\lx Kɔmɔri
+\va Kɔmɔɔru
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Comores
+\ru Коморские острова
+\dt 23/May/2010
+
+\lx Kɔ́nakiri
+\ty г.
+\ru Конакри
+\ps n.prop
+\gf TOP
+\smf (capitale de la Guinée)
+\gvf Conakry
+\cm (столица Гвинеи)
+\dt 23/May/2010
+
+\lx Kɔnna
+\ps n.prop
+\gf TOP
+\gvf Konna
+\smf (commune et village dans le cercle et la région de Mopti)
+\dt 04/Jun/2016
+
+\lx Kɔnɔbugu
+\ps n.prop
+\gf TOP
+\gvf Konobougou
+\smf (village et commune, cercle de Barouéli, région de Ségou)
+\dt 25/Mar/2017
+
+\lx Kɔ́nɔdiminin
+\va Kɔ́nɔdimini
+\ps n.prop
+\gf TOP
+\gvf Konodimini
+\smf (village et commune rurale à l'ouest de Ségou, cercle et
+région de Ségou)
+\dt 11/Mar/2018
+
+\lx Kɔ́nɔwàri
+\va Kodiwari
+\va Konteware
+\va Kontuware
+\va Kɔ́ntɔwàri
+\va Konowari
+\va Kɔ́dìwari
+\va Kotiwari
+\va Kɔdɔwari
+\va RCI
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Côte d'Ivoire
+\ru Кот-д'Ивуар
+\dt 14/Mar/2018
+
+\lx Kɔnsegela
+\ps n.prop
+\gf TOP
+\gvf Konséguéla
+\smf (une commune, cercle de Koutiala,
+région de Sikasso)
+\dt 24/Apr/2018
+
+\lx Kɔ̀rɛ
+\ps n.prop
+\gf TOP
+\smf (village historique)
+\dt 24/Jul/2017
+
+\lx Kɔrisika
+\ps n.prop
+\gf TOP
+\smf (région de France)
+\gvf Corse
+\dt 11/Mar/2018
+
+\lx Kɔrɔdu
+\ps n.prop
+\gf TOP
+\smf (ville d'Espagne)
+\gvf Cordoue
+\dt 06/Feb/2017
+
+\lx Kɔ́rɔfina
+\va Korofinna
+\ps n.prop
+\gf TOP
+\gvf Korofina
+\smf (un quartier de la Commune 1 de Bamako)
+\cm (в Бамако)
+\dt 01/Jun/2016
+
+\lx Kɔsabugu
+\ps n.prop
+\gf TOP
+\gvf Kossabougou
+\smf (village, région de Ségou)
+\dt 25/Mar/2017
+
+\lx Kɔsitarika
+\ps n.prop
+\gf TOP
+\gvf Costa-Rica
+\dt 09/Dec/2018
+
+\lx Kɔtuba
+\ps n.prop
+\gf TOP
+\gvf Kotouba
+\smf (commune dans le cercle de Kita, région de Kayes)
+\dt 22/Feb/2017
+
+\lx Kuba
+\va Kiba
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Cuba
+\dt 08/Feb/2017
+
+\lx Kubi
+\ps n.prop
+\gf TOP
+\gvf Koubi
+\smf (chef-lieu de la commune de Ouro Guiré, cercle de
+Ténenkou, région de Mopti)
+\dt 06/Feb/2017
+
+\lx Kucala
+\ps n.prop
+\gf TOP
+\gvf Koutiala
+\smf (ville et cercle, région de Sikasso)
+\dt 09/Apr/2017
+
+\lx Kùluba
+\ps n.prop
+\gf TOP
+\gvf Koulouba
+\smf (résidence du Président du Mali)
+\dt 04/Jun/2016
+
+\lx Kùlubilennin
+\ps n.prop
+\gf TOP
+\gvf Kouloubilenni
+\smf (un sous-quartier de Boulkassombougou, dans la Commune 1
+de Bamako)
+\dt 16/Jun/2017
+
+\lx Kulukɔrɔ
+\va Kulikɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Koulikoro
+\smf (une ville et un région)
+\dt 03/Mar/2019
+
+\lx Kulun
+\ps n.prop
+\gf TOP
+\gvf Khouloum
+\smf (une commune, cerce et région de Kayes)
+\dt 03/Mar/2019
+
+\lx Kuluninkɔ
+\ps n.prop
+\gf TOP
+\gvf Koulouninko
+\smf (un quartier dans la commune 3 de Bamako)
+\dt 04/Jun/2016
+
+\lx Kumantun
+\ps n.prop
+\gf TOP
+\gvf Koumantou
+\smf (commune et ville, cercle de Bougouni, région de Sikasso)
+\dt 20/Mar/2017
+
+\lx Kùnbi
+\va Kɔ̀nmi
+\va Kùnbi Sálahà
+\ps n.prop
+\gf TOP
+\gvf Koumbi-Saleh
+\smf (la capitale de l'Ancien Ghana)
+\dt 27/Feb/2017
+
+\lx Kunɲa
+\ps n.prop
+\gf TOP
+\smf (nom d'un village)
+\dt 16/Oct/2017
+
+\lx Kùrankɔ
+\di m
+\ty обл.
+\ru Куранко
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Kouranko
+\cm (к западу от Кисидугу, на территории Гвинеи и
+Сьерра-Леоне; также одноимённый народ)
+\dt 23/May/2010
+
+\lx Kuruba
+\ps n.prop
+\gf TOP
+\gvf Kourouba
+\smf (village et commune, cercle de Kati, cercle de Koulikoro)
+\dt 30/Apr/2017
+
+\lx Kurukanfuga
+\ps n.prop
+\gf TOP
+
+\lx Kuruma
+\ps n.prop
+\gf TOP
+\gvf Kourouma
+\smf (commune dans le cercle et la région de Sikasso)
+\dt 10/Mar/2018
+
+\lx Kurusa
+\va Kodosa
+\ty г.
+\ru Куруса
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Kouroussa
+\cm (на северо-востоке Гвинеи)
+\dt 23/May/2010
+
+\lx Kuwala
+\ps n.prop
+\gf TOP
+\smf (une ville, pas trop loin de Mourdiah?)
+\dt 30/Jan/2017
+
+\lx Kuworo
+\ps n.prop
+\gf TOP
+\gvf Kouoro
+\smf (commune, cercle et région de Sikasso)
+\dt 23/Feb/2017
+
+\lx Labezanga
+\ps n.prop
+\gf TOP
+\smf (port sur le fleuve Niger)
+\dt 05/Feb/2016
+
+\lx Láfìyábugu
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\cm (в Бамако)
+\dt 05/Dec/2010
+
+\lx Làgíne
+\va Làgínɛ
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Guinée
+\dt 09/Dec/2018
+
+\lx Lagine Bisawo
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Guinée-Bissau
+\ru Гвинея-Бисау
+\dt 23/May/2010
+
+\lx Lagɔsi
+\va Legɔsi
+\va Legosi
+\va Lagos
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale du Nigeria)
+\gvf Lagos
+\ru Лагос
+\dt 31/May/2016
+
+\lx Lahɛyi
+\ps n.prop
+\gf TOP
+\smf (ville de Hollande)
+\gvf La Haye
+\dt 13/Jun/2018
+
+\lx Lasa
+\ps n.prop
+\gf TOP
+\gvf Lassa
+\smf (un quartier de la commune 4 de Bamako)
+\dt 04/Jun/2016
+
+\lx Lasi Palimasi
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Lasi Palimasi
+\dt 01/Jun/2016
+
+\lx Leninigaradi
+\ps n.prop
+\gf TOP
+\gvf Léningrade
+\dt 12/Dec/2018
+
+\lx Lere
+\ps n.prop
+\gf TOP
+\gvf Léré
+\smf (ville et commune dans le cercle de Niafunké, région de
+Tombouctou)
+\dt 24/Oct/2016
+
+\lx Liban
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Liban
+\dt 10/Mar/2018
+
+\lx Liberewili
+\va Liberewuli
+\ps n.prop
+\gf TOP
+\smf (capitale du Gabon)
+\gvf Libreville
+\dt 16/Jun/2017
+
+\lx Líbɛriya
+\va Lábiriya
+\va Líberiya
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Liberia
+\ru Либерия
+\dt 05/Apr/2016
+
+\lx Libi
+\ty гос.
+\ru Ливия
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Libye
+\dt 23/May/2010
+
+\lx Lituyani
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Lituanie
+\dt 01/Jun/2016
+
+\lx Liwɛripuli
+\ps n.prop
+\gf TOP
+\smf (ville de Grande-Bretagne)
+\gvf Liverpool
+\dt 15/Sep/2016
+
+\lx Lolonin
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 17/May/2017
+
+\lx Lomɛ
+\va Lome
+\ps n.prop
+\gf TOP
+\smf (capitale du Togo)
+\gvf Lomé
+\ru Ломе
+\dt 23/Feb/2017
+
+\lx Lorenso-Marikɛs
+\ty г.
+\ru Лоренсу-Маркеш
+\ps n.prop
+\gf TOP
+\smf (ancien nom de Maputo, capitale du Mozambique)
+\gvf Lourenço Marques
+\cm (c 1976 г. - Мапуту)
+\dt 23/May/2010
+
+\lx Lɔnduru
+\ps n.prop
+\gf TOP
+\smf (capitale de la Grande-Bretagne)
+\gvf Londre
+\dt 31/May/2016
+
+\lx Lukusanburugu
+\va Likizanburi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\dt 03/Mar/2019
+
+\lx Lusaka
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale de la Zambie)
+\gvf Lusaka
+\ru Лусака
+\dt 23/May/2010
+
+\lx Lutana
+\ps n.prop
+\gf TOP
+\gvf Loutana
+\smf (village, commune de Klela, cercle et région de Sikasso)
+\dt 11/Mar/2018
+
+\lx Luwanda
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale de l'Angola)
+\gvf Loanda
+\ru Луанда
+\dt 23/May/2010
+
+\lx Màafɛya
+\ps n.prop
+\gf TOP
+\gvf Mafeya
+\smf (village, 12 km au nord de Koulikoro)
+\dt 26/Feb/2017
+
+\lx Madagasikari
+\va Madagaasi
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Madagascar
+\ru Мадагаскар
+\dt 23/May/2010
+
+\lx Màdina
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (ville d'Arabie Saoudite)
+\gvf Médine
+\ru Медина
+\dt 23/May/2010
+
+\lx Madinɛkura
+\ps n.prop
+\gf TOP
+\gvf Madine-Koura
+\gvf Medine-Koura
+\smf (un grand marché à Bamako)
+\dt 03/Mar/2019
+
+\lx Madiridi
+\ps n.prop
+\gf TOP
+\smf (capitale de l'Espagne)
+\gvf Madrid
+\dt 05/Feb/2016
+
+\lx Máka
+\va Mákan
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (ville d'Arabie Saoudite, lieu saint de l'Islam)
+\gvf La Mecque
+\ru Мекка
+\dt 23/May/2010
+
+\lx Malawi
+\ty гос.
+\ru Малави
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Malawi
+\dt 23/May/2010
+
+\lx Malɛndi
+\ps n.prop
+\gf TOP
+\gvf Malindi
+\smf (une villa au nord de Mombasa)
+\dt 10/Mar/2018
+
+\lx Malɛzi
+\va Malezi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Malaisie
+\dt 23/Feb/2017
+
+\lx Màli
+\ty гос.
+\ru Мали
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Mali
+\dt 26/Mar/2014
+
+\lx Malikila
+\ps n.prop
+\gf TOP
+\gvf Malikila
+\smf (village, cerce de Yanfolila, région de Sikasso)
+\dt 15/Jun/2017
+
+\lx Malodo
+\ps n.prop
+\gf TOP
+\gvf Malodo
+\smf (un village sur le fleuve Sénégal au sud de Kayes)
+\dt 03/Mar/2019
+
+\lx Mamun
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Mamou
+\ru Маму
+\dt 23/May/2010
+
+\lx Manantali
+\ps n.prop
+\gf TOP
+\gvf Manantali
+\smf (barrage hydroélectrique sur le Bafing, à 90 km au sud-est de Bafoulabé)
+\dt 11/Mar/2018
+
+\lx Mànden
+\ps n.prop
+\gf TOP
+\smf (région)
+
+\lx Manɛ
+\ps n.prop
+\gf TOP
+\gvf Mane
+\smf (village, région de Ségou)
+\dt 09/Apr/2017
+
+\lx Mani
+\ps n.prop
+\gf TOP
+\gvf Mani
+\smf (un village)
+\dt 17/May/2017
+
+\lx Manta
+\ps n.prop
+\gf TOP
+\gvf Manta
+\smf (village, cercle de Kolokani, région de Koulikoro)
+\dt 02/Feb/2017
+
+\lx Maɲanbugu
+\ps n.prop
+\gf TOP
+\gvf Magnambougou
+\smf (un quartier à la commune 6 de Bamako)
+\dt 04/Jun/2016
+
+\lx Maputo
+\ps n.prop
+\gf TOP
+\gvf Maputo
+\smf (la capitale du Mozambique)
+\dt 03/Mar/2019
+
+\lx Marakakongo
+\ps n.prop
+\gf TOP
+\gvf Marakakongo
+\smf (commune, cercle et région de Koulikoro)
+\dt 11/Mar/2018
+
+\lx Marakala
+\ps n.prop
+\gf TOP
+\gvf Markala
+\smf (commune, cercle de Ségou)
+\dt 09/Apr/2017
+
+\lx Marakɛsi
+\ps n.prop
+\gf TOP
+\smf (ville du Maroc)
+\gvf Marrakech
+\dt 30/Apr/2017
+
+\lx Maren-Jɔnbugu
+\ps n.prop
+\gf TOP
+\gvf Maréna-Diombougou
+\smf (un commune, cercle et région de Kayes)
+\dt 03/Mar/2019
+
+\lx Marenna
+\ps n.prop
+\gf TOP
+\gvf Marena
+\smf (village, centre de commune Tringa, cercle de Yélimané,
+région de Kayes)
+\dt 06/Feb/2017
+
+\lx Masabugu
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 07/Nov/2014
+
+\lx Masala
+\ps n.prop
+\gf TOP
+\ms 1
+\gvf Massala
+\smf (un village, région de Kayes)
+\ms 2
+\gvf Massala
+\smf (un village, région de Sikasso)
+\dt 03/Mar/2019
+
+\lx Màsanta
+\va Màsantan
+\di m
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Masanta
+\ru Масента
+\dt 23/May/2010
+
+\lx Masantɔla
+\ps n.prop
+\gf TOP
+\gvf Massantola
+\smf (petite ville et commune, cercle de Kolokani, région de
+Koulikoro)
+\dt 01/Feb/2017
+
+\lx Maseru
+\ty г.
+\ru Масеру
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Maseru
+\dt 23/May/2010
+
+\lx Masigi
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Massigui
+\cm une ville à Baninko
+\dt 18/Apr/2014
+
+\lx Másina
+\va Máasina
+\ty ист.
+\ru Масина
+\ps n.prop
+\gf TOP
+\gvf Masina
+\smf (ville et cercle au Mali)
+\cm (в Мали, с центром в г. Мопти)
+\dt 08/Feb/2016
+
+\lx Maso
+\ps n.prop
+\gf TOP
+\gvf Masso
+\smf (village, cercle de Ténenkou, région de Mopti)
+\dt 06/Feb/2017
+
+\lx Medinakura
+\ps n.prop
+\gf TOP
+\gvf Médina-coura
+\smf (un quartier de la Commune 2 de Bamako)
+\dt 01/Jun/2016
+
+\lx Medini
+\ps n.prop
+\gf TOP
+\gvf Médine
+\smf (ville de commune Haya Dembaya, cercle et région de Kayes)
+\dt 11/Mar/2018
+
+\lx Mediterane
+\ty м.
+\ps n.prop
+\gf TOP
+\smf (mer)
+\gvf Méditerranée
+\ru Средиземное
+\dt 23/May/2010
+
+\lx Menaka
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Ménaka
+\dt 05/Feb/2016
+
+\lx Mɛ́din
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Ségou)
+\gvf Médine
+\cm (в Сегу)
+\dt 05/Dec/2010
+
+\lx Mɛ́dìnákura
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\gvf Médinacoura
+\cm (в Бамако)
+\dt 05/Dec/2010
+
+\lx Mɛ́ɛmà
+\ps n.prop
+\gf TOP
+\gvf Mema
+\smf (une zone de l'ancien peuplement au nord de Massina, un de
+royaumes successeurs de l'Ancien Ghana)
+\xf
+\dt 27/Feb/2017
+
+\lx Mɛ́ɛmà
+\ps n.prop
+\gf TOP
+\gvf Méma
+\smf (zone au nord de Massina, une province importante de l'Ancien
+Ghana)
+\dt 07/Jun/2017
+
+\lx Mɛkisiki
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Mexique
+\ru Мексика
+\dt 23/May/2010
+
+\lx Mɛlɛwɛrɛ
+\ps n.prop
+\gf TOP
+\gvf Mèlèwèrè
+\smf (un village peul, à l'ouest de Ségou)
+\dt 17/May/2017
+
+\lx Milo
+\ty р.
+\ps n.prop
+\gf TOP
+\smf (ville de Guinée)
+\gvf Milo
+\ru Мило
+\cm (в Гвинее, приток Нигера)
+\dt 23/May/2010
+
+\lx Mimana
+\ps n.prop
+\gf TOP
+\gvf Mimana
+\smf (village dans la commune de Farako, cercle et région de
+Ségou)
+\dt 01/May/2017
+
+\lx Miniyanbalandugu
+\ps n.prop
+\gf TOP
+\gvf Minianbalandougou
+\smf (village, préfecture de Kérouané)
+\dt 15/Jun/2017
+
+\lx Miɲon
+\ps n.prop
+\gf TOP
+\smf (un village)
+\dt 15/Mar/2018
+
+\lx Misabugu
+\ps n.prop
+\gf TOP
+\gvf Missabougou
+\smf (un quartier dans la commune 6 de Bamako)
+\dt 04/Jun/2016
+
+\lx Miseni
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Misséni
+\dt 22/May/2016
+
+\lx Misira
+\ps n.prop
+\gf TOP
+\gvf Missira
+\smf (un quartier de la Commune 2 de Bamako)
+\dt 01/Jun/2016
+
+\lx Mísìra
+\va Mísìran
+\va Mísɛ̀r
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Égypte
+\ru Египет
+\dt 05/Dec/2010
+
+\lx Mogadisho
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale de la Somalie)
+\gvf Mogadiscio
+\ru Могадишо
+\dt 23/May/2010
+
+\lx Molodo
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 05/Feb/2016
+
+\lx Monako
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Monaco
+\dt 30/Jan/2017
+
+\lx Moribabugu
+\ps n.prop
+\gf TOP
+\gvf Moribabougou
+\smf (un village et commune, cercle de Kati, région de Koulikoro)
+\dt 03/Mar/2019
+
+\lx Mórila
+\ps n.prop
+\gf TOP
+\gvf Morila
+\smf (mine d'or, région de Sikasso)
+\dt 16/May/2017
+
+\lx Móritani
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Mauritanie
+\ru Мавритания
+\dt 23/May/2010
+
+\lx Móti
+\va Mɔ́ti
+\va Mɔputi
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (ville)
+\gvf Mopti
+\ru Мопти
+\dt 09/Apr/2017
+
+\lx Mozanbiki
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Mozambique
+\ru Мозамбик
+\dt 31/Jan/2017
+
+\lx Mɔlidawi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Moldavie
+\dt 03/Jun/2018
+
+\lx Mɔ́ngoli
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Mongolie
+\ru Монголия
+\dt 23/May/2010
+
+\lx Mɔninpebugu
+\va Moninpebugu
+\ps n.prop
+\gf TOP
+\gvf Monimpébougou
+\smf (commune, cercle de Macina)
+\dt 13/Mar/2018
+
+\lx Mɔrɔbiya
+\va Mɔnrɔviya
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale du Libéria)
+\gvf Monrovia
+\ru Монровия
+\dt 23/May/2010
+
+\lx Mɔ̀rɔkù
+\va Marɔku
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Maroc
+\ru Марокко
+\dt 23/May/2010
+
+\lx Mɔsuku
+\ps n.prop
+\gf TOP
+\smf (capitale de la Russie)
+\gvf Moscou
+\dt 03/Feb/2017
+
+\lx Muniya
+\ps n.prop
+\gf TOP
+\gvf Mounia
+\smf (village, région de Mopti)
+\dt 03/Jun/2017
+
+\lx Muntugula
+\ps n.prop
+\gf TOP
+\gvf Mountougoula
+\smf (village et commune, cercle de Kati, cercle de Koulikoro)
+\dt 30/Apr/2017
+
+\lx Muruja
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Mourdiah
+\dt 23/Feb/2014
+
+\lx Musabugu
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 23/Feb/2014
+
+\lx Nabilabugu
+\ps n.prop
+\gf TOP
+\gvf Nabilabougou
+\smf (village, commune de Togou, cercle et région de Ségou, près de Markala)
+\dt 03/May/2019
+
+\lx Nairobi
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale du Nigéria)
+\gvf Nairobi
+\ru Найроби
+\dt 23/May/2010
+
+\lx Namibi
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Namibie
+\ru Намибия
+\dt 23/May/2010
+
+\lx Nangola
+\ps n.prop
+\gf TOP
+\gvf Nangola
+\smf (commune dans le cercle de Dioïla, région de Koulikoro)
+\dt 11/Mar/2018
+
+\lx Nangolo
+\ps n.prop
+\gf TOP
+\smf (une commune)
+\dt 23/Oct/2016
+
+\lx Nanpala
+\ps n.prop
+\gf TOP
+\gvf Nampala
+\smf (chef-lieu de commune de Nampalari dans le cercle de Niono,
+région de Ségou)
+\dt 24/Oct/2016
+
+\lx Nara
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Nara
+\dt 05/Feb/2016
+
+\lx Narena
+\ps n.prop
+\gf TOP
+\gvf Naréna
+\smf (village et commune, cercle de Kangaba, région de Koulikoro, à la frontière avec la Guinée)
+\dt 13/Mar/2018
+
+\lx Nawajɛ
+\ps n.prop
+\gf TOP
+\gvf Naouadié
+\smf (village, commune de Dioungani, cercle de Koro, région de
+Mopti)
+\dt 09/Mar/2018
+
+\lx Nbaban
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Mbaban
+\ru Мбабане
+\dt 23/May/2010
+
+\lx Nbewani
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 05/Feb/2016
+
+\lx Nbɛso
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 16/May/2017
+
+\lx NBɛwani
+\ps n.prop
+\gf TOP
+\smf (village, cercle de Niono, région de Ségou)
+\dt 07/Feb/2017
+
+\lx Ncila
+\ps n.prop
+\gf TOP
+\smf (un village, commune de Niéna, cercle et région de Sikasso)
+\dt 15/Oct/2017
+
+\lx N'daki
+\ps n.prop
+\gf TOP
+\gvf N'Daki
+\smf (une localité, région de Gao)
+\dt 22/Feb/2017
+
+\lx Ndebugu
+\ps n.prop
+\gf TOP
+\gvf
+\smf (village et commune, cercle de Niono, région de Ségou)
+\dt 03/Mar/2019
+
+\lx Nɛgɛkɔ
+\ps n.prop
+\gf TOP
+\smf (nom d'un village)
+\dt 15/Oct/2017
+
+\lx Nɛgɛla
+\ps n.prop
+\gf TOP
+\gvf Negela
+\smf (village, 60 km nord-ouest de Bamako)
+\dt 03/Mar/2019
+
+\lx Ngaara
+\ps n.prop
+\gf TOP
+\gvf N'Gara
+\smf (village et commune, cercle et région de Ségou)
+\dt 11/Mar/2018
+
+\lx Ngara
+\ps n.prop
+\gf TOP
+\gvf Ngara
+\smf (village, région de Ségou)
+\dt 02/May/2017
+
+\lx Ngolonina
+\ps n.prop
+\gf TOP
+\gvf N'Golonina
+\smf (marché artisanal à la Commune II, Bamako)
+\dt 03/Mar/2019
+
+\lx Ngorongoro
+\ps n.prop
+\gf TOP
+\gvf Ngorongoro
+\smf (cratère et massif de montagnes au nord de Tanzanie)
+\dt 02/Mar/2019
+
+\lx Ngɔmi
+\ps n.prop
+\gf TOP
+\gvf Ngami
+\smf (un lac en Botswana, dans le désert du Kalahari, alimenté par l'Okavango et par le Taughe)
+\dt 02/May/2018
+
+\lx Nili
+\ps n.prop
+\gf TOP
+\smf (fleuve)
+\gvf Nil
+\dt 15/Sep/2016
+
+\lx Nisi
+\ps n.prop
+\gf TOP
+\gvf Nice
+\smf (ville en France)
+\dt 02/May/2019
+
+\lx Niyɔriki
+\va Niyɔrɔki
+\ps n.prop
+\gf TOP
+\smf (ville des Etats-Unis)
+\gvf New-York
+\dt 02/May/2017
+
+\lx Nizɛri
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Niger
+\ru Нигер
+\dt 23/May/2010
+
+\lx Nizɛriya
+\va Nizeriya
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Nigeria
+\ru Нигерия
+\dt 05/Feb/2016
+
+\lx Njela
+\ps n.prop
+\gf TOP
+\gvf Ndiéla
+\smf (village, région de Ségou)
+\dt 17/May/2017
+
+\lx Nkamandugu
+\ps n.prop
+\gf TOP
+\gvf N'Koumandougou
+\smf (commune, cercle de Ségou)
+\dt 20/Mar/2017
+
+\lx Nkuma
+\ps n.prop
+\gf TOP
+\smf (village, cercle de Douentza, région de Mopti)
+\dt 03/Jun/2018
+
+\lx Nɔgɔlaso
+\ps n.prop
+\gf TOP
+\smf (village, commune de Sinzan, cercle de Sikasso)
+\dt 03/Jun/2018
+
+\lx Nɔnkɔn
+\ps n.prop
+\gf TOP
+\gvf Nonkon
+\smf (commune, cercle de Kolokani, région de Koulikoro)
+\dt 03/Jun/2018
+
+\lx Nɔnsɔnbugu
+\va Nɔsɔnbugu
+\va Nɔsɔnbugu
+\va Nosɔnbugu
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Nonsonbougou
+\gvf Nonssonbougou
+\smf (commune, cercle de Kolokani, région de Koulikoro)
+\dt 06/Feb/2017
+
+\lx Nɔriwɛzi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Norvège
+\dt 31/May/2016
+
+\lx Npakurun
+\ps n.prop
+\gf TOP
+\smf (nom d'un village)
+\dt 16/Oct/2017
+
+\lx Npankunkurun
+\ps n.prop
+\gf TOP
+\smf (village de la commune de Niéna, cercle et région de Sikasso)
+\dt 18/Oct/2017
+
+\lx Npedugu
+\ps n.prop
+\gf TOP
+\gvf M'Pêdougou
+\smf (village, commune de Farakala, cercle de Sikasso, région de
+Sikasso)
+\dt 05/Feb/2017
+
+\lx Npeserebugu
+\ps n.prop
+\gf TOP
+\gvf N'Pesserébougou
+\smf (village, commune de Massantola, cercle de Kolokani, région
+de Koulikoro)
+\dt 01/Feb/2017
+
+\lx Nsensana
+\ps n.prop
+\gf TOP
+\gvf Cinzana
+\smf (village et commune rurale, cercle et région de Ségou)
+\dt 24/Mar/2017
+
+\lx Ntarala
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 30/Jan/2017
+
+\lx Ntarla
+\ps n.prop
+\gf TOP
+\gvf N'Tarla
+\smf (station de recherche agronomique au sud du Mali)
+\dt 23/May/2017
+
+\lx Ntòmikɔrɔbugu
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\cm (в Бамако)
+\dt 05/Dec/2010
+
+\lx Nuwasɔti
+\va Nuwashɔti
+\va Nuwakishot
+\ps n.prop
+\gf TOP
+\gvf Nouakchott
+\smf (capitale de la Mauritanie)
+\dt 03/Mar/2019
+
+\lx Nuwɛlikalidoni
+\ps n.prop
+\gf TOP
+\smf (collectivité française)
+\gvf Nouvelle-Calédonie
+\dt 17/May/2017
+
+\lx Nuwɛlizelandi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Nouvelle-Zélande
+\dt 01/Feb/2017
+
+\lx Nzɛ́rɛkɔ̀rɛ
+\va Nsɛrɛgbɛ̀dɛ
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Nzérékoré
+\ru Нзерекоре
+\cm (в Гвинее)
+\dt 23/May/2010
+
+\lx Ɲaamɛ
+\ps n.prop
+\gf TOP
+\smf (capitale du Niger)
+\gvf Niamey
+\dt 05/Feb/2016
+
+\lx Ɲafunke
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Niafunké
+\gvf Niafounké
+\smf (chef-lieu de la commune de Soboundou et du cercle de
+Niafunké, région de Tombouctou)
+\dt 05/Feb/2017
+
+\lx Ɲagadina
+\ps n.prop
+\gf TOP
+\gvf Niagadina
+\smf (village et commune, cercle de Kati, cercle de Koulikoro)
+\dt 30/Apr/2017
+
+\lx Ɲagasola
+\ps n.prop
+\gf TOP
+\gvf Niagassola
+\smf (centre de sous-préfecture, préfecture de Siguiri, région de Kankan, Guinée)
+\dt 01/Mar/2019
+
+\lx Ɲamakɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Niamakoro
+\smf (un quartier dans la commune 6 de Bamako)
+\dt 04/Jun/2016
+
+\lx Ɲamala
+\ps n.prop
+\gf TOP
+\gvf Gniamala
+\smf (un village)
+\dt 03/May/2019
+
+\lx Ɲámina
+\ps n.prop
+\gf TOP
+\gvf Nyamina
+\smf (village dans le cercle et région de Koulikoro, à la rive
+gauche du Niger)
+\dt 26/Feb/2017
+
+\lx Ɲangayi
+\ty оз.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Niangay
+\ru Ниангай
+\cm (в Мали, к востоку от внутренней дельты Нигера)
+\dt 23/May/2010
+
+\lx Ɲàni
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Niani
+\ru Ньяани
+\cm (столица древнего Мали)
+\dt 23/May/2010
+
+\lx Ɲanina
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 11/Mar/2018
+
+\lx Ɲárɛla
+\va Ɲáarela
+\va Ɲáarɛla
+\va Ɲárela
+\ps n.prop
+\gf TOP
+\gvf Niaréla
+\smf (un quartier de la Commune 2 de Bamako)
+\dt 09/Dec/2018
+
+\lx Ɲaro
+\ps n.prop
+\gf TOP
+\gvf Niaro
+\smf (village, région de Ségou)
+\dt 16/May/2017
+
+\lx Ɲatiya
+\ps n.prop
+\gf TOP
+\smf (village, région de Ségou)
+\dt 16/May/2017
+
+\lx Ɲɛna
+\ps n.prop
+\gf TOP
+\gvf Niéna
+\smf (commune rurale dans le cercle et région de Sikasso)
+\dt 05/Feb/2017
+
+\lx Ɲòoro
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Nioro
+\ru Ниоро
+\cm (на северо-западе Мали)
+\dt 23/May/2010
+
+\lx Ɲɔ̀miriyambugu
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\cm (в Бамако)
+\dt 05/Dec/2010
+
+\lx Ɲɔna
+\ps n.prop
+\gf TOP
+\smf (village, commune de Nangola, cercle de Dioïla, région de Koulikoro)
+\dt 11/Mar/2018
+
+\lx Ɲɔnɔ
+\va Ɲɔnɔn
+\ps n.prop
+\gf TOP
+\gvf Niono
+\smf (ville et cercle dana la région de Ségou)
+\dt 01/May/2017
+
+\lx Ɲɔrɔn
+\va Ɲɔ́rɔ
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Nioro
+\dt 05/Feb/2016
+
+\lx Ɲumala
+\ps n.prop
+\gf TOP
+\gvf Gnoumala
+\smf (village, commune de Siby, cercle de Kati, région de
+Koulikoro)
+\dt 02/Feb/2017
+
+\lx Ogosagu
+\ps n.prop
+\gf TOP
+\gvf Ogossagou
+\smf (village peul au centre du Mali)
+\dt 20/Oct/2019
+
+\lx Oguwe
+\ps n.prop
+\gf TOP
+\gvf Ogooué
+\gvf Ogowe
+\smf (un fleuve au Gabon)
+\dt 01/Oct/2018
+
+\lx Olandi
+\va Holandi
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Pays-Bas
+\ru Голландия
+\dt 17/May/2017
+
+\lx Olɛnpi
+\ps n.prop
+\gf TOP
+\gvf Olympie
+\smf (centre religieux de la Grèce)
+\dt 30/Apr/2017
+
+\lx Oseyani
+\ps n.prop
+\gf TOP
+\smf (région de l'océan Pacifique comprenant l'Australasie, la Micronésie, la Mélanésie et la Polynésie)
+\gvf Océanie
+\dt 05/Feb/2017
+
+\lx Ositarali
+\va Ɔsitarali
+\ty гос.
+\ty конт.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Australie
+\ru Австралия
+\dt 17/May/2017
+
+\lx Otirishi
+\va Otirisi
+\di (b)
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Autriche
+\ru Австрия
+\dt 05/Feb/2016
+
+\lx Oyɛmu
+\ps n.prop
+\gf TOP
+\gvf Oyem
+\smf (une ville au Gabon)
+\dt 08/Feb/2017
+
+\lx Ɔrɔmu
+\ps n.prop
+\gf TOP
+\smf (capitale de l'Italie)
+\gvf Rome
+\dt 07/Feb/2017
+
+\lx Ɔtiwɔlita
+\va Otiwolita
+\va Ɔtiwɔluta
+\va Hotu Wolita
+\va Walita Sandɔ
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (ancien nom de pays - Burkina Faso)
+\gvf Haute-Volta
+\ru Верхняя Вольта
+\cm (c 1984 г. - Буркина Фасо)
+\dt 23/May/2017
+
+\lx Ɔyɛmu
+\ps n.prop
+\gf TOP
+\gvf Oyem
+\smf (une ville au nord du Gabon)
+\dt 21/Oct/2017
+
+\lx Pakistan
+\va Pakisitan
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Pakistan
+\ru Пакистан
+\dt 05/Feb/2017
+
+\lx Palɛstini
+\va Palɛsitini
+\va Palɛsini
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Palestine
+\ru Палестина
+\dt 12/Dec/2018
+
+\lx Panama
+\ps n.prop
+\gf TOP
+\gvf Panama
+\dt 02/Mar/2019
+
+\lx Pàri
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale de la France)
+\gvf Paris
+\ru Париж
+\dt 23/May/2010
+
+\lx Pasifiki
+\ty ок.
+\ps n.prop
+\gf TOP
+\smf (océan)
+\gvf Pacifique
+\ru Тихий
+\dt 23/May/2010
+
+\lx Pelengana
+\va Pelegana
+\ps n.prop
+\gf TOP
+\gvf Pelengana
+\smf (commune au cercle de Ségou)
+\dt 09/Apr/2017
+
+\lx Pelengana-Wɛrɛ
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 08/Feb/2016
+
+\lx Peru
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Pérou
+\dt 17/May/2017
+
+\lx Peyiba
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Pays-Bas
+\ru Нидерланды
+\dt 24/Oct/2016
+
+\lx Peyidegali
+\ps n.prop
+\gf TOP
+\smf (région de la Grande-Bretagne)
+\gvf Pays de Galles
+\dt 05/Feb/2016
+
+\lx Pɛkɛna
+\ps n.prop
+\gf TOP
+\smf (village)
+\dt 15/Jun/2017
+
+\lx Pɛ̀linŋana
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Ségou)
+\gvf Pelengana
+\cm (в Сегу)
+\dt 05/Dec/2010
+
+\lx Porito Novo
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale du Bénin)
+\gvf Porto-Novo
+\ru Порто-Ново
+\dt 23/May/2010
+
+\lx Pɔ́lɔn
+\va Pɔ̀lɔnɛ
+\va Pɔlɔɲi
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Pologne
+\ru Польша
+\dt 05/Feb/2016
+
+\lx Pɔndori
+\ps n.prop
+\gf TOP
+\gvf Pondori
+\smf (une commune dans le cercle de Djenné, région de Mopti)
+\dt 06/Feb/2017
+
+\lx Pɔrisayidi
+\ps n.prop
+\gf TOP
+\smf (ville d'Egypte)
+\gvf Port-Saïd
+\dt 23/Feb/2017
+
+\lx Pɔritigali
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Portugal
+\dt 05/Feb/2016
+
+\lx Pɔrizanti
+\va Pɔri Zanti
+\ps n.prop
+\gf TOP
+\gvf Port-Gentil
+\smf (une ville au Gabon)
+\dt 08/Feb/2017
+
+\lx Pretoriya
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (ville d'Afrique du Sud)
+\gvf Pretoria
+\ru Претория
+\dt 23/May/2010
+
+\lx Raba
+\fa Araba
+\ps n.prop
+\gf TOP
+\gvf Rabat
+\smf (la capitale du Maroc)
+\dt 03/Mar/2019
+
+\lx Reniyɔn
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (département d'outre-mer français)
+\gvf Réunion
+\ru Реюньон
+\dt 23/May/2010
+
+\lx Riyo-Doro
+\ty обл.
+\ru Рио-до-Оро
+\ps n.prop
+\gf TOP
+\smf (ancienne province espagnole sitiée au Sahara occidental actuel)
+\gvf Río de Oro
+\cm (южная часть Западной Сахары)
+\dt 23/May/2010
+
+\lx Rodezi
+\va Orodesi
+\ty гос.
+\ru Родезия
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Rhodésie
+\cm (с 1980 - Зимбабве)
+\dt 30/Sep/2018
+
+\lx Ruwanda
+\va Uruwanda
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Rwanda
+\ru Руанда
+\dt 31/May/2016
+
+\lx Sábalibugu
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\gvf Sabalibougou
+\cm (в Бамако)
+\dt 05/Dec/2010
+
+\lx Sabaribugu
+\ps n.prop
+\gf TOP
+\smf (nom de village)
+\dt 15/Oct/2017
+
+\lx Sabusire
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 07/Nov/2014
+
+\lx Safiyedala
+\ps n.prop
+\gf TOP
+\smf (un zone de Ségou?)
+\dt 16/May/2017
+
+\lx Safo
+\ps n.prop
+\gf TOP
+\gvf Safo
+\smf (une commune dans le Cercle de Kati, région de Koulikoro)
+\dt 06/Feb/2017
+
+\lx Sagabala
+\ps n.prop
+\gf TOP
+\gvf Sagabala
+\smf (une commune rurale, cercle de Kolokani, région de Koulikoro)
+\dt 28/Oct/2017
+
+\lx Sáhara
+\ps n.prop
+\gf TOP
+\smf (désert au nord du continent africain)
+\gvf Sahara
+\dt 25/Feb/2017
+
+\lx Sáhara Ɔkisidantali
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Sahara Occidental
+\dt 25/Feb/2017
+
+\lx Sajola
+\va Sajɔla
+\ps n.prop
+\gf TOP
+\gvf Sadiola
+\smf (commune rurale, cercle de Kayes, région de Kayes; mine d'or)
+\dt 04/Feb/2017
+
+\lx Sakoyiba
+\ps n.prop
+\gf TOP
+\gvf Sakoyiba
+\smf (village, région de Ségou)
+\dt 09/Apr/2017
+
+\lx Salo
+\ps n.prop
+\gf TOP
+\gvf Salo
+\smf (village, au nord de Kati, région de Koulikoro)
+\dt 14/Jul/2017
+
+\lx Samakɔ
+\ty дер.
+\ps n.prop
+\gf TOP
+\gvf Samako
+\smf (commune de Bankoumana, cercle de Kati, région de Koulikoro)
+\dt 03/Mar/2019
+
+\lx Samankura
+\ps n.prop
+\gf TOP
+\gvf Saman Koura
+\smf (un village, cercle de San)
+\dt 16/Mar/2018
+
+\lx Samaɲana
+\ps n.prop
+\gf TOP
+\gvf Samaniana
+\smf (village, région de Koulikoro)
+\dt 15/Jun/2017
+
+\lx Samɛ-Wɔlɔfɔ
+\ps n.prop
+\gf TOP
+\gvf Samé-Oulof
+\smf (village, cercle et région de Kayes)
+\dt 03/Mar/2019
+
+\lx Samiti
+\ps n.prop
+\gf TOP
+\smf (localité près de Gao où on extrait l'uranium)
+\dt 05/Feb/2016
+
+\lx Samɔgɔsoni
+\ps n.prop
+\gf TOP
+\smf (nom d'un village, région de Sikasso)
+\dt 15/Oct/2017
+
+\lx Sàn
+\ps n.prop
+\gf TOP
+\smf (ville, région de Ségou)
+\gvf San
+\dt 27/Jan/2017
+
+\lx Sanando
+\ps n.prop
+\gf TOP
+\gvf Sanando
+\smf (village et commune rurale, cercle de Barouéli, région de
+Ségou)
+\dt 24/Mar/2017
+
+\lx Sanankɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Sanankoro
+\smf (village de la commune de Niéna, cercle et région de Sikasso,
+40 km au sud de Sikasso)
+\dt 18/Oct/2017
+
+\lx Sanankɔrɔba
+\ps n.prop
+\gf TOP
+\gvf Sanankoroba
+\smf (village et commune, cercle de Kati, région de Koulikoro)
+\dt 30/Apr/2017
+
+\lx Sando
+\ps n.prop
+\gf TOP
+\gvf Sando
+\smf (village, cercle de Ségou)
+\dt 01/Apr/2017
+
+\lx Sanfili
+\ps n.prop
+\gf TOP
+\gvf TSF
+\smf (un quartier de la Commune 2 de Bamako)
+\dt 01/Jun/2016
+
+\lx Sangarankɔ
+\ps n.prop
+\gf TOP
+\smf (rivière au sud du Mali, affluent de Baninfin)
+\dt 04/Feb/2017
+
+\lx Sangarebugu
+\ps n.prop
+\gf TOP
+\gvf Sangarebougou
+\smf (commune rurale dans le Cercle de Kati, au sud de Bamako)
+\dt 01/Jun/2016
+
+\lx Sankaran
+\ps n.prop
+\gf TOP
+\dt 11/May/2019
+
+\lx Sankaranin
+\ty р.
+\ru Санкарани
+\ps n.prop
+\gf TOP
+\gvf Sanakarani
+\smf (rivière en Guinée et au Mali, un
+affluent de Niger)
+\dt 30/Sep/2018
+
+\lx San-Pedoro
+\ps n.prop
+\gf TOP
+\gvf San Pedro
+\smf (une ville portuaire en Côte d'Ivoire)
+\dt 01/Feb/2017
+
+\lx Sansana
+\ps n.prop
+\gf TOP
+\gvf Sanzana
+\smf (commune dans le cercle de Sikasso)
+\dt 03/Nov/2019
+
+\lx Sánso
+\ps n.prop
+\gf TOP
+\gvf Sanso
+\smf (village et commune, cercle de Bougouni, région de Sikasso)
+\dt 16/Nov/2017
+
+\lx Santa Isabɛl
+\ty г.
+\ru Санта-Исабель
+\ps n.prop
+\gf TOP
+\smf (ancien nom de Malabo, ville de Guinée Equatoriale)
+\gvf Santa Isabel
+\cm (c 1973 г. - Малабо, столица Экваториальной Гвинеи)
+\dt 23/May/2010
+
+\lx Santarafiriki
+\va Santarafrikɛn
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf République centrafricaine
+\ru Центральноафриканская республика
+\dt 23/May/2010
+
+\lx Sanzana
+\ps n.prop
+\gf TOP
+\gvf Sanzana
+\smf (une village et commune dans le cercle de Sikasso)
+\dt 23/Oct/2016
+
+\lx Sàralon
+\va Siyera Lewɔni
+\va Seraliyɔni
+\va Jàdakuru
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Sierra Leone
+\ru Сьерра-Леоне
+\dt 24/Oct/2016
+
+\lx Sebeninkɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Sébéninkoro
+\smf (un quartier de la commune 4 de Bamako)
+\dt 04/Jun/2016
+
+\lx Sebu
+\ps n.prop
+\gf TOP
+\gvf Cebu
+\smf (une île des Philippines)
+\dt 11/Mar/2018
+
+\lx Segɛla
+\ps n.prop
+\gf TOP
+\gvf Séguéla
+\smf (ville en Côte d'Ivoire, centre de la région de Worodougou)
+\dt 29/Mar/2017
+
+\lx Ségu
+\ty г.
+\ru Сегу
+\ps n.prop
+\gf TOP
+\smf (ville et chef lieu de la région de Ségou)
+\gvf Ségou
+\cm (в Мали)
+\dt 23/May/2010
+
+\lx Ségu Síkɔrɔ
+\ps n.prop
+\gf TOP
+\smf (quartier de Ségou, Ségou sous les karités)
+\dt 28/Sep/2014
+
+\lx Ségubugu
+\ps n.prop
+\gf TOP
+\smf (quartier de Ségou)
+\dt 07/Jun/2014
+
+\lx Ségukɔrɔ
+\ps n.prop
+\gf TOP
+\smf (quartier de Ségou, Ségou le vieux)
+\gvf Ségoucoro
+\dt 20/Jun/2016
+
+\lx Ségukura
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier de Ségou, Ségou le neuf)
+\cm (в Сегу)
+\dt 05/Dec/2010
+
+\lx Sekɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Sekoro
+\smf (village, cercle et région de Ségou)
+\dt 16/May/2017
+
+\lx Selenge
+\ps n.prop
+\gf TOP
+\smf (ville, barrage)
+\gvf Sélingué
+\dt 31/May/2016
+
+\lx Sema
+\ps n.prop
+\gf TOP
+\gvf Sema
+\smf (un quartier dans la commune 5 de Bamako)
+\dt 04/Jun/2016
+
+\lx Seno
+\ty плато
+\ru Сено
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Sèno
+\cm (в Мали)
+\dt 23/May/2010
+
+\lx Senu
+\ps n.prop
+\gf TOP
+\gvf Sénou
+\smf (un quartier dans la commune 6 de Bamako, l'aéroport
+international)
+\dt 04/Jun/2016
+
+\lx Seware
+\ps n.prop
+\gf TOP
+\smf (ville contigüe à Mopti)
+\gvf Sévaré
+\dt 30/Jan/2017
+
+\lx Sewili
+\va Sewiyi
+\ps n.prop
+\gf TOP
+\smf (ville d'Espagne)
+\gvf Seville
+\dt 06/Feb/2017
+
+\lx Sɛgɛn
+\ps n.prop
+\gf TOP
+\gvf Sègue
+\smf (village, commune de Sagabala, cercle de Kolokani)
+\dt 01/Mar/2019
+
+\lx Sɛndeni
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (ville, banlieue de Paris)
+\gvf Saint-Denis
+\ru Сен-Дени
+\dt 23/May/2010
+
+\lx Sɛ̀nɛgali
+\va Senegali
+\va Sinakale
+\va Sinagali
+\va Sɛnɛgal
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Sénégal
+\ru Сенегал
+\dt 17/Dec/2012
+
+\lx Sɛnluwi
+\va Sɛnluyi
+\ps n.prop
+\gf TOP
+\gvf Saint-Louis
+\smf (ville du Sénégal)
+\dt 22/Feb/2019
+
+\lx Sɛribi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Serbie
+\dt 02/May/2018
+
+\lx Shikago
+\ps n.prop
+\gf TOP
+\gvf Chicago
+\dt 17/Dec/2018
+
+\lx Sibi
+\ps n.prop
+\gf TOP
+\gvf Siby
+\smf (village et commune, cercle de Kati, région de Koulikoro)
+\dt 02/Feb/2017
+
+\lx Sibila
+\ps n.prop
+\gf TOP
+\gvf Sibila
+\smf (une commune de la région de Ségou)
+\dt 04/Jun/2016
+
+\lx Sibiribugu
+\ps n.prop
+\gf TOP
+\gvf Sibiribougou
+\smf (un quartier de la commune 4 de Bamako)
+\dt 04/Jun/2016
+
+\lx Sigiri
+\va Sigirin
+\va Síirin
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Siguiru
+\ru Сигири
+\dt 23/May/2010
+
+\lx Sigo
+\ps n.prop
+\gf TOP
+\gvf Singo
+\smf (village dans la commune de Sanando, cercle de Barouéli,
+région de Ségou)
+\dt 01/May/2017
+
+\lx Síkaso
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (ville du sud du Mali)
+\gvf Sikasso
+\ru Сикасо
+\dt 01/Aug/2017
+
+\lx Sikɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Sikoro
+\smf (village)
+\dt 30/Apr/2017
+
+\lx Sikɔrɔ-Jitumun
+\ps n.prop
+\gf TOP
+\gvf Sikoro-Djitoumou
+\smf (village dans la commune de Ouelessébougou, cercle de Kati,
+région de Koulikoro)
+\dt 30/Apr/2017
+
+\lx Sikɔrɔnin
+\va Síkɔrɔni
+\ps n.prop
+\gf TOP
+\gvf Sikoroni
+\smf (un quartier de la Commune 1 de Bamako)
+\dt 30/Apr/2017
+
+\lx Sili
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Chili
+\dt 01/Feb/2017
+
+\lx Silowaki
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Slovaquie
+\dt 05/Feb/2016
+
+\lx Sinsani
+\ps n.prop
+\gf TOP
+
+\lx Sinsinna
+\ps n.prop
+\gf TOP
+\gvf Sinsina
+\smf (un village, cercle de Koutiala,
+région de Sikasso)
+\dt 24/Apr/2018
+
+\lx Sinuwala
+\va Shinuwala
+\va Sinuwa
+\va Shinuwa
+\va Siniwa
+\va Shini
+\ps n.prop
+\gf TOP
+\gvf Chine
+\smf (pays)
+\dt 22/Feb/2019
+
+\lx Sinzana
+\ps n.prop
+\gf TOP
+\gvf Sinzana
+\smf (cerce de Banamba, région de Koulikoro)
+\dt 24/Apr/2018
+
+\lx Sipariti
+\ps n.prop
+\gf TOP
+\smf (ville de Grèce antique)
+\gvf Sparte
+\dt 05/Feb/2017
+
+\lx Sirakɔrɔdunfin
+\ps n.prop
+\gf TOP
+\gvf Sirakorodounfing
+\smf (un quartier dans la commune 3 de Bamako)
+\dt 04/Jun/2016
+
+\lx Sirakɔrɔla
+\ps n.prop
+\gf TOP
+\gvf Sirakorola
+\smf (ville, cercle de Koulikoro, région de Koulikoro)
+\dt 02/Feb/2017
+
+\lx Siri
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Syrie
+\dt 15/Sep/2016
+
+\lx Sirilanka
+\ps n.prop
+\gf TOP
+\gvf Sri Lanka
+\dt 27/Oct/2019
+
+\lx Sitakili
+\ps n.prop
+\gf TOP
+\gvf Sitakili
+\smf (commune rurale, cercle de Kéniéba)
+\dt 01/Feb/2017
+
+\lx Sofala
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Sofala
+\gvf Kaka
+\smf (chef-lieu de la commune de Fakala, cercle de Djenné, région
+de Mopti)
+\dt 06/Feb/2017
+
+\lx Sofara
+\ps n.prop
+\gf TOP
+\gvf Sofara
+\smf (une ville, chef-lieu de la commune de Fakala, cercle de
+Djenné, région de Mopti)
+\dt 15/Nov/2017
+
+\lx Sogoninkɔ
+\ps n.prop
+\gf TOP
+\gvf Sogoniko
+\smf (un quartier dans la commune 6 de Bamako)
+\dt 04/Jun/2016
+
+\lx Sogbɛ
+\ty кв.
+\ru Согбе
+\ps n.prop
+\gf TOP
+\smf (quartier à Kankan)
+\cm (в Канкане)
+\dt 23/May/2010
+
+\lx Sòkálakɔ̀nɔ
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Ségou)
+\cm (в Сегу)
+\dt 05/Dec/2010
+
+\lx Sokobiya
+\ps n.prop
+\gf TOP
+\gvf Sokobia
+\smf (un village à la rive gauche du Niger, en face de Ségou)
+\dt 29/Mar/2017
+
+\lx Sokolon
+\ps n.prop
+\gf TOP
+\gvf Sokolo
+\smf (commune, cerce de Niono, région de Ségou)
+\dt 03/Mar/2019
+
+\lx Sokolonbugu
+\ps n.prop
+\gf TOP
+\gvf Sokolombougou
+\smf (village, cercle de Kati, région de Koulikoro)
+\dt 15/Jun/2017
+
+\lx Sokɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Sokoro
+\smf (un village, région de Ségou)
+\dt 03/May/2019
+
+\lx Sokɔrɔji
+\ps n.prop
+\gf TOP
+\gvf Sokorodji
+\smf (un quartier dans la commune 6 de Bamako)
+\dt 04/Jun/2016
+
+\lx Sókura
+\ps n.prop
+\gf TOP
+\ms 1
+\gvf Socoura
+\smf (village et commune, cercle et région de Mopti
+\ms 2
+\gvf Socoura
+\smf (village, cercle de Bankass, région de Mopti)
+\dt 01/Mar/2019
+
+\lx Sokura Keseli
+\ps n.prop
+\gf TOP
+\gvf Socoura Késéli
+\smf (village, commune de Socoura, cercle et région de Mopti)
+\dt 01/Mar/2019
+
+\lx Solona
+\ps n.prop
+\gf TOP
+\gvf Solona
+\smf (village, cerce de Yanfolila, région de Sikasso)
+\dt 15/Jun/2017
+
+\lx Solsiburi
+\ty г.
+\ru Солсбери
+\ps n.prop
+\gf TOP
+\smf (ville)
+\gvf Salisbury
+\cm (c 1982 г. - Хараре)
+\dt 23/May/2010
+
+\lx Somali
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Somalie
+\ru Сомали
+\dt 23/May/2010
+
+\lx Soninkɛɲi
+\ps n.prop
+\gf TOP
+\gvf Soninkégni
+\smf (un village dans le cercle de Kati, province de Koulikoro)
+\dt 03/Mar/2019
+
+\lx Sóorò
+\ps n.prop
+\gf TOP
+\gvf Soro
+\smf (une ancienne ville, pussante dans 13-14 siècles, à la rive
+droite du Niger, 23 km à l'ouest de Ségou)
+\dt 26/Feb/2017
+
+\lx Soroba
+\ps n.prop
+\gf TOP
+\gvf Soroba
+\smf (village, cercle de Ségou)
+\dt 01/Apr/2017
+
+\lx Sòso
+\ps n.prop
+\gf TOP
+\gvf Soso
+\smf (village, région de Koulikoro)
+\dt 26/Feb/2017
+
+\lx Sotuba
+\va Sotiba
+\ps n.prop
+\gf TOP
+\gvf Sotouba
+\smf (un rapide, entre Bamako et Koulikoro; un quartier à Bamako)
+\ru Сотуба
+\cm (на Нигере, между Бамако и Куликоро)
+\dt 20/Mar/2017
+
+\lx Sowiyati
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf l’Union Soviétique
+\ru Cоветский Союз
+\dt 05/Apr/2016
+
+\lx Sɔbugu
+\ps n.prop
+\gf TOP
+\gvf Sobougou
+\smf (un village)
+\dt 03/May/2019
+
+\lx Sɔmɔnɔdugunin
+\ps n.prop
+\gf TOP
+\gvf Somonodougouni
+\smf (village, région de Ségou)
+\dt 09/Apr/2017
+
+\lx Sɔ́mɔnɔso
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Ségou)
+\cm (в Сегу)
+\dt 05/Dec/2010
+
+\lx Sɔrɔna
+\ps n.prop
+\gf TOP
+\gvf Sorona
+\smf (village, commune de Garalo, cercle de Bougouni, région de
+Sikasso)
+\dt 22/Feb/2017
+
+\lx Sudan
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Soudan
+\ru Cудан
+\dt 23/May/2010
+
+\lx Sudandisidi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Sudan du Sud
+\dt 05/Feb/2017
+
+\lx Sugula
+\ps n.prop
+\gf TOP
+\gvf Sougoula
+\smf (village, région de Koulikoro; village, région de Sikasso)
+\dt 02/Feb/2017
+
+\lx Sugunba
+\ps n.prop
+\gf TOP
+\gvf Sougoumba
+\smf (village, chef-lieu de la commune de Koningué, cercle de
+Koutiala, région de Sikasso)
+\dt 28/May/2017
+
+\lx Surunkun-Gangaran
+\ps n.prop
+\gf TOP
+\gvf Sourounkoun-Ganagara
+\smf (un village, commune de Toukoto, cercle de Kita, région de Kayes)
+\dt 03/Mar/2019
+
+\lx Susi
+\ps n.prop
+\gf TOP
+\smf (ville de Tunisie)
+\gvf Sousse
+\dt 07/Feb/2017
+
+\lx Suwaziduu
+\va Suwaziland
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Swaziland
+\ru Свазиленд
+\dt 23/May/2010
+
+\lx Suwɛdi
+\va Siyɛdi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Suède
+\dt 24/Oct/2016
+
+\lx Suwisi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Suisse
+\dt 05/Feb/2016
+
+\lx Syanro
+\ps n.prop
+\gf TOP
+\smf (quartier Bozo à Ségou)
+\dt 16/May/2017
+
+\lx Tabu
+\ps n.prop
+\gf TOP
+\gvf Tabou
+\smf (village, 6 km de Sélingué)
+\dt 01/Mar/2019
+
+\lx Tadimakatati
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Tadmekka
+\gvf Tadmakka
+\smf (ancienne ville commerciale, les ruines se trouvent près du
+village d'Essouk, région de Kidal)
+\dt 01/Feb/2017
+
+\lx Tafilale
+\ps n.prop
+\gf TOP
+\gvf Tafilalet
+\smf (une région historique au Sud-Est du Maroc)
+\dt 21/Feb/2017
+
+\lx Tahiti
+\ps n.prop
+\gf TOP
+\smf (île de Polynésie française)
+\gvf Tahiti
+\dt 05/Feb/2017
+
+\lx Takuti
+\ps n.prop
+\gf TOP
+\gvf Takouti
+\smf (village, commune de Socoura, cercle et région de Mopti)
+\dt 01/Mar/2019
+
+\lx Talikɔ
+\ps n.prop
+\gf TOP
+\gvf Taliko
+\smf (un quartier de la commune 4 de Bamako)
+\dt 04/Jun/2016
+
+\lx Talo
+\ps n.prop
+\gf TOP
+\gvf Talo
+\smf (localité du cercle de Ségou où un barrage a été érigé)
+\dt 22/Feb/2017
+
+\lx Tàmanin
+\va Tàmani
+\ps n.prop
+\gf TOP
+\gvf Tamani
+\smf (commune du cercle de Baraouéli, région de Ségou)
+\dt 26/Feb/2017
+
+\lx Tamarasɛti
+\ps n.prop
+\gf TOP
+\gvf Tamanrasset
+\smf (centre de province au sud de l'Algérie)
+\dt 01/Feb/2017
+
+\lx Tanfadala
+\ps n.prop
+\gf TOP
+\gvf Tanfadala
+\smf (village, commune de Dioungani, cercle de Koro, région de
+Mopti)
+\dt 09/Mar/2018
+
+\lx Tanzani
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Tanzanie
+\ru Танзания
+\dt 23/May/2010
+
+\lx Tawudeni
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (village au Nord du Mali)
+\gvf Taoudenni
+\ru Тауденни
+\dt 23/May/2010
+
+\lx Tawusa
+\ps n.prop
+\gf TOP
+\gvf Taoussa
+\smf (un barrage hydroélectrique en construction sur le fleuve
+Niger, près de Bourem, 130 km à l'ouest de Gao)
+\dt 03/Jun/2017
+
+\lx Tayilandi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Thaïlande
+\dt 11/Mar/2018
+
+\lx Tekururu
+\ps n.prop
+\gf TOP
+\gvf Tekrour
+\smf (état ancien dans la vallée du Sénégal)
+\dt 05/Feb/2016
+
+\lx Teredugu
+\ps n.prop
+\gf TOP
+\gvf Térédougou
+\smf (village, commune de Timisa, cercle de Tominian, région de Ségou)
+\dt 22/Apr/2018
+
+\lx Tesaliti
+\ps n.prop
+\gf TOP
+\gvf Tessalit
+\smf (village et cercle, région de Kidal)
+\dt 01/Feb/2017
+
+\lx Teserebugu
+\ps n.prop
+\gf TOP
+\gvf Tésserebougou
+\smf (village, commune de Togou, cercle et région de Ségou, près de Markala)
+\dt 03/May/2019
+
+\lx Tesiti
+\ps n.prop
+\gf TOP
+\gvf Tessit
+\smf (village et commune, cercle d'Ansongo, région de Gao)
+\dt 03/Jun/2017
+
+\lx Tɛmanbaa Jinɛ
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu en Guinée équatoriale)
+\ru Экваториальная Гвинея
+\dt 23/May/2010
+
+\lx Tɛnɛ
+\ps n.prop
+\gf TOP
+\gvf Téné
+\smf (commune, cercle de San, région de Ségou)
+\dt 15/Nov/2017
+
+\lx Tɛnɛnkun
+\va Tɛnɛnku
+\va Tenenku
+\ps n.prop
+\gf TOP
+\gvf Ténenkou
+\smf (une cercle dans la région de Mopti)
+\dt 03/Jun/2017
+
+\lx Tɛngɛrɛla
+\ps n.prop
+\gf TOP
+\gvf Tengréla
+\smf (ville, région de Savannes, Côte d'Ivoire)
+\dt 04/Feb/2017
+
+\lx Tibɛsiti
+\ps n.prop
+\gf TOP
+\gvf TOP
+\gvf Tibesti
+\smf (région nord-ouest du Tchad)
+\dt 21/Apr/2019
+
+\lx Tibi
+\ps n.prop
+\gf TOP
+\gvf Tibi
+\smf (village, région de Sikasso; village, région de Mopti)
+\dt 02/Feb/2017
+
+\lx Tidɛrimɛni
+\ps n.prop
+\gf TOP
+\gvf Tidermène
+\smf (un village et une commune, cercle de Ménaka, région de Gao)
+\dt 30/Sep/2018
+
+\lx Tilemusi
+\ps n.prop
+\gf TOP
+\gvf Tilemsi
+\smf (commune rurale pas loin de Gao)
+\dt 05/Feb/2016
+
+\lx Timisa
+\ps n.prop
+\gf TOP
+\gvf Timissa
+\smf (village et commune, cercle de Tominian, région de Ségou)
+\dt 22/Apr/2018
+
+\lx Timiyawini
+\ps n.prop
+\gf TOP
+\gvf Timiaouine
+\gvf Timéiaouine
+\gvf Timéiawine
+\smf (commune au sud de l'Algérie, wilaya d'Adrar, près de la
+frontière malienne)
+\dt 03/Jun/2017
+
+\lx Tinesako
+\ps n.prop
+\gf TOP
+\gvf Tenessako
+\smf (une localité dans la province de Kidal)
+\dt 20/Mar/2017
+
+\lx Tinisako
+\ps n.prop
+\gf TOP
+\gvf Tin-Essako
+\smf (cercle, région de Kidal)
+\dt 01/Feb/2017
+
+\lx Tinizawatɛni
+\ps n.prop
+\gf TOP
+\gvf Tinzaouaten
+\gvf Tinzawatene
+\gvf Tin-Zaouatene
+\smf (commune rurale, cercle d'Abeïbara, région de Kidal)
+\dt 01/Feb/2017
+
+\lx Tiɲɛkungo
+\ps n.prop
+\gf TOP
+\gvf Tignékoungo
+\smf (un village, cercle de Bougouni)
+\dt 03/Mar/2019
+
+\lx Tiringa
+\ps n.prop
+\gf TOP
+\gvf Tringa
+\smf (commune dans le cercle de Yélimané, région de Kayes)
+\dt 03/Jun/2018
+
+\lx Tiripoli
+\ps n.prop
+\gf TOP
+\smf (capitale de la Lybie)
+\gvf Tripoli
+\dt 05/Feb/2016
+
+\lx Tisala
+\ps n.prop
+\gf TOP
+\gvf Tissala
+\smf (village, cercle de Barouéli, région de Ségou)
+\dt 25/Mar/2017
+
+\lx Togo
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Togo
+\ru Того
+\dt 23/May/2010
+
+\lx Togu
+\ps n.prop
+\gf TOP
+\gvf Togou
+\smf (commune dans le cercle et région de Ségou)
+\dt 03/May/2019
+
+\lx Tokɔrɔba
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 06/Nov/2014
+
+\lx Tomiɲan
+\va Tomiɲa
+\va Tomiyan
+\ps n.prop
+\gf TOP
+\gvf Tominian
+\smf (ville et cercle dans la région de Ségou)
+\dt 23/May/2017
+
+\lx Tona
+\ps n.prop
+\gf TOP
+\gvf Touna
+\smf (village et commune, cercle de Bla, région de Ségou)
+\dt 15/Jun/2017
+
+\lx Tori
+\ps n.prop
+\gf TOP
+\gvf Tori
+\smf (village et commune, cercle de Bankass, région de Mopti)
+\dt 30/Apr/2017
+
+\lx Tòrodo
+\ps n.prop
+\gf TOP
+\gvf Torodo
+\smf (village, cercle de Kati, 10 km au nord de Bamako)
+\dt 26/Feb/2017
+
+\lx Torokɔrɔbugu
+\ps n.prop
+\gf TOP
+\gvf Torokorobougou
+\smf (un quartier dans la commune 5 de Bamako)
+\dt 04/Jun/2016
+
+\lx Tɔkɔ
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 17/May/2017
+
+\lx Tɔndibi
+\ps n.prop
+\gf TOP
+\gvf Tondibi
+\smf (ville près de Gao, place de la bataille décisive entre les
+invahisseurs marocains et les Songhaï en 1591)
+\dt 05/Feb/2016
+
+\lx Tɔnga
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Tonga
+\dt 05/Feb/2017
+
+\lx Tɔnka
+\ps n.prop
+\gf TOP
+\gvf Tonka
+\smf (commune du cercle de Goundam, région de Tombouctou)
+\dt 05/Feb/2017
+
+\lx Tɔnɔkalakura
+\ps n.prop
+\gf TOP
+\smf (village de la commune de Niéna, cercle et région de Sikasso)
+\dt 18/Oct/2017
+
+\lx Tɔ́rɔkɔrɔbugu
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\cm (в Бамако)
+\dt 05/Dec/2010
+
+\lx Tɔrɔn
+\ty ист.
+\ru Торон
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Toron
+\cm (область, включающая большую часть Верхней Гвинеи)
+\dt 23/May/2010
+
+\lx Tripoli
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (ville, capitale de la Lybie)
+\gvf Tripolo
+\ru Триполи
+\dt 23/May/2010
+
+\lx Túba
+\ps n.prop
+\gf TOP
+\gvf Touba
+\dt 13/May/2019
+
+\lx Tukɔrɔ
+\ps n.prop
+\gf TOP
+\gvf Toukoro
+\smf (village, région de Ségou, au bord du Niger à l'ouest de Ségou)
+\dt 15/Jun/2017
+
+\lx Tukɔtɔ
+\ps n.prop
+\gf TOP
+\gvf Toucouto
+\smf (ville et commune, cercle de Kita, région de Kayes, près de la confluence de Bakoy et Baloué)
+\dt 02/Mar/2019
+
+\lx Tulusi
+\ps n.prop
+\gf TOP
+\smf (ville en France)
+\gvf Toulouse
+\dt 11/Mar/2018
+
+\lx Tumunba
+\ps n.prop
+\gf TOP
+\gvf Toumoumba
+\smf (village, commune de Badia, cercle de Kita, région de Kayes)
+\dt 15/Jun/2017
+
+\lx Tumutu
+\ps n.prop
+\gf TOP
+\smf (ville et chef lieu de région)
+\gvf Tombouctou
+
+\lx Tunisi
+\va Tunusi
+\va Tunizi
+\va Tinizi
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Tunisie
+\ru Тунис
+\dt 31/Jan/2017
+
+\lx Tunusiya
+\va Tunisia
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Tunisie
+\ru Тунис
+\dt 23/May/2010
+
+\lx Turaba
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Touraba
+\dt 05/Feb/2016
+
+\lx Túruke
+\va Túruki
+\va Túriki
+\ps n.prop
+\gf TOP
+\gvf Turquie
+\dt 30/Sep/2018
+
+\lx Tusegela
+\ps n.prop
+\gf TOP
+\gvf Touséguéla
+\smf (village, sercle de Kolondiéba, région de Sikasso)
+\dt 10/Mar/2018
+
+\lx Tusɔna
+\ps n.prop
+\gf TOP
+\smf (village, cercle de Kolokani, commune de Koulikoro)
+\dt 08/Feb/2017
+
+\lx Tuwati
+\ps n.prop
+\gf TOP
+\gvf Touat
+\smf (une région de l'ouest du Sahara algérien, au sud-ouest du
+Grand Erg Occidental, dans la wilaya d'Adrar)
+\dt 07/Feb/2017
+
+\lx Uganda
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Uganda
+\ru Уганда
+\dt 23/May/2010
+
+\lx Ukɛrɛni
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Ukraine
+\dt 24/Oct/2016
+
+\lx Uruguwe
+\va Uruge
+\ps n.prop
+\gf TOP
+\gvf Uruguay
+\dt 09/Dec/2018
+
+\lx Urumani
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Roumanie
+\dt 05/Feb/2016
+
+\lx Wabariya
+\ps n.prop
+\gf TOP
+\smf (port sur le fleuve Niger)
+\dt 05/Feb/2016
+
+\lx Wagadu
+\va Wàhadù
+\ps n.prop
+\gf TOP
+\smf (Ouagadou, Ghana, le premier des grands empires de l'Afrique Occidentale)
+\dt 03/Jun/2018
+
+\lx Wagadugu
+\va Wàadúu
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (ville du Burkina Faso)
+\gvf Ouagadougou
+\ru Уагадугу
+\dt 23/May/2010
+
+\lx Walata
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Oualata
+\dt 05/Feb/2016
+
+\lx Warigila
+\ps n.prop
+\gf TOP
+\gvf Ouargla
+\smf (une ville du centre de l'Algérie, le chef-lieu de la wilaya
+d'Ouargla)
+\dt 07/Feb/2017
+
+\lx Wasingitɔni
+\ps n.prop
+\gf TOP
+\smf (capitale des Etats-Unis)
+\gvf Washington
+\dt 30/Jan/2017
+
+\lx Wasolon
+\ps n.prop
+\gf TOP
+\smf (région aux frontières du MAli, de la Guinée, de la côte d'Ivoire, autour de Yanfolila)
+\gvf Ouassoulou
+\gvf Wassoulou
+\dt 02/Feb/2017
+
+\lx Watikan
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Vatican
+\dt 07/Feb/2017
+
+\lx Wedebugu
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\dt 09/Apr/2017
+
+\lx Welesebugu
+\ps n.prop
+\gf TOP
+\gvf Ouélessébougou
+\smf (commune, cercle de Kati, région de Koulikoro)
+\dt 09/Apr/2017
+
+\lx Wenizi
+\ps n.prop
+\gf TOP
+\smf (ville d'Italie)
+\gvf Venise
+\dt 09/Mar/2018
+
+\lx Weta
+\ps n.prop
+\gf TOP
+\gvf Ouéta
+\smf (village, région de Ségou)
+\dt 16/May/2017
+
+\lx Wɛnzɛndugu
+\ps n.prop
+\gf TOP
+\gvf Ouenzenbougou
+\smf (chef-lieu de la commune du Mandé, districte de Bamako,
+cercle de Kati)
+\dt 02/Feb/2017
+
+\lx Wikitoriya
+\ps n.prop
+\gf TOP
+\gvf Victoria
+\smf (lac)
+\dt 15/Sep/2016
+
+\lx Windɔk
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale de la Namibie)
+\gvf Windhoek
+\ru Виндхук
+\dt 23/May/2010
+
+\lx Wiyɛtinamu
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Vietnam
+\dt 30/Jan/2017
+
+\lx Woyowayankɔ
+\ps n.prop
+\gf TOP
+\smf (rivière dans la commune 4 de Bamako)
+\dt 04/Jun/2016
+
+\lx Wɔlɔdo
+\ps n.prop
+\gf TOP
+\gvf Ouolodo
+\smf (village et commune, cercle de Kolokani, région de Koulikoro)
+\dt 28/Oct/2017
+
+\lx Wɔ́lɔfɔbugu
+\ty кв.
+\ps n.prop
+\gf TOP
+\smf (quartier à Bamako)
+\cm (в Бамако)
+\dt 05/Dec/2010
+
+\lx Wɔlɔjɛdo
+\ps n.prop
+\gf TOP
+\gvf Ouolodièdo
+\smf (village, commune de Nonkon, cercle et région de Kolokani)
+\dt 10/Mar/2018
+
+\lx Wɔsila
+\ps n.prop
+\gf TOP
+\gvf Ouossila
+\smf (village, région de Ségou)
+\dt 09/Apr/2017
+
+\lx Wuɲan
+\ps n.prop
+\gf TOP
+\smf (un village)
+\dt 15/Mar/2018
+
+\lx Yámanin
+\va Yámani
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (nom de lieu)
+\gvf Yémen
+\ru Йемен
+\dt 11/Mar/2018
+
+\lx Yanfolila
+\ps n.prop
+\gf TOP
+\gvf Yanfolila
+\smf (une ville et un cercle dans la région de Sikasso, région Wassoulou)
+\dt 31/Jan/2017
+
+\lx Yangaso
+\ps n.prop
+\gf TOP
+\gvf Yangasso
+\smf (ville et commune, cercle de Bla, région de Ségou)
+\dt 15/Jun/2017
+
+\lx Yarankabugu
+\ps n.prop
+\gf TOP
+\gvf Yarangabougou
+\smf (un village, commune de Sébékoro 1, cercle de Kolokani, région de Koulikoro)
+\dt 03/Mar/2019
+
+\lx Yaunde
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (capitale du Cameroun)
+\gvf Yaoundé
+\ru Яунде
+\dt 23/May/2010
+
+\lx Yawunde
+\va Yaunde
+\ps n.prop
+\gf TOP
+\smf (capitale du Cameroun)
+\gvf Yaoundé
+\dt 01/Feb/2017
+
+\lx Yelimane
+\ps n.prop
+\gf TOP
+\gvf Yélimané
+\smf (une ville et un cercle dans la région de Kayes)
+\dt 31/Jan/2017
+
+\lx Yelimani
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (une ville et un cercle dans la région de Kayes)
+\gvf Yélimané
+\ru Елимане
+\cm (на  крайнем северо-западе Мали)
+\dt 23/May/2010
+
+\lx Yendume
+\ps n.prop
+\gf TOP
+\gvf
+\smf (un village dans le pays dogon)
+\dt 30/Sep/2018
+
+\lx Yírimajɔ
+\ps n.prop
+\gf TOP
+\gvf Yirimadio
+\smf (un quartier dans la commune 6 de Bamako)
+\dt 04/Jun/2016
+
+\lx Yɔngari
+\ps n.prop
+\gf TOP
+\gvf Yongari
+\smf (village, région de Mopti)
+\dt 06/Feb/2017
+
+\lx Yɔrɔso
+\va Yoroso
+\ps n.prop
+\gf TOP
+\gvf Yorosso
+\smf (cercle dans la région de Sikasso)
+\dt 01/Feb/2017
+
+\lx Yugɔsilawi
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Yougoslavie
+\ru Югославия
+\dt 23/May/2010
+
+\lx Yuwaru
+\ps n.prop
+\gf TOP
+\gvf Youwarou
+\smf (cercle dans la région de Mopti)
+\dt 31/Jan/2017
+
+\lx Zamayiki
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Jamaïque
+\dt 01/Jun/2016
+
+\lx Zanbɛzi
+\ps n.prop
+\gf TOP
+\gvf Zambèze
+\smf (un fleuve en Afrique du Sud)
+\dt 25/Apr/2018
+
+\lx Zanbi
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Zambie
+\ru Замбия
+\dt 23/May/2010
+
+\lx Zancɛbugu
+\ps n.prop
+\gf TOP
+\gvf Zantiébougou
+\smf (ville et commune, cercle de Bougouni, région de Sikasso)
+\dt 06/Feb/2017
+
+\lx Zanikɔdugu
+\ps n.prop
+\gf TOP
+\smf (nom d'un village, région de Sikasso)
+\dt 15/Oct/2017
+
+\lx Zankɛbugu
+\ps n.prop
+\gf TOP
+\smf (village, commune de Didiéni, cercle de Kolokani, région de
+Koulikoro)
+\dt 28/Oct/2017
+
+\lx Zapɔn
+\va Yapɔn
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Japon
+\ru Япония
+\dt 12/Dec/2018
+
+\lx Zayiri
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays, ancien nom de la RDC)
+\gvf Zaïre
+\ru Заир
+\dt 23/May/2010
+
+\lx Zebala
+\ps n.prop
+\gf TOP
+\gvf Zébala
+\smf (village et commune, cercle de Koutiala, région de Sikasso)
+\dt 23/May/2017
+
+\lx Zeguwa
+\ps n.prop
+\gf TOP
+\gvf Zégoua
+\smf (ville, cercle de Kadiolo, région de Sikasso)
+\dt 01/Mar/2019
+
+\lx Zelabugu
+\ps n.prop
+\gf TOP
+\gvf Zielabougou
+\smf (village dans la commune de Ouelessébougou, cercle de Kati,
+région de Koulikoro)
+\dt 30/Apr/2017
+
+\lx Zelandiya
+\ps n.prop
+\gf TOP
+\smf (continent partiellement submergé comprenant la Nouvelle -Zélande)
+\gvf Zealandia
+\dt 03/Jun/2018
+
+\lx Zenɛwu
+\ps n.prop
+\gf TOP
+\gvf Genève
+\dt 17/Dec/2018
+
+\lx Zèrusàlɛmu
+\ps n.prop
+\gf TOP
+\smf (ville d'Israël/Palestine)
+\gvf Jérusalem
+\dt 22/Jul/2017
+
+\lx Zezana-Gara
+\ps n.prop
+\gf TOP
+\gvf Sinzana-Gare
+\smf (un village près de Ségou)
+\dt 02/May/2018
+
+\lx Zigɛnshori
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (ville du sud du Sénégal)
+\gvf Ziguinchor
+\ru Зигиншор
+\dt 23/May/2010
+
+\lx Zinbawe
+\va Zinbabwe
+\va Zinbabuwe
+\ty гос.
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Zimbabwe
+\ru Зимбабве
+\dt 27/Apr/2018
+
+\lx Zonba
+\ty г.
+\ps n.prop
+\gf TOP
+\smf (ville du Malawi, ancienne capitale)
+\gvf Zomba
+\ru Зомба
+\cm (до 1974 г. - столица Малави)
+\gf TOP
+\smf (nom de lieu)
+\dt 23/May/2010
+
+\lx Zɔrizi
+\ps n.prop
+\gf TOP
+\smf (pays)
+\gvf Géorgie
+\dt 11/Mar/2018
+
+\lx Zuwanɛsiburugi
+\ps n.prop
+\gf TOP
+\smf (ville d'Afrique du Sud)
+\gvf Johannesbourg
+\dt 05/Feb/2017

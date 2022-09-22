@@ -1,0 +1,3576 @@
+\_sh v3.0  1296 MDF 4.0
+
+\lang bam
+\name jamuw
+\ver 0.3
+\gf NOM.CL
+
+\lx Angontinbe
+\di (dogon)
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ba
+\ps n.prop
+\gf NOM.CL
+\gvf Ba
+\dt 31/May/2016
+
+\lx Babi
+\ps n.prop
+\gf NOM.CL
+\dt 01/Feb/2017
+
+\lx Bacili
+\ps n.prop
+\gf NOM.CL
+\gvf Bathily
+\smf
+\xv
+\xf
+\dt 28/May/2016
+
+\lx Bàgayɔgɔ
+\va Bàgayɔkɔ
+\va Bagayoko
+\va Bagayogo
+\di (bambara, wassolon)
+\di kag
+\ca nùmu
+\ca hɔ̀rɔn
+\eq Sisoko
+\eq Dunbiya
+\sm Jalo
+\sm Sidibɛ
+\sm Sangarɛ
+\sm Balo
+\sm Jakitɛ
+\sm Fɔnba
+\sm Togola
+\fm Danba, Baaba
+\sm bula
+\tt bàga
+\dt 20/Nov/2018
+\ps n.prop
+\gf NOM.CL
+
+\lx Bajaga
+\ps n.prop
+\gf NOM.CL
+\gvf
+\sm (Soninké)
+\dt 14/Jul/2017
+
+\lx Balo
+\va Baalo
+\ps n.prop
+\gf NOM.CL
+\dt 17/Dec/2012
+
+\lx Bamiya
+\di (dogon)
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Bánbà
+\di snf
+\di (bambara)
+\re Sikasso
+\ca nùmu
+\ca hɔ́rɔn
+\sm Kane
+\sm ful
+\sm son
+\mr Kulubali
+\mr ful
+\mr son
+\tn bàma
+\tn bása
+\tn nkɔ̀rɔngɔ
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Bánbèrá
+\va Bamera
+\va Bamere
+\di (bambara)
+\ca jèli
+\re Kulikoro
+\re Segu
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Bànbó
+\di (bambara)
+\di daf
+\ca jèli
+\ca hɔ́rɔn
+\dt 14/Jul/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Bàngura
+\di (maninka)
+\di sou
+\sm Suma
+\sm bula
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Banjugusi
+\di (maninka de Kita)
+\sm kabila
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Baraga
+\di (soninké)
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Baraji
+\di (soninké)
+\di kag
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Bari
+\di fulF
+\eq Sangare
+\eq Si
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Barola
+\di dK
+\sm kabila
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Basum
+\di diog
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Baxaga
+\di (soninké)
+\ca griot-geseru
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Bàyo
+\di (bambara, soninké)
+\eq Bagayɔgɔ (?)
+\sm bula
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Benkali
+\di (soninké)
+\di ful (?)
+\re Sikaso
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Bèrete
+\va Bèrte
+\va Bérete
+\di (maninka)
+\di snf
+\di (soninké)
+\ca hɔ̀rɔn
+\sm Jane
+\fa Sùwanún (m)
+\smf (Marabouts ou (dans les zones non fusionnées))
+sorciers-guérisseurs (bolotigiw). Les habitants du Manden sont des agriculteurs.
+Appartient au nombre des «cinq premiers musulmans» du Mandé.
+\smr (Марабуты или (в неисламизированных районах))
+колдуны-знахари (bolotigiw). У манден - земледельцы.
+Относят к числу "первых пяти мусульман".
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Bɛ́lìko
+\ps n.prop
+\gf NOM.CL
+\gvf
+\sm (peul, diawambé)
+\dt 14/Jul/2017
+
+\lx Bí
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Bìdanesi
+\di (soninké)
+\ps n.prop
+\gf NOM.CL
+\gvf
+\dt 16/Dec/2018
+
+\lx Bíibà
+\di (soninké)
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Bíibà
+\di (soninké)
+\smf (village de Madina, à côté de Guissimbine)
+\smr (Деревня Madina, рядом с Guissimbine.)
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Bokum
+\di (peul)
+\di tou
+\sm nùmu
+\smf (Bergers)
+\smr (Пастухи.)
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Boyigille
+\di kag
+\di (soninké)
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Bwarɛ
+\va Bɔrɛ
+\va Bɔarɛ
+\va Buware
+\di (bambara)
+\di mny
+\dt 01/Feb/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Camu
+\di (bambara)
+\va Cam
+\di tou
+\ca nùmu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Cɛɛrɔ
+\va Cɛrɔ
+\va Cɛro
+\di (bambara)
+\di boz
+\di (soninké)
+\di som
+\eq Tera
+\cm у бобо
+\dt 09/Apr/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Cɛnta
+\di boz
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Cokari
+\di diawambe
+\di diogorana
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Cùlentà
+\di boz
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Cun
+\di gaulo
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Daabo
+\va Dabo
+\di (maninka)
+\di kag
+\di mdk
+\ca hɔ́rɔn (kag)
+\fa Sonka (mdk)
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dáfe
+\cf Daw
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dakuwo
+\di bob
+\ca hɔ́rɔn
+\sm Dɛna
+\smf (Agriculteurs. Beaucoup sont chrétiens.)
+\smr (Земледельцы. Многие - христиане.)
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Danba
+\ca jèli
+\eq Sakiliba
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dànbele
+\va Dànbɛlɛ
+\va Dènbele
+\di (bambara, khasonka, maninka)
+\di smn
+\di snf
+\di mny
+\eq Traore
+\eq Juf
+\eq Mukɔrɔ
+\fm Donsira
+\ca hɔ́rɔn
+\ca nùmu (Buguni)
+\tt tuga
+\tt miniɲan (Buguni)
+\dt 05/Sep/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Dàngo
+\di (soninké)
+\ca jèli
+\tn nkòrongofin
+\eq Kuwate
+\sm Keyita
+\sm Kante
+\sm Konate
+\sm Makalu
+\smf (Ancêtre - Kabala Sinbon, petit-fils Ase Bilali.)
+\smr (Предок - Kabala Sinbon, внук Ase Bilali.)
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dansira
+\eq Denbele
+\eq Tarawele
+\smf (utilisé pour les femmes Tarawele.)
+\smr (Женское джаму.)
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dansoko
+\va Dansogo
+\va Donsogo
+\di (maninka)
+\di dia
+\ca hɔrɔn
+\re Kita
+\re Bafing
+\re Koɲa
+\eq Kamara
+\eq Fofana
+\eq Magasa
+\fm Danbe, Balanba
+\fa Danfaga
+\sm Keyita
+\sm Sangare
+\sm Sidibe
+\sm Jakite
+\sm Jalo
+\smf (Ancêtre - Jatra Dansongo.)
+\smr (Родоначальник - Jatra Dansogo.)
+\dt 20/Nov/2018
+\ps n.prop
+\gf NOM.CL
+
+\lx Dànsúba
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dante
+\va Dantɛ
+\di (bambara)
+\ca jèli
+\re Segu
+\re Tumunde (Kita)
+\eq Sisoko
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dányò
+\di (soninké)
+\di kag
+\di (bambara)
+\ca jèli
+\ca nùmu (kag)
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Danyɔkɔ
+\va Danyɔgɔ
+\di dK
+\di (bambara)
+\di dia
+\di kag
+\ca jèli (dK, b)
+\ca hɔ́rɔn (dia)
+\re Birigo
+\re Sagabari (Kita)
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Daɲon
+\sm =Dáɲɔ?
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dara
+\di (dogon)
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Daramera
+\va Dramera
+\di dia
+\smf (Bergers.)
+\smr (Пастухи.)
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Daramerra
+\cf Dramera
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Daramɛ
+\di (soninké)
+\di dia
+\di (bambara, peul)
+\di jgr
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Darawe
+\ps n.prop
+\gf NOM.CL
+\gvf Drawé
+\smf
+\dt 30/Apr/2017
+
+\lx Daw
+\va Ndaw
+\va Dafe
+\di wlf
+\di (peul)
+\di tou
+\di dia
+\di mrk
+\tn lɛ̀
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dawu
+\va Dawo
+\di mny
+\ca jèli (?)
+\re Sikaso
+\re Segu
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dèna
+\di bob
+\ca hɔ́rɔn
+\sm Dako
+\sm Kamate
+\smf (Agriculteurs)
+\smr (Земледельцы.)
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Denba
+\di dia
+\smf (Bergers.)
+\smr (Пастухи.)
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dènbága
+\di (soninké)
+\ca garanke
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dende
+\ps n.prop
+\gf NOM.CL
+\gvf
+\smf
+\dt 09/Apr/2017
+
+\lx Denɔn
+\ps n.prop
+\gf NOM.CL
+\dt 01/Feb/2017
+
+\lx Deteba
+\di kag
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dikko
+\va Dikɔ
+\va Diko
+\di tou
+\di (dogon, peul)
+\ca hɔ́rɔn
+\eq Jalo (?)
+\smr (Включает в себя Ɲalibuli.)
+\dt 17/May/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Dìsá
+\ps n.prop
+\gf NOM.CL
+\gvf
+\sm (Senoufo)
+\dt 14/Jul/2017
+
+\lx Díyasana
+\va Jásana
+\ps n.prop
+\gf NOM.CL
+\gvf
+\sm (Bobo)
+\dt 14/Jul/2017
+
+\lx Dolo
+\di (dogon)
+\tt nkaana
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Draba
+\di (bambara)
+\ca jèli
+\re Segu
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dramɛ
+\cf Daramɛ
+\di (peul, soninké)
+\di dia
+\di snb
+\di diog
+\di wag
+\ca hɔ̀rɔn
+\ca gesere
+\ca mòri
+\ca nùmu
+\smf (tanneurs.)
+\smr (Возводят к сыну Diŋa. У догонов относятся к касте janbu (кожевенники).)
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dukansi
+\va Dùwansí
+\va Dugansi
+\di (soninké, khasonka)
+\sm Sisigo
+\smf (originaires de Wuluma (Nord de Kayes). Forgerons (tagu).)
+\smr (Родом из Wuluma (к северу от Kayi). Кузнецы (tagu).)
+\dt 04/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dukare
+\di (soninké)
+\ca nùmu
+\re Kayi
+\re Yelimane
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dúkùre
+\di (soninké)
+\ca hɔ̀rɔn
+\re Yelimane
+\re Jafunu
+\sm Tɔntigi. Земледельцы.
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dumasi
+\di (soninké)
+\ca tagu
+\dt 05/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dunbiya
+\va Dunbuya
+\va Dumuya
+\va Dunmuya
+\di (bambara, maninka)
+\di (wassolon)
+\di kag
+\eq Kuruma
+\eq Sisoko
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dúnɔ
+\di (maninka)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dunu
+\di koranko (?)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Dunyo
+\di (dogon)
+\re Sanga
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Fàdiga
+\va Fàdika
+\di (bambara, maninka)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Fal
+\di wlf
+\di tou
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Famanta
+\va Pámàntà
+\va Pamante
+\va Kamanta
+\di boz
+\ca hɔ̀rɔn
+\tn miniɲan
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Fánɛ
+\va Fáne
+\va Fáanɛ
+\di (wassolon)
+\di (bambara, maninka)
+\di mny
+\ca nùmu
+\tn bama
+\dt 15/Jun/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Fasa
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Fisuru
+\di (soninké)
+\ca wage
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Fófana
+\eq Fònba
+\eq Magasa
+\eq Dancogo
+\eq Kamara
+\eq Jɔ́mànde
+\di (maninka, soninké)
+\di kag
+\di (khasonka, wassolon)
+\sm Kamara
+\sm Keyita
+\sm Ture
+\sm Kante
+\sm Kulibali
+\tn sàga
+\tn lèlame
+\cm исходно
+\tn sùruku
+\tn wáranìnkála
+\cm у кагоро
+\ca hɔ̀rɔn
+\ca wage
+\fa Kànunjɔ́n
+\dt 17/Feb/2013
+\ps n.prop
+\gf NOM.CL
+
+\lx Fònba
+\va Fɔ̀nba
+\di bob
+\sm Bagayogo
+\sm Balo
+\sm Kulibal
+\sm Sidibɛ
+\smf (tous peuls)
+\smr (все фульбе)
+\tt janfin (сорока?)
+\tt маленькая полевая мышь
+\dt 08/Feb/2016
+\ps n.prop
+\gf NOM.CL
+
+\lx Funɛmuso
+\smf (Jamu des griots toutcouleurs. Souvent forgerons. Les femmes donnent souvent dans la mendicité.)
+\smr (Джаму у maabɔ. Часто - кузнецы. Женщины часто занимаются)
+попрошайничеством; земледелем занимаются, но неохотно!
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gajigo
+\di tou
+\ca laabe
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gaku
+\di mau
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Galedu
+\di wlf
+\di diawara
+\ca hɔ̀rɔn
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ganbi
+\di diawambe
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gandeega
+\di (soninké)
+\ca wage
+\smr (Возводят к сыну Diŋa.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gasama
+\di (soninké)
+\ca wage
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gey
+\di wlf
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gèyita
+\di (maninka)
+\re Bafin
+\sm Daabɔ
+\smr (не бракозапретный)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gigilay
+\ca garanke
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gilawogi
+\di looma
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ginbaira
+\di diawambe
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gìndo
+\di (dogon)
+\re Bandiagara
+\smf (l'un des Jamu dogons les plus répandus. Se reconnaissent dogons entre eux, même en dehors du pays Dogon.)
+\smr (Одно из самыз распространённых догонских джаму. Так)
+обычно называют себя догоны, находясь за пределами своей
+территории.
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gise
+\di (peul)
+\ca maabube (ткачи)
+\tn питон
+\sm nùmu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Golfa
+\di diawambe
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gologo
+\va Galogo
+\di (peul)
+\di son (?)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Goyta
+\va Goyita
+\di mny
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gumane
+\di (soninké)
+\re Tenemala
+\re Banamba
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gunbala
+\di tou
+\smf (Charpentiers toutcouleurs (laobe), constructeurs de bateaux.)
+\smr (Тукулёры-столяры (laobe), изготовители лодок.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Gboɛta
+\di (soninké)
+\ca jèli
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Haba
+\di kpelle
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Haydara
+\va Háyidara
+\di (soninké)
+\di mau
+\di sng
+\ca hɔ̀rɔn
+\smf (Ils sont considérés comme des descendants du Prophète Muhammad - Sharifs.)
+Marabouts. Pas d'interdiction de totem (tana) ni de mariage.
+\smr (Считаются потомками пророка Мухаммеда - шарифами.)
+Марабуты. Не имеют tana и брачныз запретов.
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Honomu
+\di kpelle
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ja
+\di tou
+\ca hɔ̀rɔn
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jaabi
+\di (soninké, khasonka)
+\di (maninka)
+\ca mòri
+\ca wage
+\smr (Возводят к сыну Diŋa.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jàanɛ
+\di (soninké, maninka)
+\di mdk
+\ca hɔ̀rɔn
+\ca mòri
+\fa Makarɛmɛ
+\fa Maharɛmɛ
+\smf (du Soninké maka remme "enfant de la Mecque")
+\cm из сонинке maka remme 'ребёнок из Мекки'
+\fa Sámɛkà
+\smf ('Syrien' (en Guinée))
+\cm 'сириец' (в Гвинее)
+\sm Keita
+\sm Berete
+\sm Sila
+\tn jifa
+\smf (animal qui n'a pas été abattu selon le rite musulman)
+\cm мясо животного, зарезанного не по мусульманскому обряду
+\dt 17/Feb/2013
+\ps n.prop
+\gf NOM.CL
+
+\lx Jabira
+\di (soninké)
+\ca wage
+\eq Yatabere
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jágàraga
+\di (soninké)
+\ca wage
+\tn houtarde
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jagate
+\di (maninka)
+\re Banbuku
+\eq Jakite
+\eq Kaba
+\re Ba
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jahune
+\di (soninké)
+\ca garanke
+\sm Makalu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jàkite
+\di (wassolon, peul)
+\ca hɔ̀rɔn
+\eq Ba
+\eq Kaba
+\eq Jagate
+\eq Ja
+\sm Kyta
+\sm Sidibɛ
+\fa Kaba
+\dt 17/Feb/2013
+\ps n.prop
+\gf NOM.CL
+
+\lx Jàlo
+\di (peul, wassolon)
+\di (khasonka)
+\tn wɔlɔ
+\eq Suntura
+\eq Diko (?)
+\eq Kane
+\eq Ka
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Janbisi
+\di (soninké)
+\ca garanke
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jánka
+\di (soninké)
+\ca nùmu
+\re Kayi_
+\sm Jalo
+\sm Sidibɛ
+\sm Sangare
+\sm Jakite
+\fa nùmu
+\fa dɔ̀nkili
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jàra
+\di (bambara, maninka)
+\eq Konde
+\eq Ndiay
+\eq Kone
+\tt jàra
+\tt wáraba
+\tt ntɔɔroden
+\tt wòndon
+\tn waraninkalan
+\sm Tarawele
+\sm Denbele
+\sm Sanogo
+\sm Kone
+\sm Kanute
+\sm Dunbuya
+\sm Bagayogo
+\sm Jàra не должны смотреть на
+младенца первые 8 дней после его
+рождения, иначе тот умрёт
+\fa Jàra kòloba kári!
+\fa í jàra mín? í yé kɔ̀` tìgɛ, í jàra ò dá` lá!
+\dt 03/Jun/2018
+\ps n.prop
+\gf NOM.CL
+
+\lx Jaraga
+\di kag
+\ca nùmu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jarasuba
+\di (bambara)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jariso
+\di (soninké)
+\di kag (?)
+\ca hɔ̀rɔn
+\ca wage
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jaruma
+\di (soninké)
+\sm Kusa. Прародитель - Kantiakabe.
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jasarɛ
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jaw
+\di (khasonka)
+\di tou
+\di (peul)
+\ca nùmu
+\cm у фульбе и тукулеров
+\tt nporongofin
+\tt kolokani
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jáwara
+\di (soninké)
+\di dia
+\di kur
+\di (peul, maninka)
+\ca hɔ̀rɔn
+\ca jèli
+\ca garanke
+\tn трёхцветная коза (чёрная, белая, рыжая)
+\sm garanke
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jàwunɛ
+\ca garanke
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jebikile
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jefaga
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jemen
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jenepo
+\di boz
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jeng
+\di tou
+\smf (Subalbe (pêcheurs "toucouleurs"))
+\smr (Субалбе (тукурёры-рыболовы), гауло.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jenta
+\di boz
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jeye
+\di tou
+\smf (Subalbe (pêcheurs "toucouleurs"))
+\smr (Субалбе (тукурёры-рыболовы).)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jɛbatɛ
+\va Jabatɛ
+\va Jabate
+\va Jubatɛ
+\va Jabagatɛ
+\va Jɛbaatɛ
+\va Jɛbagatɛ
+\di (maninka)
+\di kur
+\ca jèli
+\ca hɔ̀rɔn
+\cm на Ю.-В. Мали
+\ca nùmu
+\ca gesere
+\cm у сонинке
+\tn panthère
+\sm Jara
+\sm Kone
+\dt 23/Feb/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Jige
+\di diawambe
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jigibe
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jime
+\va Njim
+\di diawambe
+\di diogorame
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jinbiya
+\di son (?)
+\tt tunbi (garinarium excelsum)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jire
+\va Jirɛ
+\di som
+\di boz
+\di (soninké, dogon)
+\ca jèli
+\cm в Сегу
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jonbana
+\di (soninké)
+\di kag
+\ca tagu
+\ca nùmu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jong
+\ca maabube
+\tn питон
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jonu
+\smr (Болон.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jop
+\va Juf
+\va Juuf
+\va Jɔpu
+\di wlf
+\eq Tarawele
+\eq Denbele
+\sm Njayi
+\dt 09/Oct/2016
+\ps n.prop
+\gf NOM.CL
+
+\lx Jɔ́mànde
+\eq Fɔfana
+\smf (Étymologie nationale: "fils de Manden")
+\smr (Народная этимология: "сын манден".)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jɔnfaga
+\di dia
+\ca hɔ̀rɔn
+\re Boke
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jɔnsan
+\di dia
+\ca hɔ̀rɔn
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Juhara
+\di (soninké)
+\ca mòri
+\ca garanke
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jukanci
+\di (bambara)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jum
+\di (peul)
+\di tou
+\ca столяры
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jumasi
+\di (bambara)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Jwàra
+\di (soninké)
+\ca hɔ̀rɔn
+\sm Kamara
+\sm Jawara
+\sm Sanɔgɔ
+\tn nkaana
+\fa Mùsamàkan
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kaane
+\eq Kante
+\di (bambara)
+\di tou
+\sm Banba
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kàba
+\di (maninka, soninké)
+\eq Jakitɛ
+\eq Jasimunka
+\eq Ba
+\re Kankan
+\ca hɔ̀rɔn
+\fa kàbjàyitɛ
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kalapo
+\va Kalafo
+\di boz
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kale
+\di somono
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kalle
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kaloga
+\va Kálɔkà
+\va Kálɔ̀
+\di (maninka, soninké)
+\di diahanka
+\ca garanke
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kama
+\di (soninké)
+\di diawambe
+\ca tagu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kamagate
+\di dK
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kàmara
+\va Kámala
+\di (maninka)
+\di kuranko
+\di dia
+\di kag
+\di kny
+\di sou
+\eq Koiwogi
+\cm у лоома
+\eq Dansogo
+\eq Fofana
+\eq Magasa
+\ca hɔ̀rɔn
+\ca finɛ
+\ca nùmu
+\cm (Wasulu)
+\sm Kuruma
+\sm Fofana
+\sm Sila
+\sm Wulare
+\tt jeberelen
+\tt sama
+\cm у коньянка
+\tt водный варан
+\cm у кагоро
+\di som
+\dt 17/Dec/2018
+\ps n.prop
+\gf NOM.CL
+
+\lx Kàmisoko
+\va Kàmisogo
+\di (maninka, soninké)
+\di kag
+\eq Jàra
+\tt káana
+\ca hɔ̀rɔn
+\cm у сонинке
+\ca jèli
+\smf (Signe - trois cicatrices longitudinales sur les tempes)
+\smr (Знак - три продольных шрама на висках.)
+\fa Sataba
+\dt 26/Feb/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Kamite
+\ps n.prop
+\gf NOM.CL
+\gvf
+\smf
+\dt 30/Apr/2017
+
+\lx Kamiyan
+\di marka
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kan
+\di diawambe
+\re Segu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kanakomo
+\di boz
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Káne
+\va Kánɛ
+\di boz
+\di somono
+\re Segu
+\ps n.prop
+\gf NOM.CL
+\dt 09/Apr/2017
+
+\lx Kàni
+\di (bambara)
+\ca hɔ́rɔn
+\ca nùmu
+\re Beledugu (?)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kanisi
+\di (maninka de Kita)
+\smf (Une des kabila (grande famille) entrant dans le jamu Keita)
+\smr (Один из kabila, входящих в джаму Keita.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kankama
+\di dia
+\ca hɔ́rɔn
+\re Boke
+\fa Ɲagaso
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kanpo
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kansai
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kantara
+\di (maninka)
+\eq Kamara
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kántɛ
+\va Kánte
+\va Kándɛ
+\va Káane
+\eq Súmàoro
+\di (maninka, wassolon)
+\di (bambara)
+\di kag
+\ca nùmu
+\ca jèli
+\tn белая курица
+\tn bàma
+\tn búbunin
+\cm в Бугуни
+\pr Bamagana
+\fa nùmuna kúlunba, súbagaya tɛ́ sà!
+\fa Súya tɛ sànfɛn yé, nùmuya` tɛ́ kɔ́rɔbɔ
+\sm Kulibali
+\sm Keyita
+\sm Kamara
+\sm Samakɛ
+\sm Jabo
+\sm Jakitɛ
+\smf (Peul)
+\smr (фульбе)
+\dt 07/Feb/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Kanute
+\va Kanutɛ
+\di (bambara)
+\di kag
+\ca jèli
+\smf (Kagoro)
+\cm у кагоро
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kanyasi
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Karabɛnta
+\di boz
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Karanbe
+\di (dogon)
+\re Bandiagara
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Karanyara
+\di diawambe
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Karo
+\smf (Une des trois grandes divisions de Soninké)
+\smr (Одно из трёх больших подразделений сонинке.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kásanbàra
+\eq Kulibali
+\di (dogon)
+\smf (de Bandiagara)
+\cm в Бандиагара
+\di (bambara)
+\smf (de Mopti)
+\cm в Мопти
+\sm Keyita
+\sm Ture
+\sm Mayiga
+\sm Samokɛ
+\sm Jara
+\tn голод (?)
+\smf (étymologie populaire: kásaa ñ bàra «sent le poisson de chez moi».)
+Le frère cadet - Coulibaly, qui a mangé du poisson-chat npɔlyɔ.
+\smr (Народная этимология: kásaa ń bàra 'от меня пахнет рыбой'.)
+Младший брат - Кулибали, съевший сома npɔlyɔ.
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kase
+\di (peul)
+\ca maabɔ
+\smf (de Mopti)
+\smr (в Мопти)
+\tn nkɔrɔngɔ
+\sm nùmu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kasoge
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kasumasi
+\di (maninka de Kita)
+\smf (une des kabila du jamu Keyita.)
+\smr (Один из kabila джаму Keyita.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kàtile
+\di (bambara)
+\re Segu
+\eq Bware
+\smf (vient du Macina.)
+\smr (Пришли из Масина.)
+\tn gàrafini
+\smf (vêtements, teints indigo)
+\cm одежда, крашенная индиго
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kèbe
+\di (maninka)
+\di tou
+\ca hɔ̀rɔn
+\smf (du Maninka)
+\cm у манинка
+\ca laobe
+\smf (toucouleur)
+\cm у тукулёров
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kelefeli
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kelem
+\di (peul)
+\ca maabube
+\tn питон
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Keren
+\di dK
+\smf (grande kabila du jamu Konte)
+\smr (Один из kabila в Конге.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kéyità
+\va Kétà
+\va Kɛ́yità
+\gr Keita
+\di (maninka)
+\di dia
+\di bob
+\eq Suma
+\eq Kone
+\eq Mayiga (?)
+\eq Beawɔgi
+\re Kita
+\re Manding
+\re Farana
+\tn jàra
+\tn nonsi
+\sm Turɛ
+\sm Kulibali
+\sm Sisɛ
+\sm Sidibɛ
+\sm Kaba
+\sm Wulare
+\sm Jane
+\sm Màriko
+\fm Sugo
+\fm Suko
+\cm брачные партнёры
+\pr Manasaren
+\cm Общее происхождение с Kulibali.
+\dt 14/Jun/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Kɛ̀mɛnaani
+\di (bambara)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kiabu
+\di dia
+\ca hɔ̀rɔn
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kide
+\di diawambe
+\di diogorame
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kindibilba
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kirigun
+\di dK
+\smf (grande kabila du jamu Konte)
+\smr (Один из kabila в Конге.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kobara
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kojo
+\di (dogon)
+\re Sanga
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kolo
+\eq Samake (?)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kòma
+\va Komma
+\di (soninké)
+\ca wage
+\smf (dans le Manden, connu comme "l'un des cinq premiers musulmans" )
+\smr (У манден иногда называются в числе "пяти первых)
+мусульман".
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kómàra
+\di (maninka)
+\ca hɔ́rɔn
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kòmú
+\ps n.prop
+\gf NOM.CL
+\gvf
+\sm (Bozo)
+\dt 14/Jul/2017
+
+\lx Konare
+\di (bambara)
+\va Konarɛ
+\va Konantɛ (?)
+\eq
+\ca hɔ́rɔn
+\re Kayi
+\tn nɔ́nsin
+\dt 18/Feb/2013
+\ps n.prop
+\gf NOM.CL
+
+\lx Kònate
+\va Kónatɛ̀
+\va Kɔnatɛ
+\eq Kéyità
+\eq Konare (?)
+\di (maninka, bambara)
+\di kag
+\tn wùlu
+\sm Màriko
+\smf (du Bélédougou)
+\smr (в Беледугу)
+\dt 10/Sep/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Kònde
+\va Kɔ́ndɛ
+\di (bambara)
+\ca hɔ́rɔn
+\ca tontigi
+\re Kurusa
+\re Sanakaran
+\re Farana
+\re Kankan
+\dt 29/Mar/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Konipo
+\di boz
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kònta
+\va Kɔ̀nta
+\di boz
+\dt 06/Feb/2016
+\ps n.prop
+\gf NOM.CL
+
+\lx Korkosi
+\di (soninké)
+\ca tagu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Korora
+\di dK
+\smf (grande kabila du jamu Konta)
+\smr (Один из kábila Конга.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kóyità
+\va Kóytà
+\di (soninké, bambara)
+\di tou
+\di kag
+\di diawambe (?)
+\di (maninka)
+\di mny
+\ca jèli
+\smf (de Ségou)
+\smr (в Сегу)
+\ca hɔ́rɔn
+\smf (du soninké)
+\smf (Beaucoup de Koyita sont des soninkés éleveurs de chevaux. Principalement du canton de Saroma (R. Yelimane), en particulier le village de Konge-Sanu)
+\smr (у сонинке)
+\smr (Многие Koyita-сонинке - коневоды. Главное место - Saroma)
+Kafo (р-н Yelimane), особенно - деревня Konge-Sanu.
+\dt 18/Jul/2017
+\ps n.prop
+\gf NOM.CL
+\sm (sananku: Keyita)
+
+\lx Kɔ́nɛ
+\va Kɔ́ndɛ
+\va Konte
+\va Kone
+\va Kɔ́ntɛ
+\di (maninka, bambara)
+\eq Jàra
+\eq Ndyay
+\eq Tamura
+\ca jèli
+\smf (du Maninka)
+\cm у манинка
+\ca hɔ́rɔn
+\tn jàra
+\sm Jèli у Kamara (kagoro).
+\dt 23/Sep/2019
+\ps n.prop
+\gf NOM.CL
+
+\lx Kɔnpawore
+\ps n.prop
+\gf NOM.CL
+\gvf Compaoré
+\sm Moosi
+\smf
+\xv
+\xf
+\dt 01/Feb/2017
+
+\lx Kɔ́ntawò
+\di som
+\sm kagoro
+\sm soninke
+\sm dogon
+\cm бракозапретные
+\smr (Восходят к сонинке.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kɔrɛ
+\di (bambara)
+\ca jèli
+\re Segu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kuɛyta
+\di (soninké)
+\ca hɔ́rɔn
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kúlibàli
+\va Kúlubàli
+\di (bambara, maninka)
+\di mny
+\di (peul)
+\di kag
+\di (soninké)
+\ca hɔ́rɔn
+\ca tontigi
+\cm у бамана, манинка, миньянка
+\ca numu
+\smf (du Wassoulou)
+\smr (в Васулу)
+\pr Díko
+\pr Masasi
+\tt npolyɔ
+\tt jàra, màli
+\smf (dans la branche plus ancienne (Nyangolo))
+\cm у старшей ветви (Nyangolo)
+\tt waraninkala; Dugukunna - bìnimini
+\cm у Kúlubàli-nùmu
+\fa Masa Kuru ni Masa Donde!
+\cm = Bitɔn Kulibali fasa
+\dt 08/Jul/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Kuma
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kumare
+\va Kumarɛ
+\di (bambara)
+\ca nùmu
+\ca kule
+\smf (de Ségou)
+\cm в Сегу
+\dt 10/Mar/2018
+\ps n.prop
+\gf NOM.CL
+
+\lx Kumate
+\di (bobo)
+\eq Samake
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kume
+\di fil
+\ca maabube
+\tn питон
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kunbare
+\di (soninké)
+\ca hɔ́rɔn
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kundur
+\di (peul)
+\ca maabube
+\tn питон
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kuruma
+\va Koroma
+\va Kuruba
+\sm mdk
+\di (maninka)
+\di kuranko
+\eq Dunbiya
+\eq Sakuwɔgi
+\eq Hamuteamu
+\ca hɔ́rɔn
+\ca garanke
+\ca nùmu
+\sm Kamara
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kusa
+\smf (Une des trois divisions de Soninké, qui comprend les jamu :)
+Jaruma, Tunkara, Dukure. Par tradition, ne devrait pas porter de
+vêtements teints indigo ni de pantoufles. Griots - Simaxa,
+Sagone.
+\smr (Одно из трёх подразделений сонинке, включающее джаму:)
+Jaruma, Tunkara, Dukure. По традиции, не должны носить
+одежду, крашенную индиго, и шлёпанцы. Гриоты - Simaxa,
+Sagone.
+\sm Wago
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kuwate
+\di boz
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Kúyate
+\va Kúwate
+\va Kúyatɛ
+\di (maninka)
+\di kuranko
+\di mb
+\di (khasonka)
+\ca jèli
+\smf (rattaché aux Keïta)
+\smr (у Кейта)
+\ca garanke
+\tn sege
+\tn babi
+\tn nkaana
+\sm Keyita
+\sm Konate
+\sm Nakalu
+\fa jèli hɔ́rɔn
+\fa jàli tɛ́ Kúyate bɔ́!
+\smf ("Accord amical" avec les Keyita (pas de sinankuya))
+\smr ("Дружеское согласие"с Keyita (не senankuya))
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx La
+\di diawambe
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Lam
+\di gaulo
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Landure
+\di diawambe
+\di diogorame
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Lé
+\di tou
+\di (peul)
+\sm Sow
+\sm Kante
+\sm nùmu
+\smf (pas de totem (tana))
+\smr (Нет tana.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Lelenta
+\va Lilenta
+\di boz
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Li
+\ps n.prop
+\gf NOM.CL
+\gvf Ly
+\sm (clan toucouleur)
+\dt 17/May/2017
+
+\lx Maale
+\di (bambara)
+\re Segu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Maane
+\di mdk
+\smr (Имя родственной группы. В Кабу входили в рыцарское)
+сословие nyanco.
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Magaji
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Magasa
+\di kag
+\re Kaarta
+\eq Dancogo
+\eq Fofana
+\eq Kamara
+\ca hɔ́rɔn
+\ca tontigi
+\tn jala
+\smf (peul)
+\smr (фулбье)
+\smr (бракозапретн.)
+\sm Dugure
+\sm Jariso
+\sm Sumare
+\smr (небракозаптретн.)
+\ps n.prop
+\gf NOM.CL
+\dt 01/Jun/2016
+
+\lx Màgasùba
+\di (soninké)
+\di kag
+\di (maninka)
+\ca hɔ́rɔn
+\ca tontigi
+\tn bànba
+\sm Kùruma
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Magiraga
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Màkalu
+\di (soninké)
+\di kag
+\di (maninka)
+\eq Koyita
+\ca jèli
+\ca garake
+\ps n.prop
+\gf NOM.CL
+\dt 01/Jun/2016
+
+\lx Makangile
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Makkaji
+\di (soninké)
+\ca wage
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Male
+\ps n.prop
+\gf NOM.CL
+\dt 01/Feb/2017
+
+\lx Mandakunu
+\smf (nom honorifique des Tunkara chez les Soninké.)
+\smr (Почётное имя для Tunkara у сонинке.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Mangala
+\di kag
+\va Màngara
+\di (soninké, khasonka)
+\ca nùmu
+\smf (peul)
+\smr (фульбе)
+\cm бракозапретн.
+\sm Sàko
+\cm бракозапретн.
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Mànju
+\di (maninka)
+\eq Ture
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Mànsaren
+\va Màsaren
+\fm Mansarena
+\smf (Nom honorifique des Keyita chez les Maninka. Littéralement "enfant)
+leader. "
+\smr (Почётное имя для Keyita  у манинка. Буквально "ребёнок)
+вождя".
+\dt 09/Dec/2018
+\ps n.prop
+\gf NOM.CL
+
+\lx Mara
+\va Máara
+\di kuranko
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Màriko
+\di (bambara, soninké)
+\eq Tarawele
+\eq Jariso
+\ca hɔ́rɔn
+\re Segu
+\re Sikaso
+\tt bàma
+\sm nùmu; Sikaso: Kéyità, Samakɛ, Kónatɛ̀
+\dt 04/Jun/2014
+\ps n.prop
+\gf NOM.CL
+
+\lx Markus
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Masasi
+\sm "Почётное имя" для Kulubali у бамана. Букв., "потомство
+вождя".
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Mayga
+\va Mayiga
+\di sng
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Mɛnta
+\di boz
+\di som
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Mònekata
+\di (maninka)
+\ca hɔ́rɔn
+\smr (Произовшли от Tarawele, но сейчвс не равнозначны им.)
+Прародитель - младший сые в 7-м поколении потомков
+Тирамагана. Поссорился с братьями, когда вернулся с охоты
+и ему не оставили еды. Обиделся и ушёл за приключениями в
+Сигири. Не ужился там, переправился через Falema в Kanieba.
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Mukɔrɔ
+\di bob
+\eq Tarawele
+\ca hɔ́rɔn
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Nabo
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Nafo
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Nàmɔgɔ
+\di m-bage
+\di (maninka de Kita)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Náyitɛ
+\di (maninka)
+\smf (rare)
+\smr (редк.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Nbayi
+\va Nbay
+\sm Nyang
+\dt 03/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Nbo
+\ca garanke
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ngalingo
+\di mdk
+\smf (une des famlille du jamu Bula, descendants de Fakoli.)
+\smr (Одно из джаму Bula, потомков Fakoli)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ngoni
+\di wlf
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Nimaga
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Njade
+\di diawambe
+\di diogorame
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Njayi
+\va Njay
+\di dia
+\di wlf
+\ca hɔ̀rɔn
+\ca gawulo
+\sm Jop
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Njim
+\cf Jime
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Nmub
+\di gaulo
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Nomogo
+\di (maninka)
+\ca tontigi
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Numansana
+\di (soninké)
+\re Kayi
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ɲagaso
+\smf (nom honorifique des Kankana (dialonke).)
+\smr (Почётное имя у джаму Kankana (dialonke).)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ɲákàte
+\di (soninké)
+\di kag
+\ca wage
+\re Kaarta
+\re Beledugu
+\pr Jula
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ɲalibuli
+\di (peul)
+\smf (rattaché à Dikko)
+\smr (Входят в Dikko.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ɲamakansi
+\smf (kabila (grande famille) du jamu Keïta.)
+\smr (Один из kabili джаму Keyita.)
+\ps n.prop
+\gf NOM.CL
+\dt 01/Jun/2016
+
+\lx Ɲan
+\di diawambe
+\di diogorame
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ɲanbali
+\eq Tarawele
+\eq Danbɛlɛ
+\ps n.prop
+\gf NOM.CL
+
+\lx Ɲanbele
+\di (bambara)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ɲang
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ɲangandu
+\va Ɲangado
+\va Ɲàxando
+\di diawambe
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ɲangi
+\di tua
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ɲaraxi
+\di (soninké)
+\re Kaarta
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Ɲarɛ
+\va Ɲàre
+\va Ɲàare
+\va Ɲaarɛ
+\di som
+\dt 30/Apr/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Ɲɛ́ntaò
+\di som
+\smf (Dogon)
+\smr (догоны)
+\smr (Дают своих женщин в жёны кузнецам, но в жёны кузнечих)
+не берут. Не имеют tàna.
+\fa Juber Alwatar!
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Odraogo
+\di mosi
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Pamanta
+\va Pamante
+\cf Famanta
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Pujugu
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Saane
+\di mdk
+\smr (Имя у родственной группы мандинка; в Каабу входили в)
+состав ɲanco, "рыцарского сословия".
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sagango
+\va Sakanoko
+\va Sanogo
+\va Sanɔgɔ
+\di dK
+\di (soninké)
+\di snf
+\di sng
+\sm Jàra
+\tn miɲinan
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sagara
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sagone
+\di (soninké)
+\ca jèli
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sakiliba
+\ps n.prop
+\gf NOM.CL
+\gvf Sakiliba
+\sm (un nom clanique féminin, correspond à Dunbuya)
+\dt 12/Oct/2017
+
+\lx Sako
+\va Sakɔ
+\va Sagɔ
+\va Saakɔ
+\va Saxo
+\di (bambara, maninka, soninké)
+\ca hɔ́rɔn
+\ca tontigi
+\ca jèli
+\cm у сонинке
+\ca mori
+\cm у сонинке
+\ca jɔn
+\cm у сонинке
+\tn dankala tutu
+\tn nkaana
+\dt 01/Feb/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Sal
+\di tpu
+\ca hɔ́rɔn
+\ca maabube
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Salu
+\di (soninké)
+\ca mòri
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sam
+\di gaulo
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Samagana
+\di dK
+\smf (grande famille des Konte)
+\smr (Один из kabila в Конге.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sámàkɛ
+\va Sámàke
+\di (bambara, maninka)
+\eq Tangara
+\eq Ture
+\eq Sogoba
+\eq Bonba
+\eq Kamate
+\ca hɔ́rɔn
+\tt sàma
+\sm Kùlibàli, Màriko (Sikaso)
+\re Segu
+\re Sikaso
+\re Buguni
+\fa Sàma sènkanba, sàma bólokanba
+\smf (griots chez les songhaï.)
+\smr (Гриоты у сонгаев.)
+\dt 28/Jun/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Samasa
+\di (soninké)
+\ca wage
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Samaseku
+\di (dogon, maninka)
+\ca nùmu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Same
+\di diawambe
+\di diogorame
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Samura
+\di (soninké)
+\re Bumbu
+\smf (à l'origine, peuls du Fouta-Jalon.)
+\smr (По происхождение - фульбе с Фута-Джалона.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sanarkua
+\di boz
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sanbaxe
+\di (soninké)
+\ca tagu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sàngare
+\va Sankare
+\di (maninka, peul, wassolon)
+\eq Bari
+\eq Si
+\eq Ba
+\sm Sidibɛ
+\sm nùmu
+\smf (surnom ludique: Kàngare)
+\smr (Шутливое прозвище: Kàngare.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sangone
+\di (peul)
+\ca maabube
+\tn питон
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sanogo
+\va Sánɔ̀ɔ
+\di (bambara, maninka, soninké)
+\di snf
+\di mny
+\di kuranko
+\sm Jàra
+\tn miniɲa
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sanpi
+\di (soninké)
+\ca geseru
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Santara
+\di (bambara)
+\di bob
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sanu
+\di d
+\re Burkina-Faso
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Saɲɔ
+\di (maninka)
+\di kny
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sar
+\di (peul)
+\di tou
+\di b (?)
+\di snf (?)
+\ca subalbe
+\cm тукулёры-рыболовы
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sare
+\di (peul)
+\ca maabube
+\tn питон
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sarisi
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sawadogo
+\di mos
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sek
+\di wlf
+\di tou
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sekem
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Serefu
+\di (maninka)
+\smr (Джаму?)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Seynu
+\ps n.prop
+\gf NOM.CL
+\gvf
+\smf
+\dt 14/Jul/2017
+
+\lx Sɛnpara
+\va Simpara
+\ps n.prop
+\gf NOM.CL
+\ca hɔ́rɔn
+\dt 12/Jun/2014
+
+\lx Sí
+\di tou
+\ca nùmu
+\ca maabube
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sibi
+\di mau
+\di (soninké)
+\ca hɔ́rɔn
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sídìbe
+\di (peul, wassolon)
+\eq So
+\eq Sow
+\sm Jakitɛ
+\sm Keyita
+\sm Fɔ̀nba
+\sm Sangare
+\tn fɛ́rɛtɛnin
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sídimɛ̀
+\va Sìdimɛ
+\di (maninka)
+\re Kankan
+\smf (sculpteur de statues de bois)
+\smr (Режут статуи из дерева.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sìla
+\va Silla
+\di (maninka, soninké, soussou)
+\ca hɔ́rɔn
+\ca wage
+\ca mori
+\ca geseru
+\ca garanke
+\sm Kamara
+\cm небракозаптретн.
+\sm Jaane
+\cm бракозапретн.
+\ps n.prop
+\gf NOM.CL
+\dt 01/Jun/2016
+
+\lx Simaga
+\va Simaxa
+\va Simakan
+\di (soninké)
+\ca kusantage
+\ca garanke
+\smf (On dit que les cordonniers Simaga peuvent se réincarner en hyènes.)
+\smr (Считается, что Simaga-garanke могут перевоплощаться в гиен.)
+\ps n.prop
+\gf NOM.CL
+\dt 01/Jun/2016
+
+\lx Simalo
+\di (maninka)
+\re Kangaba
+\tt tutu
+\sm Sumaworo
+\sm Kante
+\sm Konate
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sinaba
+\cf Sinayɔgɔ
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sinayɔgɔ
+\va Sinayɔkɔ
+\va Sineyogo
+\va Senayong
+\sm mdk
+\eq Sinaba
+\di (wassolon)
+\ca nùmu
+\smf (Relatif aux Bula, descendants de Fakoli.)
+\smr (Относятся к bula, потомкам Fakoli.)
+\dt 09/Dec/2018
+\ps n.prop
+\gf NOM.CL
+
+\lx Sineba
+\di (maninka)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sinenta
+\di boz
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Singare
+\di sam
+\re Kulikoro
+\smf (origine peul - Bangare)
+\smr (Восходят к фульбе-Bangare.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sìsɛ
+\va Sise
+\di (maninka, soninké)
+\di sng
+\eq Woniwogi
+\eq Teworo
+\eq Gumu
+\eq Gbilimu
+\eq Sengor
+\ca hɔ́rɔn
+\ca wage
+\sm Keyita
+\smf (connus dans le Manden comme l'un des «cinq premiers Musulmans ")
+\smr (Возводят к сыну Diŋa. У маден - один из "первых пяти)
+мусульман".
+\tn lɛ̀
+\tn wɔ̀lɔ
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sisɔkɔ
+\va Sisoko
+\di (bambara, maninka)
+\di kag
+\ca jèli
+\ca nùmu
+\cm у маниника
+\ca tontigi
+\cm у бамана
+\eq Dantɛ
+\eq Dunbiya
+\eq Kuruma
+\fm Danba
+\cm у jèli
+\fm Sakiliba
+\cm у hɔ́rɔn
+\tn nkaana
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sisuma
+\di mny
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx So
+\va Sow
+\va Sɔ
+\di tou
+\eq Sidibɛ
+\ca jèli
+\cm гриоты при марабутах-сонинке (saku)
+\ca laabe
+\tn страус
+\tn заяц
+\sm Bari
+\sm Sangare
+\sm nùmu
+\dt 09/Apr/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Sogoba
+\di mny
+\di snf (?)
+\di m (?)
+\di b (?)
+\eq Ture
+\eq Samake
+\tn sàma
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sogoxe
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sok
+\di gawulo
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Somaso
+\di dK
+\smf (grande famille du jamu Konte)
+\smr (Один из kabila в Конге.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Somono
+\va Sumano
+\va Sumono
+\di (maninka de Kita)
+\ca jèli
+\tn tutu mankaran
+\smf (Ancêtre - Kani Sinbon, petit-fils de Bilali)
+\smr (Предок - Kani Sinbon, внук Bilali.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Soropɔgi
+\di looma
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Soxuna
+\va Suxuna
+\va Suguna
+\di (soninké)
+\ca mòri
+\smr (Возводят к сыну Diŋa.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Suko
+\va Sogo
+\va Súkɔ
+\di (bambara)
+\smf (s'applique aux femmes - un synonyme de Keyita; Suko)
+Suko Sinbon (b) est l'un des éloges de Sundjata
+\smr (При обращении к женщинам - синонима джаму Keyita; Suko)
+Suko Sinbon (b) - одно из восхвалений Сундьяты.
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Suma
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sumaoro
+\va Sumaworo
+\di (bambara)
+\va Sumanguru
+\di (maninka)
+\eq Soropɔgi
+\eq Haba
+\ca nùmu
+\re Buguni
+\tn janba tutu
+\tn ɲuma tutu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sumare
+\va Sumarɛ
+\di (soninké)
+\ca hɔ́rɔn
+\ca tontigi
+\dt 05/Feb/2016
+\ps n.prop
+\gf NOM.CL
+
+\lx Sumunu
+\ps n.prop
+\gf NOM.CL
+\gvf
+\sm (sans doute, variante de Sunbunu)
+\dt 16/May/2017
+
+\lx Sunbunu
+\di (soninké)
+\ca garanke
+\sm Tagedimmanu - гриоты гриотов, кузнецов, кожевенников.
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Suntura
+\di (peul, wassolon)
+\eq Jalo
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Susogo
+\di (khasonka)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sùwanun
+\di (maninka)
+\smf (pour louer le nom de Berete, jamu spécial, rare.)
+\smr (Хвалебное имя Berete. Редко - как особое джаму.)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Sùware
+\di (maninka, soninké)
+\di kuranko
+\di dia
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Tabure
+\ps n.prop
+\gf NOM.CL
+\ca Maures
+\dt 02/Apr/2015
+
+\lx Tal
+\va Tali
+\di tou
+\dt 01/Feb/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Tanbura
+\va Tammbura
+\va Támura
+\eq Kɔndɛ
+\di (maninka, peul, soninké)
+\cm в Масина, Мопти
+\ca mor̀i
+\ca рабы фульбе
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Tangara
+\va Tankara
+\di b-jonka
+\di (maninka)
+\sm Kulibali
+\sm fula
+\re Segu
+\re Sikaso
+\re Kulikoro
+\tt waraninkala
+\dt 31/May/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Tanja
+\di (soninké)
+\ca hɔ́rɔn
+\ca wage
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Tapili
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Tapo
+\di boz
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Tàrawele
+\va Tràwele
+\va Traore
+\va Taraore
+\fm Dansira
+\di (bambara, maninka)
+\ca hɔ́rɔn
+\ca tontigi
+\cm у бамана, манинка
+\ca nùmu
+\cm у кагоро и васулунка
+\eq Saane
+\eq Maane
+\eq Mukɔrɔ
+\eq Uedraogo
+\eq Denbele
+\eq Juf
+\eq Ture
+\cm в Сегу
+\eq Gilawogi
+\eq Honomu
+\eq Zogbelemu
+\sm Jàra
+\sm Kɔ́nɛ
+\sm Jawara
+\sm Turɛ
+\pr Dansɔkɔ
+\tt ndaba kunba
+\tt nkaana
+\dt 23/Feb/2017
+\ps n.prop
+\gf NOM.CL
+
+\lx Tel
+\va Teli
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Tembelu
+\va Tembeli
+\di (dogon)
+\re Bandiagara
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Tembine
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Tera
+\di bob
+\di mrk
+\eq Ceero
+\ca hɔ́rɔn
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Tigana
+\di (maninka)
+\smf (Bijoutiers, joaillers ?)
+\smr (Ювелиры?)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Tirera
+\di (soninké)
+\di kag
+\re Kaarta
+\ca jèli
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Tisugem
+\di (dogon)
+\tn bàma
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Togo
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Tògola
+\di (bambara)
+\di mny
+\di snf
+\eq Jàra
+\sm Tarawele
+\sm Denbele
+\tt jàra
+\re Sikaso
+\re Baninko
+\re Cendugu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Treta
+\va Tereta
+\di boz
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Tùnkara
+\va Tùngara
+\di (soninké)
+\di kag
+\di (maninka)
+\di boz
+\ca hɔ́rɔn
+\ca tontigi
+\ca wage
+\ca mòri
+\ca jèli
+\smf (Kagoro, griot des Fofana.)
+\smr (У кагоро - jèli при Fofana.)
+\dt 12/May/2016
+\ps n.prop
+\gf NOM.CL
+
+\lx Tùre
+\di (maninka, bambara)
+\di (soninké)
+\di sng
+\di kag
+\di dia
+\eq Mànju
+\eq Bangura
+\eq Samake
+\eq Sogoba
+\eq Gonepogi
+\tn sàma
+\pr Mànju
+\pr Sirimanka
+\sm Tarawele
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Wago
+\di (soninké)
+\smf (Une des trois grandes divisions des Soninké, la maison ancestrale)
+est considérée comme étant Ouagadou. Inclut les jamus : : Sise, Jaabi,
+Drame, Jaguraga, Gandeega, Soxuna, Jabira, Xomme, Samasa,
+Silla, Tanja, Gasama, Jariso, Berete, Bacili, Wakannesaxo,
+Janisemega, Yatabere, Makkaji, Tunkara, Fisuru, Ɲakate, Fofana,
+Baygille, Drame, Yaresi, Markus.
+\smr (Одно из трёх больших подразделений сонинке, прародиной)
+которого считается Уагаду. Включает джаму: Sise, Jaabi,
+Drame, Jaguraga, Gandeega, Soxuna, Jabira, Xomme, Samasa,
+Silla, Tanja, Gasama, Jariso, Berete, Bacili, Wakannesaxo,
+Janisemega, Yatabere, Makkaji, Tunkara, Fisuru, Ɲakate, Fofana,
+Baygille, Drame, Yaresi, Markus.
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Wakannesaxo
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Walikalo
+\di diawambe
+\di diogorame
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Wane
+\di ful (?)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Waɲe
+\di tou
+\ca laobe
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Watara
+\di dK
+\di snf
+\tn miniɲan
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Wederawogo
+\di mos
+\eq Kuruma (?)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Woge
+\di (soninké)
+\eq Wage (?)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Wologem
+\di (dogon)
+\re Bandiagara
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Worote
+\ca nùmu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Wùlalɛ
+\di (maninka)
+\ca jèli (?)
+\eq Wùlare (?)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Wùlare
+\di (maninka)
+\ca hɔ́rɔn
+\re Farana
+\re Sankaran
+\sm Keyita
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Xomme
+\di (soninké)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Yansane
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Yarangore
+\di diawambe
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Yaresi
+\di (soninké)
+\ca gesere
+\ca tagu
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Yatabare
+\va Yatabere
+\di (soninké)
+\ca wage
+\ca mòri
+\eq Jabira
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Yatara
+\di (peul)
+\di tua
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Yatasay
+\di diawambe
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Yatura
+\ps n.prop
+\gf NOM.CL
+\gvf Yattoura
+\sm (village de Singo, commune de Sanando, cercle de Barouéli,
+région de Ségou)
+\dt 01/May/2017
+
+\lx Yebese
+\di (dogon)
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Zerbo
+\di mos
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
+
+\lx Zogbelemu
+\di kpelle
+\dt 06/May/2010
+\ps n.prop
+\gf NOM.CL
