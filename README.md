@@ -18,8 +18,7 @@ Along side the griots' narrations, a smaller sample of individuals were intervie
 ### Kaldi
 ### Wav2Vec
 ### Espnet
-
-<!-- ### Keras Transfomer -->
+<!-- ### TF - Keras Transfomer -->
 
 ## jelipkg toolkit (Jeli => Griot in Bambara)
 <code>jelipkg</code> is sub-package that serves as an entry point to the corpus. It is a python package that allows you to browse, and download the corpus for your own convenience, you can download the textual data either in raw text format or json format. The package can be used to download the audio in batch format or as clips (utterance) format.
