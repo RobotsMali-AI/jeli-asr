@@ -15,9 +15,9 @@ Along side the griots' narrations, a smaller sample of individuals were intervie
 **N.B**: Not all of these audios have been transcribed.
 
 ## ASR - Model
-### Kaldi
-### Wav2Vec
-### Espnet
+### [Wav2Vec](./asr/wav2vec/)
+### [Kaldi](./asr/kaldi) (Soon)
+### [Espnet](./asr/espnet) (Soon)
 <!-- ### TF - Keras Transfomer -->
 
 ## jelipkg toolkit (Jeli => Griot in Bambara)
