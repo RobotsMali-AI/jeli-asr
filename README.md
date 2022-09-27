@@ -1,7 +1,7 @@
 # Jeli ASR & Dataset
 
 ## What is Jeli-ASR
-This is a multidimentional open-source package consisting of a dataset & an ASR model. The dataset consists of the transcriptions of 30 hours of griots stories and narrations, and their translations. The corresponding [audio](https://zenodo.org/record/7094702) is hosted on zenodo. The ASR model is an ongoing attempt at an automatic speech recognition model for bambara.
+This is a multidimentional open-source package consisting of a dataset & an ASR model. The dataset consists of the transcriptions of 30 hours of griots stories and narrations, and their translations. The corresponding [audio](https://zenodo.org/record/7094702) is hosted on zenodo. The ASR model development is actively ongoing, please take a look at [asr](./asr/README.md).
 
 ## Dataset
 The Griots corpus is a speech corpus containing both audio and its accompanying transcribed text. You can find the intent, the approaches, a detailed look, and a thorough explanation of the dataset on the [Data-Card](./docs/DataCard.pdf). It is about 28k utterances & clips (couting). There are two sub-speech dataset. Griots Narrations and Street Interviews.
@@ -13,6 +13,18 @@ These are recording of 30 griots (23 Males / 7 Females) talking about various su
 Along side the griots' narrations, a smaller sample of individuals were interviewd about the importance of bambara in the technology. These interviews were conducted on the street with background noises. 
 
 **N.B**: Not all of these audios have been transcribed.
+
+### Snapshot
+|      |     |
+|:----:|:----|
+|Size | 16 GB (text + audio) |
+| Length | 31 hours+ | 
+| Utterances (Clips) | 29800 |
+|Ave. Clips Length | 3.02 s
+| Tokens | 300923 |
+| Types | 62753 |
+| M/F Speaker Ratio | 23/7 |
+
 
 ## ASR - Model
 ### [Wav2Vec](./asr/wav2vec/)
@@ -116,7 +128,7 @@ Type one of the followings to:
 ```
 @misc{griotsdataset2022,
   author                = {Sebastien Diarra and Michael Leventhal and Mouktar Traore and Alou Dembele},
-  title                 = {RobotsMali Griots Recording},
+  title                 = {RobotMali Griots Speech Dataset, and ASR},
   howpublished          = {\url{https://github.com/robotsmali-ai/jeli-asr/}},
   year                  = 2022
 }
@@ -124,7 +136,8 @@ Type one of the followings to:
 
 ## Known Issues
 - griots_r24_1: Bambara missing
-- **Some recording needs FRENCH adjustment**
+- griots_r6_1: Is un-transcribed
+- **Translation adjustments needed in some files**
 
 ## License
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
