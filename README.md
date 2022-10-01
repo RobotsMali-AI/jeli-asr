@@ -1,7 +1,7 @@
 # Jeli ASR & Dataset
 
 ## What is Jeli-ASR
-This is a multidimentional open-source package consisting of a dataset & an ASR model. The dataset consists of the transcriptions of 30 hours of griots stories and narrations, and their translations. The corresponding [audio](https://zenodo.org/record/7094702) is hosted on zenodo. The ASR model development is actively ongoing, please take a look at [asr](./asr/README.md).
+This is a multidimentional open-source package consisting of a dataset & an ASR model. The dataset consists of the transcriptions of 30 hours of griots stories and narrations, and their translations. The corresponding [audio](https://zenodo.org/record/7094702) is hosted on zenodo. The ASR model development is actively ongoing, please take a look [asr](./asr/).
 
 ## Dataset
 The Griots corpus is a speech corpus containing both audio and its accompanying transcribed text. You can find the intent, the approaches, a detailed look, and a thorough explanation of the dataset on the [Data-Card](./docs/DataCard.pdf). It is about 28k utterances & clips (couting). There are two sub-speech dataset. Griots Narrations and Street Interviews.
@@ -33,7 +33,7 @@ Along side the griots' narrations, a smaller sample of individuals were intervie
 <!-- ### TF - Keras Transfomer -->
 
 ## jelipkg toolkit (Jeli => Griot in Bambara)
-<code>jelipkg</code> is sub-package that serves as an entry point to the corpus. It is a python package that allows you to browse, and download the corpus for your own convenience, you can download the textual data either in raw text format or json format. The package can be used to download the audio in batch format or as clips (utterance) format.
+<code>jelipkg</code> is sub-package that serves as an entry point to the dataset. It is a python package that allows you to browse, and download the items from the dataset for your own convenience, you can download the textual data either in raw text format or json format, csv. The package can be used to download the audio in batch format or as clips (utterance) format.
 
 ### Installation
 - Install a revised version of [DABA](https://github.com/maslinych/daba)
@@ -113,7 +113,7 @@ Type one of the followings to:
 ### License
 - [MIT License](./jeli/LICENSE)
 
-### Future features
+### Future Functionalities
 - Direct CLI (one command) capability
 - Multi-recording download
 
@@ -137,6 +137,7 @@ Type one of the followings to:
 ## Known Issues
 - griots_r24_1: Bambara missing
 - griots_r6_1: Is un-transcribed
+- griots_r8_4: Is untranscribed
 - **Translation adjustments needed in some files**
 
 ## License
