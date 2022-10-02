@@ -4,7 +4,7 @@
 This is a multidimentional open-source package consisting of a dataset & an ASR model. The dataset consists of the transcriptions of 30 hours of griots stories and narrations, and their translations. The corresponding [audio](https://zenodo.org/record/7094702) is hosted on zenodo. The ASR model development is actively ongoing, please take a look [asr](./asr/).
 
 ## Dataset
-The Griots corpus is a speech corpus containing both audio and its accompanying transcribed text. You can find the intent, the approaches, a detailed look, and a thorough explanation of the dataset on the [Data-Card](./docs/DataCard.pdf). It is about 28k utterances & clips (couting). There are two sub-speech dataset. Griots Narrations and Street Interviews.
+The Griots corpus is a speech corpus containing both audio and its accompanying transcribed text. You can find the intent, the approaches, a detailed look, and a thorough explanation of the dataset on the [Data-Card](https://docs.google.com/document/d/17cBQo7yisZuRpLP9gFul4pvQiARgrDwPLDNE980zxx4/edit?usp=sharing). It is about 28k utterances & clips (couting). There are two sub-speech dataset. Griots Narrations and Street Interviews.
 
 ### Griots Narrations
 These are recording of 30 griots (23 Males / 7 Females) talking about various subjects. In a controlled environment. *The subjects are culture oriented*.
