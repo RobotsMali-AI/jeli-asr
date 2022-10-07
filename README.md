@@ -128,7 +128,7 @@ Type one of the followings to:
 ```
 @misc{griotsdataset2022,
   author                = {Sebastien Diarra and Michael Leventhal and Mouktar Traore and Alou Dembele},
-  title                 = {RobotMali Griots Speech Dataset, and ASR},
+  title                 = {RobotsMali Griots Speech Dataset, and ASR},
   howpublished          = {\url{https://github.com/robotsmali-ai/jeli-asr/}},
   year                  = 2022
 }
