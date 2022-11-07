@@ -1,0 +1,560 @@
+[940-3300]
+Amadu, o don, e y'i fa jaabi.
+Amadou, ce jour, tu as répondu à ton père.
+
+[3590-7240]
+Ko i fa ka na cɛ ɲinin, k'a ka to yen, k'e bɛ bila cɛw ɲɛ.
+Qu’a dit à ton père de ne pas chercher quelqu'un, que tu te tiendras devant les gens.
+
+[7530-10760]
+Yanni lansara cɛ Ala ye Weta di i fa.
+Avant la prière de seize heures Dieu a donné Weta à ton père.
+
+[14740-17922]
+Amadu, dugu sabanan, o ye Kɛɲɛkoloba ye. 
+Amadou, le troisième village est Kègnèkoloba.
+
+[18090-21200]
+Kɛɲɛkoloba kɛlɛ gɛlɛyara, ka gɛlɛya ka gɛlɛya.
+La bataille de Kègnèkoloba fut très très dure.
+
+[22250-23960]
+I fa y'a ɲinin Ala fɛ. 
+Ton père exhorta Dieu.
+
+[25270-27620]
+Ko Ala ka Kɛɲɛkoloba di a ma. 
+Que Dieu lui donne Kègnèkoloba.
+
+[29770-32650]
+Ala ko, ko a ka cɛ de ɲinin, seliji bɛ cɛ min na. 
+Dieu lui dit de chercher une personne pieuse.
+
+[33370-37470]
+O don, e Amadu ko, ko a ka to yen, ko e bɛ bila cɛw ɲɛ k'u seli.
+Ce jour, toi Amadou dit, c'est bon, que tu dirigeras la prière.
+
+[37760-40080]
+Yanni fitiri cɛ, Ala ye Kɛɲɛkoloba di i fa ma.
+Dieu donna Kègnèkoloba à ton père avant le crépuscule.
+
+[40490-40930]
+Sike
+Interjection
+
+[44740-46680]
+Seku Amadu, Lamijurubɛ, e kosɔn. 
+A cause de toi, Sékou Amadou, Lambi Djurbé.
+
+[47990-50440]
+O tuma, diɲɛ ye kosɔn ye.
+Alors, le monde est une condition.
+
+[50810-51810]
+Lahara ye kosɔn ye.
+L'au Delà est une condition.
+
+[51940-56790]
+Ala y'a jira ne Jeli Mamu yɛrɛ la bi, ko ne de ka ɲi ka kɛ Kaana kɛlɛ saraka ye.
+Dieu  révéla à moi Djeli Mamou, que c'est moi qui dois servir d'offrande pour la bataille de Kana.
+
+[57960-64140]
+O tuma, n'i ma Kaana kɛlɛ dɔgɔda, ne Jeli Mamu, ne bɛ taa Kaana hali ni ne bɛ to yen.
+Alors, si tu ne fixes pas la date de la bataille de Kana, moi Djeli Mamou, j'irai à Kana même si je dois périr.
+
+[64150-65840]
+N bɛ taa bin Kaana kan, ka Kaana minɛn ta. 
+J'irai agresser Kana et m'en emparer.
+
+[68970-74080]
+Ha, o fɔra, Morikɛ sigilen, nisɔndiya nana a fari la dɔɔnin.
+Ah, cela dit, le marabout étant assis, se réjouit un peu.
+
+[77350-82300]
+Morike sigilen, tɔɔrɔ min tun b'a dusukun na, o tɔɔrɔw taara dɔɔnin.
+Le marabout assis, la peine qu'il avait dans son cœur se dissipa un peu.
+
+[87790-92560]
+A ko ne ka jelikɛ mandi, n y'i ka kɔrɔfɔ faamu, baasi tɛ.
+Mon célèbre griot, j'ai entendu tes propos.
+
+[93210-103930]
+Nka ni fitiri selila, i bɛ weele da, ko Futa kɛlɛkuntigi ye Kaana kɛlɛ dɔgɔda, ko a mago bɛ cɛw la minnu bɛ taa Kaana ka taa Kaana ɲɛɲinin ka na di a ma.
+Mais, après la prière du crépuscule, tu annonces que le souverain de Fouta a fixé la date de la bataille de Kana, qu'il a besoin des hommes qui iront à kana pour aller prendre des informations sur Kana.
+
+[108660-111160]
+Fitiri selila, Jeli mamu wulila.
+Après la prière, Djeli Mamou s'est levé.
+
+[111590-112230]
+A y'i jɔ.
+Il est arrivé.
+
+[112970-116400]
+A ko ayiwa, Futa kɛlɛkuntigi ...
+Il dit, alors, Souverain de Fouta...
+
+[119000-127040]
+Seku Umaru denkɛ, Lamijurubɛ, Amadu Seku, a ye kɛlɛ dɔgɔda, ko a bɛ fɛ ka taa Kaana, ko a mago bɛ cɛw la minnu bɛ taa Kaana ɲɛɲinin.
+Le fils de Sékou Oumar, Lambijurbé, Amadou Sékou, il a fixé la date de la bataille, qu'il veut aller à Kana et qu'il a besoin des hommes qui peuvent aller à Kana pour chercher des renseignements.
+
+[129640-133950]
+Cɛ ma sɔrɔ jama na, bulon wolonwula fa jama, cɛ ma sɔrɔ min bɛ jaabili kɛ.
+Il n'y a personne dans la foule, dans les sept vestibules, il n'y a personne pour répondre à l'appel.
+
+[139060-140060]
+U y'o su ko ten.
+Ils ont passé la nuit comme ça.
+
+[140510-141220]
+Dugu jɛra.
+Le jour se leva.
+
+[142320-143100]
+Su kora tuguni.
+La nuit tomba.
+
+[143880-148360]
+Fitiri selilen, Jeli Mamu tilala ka wuli tuguni, a ye weele da.
+Après la prière du crépuscule, Djéli Mamou s'est levé de nouveau, il fit l'annonce.
+
+[148610-163850]
+Ko ayiwa, Futa aliwari, Futa Toro, Futa jalɔn, Alaji Seku Umaru denkɛ,  Amadu Seku, Lamijurubɛ, a ye Kaana kɛlɛ dɔgɔda, a mago bɛ cɛw la minnu bɛ taa Kaana minɛn ta, ka Kaanako ɲɛɲinin.
+Fouta Alwar, Fouta Toro, Futa Jallon, fils de El Hadj Sékou Oumar, Amadou Sékou, Lanbijurbé, a fixé la date de la bataille de Kana, il a besoin d'hommes qui iront s'emparer de Kana, chercher des renseignements sur Kana.
+
+[168900-171430]
+U sigilen tora, cɛ kelen y'i bolo kɔrɔta.
+Étant assis, quelqu'un leva sa main.
+
+[171520-171990]
+Uhun.
+Uhun.
+
+[172220-173220]
+A ko nin ye jɔn ye?
+il dit '' qui est-ce?''
+
+[174880-176460]
+U ko Tanba Mamadu Dala don.
+Ils disent que c'est Tamba Mamadou Dala.
+
+[177200-179580]
+U ko Tanba Mamadu Dala, o tuma na jama ka wuli.
+Tamba Mamadou Dala, que l'assemblée se lève.
+
+[179790-186970]
+A ye kamalenkɔrɔ cɛ kɛmɛ wuli, marifa kelen-kelen k'o di u bɛɛ ma, k'u ka taa u da Tanba Mamadu Dala ɲɛ, u ka kunkan ɲɛ kɛmɛ ci a la.
+Il mobilisa cent hommes, leur donna chacun un fusil, leur ordonna d'aller poser de l'embuscade devant Tamba Mamadou Dala et tirer sur lui cent coups de fusils.
+
+[187050-191160]
+Ni kunkan kɛmɛ cira a la, n'a bolila, o kɔrɔ ye ko a tɛ se ka taa Kaana.
+Si on lui tire cent coups de fusils et qu'il fuit alors il ne pourra pas aller à Kana.
+
+[191230-193640]
+Ni a ma boli, o kɔrɔ ye ko a bɛ se ka taa Kaana.
+S'il ne fuit pas, alors cela prouve qu'il peut aller à Kana.
+
+[193830-194640]
+Esikeyi.
+''Esikiye''
+
+[197300-198300]
+U ye baro wuli.
+L'assemblée se dispersa.
+
+[198700-203740]
+Tanba Mamadu Dala taatɔ, kamalenkɔrɔ cɛ kɛmɛ b'a ɲɛ, marifa kelen-kelen b'u bolo...
+Tamba Mamadou Dala en partant, cent hommes lui posa une embuscade, avec un fusil chacun.
+
+[204370-206760]
+U ye kunkan ɲɛ kɛmɛ ci fulakɛ la.
+Ils tirèrent sur lui cent coups de fusil.
+
+[206950-210340]
+Ɛɛ, hali marifakisɛ ma si tigɛ a fari la.
+Eeh, la balle n'a même pas arraché un de ses poils.
+
+[211980-212980]
+Kisɛ duruntula.
+La balle se dispersa.
+
+[213050-215900]
+Sisi tigɛra, u ɲɛ bɛ kamalenkɔrɔ jɔlen na, hali a ma yɛrɛyɛrɛ.
+La fumée finit, ils voient l'homme arrêté, il n'a même pas bougé.
+
+[216440-217440]
+U ko ko ''Gɔnga''.
+Ils disent ''Gônga''.
+
+[220250-222270]
+Uhun, ko ''gɔnga''.
+Oui, ils disent '' gônga''.
+
+[224330-232040]
+Dugu jɛra, u taara a fɔ futa kɛlɛkuntigi n'o ye Seku Amadu ye, u ko tiɲɛna, Tanba Mamadu Dala, a bɛ se ka taa Kaana.
+Le jour levé, ils sont allés dire au souverain de Fouta qui est Sekou Amadou, vraiment Tamba Mamadou Dala peut aller à Kana.
+
+[237660-238660]
+Su kora tuguni.
+La nuit tomba encore.
+
+[238990-239990]
+Fitiri sera.
+L'heure du crépuscule arriva.
+
+[240030-241600]
+Jeli Mamu ye weele da.
+Djeli Mamou fit l'annonce.
+
+[241880-246240]
+A ko ayiwa, Futa Toro, Futa Jalɔn...
+Il dit, alors, Fouta Toro, Fouta Djallon...
+
+[248920-253020]
+Seku Umaru denkɛ Amadu, Lamijurubɛ, a ye kɛlɛ dɔgɔda.
+Le fils de Sékou Amadou, Lanbijurbé, il fixa la date de la bataille.
+
+[253060-257690]
+A bɛka cɛw de ɲinin, a mago be u la, minnu bɛɛ ta Kaana, ka taa Kaana kɛlɛkɛ minɛn ta ka na di a ma. 
+Il cherche des hommes, il a besoin des hommes qui iront à Kaana pour s'emparer des bien de Kaana.
+
+[261640-264850]
+Su filanan na, cɛ filanan y'i bolo kɔrɔta.
+La deuxième nuit, le deuxième homme leva la main.
+
+[265380-266380]
+U ko jɔn don?
+Ils disent: qui est-ce?
+
+[266560-268070]
+U ko ko Siranikɔrɔ Tanba don.
+Ils disent que c'est Siranikôrô Tamba.
+
+[269480-270610]
+ƐƐ, Siranikɔrɔ Tanba...
+Eeh, Siranikôrô Tamba...
+
+[270790-272430]
+U ko, ko ok ko donc baro ka wuli.
+Ils disent ok, que l'assemblée se disperse.
+
+[273750-274930]
+Ko Siranikɔrɔ Tanba don.
+Que c'est Siranikôrô Tamba.
+
+[275100-276100]
+Ko baro ka wuli.
+Que l'assemblée soit levée.
+
+[276260-282397]
+A ye kamalenkɔrɔ cɛ kɛmɛ bila, ka t'u da Siranikɔrɔ Tanba ɲɛ, marifa kelen-kelen b'u bɛɛ bolo.
+Ils délèguent  cent hommes pour tendre une embuscade à Siranikôrô Tamba, chacun possédant un fusil.
+
+[282430-288120]
+Ko ni Siranikɔrɔ Tanba, n'u y'a ci, ni a bolila, o kɔrɔ ye ko a tɛ se ka taa Kaana, ka taa Kaana minɛn ta.
+Que s'ils tirent sur Siranikôrô Tamba et qu'il fuit, alors, cela veut dire qu'il ne ne peut pas aller à Kaana.
+
+[288310-291180]
+Mɛ ni a ma boli, ko a bɛ se ka taa Kaana.
+Mais s'il ne fuit pas, cela veut dire qu'il peut aller à Kaana.
+
+[295290-297640]
+Kamalenkɔrɔ cɛ kɛmɛ taara i da Siranikɔrɔ Tanba ɲɛ...
+Cent hommes tendirent une embuscade à Siranikôrô Tamba...
+
+[297670-301340]
+U ye kunkan ɲɛ kɛmɛ wuli a la, hali si ma tigɛ a fari la.
+Ils ont tiré cent coups de fusils sur lui, aucun des poils de son corps ne fut arraché.
+
+[304500-311990]
+Dugu jɛra, u nana a fɔ Alaji Seku Umaru denkɛ ye, Amadu ye, Lamijurubɛ, ha ko Siranikɔrɔ Tanba, ko a bɛ se ka taa Kaana.
+Le lendemain, ils sont venus dire au fils de El Hadj Oumar, Amadou, Lambijurbé, que Siranikôrô Tamba peut aller à Kana.
+
+[317700-322064]
+Fitiri sera, Jeli Mamu wulila tuguni, a ye weele da.
+Au crépuscule encore, djeli Mamou se leva encore et fit l'annonce.
+
+[323910-327790]
+A kɛlen ka weele da su sabanan na, cɛ ma kuma.
+Quand il fit l'annonce pour la troisième nuit, aucun homme ne répondit.
+
+[328600-330260]
+Cɛw dɔgɔyara cɛw cɛla o.
+Les braves hommes commencent à se faire rare parmi les hommes.
+
+[330320-331000]
+Cɛ dɔgɔyara?
+Les braves hommes ont diminué.
+
+[334060-335060]
+U ye su filanan kɛ ten.
+Ils ont fait la deuxième nuit comme ça.
+
+[335360-336360]
+Su sabanan kɛ ten.
+Passer la troisième nuit comme ça.
+
+[336580-341360]
+Su naaninan na, Jeli Mamu wulila tuguni, fitiri selilen kɔfɛ ka weele da.
+La quatrième nuit, après la prière du crépuscule, Djeli Mamou s'est levé encore pour faire l'annonce.
+
+[343350-345470]
+Futa Toro, Futa Jalɔn...
+Le Fouta Toro, Fouta Djallon...
+
+[347570-352780]
+Futa kɛlɛkuntigi, Amadu, Lamijurubɛ, Amadu Seku, a mago bɛ cɛ sabanan na.
+Le souverain de Fouta, Amadou, Amadou Sékou, a besoin d'un troisième homme.
+
+[353810-356770]
+U sigilen tora o la, cɛ sabanan y'i bolo kɔrɔta.
+Étant assis, le troisième homme leva la main.
+
+[358120-359120]
+Ko jɔn don?
+Qui est-ce?
+
+[359460-360820]
+Ko Alifa Janka don.
+Que c'est Alpha Djanka.
+
+[363230-364760]
+Ha ko Alifa Janka?
+Ah, qu’ Alpha Djanka?
+
+[364880-368860]
+A ye kamalenkɔrɔ cɛ kɛmɛ bila ku ka ta u da Alifa Janka ɲɛ sira la.
+Il délègue cent hommes pour aller tendre une embuscade devant Alpha Djanka.
+
+[369270-370500]
+U ka kunkanɲɛ kɛmɛ k'a la.
+Qu'ils tirent cent coups de fusils sur lui.
+
+[370650-372970]
+Ni a bolila, ko a tɛ se ka taa Kaana.
+S'il fuit, cela veut dire qu'il ne pourra pas aller à Kana.
+
+[373130-375470]
+Ni a ma boli, ko a bɛ se ka taa Kaana.
+S'il ne fuit pas, cela prouve qu'il peut aller à Kana.
+
+[376800-377800]
+Ko baro ka wuli...
+Que l'assemblée se disperse...
+
+[378000-385630]
+Baro wulilen, Alifa Janga taatɔ, cɛ kɛmɛ b'a ɲɛ sira la, u ye kunkan ɲɛ kɛmɛ ci a la, hali si ma tigɛ cɛbakɔrɔ fari la.
+Lorsque l'assemblée se disperse et Alpha Djanka en partant, cent hommes l'attendaient, ils lui tirent cent coups de fusil, même un poils de son corps ne fut ôté.
+
+[386730-388150]
+Esikeyi, dansɔkɔ.
+Interjection.
+
+[388730-393880]
+Dugu jɛlen, ha, u nana fɔ Futa kɛlɛkuntigi ye Lamijurubɛ, Amadu Seku...
+Le lendemain, ah, ils sont venus dire au souverain de Fouta, Lambijurbé, Amadou Sékou...
+
+[394830-397150]
+Ko Alifa Janka bɛ se ka taa Kaana.
+Que Alpha Djanka peut aller à Kana.
+
+[399780-400780]
+Cɛ saba sɔrɔla.
+On a eu trois hommes.
+
+[403650-409190]
+Su naaninan na, Jeli Mamu,  fitiri selilen, Jeli Mamu wulila, a weele da.
+La quatrième nuit, Djeli Mamou, après la prière du crépuscule, Jeli Mamou s'est levé encore pour faire l'annonce.
+
+[412940-415740]
+Ko Futa Toro, Futa Jalɔn...
+Le Fouta Toro, Fouta Djallon...
+
+[415800-416170]
+Uhun.
+Uhun.
+
+[417070-423630]
+Ko Futa kɛlɛkunti, Amadu Seku, Lamijurubɛ, ko a mago cɛ naaninan na ka taa Kaana.
+Le souverain de Fouta, Amadou Sekou, Lambijurbè, a besoin d'un quatrième homme pour aller à Kana.
+
+[425340-426900]
+Su naaninan don, cɛ ma sɔrɔ.
+Personne ne se présenta la quatrième nuit.
+
+[427030-427570]
+Hun.
+Hun.
+
+[428260-433040]
+Dugu jɛra, su durunan don, Jeli Mamu tilala ka wuli tuguni, a ye weele da.
+Le lendemain, la cinquième nuit, Djeli Mamou se leva encore et fit l'annonce.
+
+[434210-436610]
+U y'u sigilen to, kelen y'i tɛge kɔrɔta.
+Étant assis, quelqu'un leva la main.
+
+[438020-438710]
+Ko jɔn don?
+Qui est-ce?
+
+[441010-442530]
+Ko Gunbeli Sanba Hako don.
+Que c'est Gumbel Samba Hako.
+
+[443460-444760]
+Ko Gunbeli Sanba Hako
+Gumbel Samba Hako.
+
+[445240-451780]
+Ko kamalenkɔrɔ cɛ kɛmɛ ka taa i da a ɲɛ sira la, ni Gunbeli Sanba hako, n'a bɛɛ taa, u ka kunkan ɲɛ kɛmɛ ci a la.
+Que cents hommes lui tendent une embuscade en partant et lui tirent cent coups de fusil.
+
+[451930-455290]
+N kunkan ɲɛ kɛmɛ kɛra a la, ni a bolila, ko a tɛ se ka taa Kaana.
+S'il reçoit les cent coups et qu'il fuit, alors il ne pourra pas aller à Kana.
+
+[455520-457710]
+Ni a ma boli, ko à bɛ se ka taa Kaana.
+S'il ne fuit pas, cela veut dire qu'il peut aller à Kana.
+
+[463760-466160]
+Ha, o yɔrɔ bɛ ko ka baro wuli.
+Ah, on ordonna immédiatement de lever l'assemblée.
+
+[468940-469940]
+Baro wulila.
+L'assemblée se leva.
+
+[470000-470400]
+Uhun.
+Uhun.
+
+[470520-478800]
+Baro wulilen, Gunbeli Sanba Hako taatɔ,  kamalenkɔrɔ cɛ kɛ ye kunkan ɲɛ kɛmɛ k'a la, hali si ma tigɛ cɛbakɔrɔ fari la.
+L'assemblée levée, Gumbel Samba Hako, en partant, cent hommes lui tirèrent cent coups de fusils, aucun de ses poils ne fut ôté.
+
+[481120-485890]
+Ha, u nana a fɔ Amadu Seku ye, ko Gunbeli Sanba hako, ko a bɛ se ka taa Kaana.
+Ah, ils sont venus dire à Amadou Sékou, que Goumel Samba Hako peut aller à Kana.
+
+[490880-492120]
+Cɛ naani sɔrɔla.
+On a trouvé quatre hommes.
+
+[492520-494110]
+K'u mago bɛ cɛ duurunan na.
+Qu'ils ont besoin d'un cinquième.
+
+[498290-502850]
+Su duuru, u ye weele da, Jeli Mamu ma cɛ duurunan sɔrɔ.
+Cinq nuits, ils firent l'annonce, Djeli Mamou n'a pas trouvé le cinquième homme.
+
+[503090-503870]
+Maa ma kuma.
+Personne ne parla.
+
+[505910-508210]
+U ye dɔgɔkun tile wolonwula kɛ ten.
+Ils passèrent les sept jours de la semaine ainsi.
+
+[508620-510770]
+Cɛ duurunan ma sɔrɔ, maa ma kuma.
+Le cinquième n'a pas été trouvé, personne ne parla.
+
+[512220-513900]
+Dɔgɔkun tile wolonwula dafara.
+Les sept jours de la semaine se sont épuisés.
+
+[514450-516610]
+A fitiri selilen kɔfɛ, a ye weele da.
+Il fit l'annonce après la prière du crépuscule.
+
+[517510-520060]
+Dafetigi Jawoyi wulila, a y'i bolo kɔrɔta.
+Dafétigui Diawoye s'est levé, il leva sa main.
+
+[521290-523680]
+Futa kɛlɛkuntigi ko, ko jɔn don?
+Le souverain de Fouta demanda, qui est-ce?
+
+[523730-525290]
+Ko Dafetigi Jawoyi don.
+Que c'est Dafétigui Diawoye.
+
+[525840-529210]
+Ko kamalenkɔrɔ cɛ kɛmɛ ka taa i da, Dafétigi Jawoyi ɲɛ.
+Que cent braves hommes aillent tendre une embuscade à Dafétigui Diawoye.
+
+[529260-531400]
+A taatɔ, u ka kunkan ɲɛ kɛmɛ ci a la.
+En partant, ils tirent cent coups sur lui.
+
+[531510-535510]
+Ni kunkan ɲɛ kɛmɛ kɛra a la, ni a boli o kɔrɔ ye ko a tɛ se ka taa Kaana.
+S'il reçoit cent coups de fusil et qu'il fuit, cela prouve qu'il ne peut pas aller à Kana.
+
+[535560-537700]
+Ni a ma boli, k'a bɛ se ka taa Kaana.
+S'il ne fuit pas, cela veut dire qu'il peut aller à kana.
+
+[543190-546500]
+Ha, Dafetigi Jawoyi, Futa kɛlɛkuntigi ko ka baro wuli.
+Ah Dafétigui Diawoye, le souverain de Fouta ordonna de lever l'assemblée.
+
+[546700-550560]
+Dafetigi Jawoyi taatɔ, kamalenkɔrɔ cɛ kɛmɛ b'a ɲɛ...
+Cent hommes tendirent une embuscade à Dafetigi Diawoye, en partant.
+
+[550730-552420]
+U ye kunkan ɲɛ kɛmɛ ci a la.
+Ils ont tiré cent coups de fusil sur lui.
+
+[552890-554410]
+Si ma tigɛ cɛbakɔrɔ fari la.
+Aucun poil ne fut ôté du corps de ce brave homme.
+
+[558500-562050]
+Dugu jɛra, u nana a fɔ Futa kɛlɛkuntigi ye, Lamijurubɛ, Amadu Seku.
+Le lendemain, ils sont venus dire au souverain de Fouta Lambijurbè, Amadou Sékou.
+
+[563600-567080]
+Ha, ko Dafetigi Jawoyi, ko a bɛ se ka taa Kaana.
+Ah, que Dafétigui Diawoye, il peut aller à Kana.
+
+[570990-574370]
+Fitiri selilen, Jeli Mamu wulila, a y'i jɔ, a ye weele da.
+Après la prière du crépuscule, Djeli Mamou s'est levé, il fit l'annonce.
+
+[574750-577470]
+Ko Futa Toro, Futa Jalɔn...
+Fouta Toro, Futa Jallon...
+
+[580070-587570]
+Futa kɛlɛkuntigi, Lamijurubɛn Amadu Seku, a mago bɛ cɛ wɔɔrɔnan, min bɛ taa Kaana, ka taa Kaana ɲɛɲinin, ka Kaana minɛn ta ka na di a ma.
+Le souverain de Fouta, Lambijurbè, Sékou Amadou, a besoin d'un sixième homme qui ira à Kana, se renseigner sur kana, s'emparer de Kana pour venir le lui livrer.
+
+[590600-592810]
+U ye dɔgɔkun tilen wolonwula fana kɛ ten cɛ ma sɔrɔ.
+Ils épuisèrent les septs jours de la semaine comme ça, il n'y a pas eu de volontaires.
+
+[597540-604350]
+O y'a sɔrɔ, Futa ka bulon wolonwula kɔnɔ bilakoronin dɔ be bulon kɔnɔ, san tan ni saba.
+Cela trouva que dans les sept vestibules du Fouta, il y'a un jeune garçon non circoncis, treize ans.
+
+[606250-606980]
+Bilakoro don.
+C'est un non circoncis.
+
+[607220-609810]
+Jama caya kojugu fɛ bulon wolonwula kɔnɔ, hali a tɛ dumini sɔrɔ.
+Tellement qu'il y a du monde dans les sept vestibules, il n'arrivait même pas à avoir de la nourriture.
+
+[609820-611060]
+Hali a tɛ dumini dunta sɔrɔ.
+Il n'arrive même pas à avoir de la nourriture à manger.
+
+[612560-614630]
+Bilakoro don, san tan ni saba, a ma sigi nɛgɛkɔrɔ fɔlɔ.
+C'est un jeune garçon qui n'a même pas été encore circoncis.
+

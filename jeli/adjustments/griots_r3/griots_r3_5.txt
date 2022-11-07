@@ -1,0 +1,491 @@
+[2000-7232]
+Numukɛ b'a fɔ jaa ne ka hɔrɔnkɛ in bɛ ne fɛ.
+Le forgeron dit que pourtant, mon noble m'aime.
+
+[7325-13534]
+Ne n'a jɛra, n ma tigɛ a la fo ka n'a bila bi la.
+Nous nous sommes associés, jusqu'à présent je n'ai pas perdu confiance en lui.
+
+[13651-16581]
+Turu nana se a den ma.
+Maintenant c'est le tour de son fils.
+
+[16744-19255]
+A ko n fana ka den ta labɛn kɛ k'a bila.
+Il m'a aussi demandé de faire les préparatifs de l'enfant.
+
+[19395-23418]
+Ne b'a den ta to n yɛrɛ den bolo.
+Je laisse mon fils s'occuper du cas de son fils.
+
+[23534-26023]
+N b'u bila u k'u ka maaya kɛ ka wuli ni ɲɔgɔn ye.
+Je les laisse mener leur existence et se débrouiller entre eux.
+
+[26162-32581]
+Numu ni hɔrɔn tun bɛ jɛ tan.
+C'est ainsi que le forgeron et le noble collaboraient.
+
+[32627-39162]
+Fo ka taa se aw ka saya ma, a' tɛ tigɛ ɲɔgɔn na, a' tɛ malo ɲɔgɔn ye.
+Jusqu'à votre mort, vous ne perdrez pas confiance l'un dans l'autre, il n'y aura pas de honte entre vous.
+
+[39325-48604]
+O hɔrɔnkɛ kelen bɛ tila k'a ɲini numukɛ fɛ tun hali sisan, kana i yɔrɔ janya n na.
+Ce même homme noble finit encore par demander au forgeron, encore maintenant, de ne pas s'éloigner de lui.
+
+[48767-54167]
+Ne mago bɛ min na kɛlɛmasaya in kɔnɔ ma ban.
+Je n'en ai pas fini avec les besoins de ma position de chef de guerre.
+
+[55139-57697]
+A b'a fɔ baasi t'a la.
+Il dit qu'il n'y a pas de problème.
+
+[57813-58953]
+N b'i lamɛn.
+Je t'écoute.
+
+[59000-62674]
+A fɔ n ye min b'i fɛ i ka n bilasira.
+Dis-moi ce que tu as pour m'accompagner.
+
+[62837-76883]
+N'a ko a ma tila, a bɛ numukɛ ɲininka k'ale ɲɛ bɛ nin fɛn in karisa bolo jamana kɔnɔ.
+S'il dit qu'il n'a pas fini, il demande au forgeron d'aller voir quelque chose qui est à quelqu'un dans le pays.
+
+[76930-78744]
+A fɔra k'a bɔra e numukɛ de fɛ yen.
+On a dit que ça vient de chez toi, forgeron.
+
+[78906-81209]
+E don wa walima numu wɛrɛ don ?
+Est-ce toi ou bien est-ce un autre forgeron ?
+
+[82279-87418]
+N'a y'a ɲininka o la, a b'a jaabi.
+Quand il lui pose cette question, il lui répond.
+
+[87581-88674]
+A b'a jaabi cogo di ?
+Comment lui répond-il ?
+
+[88767-91697]
+N'i ye numu faa, numu wɛrɛ de bɛ bɔ a kɔnɔ.
+Quand tu tues un forgeron, un autre forgeron sort de lui.
+
+[91813-96488]
+Ni nin tɛ ne den ye, nin ye ne mɔden ye walima n balimasuso den walima n balimakɛden.
+Si ce n'est pas mon fils, c'est mon petit-fils, ou bien c'est celui d'une soeur ou bien d'un frère.
+
+[96604-98906]
+Ne tɛ foyi wɛrɛ furu ni numu.
+Je n'épouse rien d'autre que des forgerons.
+
+[100465-103930]
+O tuma na, u b'o tigi yɔrɔ ɲini.
+Donc ils cherchent la résidence de ce dernier.
+
+[104069-112418]
+N'u ye ɲɔgɔn ye, i bɛ t'a sɔrɔ numukɛ cɛ tan bɛ sigida la mɛ si-si bolonɔ tɛ kelen ye.
+Quand ils se rencontrent, tu verras qu'il y a dix forgerons dans la même communauté mais qu'aucun d'entre eux n'a la même signature.
+
+[112697-117813]
+Bolokoli b'o la, numuyafɛn dilali b'o la.
+La circoncision fait partie de cela, et la fabrication des objets de forgeron fait partie du tableau.
+
+[117953-122534]
+Kuma cogo ni adamadenya dilacogo b'o la.
+La parole et la résolution des problèmes de la vie font partie de cela.
+
+[123255-128700]
+Numubonda-numubonda mɛ u si bolonɔ tɛ kelen ye.
+Tu vas d'une porte de forgeron à l'autre, mais aucun n'a la même signature.
+
+[128930-133372]
+Fɛn dɔ tun bɛ yen fɔlɔ ko misiwotoro.
+Il y avait là autrefois une chose qu'on appelait la charrette à bœufs.
+
+[133627-135558]
+O tun bɛ kɛlɛmasaw de bolo.
+Elle appartenait aux chefs de guerre.
+
+[136441-139953]
+Misiwotoro, dɔw tun b'a don so la.
+La charrette à bœufs, il y a en qui l'attelaient à un cheval.
+
+[140395-146558]
+A so bɛ don barankali kelen walima fila la.
+On attelait le cheval à un ou deux brancards.
+
+[146651-149162]
+O misiwotoro in bɛɛ tun ye nɛgɛ ye.
+Toutes ces charrettes à bœufs étaient en fer.
+
+[149348-153488]
+Masakɛ tun bɛ ta bere de la ka yaala n'a ye fɔlɔ.
+On prenait le roi avec deux branches d'arbre et on le promenait avec autrefois.
+
+[156604-160418]
+Numuw de tun bɛ wotoro in dila.
+C'étaient les forgerons qui fabriquaient ces charrettes.
+
+[160581-169697]
+Ni numukɛ ye wotoro in dila, n'a ɲɔgɔn yera maa wɛrɛ bolo, a bɛ tila ka segin a kan walasa a ɲɔgɔn kana ye kɛlɛmasa wɛrɛ bolo.
+Quand le forgeron fabriquait cette charrette, et qu'on voit une autre qui est similaire à elle, il reprend la fabrication afin qu'aucun autre roi n'ait une charrette similaire.
+
+[171046-174302]
+Ni numu tɛ foyi tɛ se k'o kɛ.
+Nul ne peut en fabriquer si ce n'est un forgeron
+
+[174720-178813]
+O tuma na an kana ɲinɛ an ka kɔrɔlen kɔ.
+Donc n'oublions pas notre histoire.
+
+[179023-182139]
+An k'an ka kɔrɔlen ɲini k'a dɔn.
+Cherchons à connaître notre histoire.
+
+[182232-186465]
+An ka to ka kɔrɔlen lakali maa ye min t'a sidɔn.
+Racontons souvent l'histoire à ceux qui ne la connaissent pas.
+
+[186627-189372]
+O tigi bɛ walɛri kɛ an ka kɔrɔlen na.
+Cette personne donnera de la valeur à notre histoire.
+
+[192534-196116]
+Numuya dɔn fana ye mun ye?
+Qu'est-ce qu'être forgeron, encore ?
+
+[196302-202069]
+Ka numuya dege denmisɛnya kɔnɔ k'a sidɔn.
+Apprendre durant son enfance à être forgeron et à bien connaître ce métier.
+
+[202209-209883]
+I bɛ se k'a dege i fa fɛ, i kɔrɔkɛ fɛ, i bɛɛnna la, i balimamuso cɛla la.
+Tu peux l'apprendre auprès de ton père, de ton grand frère, dans la famille de ta mère, chez le mari ou chez le mari de ta sœur.
+
+[210232-218790]
+Furu b'i ni maa min cɛ, walima i fa ye maa min kanu, a bɛ se ka taa i bila o fɛ yen.
+Ton père peut te confier à un parent par alliance, ou une personne qu'il aime.
+
+[218883-225558]
+I bɛ numuya kalan o tigi fɛ yen , k'a sidɔn, ka laban ka na faso ta n'o numuya ye.
+Tu apprends le métier de forgeron chez cette personne jusqu'à le maîtriser, à la fin tu rentres au pays avec ce métier.
+
+[227627-229813]
+Anw bɛ nɛgɛ de dɔn.
+Nous connaissons le fer.
+
+[230046-234930]
+Anw bɛ se ka nɛgɛ kuru k'a kɛ jele ye.
+Forger le fer pour en faire une hache, nous savons cela.
+
+[235046-238302]
+Anw bɛ se ka nɛgɛ kuru k'a kɛ daba ye.
+Nous savons forger le fer pour en faire une houe.
+
+[238465-241395]
+Anw bɛ se ka nɛgɛ kuru k'a kɛ muru ye.
+Nous savons forger le fer pour en faire un couteau.
+
+[241534-244023]
+Anw bɛ se ka nɛgɛ gosi k'a kɛ marifa ye.
+Nous savons forger le fer pour en faire un fusil.
+
+[244116-246837]
+Ka nɛgɛ gosi k' a kɛ tama ye, anw b'o dɔn.
+Forger le fer pour en faire une flèche, nous connaissons.
+
+[247023-249906]
+Ka nɛgɛ gosi k'a kɛ npanmuru ye, anw b'o dɔn.
+Forger le faire pour en faire un sabre, nous savons.
+
+[250116-259116]
+Ka nɛgɛ gosi k'a kɛ falo, bese, saridaba, wɔlɔsɔ ye, anw b'o de sidɔn.
+Forger le fer pour en faire une pioche, machette, une charrue à boeufs, une faucille nous savons parfaitement faire cela.
+
+[259232-263372]
+N'i ye numukamalen kɔni ɲininka o la, a bɛ se k'o jaabi hali a tɛ sɛgɛn.
+Quand tu fais cette demande à un jeune forgeron, il peut répondre à cette question sans même se fatiguer.
+
+[267558-275139]
+N'i y'o kalan k'a sidɔn, e bɛ n'i sigi n'o ye faso kɔnɔ.
+Quand tu a appris cela jusqu'à le connaître parfaitement, tu reviens t'installer au pays avec ce savoir.
+
+[275255-278046]
+Bitileko ko tɛ dɛ, kɔrɔlen.
+Il ne s'agit pas d'un comportement d’aujourd’hui mais du passé.
+
+[278651-286046]
+Fɔlɔ sani jirisikaka tun ka na, i tun bɛ taa kungo kɔnɔ ka taa jiri mesurer.
+Avant l'invention de la scie, on partait mesurer les arbres dans la brousse.
+
+[286116-288093]
+N'i ye jiri suma i bɛ jele kɛ k'a tigɛ.
+Quand tu as mesuré l'arbre, tu le frappes avec la hache pour le couper.
+
+[288279-290883]
+Jele kɛlen kɔ k'a tigɛ, i b'a falaku.
+Après l'avoir coupé avec la hache, tu le tailles.
+
+[293744-301465]
+N'i y'a falaku, i bɛ na sɛmɛ ɲini k'a dɛsɛ k'a nuguya.
+Après l'avoir taillé, tu vas chercher la hache-houe pour le tailler jusqu'à le polir.
+
+[301627-305906]
+A nuguyalen bɛ kɛ fɛn caman ye.
+Une fois scié, on peut faire beaucoup de choses avec.
+
+[306069-307162]
+Fɛn caman jumɛn?
+Beaucoup de choses, lesquelles ?
+
+[307279-312953]
+Masakɛ ka so kon.
+Le battant de la porte du roi.
+
+[313232-319883]
+N'i y'a dɛsɛ, i bɛ na n'a ye k'a don masakɛ ka da la.
+Après l'avoir bien scié, tu l'apportes pour le monter à la porte du roi
+
+[319976-324697]
+U b'a fo o ma ko so kon.
+On l'appelle le battant de la porte de la maison.
+
+[324906-330813]
+N'a donna masakɛ ka so la, kadiri tɛ kɛ a la.
+Quand il est monté à la maison du roi, on n'y met pas de cadre.
+
+[330953-333488]
+Bɔlɔnin fila bɛ dila numukɛ fɛ.
+Le forgeron fabrique deux petites pitons.
+
+[333581-338488]
+Bɔlɔnin kelen bɛ don kogo la fan kelen fɛ, tɔ kelen bɛ don fan dɔ fɛ.
+Un piton est monté d'un côté du mur, l'autre est monté de l'autre côté.
+
+[338604-341372]
+U b'a fɔ porte ma ko senma.
+La porte est dite à-pieds.
+
+[341511-342558]
+Sen b'a la.
+Elle a un pied.
+
+[342720-344837]
+Sen kelen bɛ don sanfɛ, kelen bɛ don dugu ma.
+Un pied est monté en haut, l'autre en bas.
+
+[344906-347093]
+U b'a dila.
+Ils le montent.
+
+[347209-351000]
+Bere dɔ bɛ ɲini ka don kon cɛmancɛ la.
+On cherche un bâton pour le monter au milieu du battant de porte.
+
+[351162-358751]
+N'i donna so kɔnɔ, wonin wɛrɛ bɛ yen, i bɛ bere sɔɔri o la ka don.
+Quand tu entres dans la maison, il y a un autre petit trou dans lequel tu insères le bâton pour entrer.
+
+[358930-360860]
+Pɔnti tɛ dɛ.
+C'est pas une pointe.
+
+[361046-364953]
+An bɛ nɛgɛ dɔ gosi an bɛ min weele ko nunfila.
+On forge un fer qu'on appelle deux-pointes.
+
+[365139-368651]
+I b'a nunfila labɛn , nɛgɛ misɛnnin don.
+Tu prépares ces deux-pointes, ce sont des morceaux de métal.
+
+[368837-374813]
+I b'a kɛ masakɛ ka kon na,  walima kɛlɛmasa, a b'a fɔ ne ka pɔritu bɛ kɛ sanukon ye.
+Tu le montes à la porte du roi, ou bien du chef de guerre, il dit que sa porte est devenue une porte en or.
+
+[379209-383304]
+O bɛ labɛn k'a kɛ kon ye.
+C'est ce qu'on prépare pour en faire une porte.
+
+[383651-387023]
+N'i bɔra yen, masakɛ b'i ɲininka :
+Quand tu sors de là, le roi te demande :
+
+[387209-395976]
+N bɛ da fɛn jumɛn kɔnɔ ni n sɛgɛnnen nana ka bɔ masaya yaala la?
+Sur quoi vais-je m'allonger quand je reviens fatigué de ma promenade royale ?
+
+[396162-398534]
+Dɔw ko kalaka.
+Il y a en qui disent : la couche
+
+[398720-401186]
+Masakalakaw bɛ yen.
+Il y a des couches de rois.
+
+[401418-403674]
+Masakalakaw bɛ yen.
+Il y a des couches de rois.
+
+[403883-408186]
+U bɛ kosowalaw da a kɔnɔ.
+On met des couvertures à carreaux là-dessus.
+
+[408255-410325]
+U tun b'a f'a ma fɔlɔ ko konfɛɛrɛ.
+On appelait ça autrefois : Konfèrè.
+
+[410511-412790]
+Konfɛɛrɛ de tun bɛ labɛn masakɛw ye.
+Les konfèrè étaient confectionnés pour les rois.
+
+[412930-418697]
+Numu de tun b'o jiri dɛsɛ k'o nuguya, fo numukɛ b'i bolo tirinti a kan.
+Les forgerons taillaient les arbres et les polissaient, jusqu'à ce que le forgeron le ponce à la main.
+
+[418767-422302]
+Ni nɔ b'a la yɔrɔ min na, a bɛ labɛn ka kɛ masakɛ sago ye.
+S'il y a des nœuds à certains endroits, on le refait selon le choix du roi.
+
+[422395-425604]
+Numukɛ de tun b'o kɛ.
+C'est le forgeron qui faisait ça.
+
+[425790-431614]
+Masakɛ dalan y'o ye,
+C'était le lit du roi,
+
+[431860-435116]
+Ni masakɛ y'i da o kan,
+celui sur lequel le roi s'allonge,
+
+[435418-447186]
+Masakɛ bɛ nɛgɛsabara min don a sen na numu de tun b'a dila.
+La chaussure en fer que le roi enfilait à ses pieds, c'est le forgeron qui la fabriquait.
+
+[447325-448325]
+O don nimɔrɔko tɛ.
+En ce temps-là il n'avait pas de problème de taille.
+
+[448534-450418]
+I bɛ taa kala da masakɛ sen na.
+Tu mets une tige le long du pied du roi.
+
+[450581-458883]
+N'i ye kala d'a sen na k'a suma, i bɛ na n'a ye k'i sigi k'a filɛ, i bɛ nɛgɛ gosi.
+Une fois que tu a mis la tige le long du pied pour le mesurer, tu reviens avec et t'assois en l'observant, et puis tu forges le fer.
+
+[458953-462465]
+I bɛ taa n'a ye, a tɛ bonya masakɛ sen ma, a tɛ dɔgɔya a ma.
+Tu pars avec, elle ne sera pas plus grande que le pied du roi, ni plus petite.
+
+[462720-465302]
+N'o kɛra e b'i niyɔrɔ sɔrɔ a la.
+Quand ça sera fait, tu auras ta part.
+
+[465558-470209]
+I b'a labɛn ka t'a di masakɛ ma.
+Tu les confectionnes et va les donner au roi.
+
+[470488-477511]
+N'i d'a ma, n'a y'a don a sen na, a bɛ na a fɔ k'a bɛnna ni a sen ye.
+Quand tu la lui donnes, s'il l'enfile à son pied, il va dire qu'elle va bien à son pied.
+
+[477837-481139]
+Nka k'a mago bɛ kɔjuru la.
+Mais il dira qu'il a besoin de la bride qui se trouve derrière.
+
+[481395-485534]
+O nɛgɛjurulama bɛ dila ka don a la.
+On confectionne cela avec du fil de fer et on le monte sur la chaussure.
+
+[485674-487186]
+A bɛ fɔ o ma ko masasabara.
+On appelle cela la chaussure du roi.
+
+[487372-493395]
+Masakɛ b'o don ka taa n'a ye kɛlɛyɔrɔ la walima a b'a don ka yaala n'a ye dugu kɔnɔ.
+Le roi enfile cela pour partir avec au champ de bataille ou bien il les met pour se promener dans le village.
+
+[493697-495860]
+Masafugulan tun b'o cogo la.
+Pour le chapeau du roi c'était pareil.
+
+[496093-497139]
+O tun ye nɛgɛ ye.
+Il était en métal.
+
+[497372-499232]
+O tun bɛ kɛ sanu ye.
+On le faisait en or.
+
+[499395-501883]
+I bɛ to k'a ye tukɔnɔmɔgɔ ninnu fɛ.
+Tu le vois souvent chez les gens de la forêt.
+
+[502023-507767]
+I bɛ to k'a fugulan ɲɔgɔnna dila k'a di an ka dɔnkilidalaw ma.
+Ils confectionnent toujours ce genre de chapeaux pour le donner à nos chanteurs.
+
+[508000-509953]
+U b'a don u kun na ka na n'a ye.
+Ils le mettent sur leur tête et retournent avec.
+
+[510162-512720]
+A yera anw de fɛ yan.
+C'est ici chez nous qu'on voit ça.
+
+[513255-517666]
+A yera anw de fɛ yan Mali la.
+C'est ici chez nous au Mali qu'on voit ça.
+
+[517976-520325]
+Mali ye ko caman mara dɛ.
+Le Mali a gardé beaucoup de choses.
+
+[520558-522534]
+Mali ye ko caman kɛ dɛ.
+Le Mali a fait beaucoup de choses.
+
+[522720-530395]
+Maa caman bɛ ka ko caman lakali o sababu ye Mali de ye.
+Beaucoup des gens racontent des choses et ces choses ont leur source au Mali.
+
+[530604-543093]
+Maliden ɲuman minnu nana ka baara ɲuman kɛ, ka da Ala la hali ni u tun tɛ seli,
+Les bons fils du Mali qui sont venus faire correctement leur travail, croyant en Dieu même s'ils ne priaient pas,
+
+[543255-551069]
+I b'a jɔ maa kɛmɛ o kɛmɛ, hɔrɔnya tun b'u da la, a tun b'u kɛwale la, a tun b'u kɔfɛ, a tun b'u ɲɛfɛ.
+que tu t'arrêtes au cent premiers ou au cent suivants, la noblesse était dans leurs paroles, elle était dans leurs actes, elle était derrière eux, elle était au devant d'eux.
+
+[552069-558720]
+Maa minnu kɛra o sababu ɲuman ye, an b'olu fo kosɛbɛ k'u barikada.
+Ces gens qui ont fait du bien, nous les saluons bien et nous les remercions.
+
+[559488-570813]
+N'a ye fugulan in don a kun na, a bɛ fɛn dɔ da a kan na ko sɛmɛ n'a bɛ bɔ.
+Quand il met le chapeau sur sa tête, il met aussi quelque chose sur son épaule qu'on appelle la hache-houe en sortant
+
+[572790-575674]
+Sɛmɛ kɛra donsow ta de ye sa.
+Le hache-houe appartient maintenant aux chasseurs.
+
+[575860-579431]
+U b'a fɔ ko kannadasɛmɛ, dɔw ko donsosɛmɛ.
+Ils disent la hache-houe qu'on met sur l'épaule, d'autres disent la hache-houe des chasseurs.
+
+[579488-596813]
+N'u y'a labɛn k'a di jatigikɛ ma, n'a ye sɛmɛ jigin k'a b'a kerun fɛn min ma, hali n'a m'a kerun, a ɲama tɛ fɛn in to.
+S'ils préparent bien cette hache-houe pour la donner au maître, quand il la prend pour la lancer sur quelque pour, même s'il ne l'a pas jetée, la force occulte de la hache-houe n'épargne pas la chose.
+
+[598186-601232]
+Sɛmɛ in ɲama t'o fɛn kelen to, Mukutari.
+La force occulte de la hache-houe n'épargne pas cette chose, Mouktar.
+
+[601465-606418]
+O tuma na sɛmɛ in bɛ labɛn ka di masakɛ ma, o y'a ka masayasɛmɛ ye.
+Enfin, cette hache-houe est confectionnée et donnée au roi, c'est sa hache-houe royale.

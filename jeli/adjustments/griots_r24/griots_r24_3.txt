@@ -1,0 +1,651 @@
+[0-2240]
+A ko Ayisata!
+Il a dit Aïssata!
+
+[2340-3340]
+Ne ko naanu!
+J'ai dit oui !
+
+[3363-7681]
+A ko cɛ saba minnu bɔra yan sisan, e b'u dɔn wa?
+Il a dit, les trois hommes qui ont quitté ici, tu les connais ?
+
+[7818-9954]
+Ne ko ayi, ne tu dɔn.
+J'ai dit non, je ne les connais pas.
+
+[10090-11568]
+A  ko e t'u dɔn?
+Il a dit, tu ne les connais pas ?
+
+[11659-13727]
+Ne ko ayi, ne te ninnu dɔN
+J'ai dit non, je ne connais pas ceux-ci.
+
+[13840-17750]
+Hali e m'a ye u ni mɔgɔ min bɔlen don ɲɔgɔn fɛ?
+Même, tu ne vois à qui ils ressemblent ?
+
+[17909-22522]
+Ne ko Buwakɔrɔba, ne tɛ ninnu dɔn.
+J'ai dit Bouakoroba, je ne connais pas ceux-ci.
+
+[22704-24409]
+A ko i ye tiɲɛ fɔ.
+Il a dit, tu as raison.
+
+[24500-26704]
+Ninnu ye tunkarankew de ye.
+Ce sont des aventuriers.
+
+[26818-30704]
+Nin y'i tɛnɛnmuso karisa dencɛ saba de ye.
+Ce sont les trois fils de ta tante X.
+
+[30840-32818]
+A saba bɛɛ de bɛ tugan fɛ.
+Ils sont tous à l'aventure.
+
+[33000-35886]
+U nana foli de kɛ.
+Ils sont venus faire la salutation.
+
+[36022-39590]
+U y'an ka laada kɔrɔ sira taama, n'o ye kɔrɔfuranni ye.
+Ils ont marché sur le chemin de la tradition.
+
+[39681-43545]
+U ko k'u bɛ muso de fɛ nin siɲɛ in.
+Ils disent qu'ils aiment la femme cette fois ci.
+
+[43613-49795]
+E de nana ji di, dɔgɔkɛ ye e ye u ko ko k'i d'a ma.
+Comme tu es venue les donner de l'eau, le petit frère qu'il te veut.
+
+[49863-55909]
+Ala sago i sago, i dilen filɛ i tɛnɛnmusoden de ma furu la.
+Donc, tu es donné au fils de ta tante en mariage.
+
+[56068-63977]
+Lamɔ kɛcogo fɔlɔ la, i tɛ fa sɔsɔ, i te ba sɔsɔ.
+À cause de l'éducation auparavant, tu ne discutes pas les ordres de ton père ni ceux de ta mère.
+
+[64022-70954]
+Ka da mun kan, anw tun b'a fɔ ko sɛbakɔrɔ tɛ fɛnjugu yɛgɛyɛgɛ ka bi la den kɔrɔ.
+Pourquoi on disait que la poule ne donnait pas de choses dangereuses au poussin.
+
+[71022-77727]
+Ni sɛbakɔrɔ ye fɛn yuguyugu, ni min man ɲ, a b'a sen kɛ k'o tan ka taa kɔfɛ.
+Quand elle remue les choses avec son pied, elle pousse par derrière.
+
+[77886-81000]
+Min ka ɲi, a b'o ta k'o bila a den kɔrɔ.
+Elle donne ce qui est bon au poussin.
+
+[81113-86636]
+Anw tun b'a fɔ ten de, n'an faw y'an don furu min na, o ye hɛɛrɛ furu ye.
+Nous disions ainsi, quand nos pères nous donnent en mariage, c'est un mariage de bonheur.
+
+[86727-91136]
+A ye sira di yan ko n ka taa, n wulila n taara.
+Il m'a libéré et je suis partie.
+
+[91250-95931]
+N donna so kɔnɔ, n ɲɛji bɔra, n kasira.
+Je suis entrée dans la maison, et j'ai pleuré.
+
+[96136-99295]
+N bɛ mun kasi la?
+Je pleure pourquoi ?
+
+[99363-103772]
+N bɛ ekɔli la,, n ka kan ka taa kilasi Seegin kɛ.
+Je suis à l'école et je dois  faire la huitième  année.
+
+[103909-106886]
+Ne ka kalan de bɛna tiɲɛ wa?
+Mon étude sera-t-elle stoppée?
+
+[106977-109500]
+Ne donkun kɛra mun ye kalan na.
+Pourquoi suis-je suis allée à l'école ?
+
+[109681-112409]
+Ne ka kalan tɛna taa yɔrɔ jan na bilen dɛ.
+Je n'irai plus loin à l'école.
+
+[112545-118022]
+Ka kalan ke ka taa se fo kilasi seegin o de taara bɛn ne cɛsɔrɔtuma ma.
+Étudier jusqu'à la huitième année, j'ai un mari à ce moment.
+
+[118113-121090]
+Ne y'o nimisa de kasi.
+J'ai pleuré pour ce regret.
+
+[121250-124500]
+N kasira ko n ka kalan bɛna tiɲɛ.
+J'ai pleuré en disant que mes études seraient stoppées.
+
+[124613-128999]
+N ba kɔrɔba nana n sɔrɔ o kasi kelen na.
+Ma tante est venue me trouver entrain de pleurer.
+
+[129113-132136]
+A ko i t'i da den, nin ye nin ko bannen ye koyi.
+Elle a dit tais-toi, c'est fini comme ça.
+
+[132204-139409]
+I ɲɛ bɛ nin ba fɛn o fɛn na i bolo, a ka ca Ala fɛ a bɛɛ ta kɛra tan de.
+Toutes tes mères que tu vois sont toutes passées par ce chemin.
+
+[139545-141886]
+Mɔgɔ si t'i cɛ jira anw fɛ yen.
+Chez nous, personne ne choisit son mari.
+
+[142045-143636]
+I be di furu la de.
+On te donne en mariage.
+
+[143727-146840]
+O tuma i ka furu kɛra sira kɔrɔ de fɛ.
+Donc ton mariage est passé par le chemin traditionnel.
+
+[146931-149136]
+Wuli i ka taa seli.
+Va prier.
+
+[149295-150840]
+Anw mansaw b'an dege seli la.
+Nos parents nous apprennent à prier.
+
+[150977-152795]
+Anw ye Mamadudiinɛ mɔgɔw ye.
+Nous sommes musulmans.
+
+[152977-155340]
+U b'i dege hali se kɛcogo la.
+Ils apprennent comment prier.
+
+[155454-159022]
+Ne wulila ka seliji minɛ.
+Je me suis levée et j'ai fait mes ablutions puis j'ai prié.
+
+[159068-161386]
+An y'a bila tan.
+On l'a laissé comme ça.
+
+[161477-167500]
+Don do la tuguni, min ko k'a bɛ ne fɛ furu la a kelen nana.
+Un autre jour, celui qui a dit qu'il veut me marier est venu seul.
+
+[167613-170090]
+A ko a  nana baro la ne fɛ.
+Il a dit qu'il est venu causer avec moi.
+
+[170159-173363]
+O wagati la, sokɔnɔdon tun tɛ yen dɛ.
+À ce moment, il n'y avait pas question d'intimité.
+
+[173522-177250]
+N filɛbagaw ni n lamɛnbaga, cɛnimusoya tun te yen dɛ.
+Mes chers auditeurs, il n'y avait pas de rapport sexuel.
+
+[177431-181250]
+Aw tun tɛ gɛrɛ ɲɔgɔn na k'aw bɛ taa ko kɛ.
+Vous ne vous rapprochez pas jusqu'à ce qu'il se passe quelque chose.
+
+[181431-184363]
+Fo denko bɛ taa bɔ a la.
+Jusqu'à ce qu'il ait question de bébé.
+
+[184522-190681]
+I kɔni bɛ maminɛ nka i te labila a ye k'a k'i ɲini cenimusoya la.
+Tu seras quand même fiancé, mais pas libre pour le rapport  sexuel.
+
+[190818-193159]
+A nana k'a nana  baro la.
+Il a dit qu'il est venu causer.
+
+[193272-196431]
+Ne fana ye  tɔɲɔgɔnw weele, an ye baro kɛ.
+J'ai appelé mes camarades, on a causé
+
+[196568-198363]
+A wulila a taara.
+Il est parti.
+
+[198477-203454]
+O dɔgɔkun kɔnɔ, a nana i sara n na k'a bɛna taa a sigiyɔrɔ la.
+Dans la semaine, il m'a dit qu'il va retourner à sa résidence.
+
+[203545-207113]
+A tun sigilen be Gabɔn jamana de kan.
+Il était au gabon.
+
+[207250-211409]
+N'o ye Afiriqki satarali ye.
+C'est en Afrique centrale.
+
+[211568-214363]
+Ne tora n ka kalan na.
+J'ai continué mes études.
+
+[214545-216522]
+O y'a sɔrɔ telefɔniko tɛ yen.
+Il n'y avait pas question de téléphone à ce moment-là.
+
+[216613-219613]
+An ye ɲɔgɔn weele telefɔni na tun tɛ yen.
+On s'est appelé au téléphone, on n'était pas encore là.
+
+[219681-225659]
+N'i ye letiri bil ka taga, a bɛ kalo kelen kɛ sira la, a tɛ se.
+Quand tu envoies une lettre, la lettre passe 1 mois sur le trajet sans arriver.
+
+[225772-231636]
+K'a jira i la, aw tɛ se ka surunya ɲɔgɔn na cogo si la.
+C'est pour te montrer qu'il n'avait aucun moyen de rapprochement.
+
+[231750-234181]
+Nka furu b'aw ni ɲɔgɔn cɛ.
+Mais il y a le mariage entre vous.
+
+[234318-241863]
+A taara a ka tugan na, san kelen, san fila, Ala y'a sɔn nafolo la.
+Il est parti à l'aventure, un an, deux ans, il a gagné de l'argent.
+
+[242000-243681]
+A seginna ka na.
+Il est revenu.
+
+[243795-246545]
+Ka na kɔjɔ ɲini sisan.
+Il a demandé le mariage maintenant.
+
+[246659-249295]
+O y'a sɔrɔ furunafolow bɛɛ sarala.
+Toutes les dotent étaient déjà payées.
+
+[249409-251568]
+A nana kɔjɔ ɲini sisan.
+Il a maintenant demandé le mariage.
+
+[251727-258181]
+Ko k'a muso di a ma, a b'a muso ka kɔɲɔ ke, a n'a muso bɛ segin ka taa sigiyɔrɔ la.
+Il dit demande de lui donner sa femme, il va retourner avec elle.
+
+[258272-264613]
+N'o fɔra sisan, bɛɛ b'i ka labɛn kɛ.
+Quand on dit cela, chacun se prépare.
+
+[264704-268977]
+Kɔɲɔkɛ fayanfan n'a bayanfan, bɛɛ b'i ka laben kɛ.
+Les parents du mari se préparent tous.
+
+[269068-274568]
+A b'aw labɛn ka bɛn don kelen kan kɔɲɔ ka kan ka kɛ don min na.
+Vous vous préparez et fixez le jour du mariage.
+
+[274636-279568]
+Yanni o cɛ, a n'a terike nana.
+Avant cela, il est venu avec son ami.
+
+[279681-283818]
+U nana ni valiszi fila ye su fɛ?
+Ils ont emmené deux valises dans la nuit.
+
+[284068-287909]
+Surafana dto dunnen u nara i
+Après le dîner, il est venu
+
+[293045-295431]
+U y'u dantigɛ ni fa kɔrɔba ye.
+Ils ont parlé avec l'oncle.
+
+[295568-300704]
+Ne fakɔrɔba y'a muso fɔlɔ weele ko ka ne weele ka na.
+Mon oncle a dit à sa femme de m'appeler.
+
+[300772-304500]
+Ne nana, u ye Valizi ninnu dayɛlɛn.
+Je suis venue, ils ont ouvert la valise.
+
+[304590-314772]
+anw fɛ maraka la, n'i taara tuggan fɛ, ni tugan diyara, i b'i maminɛmuso sama.
+Chez nous les soninkés, quand tu pars à l'aventure, si tu gagnes de l'argent, en revenant, tu viens faire des cadeaux à ta fiancée.
+
+[314909-317590]
+U b'a fɔ o de ma ko Kadofini.
+Ils appellent cela Kadofini.
+
+[317727-320386]
+I bɛ sama.
+On vient te donner des cadeaux.
+
+[320500-321931]
+An ye wlizi ninnu dayɛlɛn.
+On a ouvert les valises.
+
+[322113-330045]
+I cɛ ko, k'a taara, Ala y'a garijɛgɛ, a nana i sama fɛn minnu na, olu file nin ye.
+Ton mari a dit qu'il est parti et qu'il a gagné de l'argent, voici les choses qu'il a achetées.
+
+[330227-333590]
+N filɛbaga ni n lamɛnbagaw, fini bɛɛ sɔrɔ a kɔnɔ.
+Mes chers auditeurs et spectateurs, on trouve toute sorte d'habits dedans.
+
+[333727-341386]
+I b' a sɔrɔ borode b'a kɔnɔ, i b'a sɔrɔ sanu kɔpilɛ b'a kɔnɔ, i b'a sɔrɔ bazɛn b'a kɔnɔ, i b'a sɔrɔ sac  b'a kɔnɔ.
+Tu peux trouver dans la valise ; bazin, brodé, l'or, sac.
+
+[341500-347181]
+Fɛn o fɛn ni muso mago bɛ se a ma, i b'a sɔrɔ a bɛɛ bɛ walizi in kɔnɔ.
+Tu trouves à l'intérieur de ces valises tout ce  que la femme a besoin.
+
+[347340-348840]
+U y'olu jira ne na.
+Ils m'ont montré ceux-ci.
+
+[349840-353090]
+Bɛɛ bɛ dugawu ke Ala k'a k'i fɛɛbɔlan ye.
+Tout le monde fait leur bénédiction.
+
+[353272-357090]
+An ye waliziw datugu, kɔɲɔko kuma nana wuli sisan.
+On a fermé les valises, on commence maintenant à parler du mariage.
+
+[357250-365113]
+Kɔɲɔko kuma mana wuli, bayanfan, fayanfan, bɛɛ bɛ girin kɛ.
+À l'issue de la cérémonie du mariage, les pères et mères font des courses.
+
+[365250-369068]
+Musolakaw de ka girin barika ka bon.
+Les femmes font beaucoup de courses que les hommes.
+
+[369204-372340]
+Bari u bɛ mun kɛ, n filɛbaga ni n lamɛnbagaw?
+Qu'est-ce qu'elles font mes chers auditeurs ?
+
+[372431-380045]
+U be n'a lajɛ ka manɲamagamuso dɔ ɲini min bɛ kɔɲɔmuso kɔlɔsi.
+Ils vont maintenant chercher une vieille qui va s'occuper de la mariée.
+
+[380227-383840]
+Ale de ye kɔɲɔmuso ka dɔgɔtɔrɔ ye.
+C'est elle le docteur de la mariée.
+
+[383931-387068]
+Ale de ye kɔɲɔmuso gundofɔɲɔgɔn ye.
+La mariée partage des secrets avec elle.
+
+[387227-390113]
+Ale de ye kɔɲɔmuso barokɛɲɔgɔn ye.
+La mariée cause avec elle.
+
+[390250-396068]
+Kɔɲɔmuso fa n'a ba tɛ se ka min fɔ a ye, manɲamaga de b'o fɔ i ye.
+Ce que les parents de la mariée ne peuvent pas lui dire, cette vieille dit cela.
+
+[396136-402409]
+I ka kan ka fru minɛ cogo min na, musokɔrɔba in de bɛ n ao ɲɛ fɔ i ye.
+Cette vieille t'explique les règles du mariage.
+
+[402522-404840]
+O y'i ka karamɔgɔ ye.
+Elle est ta maîtresse.
+
+[404954-406863]
+O fana ye lamɔ dɔ de ye.
+C'est aussi une éducation.
+
+[406977-411954]
+O de bɛ n'a fo i ye, i ka kan k'i cɛ minɛ tan.
+Elle te dit que tu dois te comporter avec ton mari comme ça.
+
+[412136-414159]
+I ka kan k'i cɛlakaw minɛ tan.
+Tu dois te comporter avec les membres de sa famille comme ça
+
+[414340-416545]
+Cɛ terike ka kan ka minɛ tan.
+Tu dois te comporter avec l'ami du mari comme ça.
+
+[416681-418522]
+Min man di cɛ ye kana o kɛ.
+Ne fais pas ce que l'homme ne veut pas.
+
+[418613-420840]
+N'i y'o kɛ den be faku.
+Quand tu fais cela, l'enfant sera maudit.
+
+[420977-423363]
+N'i ye den fakulen wilo i mago sara.
+Quand tu donnes naissance à un paresseux, c'est fini pour toi.
+
+[423545-426454]
+O musokɔrɔba in de b'o ladilikan fɔ i ye.
+Cette vieille te donne ces conseils.
+
+[426659-433181]
+Hali i ka kan ka dumuni min dun, o musokɔrɔba in b'o jira i la.
+Cette vieille te montre le repas que tu dois manger.
+
+[433295-437227]
+I man kan ka nin dun nin dɔgɔkun kɔnɔ.
+Tu ne dois pas manger ça cette semaine.
+
+[437340-440750]
+Nin min filɛ, i bɛ se k'o dun nin dɔgɔkun kɔnɔ.
+Tu peux manger ceci cette semaine.
+
+[440909-444318]
+Musokɔrɔba y'i ka dɔgɔtɔrɔ ye, i karamɔgɔ don.
+La vieille est ton docteur et  enseignante.
+
+[444522-446590]
+Ale de b'i kɔlɔsi a bɛɛ la.
+Elle te contrôle à tout moment.
+
+[446681-455227]
+Cɛw fana kafan fɛ, u be manɲamagacɛ ɲini ka di u ma.
+Chez les hommes aussi, il y a manɲamaga.
+
+[457204-463500]
+Anw marakaw fɛ  yen, u bɛ manɲamagacɛ ɲini k'a di kɔɲɔcɛ fana ma.
+Chez nous les soninkés, on cherche un manɲamaga pour le marié.
+
+[463659-467159]
+O fana bɛ kɔjɔkɛ bilasira.
+Ce dernier donne des conseils au marié.
+
+[467250-470068]
+I donna furu la, e tɛ furu dɔn.
+Tu t'es marié, mais tu ne connais pas le mariage.
+
+[470181-474681]
+Furu sariya ye nin de ye. i b' a kɛ tan.
+Voici les lois du mariage, tu fais comme ça.
+
+[474818-477954]
+An faw ye muso furu, muso ma sute yen.
+Nos pères se sont mariés, la femme n'est pas partie à la maison pour cause de dispute.
+
+[478113-481045]
+An faw ye muso furu, kɔgɔn ma muso minɛ.
+Nos pères se sont mariés, la femme n'a jamais eu faim.
+
+[481090-483977]
+An faw ye muso furu, u ma muso bugɔ.
+Nos pères se sont mariés, ils n'ont jamais frappé la femme.
+
+[484113-487113]
+Muso min dilen filɛ i ma, i balimamuso don.
+Cette femme qu'on t'a donné est ta sœur.
+
+[487545-490340]
+Nin y'e ka du jɔbaga de ye.
+Elle va construire ta famille.
+
+[490477-492386]
+I ni nin ka kan ka kɛ kelen ye.
+Elle doit être ton amie.
+
+[492500-499181]
+A ka ca ala fe, manɲammacɛ  fana b'o fɔ kɔɲɔcɛ ye k'a bila.
+Le manɲamaga dit ça au marié.
+
+[499295-502613]
+Fan fila bɛɛ ye bilasirali sɔrɔ.
+Les deux côtés ont tous eu des conseils.
+
+[502727-504795]
+Lamɔ ɲɛna.
+L'éducation est bonne.
+
+[504909-507204]
+Aw bena kɔɲɔ ɲaga kɛ.
+Vous allez faire la cérémonie du mariage.
+
+[507409-509727]
+Kɔɲɔ ɲaga bɛ kɛ ka don fitiri la.
+La cérémonie coïncide avec le crépuscule.
+
+[509818-516795]
+N filebaga ni n lamɛngaw, a bɛ haketo kuma n'a fɔcogo don.
+Mes chers auditeurs et spectateurs, pardonnez-moi, c'est la parole.
+
+[516886-520431]
+Ni n m'a fɔ k'a faranfasiya, a te faamu.
+Si je ne dis pas correctement, on ne va pas comprendre .
+
+[522272-525454]
+Ni n donna min gasi la, o bɛ yafa n ma.
+Je demande pardon à ceux dont j'ai offensé.
+
+[525545-529090]
+Kɔjɔkɛ ni kɔɲɔmuso bɛ don kɔɲɔso la.
+Le marié et la mariée entrent dans la chambre de noces.
+
+[529318-533750]
+N'aw donna kɔjɔso la, cɛnimusoya de bena tɛmɛ aw ni ɲɔgɔn cɛ.
+Quand vous entrez dans la chambre, c'est pour le rapport sexuel.
+
+[533931-537704]
+ni i y'i muso sɔrɔ denmisɛnnin ye.
+Quand ta femme est vierge.
+
+[537818-539863]
+Denmisenninya kɔrɔ ye mun ye?
+Que veut dire l'enfance?
+
+[539931-544159]
+E y'i muso ɲini, i y'a sɔrɔ cɛ si ma deli ka maga a la.
+Tu as couché avec ta femme, tu découvres qu'elle est vierge.
+
+[544295-546204]
+A tɛ ce dɔn.
+Elle est vierge.
+
+[546409-550409]
+I y'a denmisɛnninnama de furu.
+Tu l'as marié étant enfant.
+
+[550522-554090]
+A bɛ komi Ala y'a bila ka na cogo min na. ale ma maga foyi la.
+Elle n'a touché à rien, elle est vierge.
+
+[554181-555840]
+Ce si ma maga a la.
+Elle n'a connu aucun homme.
+
+[555909-558590]
+o ye kɔɲɔkɛ fana bolo nisɔndiya ye dɛ.
+C'est la joie pour le marié.
+
+[558636-563659]
+Kɔɲɔkɛ bɛ nisɔndiya, a bɛ sewa.
+Le marié sera satisfait et heureux ;
+
+[563795-572340]
+A b'a fɔ a muso ye, e ye nin kɛ ne ye, ne be se ka jigi da e kan don dɔ la.
+Il dit à sa femme, tu as fait ça pour moi, je peux compter sur toi un jour.
+
+[572818-575090]
+Jaa i bɛ se ka ne ka du jɔ.
+Tu peux construire ma famille.
+
+[575272-582954]
+Ne ye tunkaranke ye, jaa hali ni ne taara k'e to, e be se k'i janto ne denw na.
+Je suis un aventurier, même si je te laisse ici, tu peux t'occuper de ma famille.
+
+[583068-584886]
+Ala ye ne kunnadiya.
+J'ai eu la chance.
+
+[585022-588931]
+I ye min kɛ n ye, a sumanen be n si de ma.
+Ce que tu as fait pour moi, ça m'a plu.
+
+[589045-596568]
+Ladilikan ni kumakan duman caman bɛ fɔ yen cɛ ni muso cɛ.
+Ils se disent beaucoup de jolis mots et des conseils.
+
+[596681-598863]
+Kɔɲɔmuso yɛrɛ nisɔndiyalen don.
+La mariée est aussi heureuse.
+
+[598954-604272]
+Bar dɔw fana bɛ se ka furu, olu tɛ sɔrɔ nin cogoya la.
+Parce que d'autres peuvent se marier, mais pas dans cet état.
+
+[604409-605409]
+O beɛ ye mun ye?
+Tout ça, c'est quoi?
+
+[605545-609250]
+Lamɔcogo de don n filɛbagaw ni n lamɛnbagaw.
+C'est l'éducation, mes chers auditeurs et spectateurs.
+
+[609363-614772]
+I ye lamɔ min sɔrɔ, n'i y'o waleya, a ka ca ala fɛ i bɛ kunnawolo sɔrɔ i furudon.
+Quand tu mets en pratique ton éducation, tu seras fier le jour de ton mariage.
+
+[615227-617386]
+Ce bɛna mun kɛ sisan?
+Qu'est-ce que le mari va faire ?
+
+[617477-623000]
+Cɛ b'a f'i ɲɛna, e ye nin ke ne ye, n fana b'i sara.
+L'homme te dit : tu as fait ça pour moi, je vais te payer.
+
+[623113-626363]
+N b'i sara fɛn min se bɛ n ye.
+Je te paie avec quelque chose que j'ai.
+
+[626431-630272]
+Dɔw bɛ mɔbili n'a kile ta k'a dit u musow ma.
+Certains donnent à leurs femmes une voiture neuve.
+
+[630431-633863]
+Dɔw be dugukolo papiye ta, k'a di u musow ma.
+Certains donnent du lot à leurs femmes.
+
+[633931-636454]
+Dɔw yɛrɛ be moto san u  musow ye.
+D'autres achètent la moto pour leurs femmes.
+
+[636500-640590]
+Dɔw be wari di u musow ma, dɔw bɛ sanu di u musow ma.
+Certains donnent de l'or, d’autre de l'argent à leurs femmes
+
+[640818-642500]
+A bɛ bɔ bɛɛ ka sɔrɔ cogo de la.
+Ça dépend de ce que tu as.
+
+[643068-644568]
+I b'i muso ladiya.
+Tu donnes cadeau à ta femme.
+
+
+
+

@@ -1,0 +1,2 @@
+- Barawuli - Barouéli: Town in Segou
+- Bákarijan - Bakaridjan

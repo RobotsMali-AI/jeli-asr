@@ -1,0 +1,692 @@
+[380-3110]
+N ye so bɛɛ manɔ o kɔrɔ ye ko mara ma tiɲɛ n bolo.
+﻿J'ai dominé toute la maison, cela veut dire que le pouvoir ne s'est pas brisé avec moi.
+
+[3530-6330]
+N sera ka mara kɛ k'a ɲa, o fana kɔrɔ ye ko mara ma tiɲɛ n bolo.
+J'ai pu bien gouverné, cela veut dire que le pouvoir ne s'est pas brisé entre mes mains.
+
+[6800-9170]
+U ko an ko k'i jamu ye, i Somanɔ.
+Ils ont dit qu'on va t'attribuer cela comme patronyme Somano.
+
+[9460-10730]
+O Somanɔ jeliw b'an fɛ yan.
+Il y a ces Soumano griots chez nous ici.
+
+[11670-13601]
+Aw bɛ ne ka massaya wuli nkalon kan?
+Vous gâtez mon pouvoir sur le mensonge ?
+
+[14160-18030]
+Ne danbaga tɛ sɔrɔ, massa wɛrɛ tɛ na min bɛ na ne dan masaya taabolo ɲuman na.
+Il n'y aura aucun roi qui pourra me dépasser dans la bonne pratique du pouvoir.
+
+[18470-20700]
+U ko a ma ko i Daɲɔn.
+Il a appelé Dagnon.
+
+[21430-22550]
+I daɲɔgɔn tɛ yen.
+Il n'y a personne pour te dépasser.
+
+[23020-24020]
+A kɔrɔ ye mun ye ?
+Qu'est-ce que ça veut dire ?
+
+[24100-29600]
+Mɔgɔ tɛ sɔrɔ min bɛ tɛmɛ ale la masaya kɔnɔ sabula wale ɲumankɛla don.
+Il n'aura personne pour le dépasser dans la gouvernance car c'est un bienfaiteur.
+
+[30150-31390]
+A fɔra a ma o la ko Daɲɔn.
+Alors il a été appelé Dagnon.
+
+[32460-37090]
+A ye Mande duguw lajɛ, dugu belebelebaw ani dugu fitininw.
+Regardez les villes du Mandé, les grandes villes et les petits villages.
+
+[37320-41090]
+Mara ma tiɲɛ, balo ma dɛsɛ maw na, aw bɛna ne bɔ fanga la nkalon kan.
+L'éducation n'a pas échoué, il n'y a pas d'insuffisance alimentaire et vous allez me destituer sur le mensonge.
+
+[42290-43290]
+Ahan!
+Ahan!
+
+[43660-47390]
+Ne dun ye Mande dugu bɛɛ manɔ, o fana kɛra jamu ye a la ko i Dugunɔ.
+Alors que j'ai gouverné tous les villages du Mandé, cela aussi fut un patronyme pour lui, Dougounon.
+
+[47820-54400]
+O la a bɛ fɔ Daɲɔn ninnu ma ko Daɲɔn, Somanɔ, Dugunɔn, Dante.
+Donc on appelle les Dagnon, Soumano, Dougounon, Dante.
+
+[55040-57640]
+A kɛra jamu ye dɛ, a nafan ka bon kosɛbɛ.
+C'est devenu un nom de famille, c'est très important.
+
+[57990-59600]
+Sabula kɛwale ɲuman de y'a s'a ma.
+Car c'est le résultat de la bienfaisance.
+
+[60810-61910]
+U diminna u y'a bɔ fanga.
+Ils se sont fâchés et ils l'ont destitué du pouvoir.
+
+[63090-66640]
+O kɛlen kɔfɛ sa Kanu Sinbo bɔlen yen, Kanuɲɔgɔn Sinbo nana.
+Alors, après Kanou Simbo, Kanouniôgôn Simbo est venu.
+
+[68320-69730]
+O ye Kulubaliw bɛnbakɛ ye.
+Il est l'ancêtre des Coulibaly.
+
+[70550-76200]
+Ale sigilen masaya la, jamana ko ni maa min ye nkalon tigɛ, i bɛ taa faga.
+Quand il est devenu roi, le pays a décidé de tuer toute personne qui mentirait.
+
+[76770-79120]
+O nkalontigɛlaw fagayɔrɔ tun bɛ Mande.
+Au Mandé, il y avait cette place où on assassinait les menteurs.
+
+[79890-82143]
+Sabula ko nkalontigɛla da bɛ jamana ci.
+Parce que la bouche d'un menteur peut détruire le pays.
+
+[82980-84110]
+A bɛ du ci.
+ça détruit la famille.
+
+[85030-92530]
+Mɔgɔ min bɛ wuya fɔ, mɔgɔ min bɛ nkalon tigɛ, mɔgɔ min bɛ fɛn fɔ tiɲɛ tɛ fɛn min ye, o bɛɛ ye mɔgɔ suguya kelen ye.
+Celui qui ment et celui qui dit des choses qui ne sont pas vraies sont tous les mêmes.
+
+[93040-94040]
+I ye nkalon tigɛ.
+Tu as menti.
+
+[94560-96930]
+I ye fɛn fɔ i ma min ye tiɲɛ tɛ.
+Tu as dis une chose que tu n'as pas vue, c'est pas vrai.
+
+[98310-104300]
+K'o tigilamɔgɔ n'an m'o bɔ an senkɔrɔ, a bɛ kɛ sababu ye ka maa ɲuman dɔ mako sa.
+Que si vous n'éliminez pas cette personne, elle va faire échouer une bonne personne.
+
+[105770-108910]
+U ye Kulubali faama de lasigi nin kunna, nin sariya kunna.
+Ils ont intronisé le roi Coulibaly sur cette loi.
+
+[109500-116870]
+Wa mɔgɔ o mɔgɔ n'i bɛ walimouso ɲini, ka taa i sigiɲɔgɔn muso ka taa i da o fɛ.
+Et tout homme qui cherche la femme d'autrui, coucher avec la femme de ton prochain.
+
+[117370-119770]
+E ye kɛlɛkɛla de ye, e ye kojugukɛlɛ de ye.
+Tu es un homme confus, un malfaiteur.
+
+[120160-123250]
+E ka kɛwale o tɛ bɛn mɔgɔ si ma, bɛɛ n'i nin kanufɛn don.
+Personne n’a accepté ton acte car chacun a sa préférence.
+
+[124060-126780]
+A, n'i y'o kɛ tuma min na, i ye ko kɛ i man kan ka min kɛ.
+Si tu fais cela, tu fais ce que tu ne devrais pas faire.
+
+[128680-135350]
+A ko mɔgɔ o mɔgɔ ni kɛlɛ binna jamana kan, i y'i dogo, e ma sɔn ka taa kɛlɛyɔrɔ la, ni kɛlɛ banna n'i yera i bɛ faga.
+Il a dit qu'en cas d'attaque du pays, si tu te caches en refusant d'aller à la guerre, après la guerre si tu seras vu, on  t'assassinera.
+
+[136900-143830]
+An nana t'o de la, mɔgɔ minnu ye nin sariyaw sɔsɔ, dɔw minɛna k'olu faga nin sariya in sɔsɔli nɔfɛ.
+Nous sommes restés ainsi et certains ont été tués pour avoir violé cette loi.
+
+[144630-155670]
+Fɔ faama yɛrɛ ka dukɔnɔ mɔgɔ dɔ n'o ye Kulubali faama ye n'o ye Kanuɲɔgɔn Sinbo ye, ale ka dukɔnɔ mɔgɔ dɔ nana kɛwale dɔ kɛ kɛwale min kɛcogo ma ɲa.
+Un membre de la famille du roi Kanouniongon Simbo a posé un acte qui n'était pas bon.
+
+[156300-157300]
+Hun !
+Hum !
+
+[157970-161590]
+O dun tigi fana tun ye jamana nin kanumɔgɔba de ye.
+Et cette personne était beaucoup aimée par tout le pays.
+
+[162170-163540]
+A tun ko ka di jamanadenw ye.
+Il était aimé par le peuple.
+
+[164280-166650]
+U taara Kanuɲɔgɔn Sinbo sɔrɔ.
+Ils sont allés voir Kanouniôgon Simbo.
+
+[167310-171140]
+Ko faama an nana kana i deli i ka sabali.
+Ils ont dit  : le roi, nous sommes venus te supplier.
+
+[171930-177920]
+Sabula an bɛ yɔrɔ min na i ko bi, jamana nin kanubagaba de y'i denkɛ in ye.
+Car là où nous sommes, le pays aime beaucoup ton fils.
+
+[179060-182090]
+Kana fɛn kɛ nin na dɛ, nin fagali tɛna bɛn jamana kɔnɔmɔgɔw ma.
+Il ne faut rien faire à celui-là, le peuple ne sera pas d'accord que tu le tues.
+
+[182630-183630]
+Anw b'i deeli.
+Nous te supplions.
+
+[184300-185680]
+U ye mɔgɔ fɔlɔ jumɛnw bila ka na ?
+Quels sont les premiers messagers qu'ils ont envoyés ?
+
+[186030-187940]
+U ye jeliw bila ka na deelili kɛ.
+Ils envoyèrent les griots pour supplier le roi.
+
+[189100-193230]
+Kulubali faama ko : "E ! aw bɛ mɔgɔ de bila ka na ne deeli ?"
+Le roi Coulibaly leur a dit : "Donc vous  m'envoyer des gens pour me supplier?"
+
+[194410-198930]
+An ye mɔgɔ minnu faga kɛwale jugu la, kɛwalejugukɛla mana faga, jamana de bɛ sabati.
+Si on tue les malfaiteurs, le pays va se stabiliser.
+
+[199760-200760]
+Ninnu ye jamana juguw de ye.
+Ceux-ci sont les ennemis du pays.
+
+[201730-202730]
+A fana bɛ faga de.
+Il sera aussi tué.
+
+[203470-205740]
+E fama, i yɛrɛ den don, a ko n t'a to yen.
+Eh, roi, c'est ton enfant; il a dit je vais pas le tolérer.
+
+[206370-210380]
+U ko hali n'i m'a to yen, jamana den de don, i kelen den tɛ ; n'i y'a faga jamana b'i kɔbila.
+Ils dirent que même si tu ne laisses pas, il est le fils de tout le pays, pas toi seul ; si tu le dis, le pays va t'abandonner.
+
+[210750-211750]
+A ko hali n'o bɛ kɛ.
+Il a dit peu importe.
+
+[213210-216250]
+A ! anw ye jeli ye, an nana i deeli fanga kana tiɲɛ anw ɲɛna.
+Ah ! nous sommes des griots, nous sommes venus te supplier pour que le pouvoir ne chute pas devant nous.
+
+[216310-219510]
+A ko a' ye taa ka bɔ n dala, a fɔra ko jeli bɛ tugu tiɲɛtigi de kɔ.
+Il leur dit de le laisser tranquille, les griots doivent suivre le véridique.
+
+[220740-222040]
+N'aw tɛ tiɲɛ fɛ, ne t'aw fɛ.
+Si vous n'aimez pas la vérité, je ne vous aime pas.
+
+[223140-224150]
+A ye jeliw labila.
+Il prit congé des griots.
+
+[224910-227090]
+U ye numuw ni funɛw ni garankew faraɲɔgɔn kan.
+Ils ont réunis les forgerons et les hommes de caste.
+
+[227430-230840]
+Olu nana faama, faama, an cira i ma, an nana i deeli.
+Eux ils sont venus : Faama, faama, nous sommes venus te supplier.
+
+[231160-232160]
+I ka hinɛ an na.
+Aie pitié de nous.
+
+[232320-235160]
+Ayiwa, maa min minɛnen filɛ nin ye, i ka nin bila.
+Il faut libérer celui-là qui est condamné.
+
+[235210-236210]
+A ko n t'a bila.
+Il a dit jamais.
+
+[236570-237570]
+Aw ko cogo di ?
+Que dites-vous ?
+
+[238640-239890]
+A ye jamanadenw fara ɲɔgɔn kan
+Il a réuni toute la population.
+
+[240750-241750]
+A ko :
+Il leur a dit :
+
+[242290-244180]
+Bi n bɛn'a ko ban pewu.
+Aujourd'hui je vais tout finir.
+
+[244820-247730]
+A bamuru ta, a yɛrɛ ka dukɔnɔ mɔgɔ in a y'a kunkolo tigɛ ka bɔ a la.
+Il a pris l'épée pour enlever la tête de son enfant.
+
+[248700-253640]
+Jamanakɔnɔmɔgɔw ko, i ɲɛ b'a la e ye faamu sugu min ye, e karɔ ka gɛlɛn.
+La population lui dit : " tu es un roi trop sévère ".
+
+[253820-256830]
+E kana ka gɛlɛn kojugu, e tɛ hinɛ, e tɛ makari.
+Tu es trop sévère, tu n'as pas pitié.
+
+[257340-260710]
+I ka nin kɛwale in digira an na, anw bɛɛ de bɛnna a ma ko ka nin to yen.
+Ce geste nous a vraiment choqués, nous t'avons tous demandé de laisser celui-là.
+
+[261050-262480]
+An bɛɛ de sariya ta ɲɔgɔn fɛ.
+Nous avons tous pris la loi ensemble.
+
+[263040-265900]
+N'an bɛɛ farala ɲɔgɔn kan ko k'o sariya kelen wuli, i ka kan ka sɔn.
+Et si nous décidons tous d'abroger cette loi, tu dois accepter.
+
+[266430-272330]
+A ko ayi, aw ma na sariya wuli sari wulidon, aw nana sariya wuli kasɔrɔ sariya ye mɔgɔ dɔ de minɛ.
+Il a dit non, vous avez pas demandé d'abroger la loi au moment idoine car vous l'avez demandé lorsque la loi avait condamné quelqu'un.
+
+[273190-275000]
+Sariya mana mɔgɔ minɛ o t'a wulidon ye.
+Lorsque la loi condamne une personne, ce n'est pas le moment de l'abroger.
+
+[275550-279920]
+N'o sariya o latilenna, n'an b'a wuli, an bɛ fara ɲɔgɔn kan sa k'a fɔ an ka nin wuli ka bɔ yen.
+Si cette loi s'applique, on se réunit pour décider d'abroger cette loi.
+
+[280800-283330]
+Aw tɛ layidu tilenna ye, ne de ye n ka layidu tiimɛ.
+Vous ne respectez pas un engagement, c'est moi qui ai respecté le mien.
+
+[283650-287210]
+Ɔ, fama, i ye Mande jama kuru bar
+Alors le roi, tu t'es opposé à tout le peuple du Mandé.
+
+[288440-292020]
+Jamakuru balibaga, jamakuru sɔsɔbaga.
+Celui qui a contredit tout le peuple.
+
+[292900-294680]
+Jamakuru kumakan sɔsɔbaga.
+Celui qui désobéit à tout le peuple.
+
+[295230-300230]
+Jamakuru faralen ɲɔgɔn kan, i kelen y'an bali n'i ka hakilina min ye, an t'i fɛ tuguni.
+Tout le peuple réuni, tu nous a désobéi, on ne t'aime plus.
+
+[300700-301700]
+Bɔ an ka fanga la.
+Quitte notre pouvoir.
+
+[302370-304280]
+A Sidiki nin gɛlɛyara nin don dɛ.
+Ah! Sidiki, cela n'a pas été facile ce jour-là.
+
+[304640-307680]
+A ko aw tɛ tugu tiɲɛtigi kɔ fɔ nkalontigɛla ?
+Il leur a dit : " Vous ne suivez pas un véridique sauf un menteur ?"
+
+[308300-311040]
+Ayiwa n'o de don, ne tɛ Mande yɛrɛ fɛ tuguni.
+Alors, si c'est le cas, je n'aime plus le Mandé.
+
+[311510-318370]
+Ne bɛ bɔ Mande ka taa n sigi yɔrɔ wɛrɛ ka taa n bama n yɛrɛ la ka kɛwale dɔ ta min bɛ kɛ kɛwale ɲuman ye.
+Je vais quitter le Mandé et aller m'installer quelque part puis m'appuyer sur moi-même pour adopter de bonnes pratiques.
+
+[318590-320460]
+Jaa mɔgɔ ni aw tɛ sigiɲɔgɔn ye.
+Personne ne peut vivre avec vous.
+
+[321520-322790]
+A diminna, a y'a ka minɛnw cɛ.
+Il s'est fâché puis il a plié ses bagages.
+
+[323180-324180]
+A bɔra Mande.
+Il a quitté le Mandé.
+
+[324980-333350]
+A ko ni tiɲɛ de bɛ ne fɛ, ɲɛmɔgɔya min bɛ Mande, a kana ɲɛnabɔ fiyewu fɔ aw ka ɲɔgɔn sɛgɛn ka ɲɔgɔn tɔɔrɔ ka ɲɔgɔn janfa.
+Il leur a dit : " Si c'est moi qui détient la vérité, que le pouvoir du Mandé se ne stabilise jamais jusqu'à ce que vous vous disputiez, que vous vous trahissez !
+
+[334170-336130]
+Ne faso ye Mande ye, n t'a lanɔgɔli fɛ.
+Le Mandé est ma patrie je n'aime pas son malheur.
+
+[336670-341400]
+Nka Ala kan'aw ka ɲɛmɔgɔya ɲɛnabɔ fɔlɔ fɔ aw ka ɲɔgɔn tɔɔrɔ ka ɲɔgɔn sɛgɛn ka kuma caman fɔ ɲɔgɔn ma.
+Mais que votre pouvoir ne soit pas stable jusqu'à ce que vous vous disputiez !
+
+[342090-343850]
+Sabula aw ye ne tɔɔrɔ tiɲɛ de nɔfɛ.
+Car vous m'avez opprimé à cause de la vérité.
+
+[344580-345580]
+A taara.
+Il est parti.
+
+[346930-350350]
+O taatɔ bɛɛ ko ko mɔgɔ kelen min ye Mande jamakulu bali.
+En partant, les gens ont dit la seule personne qui a contredit tout le peuple du Mandé.
+
+[351040-353890]
+Jamakuru balibaga, jamakulu balibaga.
+Celui contredit et empêche tout le monde.
+
+[354640-359370]
+Cɛw kuru ani musow kuru, jeliw ani funɛw, an bɛɛ kɛra kulu kelen ye ka na, e y'an bali.
+Tous les hommes et toutes les femmes, les griots et les hommes réunis, tu nous as tous contredis.
+
+[359580-361010]
+A fɔra o de ma ko Kulubali.
+C'est ce qu'on a appelé Coulibaly.
+
+[362050-363050]
+E bɛka kuma in faamu ?
+Tu comprends ça ?
+
+[363520-369940]
+Kulubali tiɲɛtigi, Lulu soma, Katabali soma, Mande soma fɔlɔ ani Mande soma laban.
+Coulibaly le véridique, Loulou soma, Katabali soma, Mandé soma fôlô ani Mandé soma laban
+
+[369980-370980]
+I b'o kɔrɔ dɔn wa ?
+Tu sais ce que cela signifie ?
+
+[371520-372520]
+Ahan !
+Ahan !
+
+[372630-374300]
+Lu, o ye du de ko ye.
+Lou, ça c'est la maison.
+
+[374750-375750]
+Dɔnikɛla min b'o kɔnɔ.
+Le connaisseur qui est cette maison.
+
+[376660-378340]
+Ko ale b'o dɔnikɛlaw ɲɛ.
+Que lui il dépasse ces connaisseurs.
+
+[378610-384260]
+Karanbali soma, n'i kalannen don, i karamɔgɔ y'ale ye, i tɛ sek'ale kalan tuguni.
+Si tu es instruit, il est ton maître et tu ne peux plus l'enseigner.
+
+[384600-385600]
+Ale b'i ni tiɲɛ cɛ.
+Il est plus véridique que toi.
+
+[387110-391900]
+Mqnde soma fɔlɔ ani Mande soma laban, n'i kɛra dɔnibaa ye k'i ye soma ye, i dɛsɛra ale la.
+Mandé soma fôlô ani Mandé soma laban, si tu es connaisseur ou soma, il t'a tenu en échec.
+
+[392090-396450]
+N'o tɛ i tun b'ale faga dogo la walasa den min fagalen filɛ, o bɛ kisi cogo min na.
+Sinon tu allais le tuer en catimini pour sauver l'enfant qui a été tué.
+
+[397670-400590]
+Ne ye soma laban de fana ye, n bɛ taa, ɲɔgɔnna tɛ na n kɔ yan.
+Je suis aussi le dernier soma, aucun autre comme moi ne viendra ici après moi.
+
+[400730-403940]
+Sabula tiɲɛtigi de bɛ tiɲɛtigi bange.
+Car c'est le véridique qui donne naissance à un véridique.  
+
+[403970-406530]
+A ye nkalon min tigɛ nin ye, aw kɛ man di ka ne ɲɔgɔnna bange ne kɔ yan.
+Le mensonge que vous venez de faire, il vous sera très difficile d'avoir un enfant comme moi.
+
+[407400-408400]
+A' n'a ka tiɲɛ taara.
+Il est parti avec sa vérité.
+
+[409130-412080]
+U taalen kɔfɛ, mɔgɔ jumɛn sigira masayagolo kan ?
+Après lui, qui fut le prochain roi ?
+
+[412370-415680]
+O kɛra Konatew bɛnbakɛ ye, a bɛ f'o ma ko Kabala Sinbo.
+Ce fut l'ancêtre des Konaté qui s'appelle Kabala Simbo.
+
+[416020-418030]
+Ale mɛnna de a ma den sɔrɔ.
+Lui, il a duré sans avoir d'enfant.
+
+[419810-426310]
+Densɔrɔbaliya, n'i mɛnna i ma den sɔrɔ, an n'a fɔ o tigila mɔgɔ ma ko Kona.
+La stérilité, quelqu'un qui vit sans avoir un enfant, on appelle celui-là Kona.
+
+[427750-429710]
+N'i ma den bange, an b'a fɔ i ma ko Kona.
+Si tu n'as pas procréé, on t'appelle Kona.
+
+[430200-431200]
+Maskɛ.
+Le roi.
+
+[431270-432830]
+Kona bɛ cɛ la, kona bɛ muso la.
+Un homme peut être stérile tout comme une femme.
+
+[432860-435880]
+Cɛ dɔw bɛ yen denkisɛ t'u farilaji la.
+Il y a des hommes qui n'ont pas de spermatozoïdes.
+
+[436570-440970]
+Muso dɔw bɛ yen, u farilaji tɛ se cɛ ka denkisɛ kɔrɔ ka taa n'a ye denso la.
+Il y a des femmes qui ne peuvent pas féconder.
+
+[441600-447920]
+Walima muso dɔ bɛ yen, a farilaji ani cɛ dɔ farilaji tɛ se ka ɲɔgɔn dɛmɛ k'a kɛ den ye.
+Ou bien il y a certaines femmes dont l'ovule ne peut pas se former avec les spermatozoïdes de certains hommes pour produire un enfant.
+
+[447990-452890]
+O kɔrɔ tɛ k'u fila si tɛ se ka den wolo dɛ nka u ka denkisɛw tɛ se ka ɲɔgɔn laɲɛnamaya.
+Cela ne veut pas dire que chacun d'eux ne peut pas pas procréer, mais leurs ovules et spermatozoïdes ne sont pas compatibles.
+
+[453130-454600]
+O mɔgɔw bɛ yen.
+Il y a des gens comme ça.
+
+[454630-459160]
+Faama in n'a muso ta nana kɛ ten mɔgɔw ɲɛkɔrɔ, bɛɛ ko denwolobali don.
+C'était le cas de ce roi avec sa femme, tout le monde disait qu'il était stérile.
+
+[459420-460930]
+Masakɛ kona.
+Le roi stérile.
+
+[461822-464380]
+Ɛɛ Bakari Sidiki, i Tarawele.
+Eh, Bakari Sidiki, Traoré.
+
+[465290-468740]
+Ala nana i t'o la, faama muso nana den sɔrɔ.
+Dieu faisant Ses choses, la femme du roi a donné naissance à un enfant.
+
+[470200-472580]
+Aa ! Kabala Sinbo muso ye den sɔrɔ koyi !
+Ah, la femme de Kabala Simbo a eu un enfant !
+
+[473010-474900]
+An nana denkundi kɛnɛ kan.
+Nous sommes venus au baptême.
+
+[475430-478700]
+Mɔgɔw bɛ denkundi la tuma min ko ka den tɔgɔ weele.
+Lors du baptême, on a dit  d'annoncer le nom de l'enfant.
+
+[479490-480490]
+U ye den tɔgɔ weele.
+Ils ont baptisé l'enfant.
+
+[481220-486400]
+Dɔw ko aa fama, anw de tun ko e ma k'i ye kona ye, k'i ye denwolobali ye.
+Certains ont dit : " Ah ! le roi, c'est nous qui avions dit que tu étais stérile."
+
+[486690-489970]
+Jaa e tɛ denwolobali ye, i ye den sɔrɔ [alihamidulila].
+Tu n'es pas stérile, tu as eu un enfant louange à Dieu.
+
+[490370-494630]
+An bɛ tanto bila an dabagamasa ye, masa min y'an bɛɛ da.
+Nous rendons louange à notre Créateur qui nous a tous créés.
+
+[495910-499560]
+An dabagamasa I ni ce, I ye den di an ka masakɛ ma.
+Merci notre Seigneur, Tu as donné un enfant à notre roi.
+
+[499750-501640]
+Mɔgɔ sɔrɔla an ka masakɛ kɔ.
+Notre roi a eu un successeur.
+
+[502550-505810]
+Faama, anw ko k'e ye kona de ye.
+Le roi, nous avions su que tu étais stérile.
+
+[506790-510170]
+Jaa kona tɛ e ye, jaa i ye den bange.
+Alors que tu n'es pas stérile, tu as eu un enfant.
+
+[510970-515120]
+Densɔrɔbali t'i ye, o kɔrɔ de ye ko Kona tɛ i ye.
+Tu n'es pas stérile, cela veut dire kona tè i ye.
+
+[515650-517300]
+Kona, o ye densɔrɔbali de ye.
+Kona, c'est quelqu'un qui est stérile.
+
+[517650-519530]
+Faama, konatɛ e ye.
+Le roi, tu n'es pas stérile.
+
+[520110-524130]
+I Konatɛ, o kɛra a jamu ye ko Konatɛ.
+I konatè, cela est devenu son nom de famille.
+
+[525800-528590]
+O Konatɛ masaw, olu ka kabila fana b'i dan ma anw fɛ.
+Ces rois Konaté ont aussi leur tribu chez nous.
+
+[529240-530850]
+O ta dɔgɔnin.
+Son petit frère.
+
+[530900-538460]
+Masakɛ in fatulen, u ko sisan Kanu Sinbo, Kanuɲɔgɔn Sinbo, Kabala Sinbo ; olu dɔgɔnin de ye Lawale Sinbo ye.
+ Après la mort de ce roi, ils ont dit, Kanou Simbo, Kanouniôgon Simbo, Kabala Simbo, leur petit frère s'appelle Lawale Simbo.
+
+[539080-541840]
+A ko Lawale Sinbo, a ko naamu, a ko na dɛ.
+Il a appelé Lawale Simbo.
+
+[542310-547370]
+I kɔrɔkɛ cɛ saba in, na i k'u cɛn ta i k'i sigi fanga kunna.
+Viens prendre l'héritage de tes trois frères pour t'installer au pouvoir.
+
+[547720-550070]
+I ka jamana mara, i ka jamana k'i sago ye.
+Il faut diriger le pays selon ta volonté.
+
+[551620-553610]
+A y'a kɔrɔkɛ cɛ saba nin cɛn ta.
+Il a pris l'héritage de ses trois frères aînés.
+
+[555000-561270]
+U ye fɛn minnu to u kɔ, n'i sara fɛn minnu b'i kɔ a bɛ d'i denw de ma anw fɛ Mande laada la.
+Chez nous au Mandé, quand tu meurs, tes biens reviennent à tes enfants.
+
+[561690-562690]
+An b'a f'o de ma ko cɛn.
+On appelle ça l'héritage.
+
+[563480-564680]
+I facɛn ta.
+Hériter de ton père.
+
+[566200-569600]
+Cɛntali, u ko sa ko nin kɛra cɛntaden ye.
+Hériter, alors ils ont dit que celui-là a été un enfant qui a hérité.
+
+[571000-576040]
+Cɛn tabaga filɛ nin ye, cɛnw tabaga, o datelinya de nana kɛ ko Keyita.
+Voilà l'héritier, celui qui a pris les héritages (tienw tabaga) ; cela est devenu Keita.
+
+[576370-579410]
+An ka mandekakan na, kɔrɔ tɛ Keyita la.
+Dans notre malinké, Keita n'a pas de sens.
+
+[579890-582660]
+Nka n'i ko ko dɔ ka cɛn ta, kɔrɔ b'o la.
+Mais quand tu dis à quelqu'un de prendre l'héritage (tien ta) cela a un sens.
+
+[582740-585320]
+Nka Keyita, a t'anw ka kumaden yɛrɛ kɔnɔ.
+Mais Keita n'est même pas dans notre dialecte.
+
+[586420-589440]
+Sɛbɛnni de nana n'a ye anw ta tɛ sɛbɛnni min ye.
+C'est venu avec une écriture qui n'est pas pour nous.
+
+[589460-593950]
+O tigilamɔgɔw y'a sɛbɛn u hakilina ka faamuyali n'u ka mɛncogo de la.
+Ces gens-là l'ont écrit selon leur compréhension.
+
+[594630-596650]
+N'o tɛ cɛn ta, o de don.
+Sinon c'est tien ta (prendre l'héritage )
+
+[598300-599490]
+O nana kɛ Keyitaw ye.
+Ceux-ci sont devenus des Keita.
+
+[599820-602620]
+Ɔɔ Laawale Sinbo, o den de ye Masa Belemu ye.
+Alors Lawalé Simbo est le père de Masa Bélémou.
+
+[603070-605100]
+Belemu den Belemu Dana.
+Bélémou est le père de Bélémou Dana.
+
+[605340-608500]
+Belemu Dana den Konfata ka Makan Konatɛ.
+Bélémou Dana est le père de Konfata Ka Makan Konaté.
+
+[608520-610800]
+O Makan Konatɛ de den ye Makan Sunjata ye.
+Ce Makan Konaté est le père de Makan Soundjata.
+
+[613120-624860]
+Nka yan'i ka se Makan Sunjata la ka kuma Makan Sunjata ma, Makan Sunjata fa n'o ye Farakɔrɔ Makan Konatɛ ye, o nana kɛ Mande faama ye tuma min, a waati tun man nɔgɔn dɛ Tarawelekɛ.
+Mais avant d'arriver à Makan Soundjata pour pareler de lui, son père Farakôrô Makan Konaé, quand il est venu au pouvoir, ce moment n'était vraiment pas facile.
+
+[625770-628350]
+O wagati la, gɛlɛyaba de tun bɛ yen.
+En  ce moment il y avait beaucoup de difficultés.
+
+[629370-634680]
+Sabula mandenka ni Farakɔrɔ Makan ma ɲɔgɔn faamu kosɛbɛ.
+Car Farakôrô Makan et les malinkés ne se sont pas bien compris.
+
+[634910-639870]
+N'e kɛra faama ye, ni n'i ka jamanadenw ma ɲɔgɔn faamuya, sɛgɛn b'i la dɛ.
+Si tu deviens roi et que tu ne te comprennes pas avec ton peuple, tu as vraiment des problèmes.
+
+[640280-645020]
+Ka d'a kan faamuyabaliya gɛlɛya belebeleba don sigi la dɛ.
+Car l'incompréhension est un grand problème dans un pays.
+
+[645940-648520]
+E m'a ye ni ɲɔgɔnfaamuyabaliya donna du kɔnɔ du bɛ ci wa ?
+Tu n'as pas remarqué que le manque de compréhension détruit une famille ?
+

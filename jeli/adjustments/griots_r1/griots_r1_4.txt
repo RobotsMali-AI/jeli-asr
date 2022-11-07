@@ -1,0 +1,651 @@
+[450-6860]
+Aaa arabukɛ n bɛ so san iriyali caman ba la k'a  d'i ma, k'a san sanubilen caman ba k'a d'i ma.
+Ah l'homme arabe dit qu'il achètera le cheval, je te donnerai beaucoup de riyal, je te donnerai beaucoup d'or.
+
+[7270-10520]
+Mɔdenni bɛ arabukɛ jaabi, a b'a fɔ bɔn o ye ka so sɔgɔn ye.
+Le petit-fils répond à l'homme arabe que, bon, c'est le prix de mon cheval.
+
+[10980-14560]
+Mɛ e tɛ se ka dɔwɛrɛ da n ka so sɔgɔn kan min ni sosɔgɔn te kelen?
+Mais tu ne peux pas me donner autre chose en dehors du prix de mon cheval?
+
+[15010-18540]
+Arabukɛ ko nɔn-nɔn-nɔn ko feere de do n'anw bɛnna min na  n b'o de d'i man.
+L'homme arabe dit non non non c'est le commerce, je te paie au prix qu'on aura convenu,
+
+[19240-21340]
+Aaa a ko n'o do ne ka so tɛ feere man.
+Ah il dit: si c'est ça, je ne te vend pas mon cheval
+
+[21940-22970]
+A ma sɔn ka so feere.
+Il a refusé de vendre le cheval.
+
+[23140-23610]
+Huun!
+Huun!
+
+[23840-24730]
+A tɛmɛ na.
+Il est parti.
+
+[25020-28660]
+A nana se gurupu fiilanan fana ma olu fana y'a ɲininkan.
+Il est arrivé au niveau du deuxième groupe, eux aussi l'ont demandé.
+
+[29000-32680]
+Aw mɔdenkɛ an denkɛ i bɔra min? a ko n bɔra so, a k'i be taa min? a ko n bɛ so yala.
+Notre petit fils, notre fils, tu viens d'où? il dit: je viens de la maison, il demande: tu vas où? Il dit qu'il promène son cheval.
+
+[33110-34630]
+Aaa k'i nin so in cɛ kaɲi dɛ.
+Ah ton cheval est joli.
+
+[34960-36350]
+Aaa a bɛ feere wa? a k'a bɛ feere.
+C'est à vendre? Oui c'est à vendre.
+
+[36810-38220]
+Ko yali i ka so bɛ feere joli?
+Tu vends ton cheval à combien.
+
+[38270-40070]
+Ayi a ko e yɛrɛ bɛ se k'a san joli.
+Il dit non, toi même tu peux l'acheter à combien?
+
+[40820-44090]
+Aaa a ko sanu caman bɛ n bolo ka d'i man i ka so di yan.
+Ah j'ai beaucoup d'or à te donner pour que tu me donnes le cheval.
+
+[44460-47300]
+Iriyali caman bɛ n bolo k'a d'i ma i ka so di yan.
+J'ai beaucoup de riyal à donner contre le cheval.
+
+[47520-51890]
+Aaa ko tiɲɛn do o ye ne ka so sɔgɔn mɛ dɔwɛrɛ t'e bolo ka di ne man min ni so sɔgɔn tɛ kelen ye?
+Ah c'est vrai c'est le prix de mon cheval mais tu n'as pas d'autre chose à me donner en dehors du prix de mon cheval,
+
+[52450-58030]
+Aaa a ko ayi a ko feere do n mɔdenkɛ n denkɛ feere de do  n'an bɛnna min na n bɛ so d'e man o de la.
+Aaa il dit non mon petit fils, mon fils c'est le commerce j'achète le cheval au prix qu'on aura conclu.
+
+[58250-60060]
+Aaa a ko n'o do a ko ne ka so te feere e ma.
+Aaa il dit si c'est ça, je ne te vends pas mon cheval.
+
+[60640-61610]
+A tɛmɛna.
+Il est parti.
+
+[61910-62550]
+A ma sɔn
+Il n'a pas accepté.
+
+[62790-63610]
+A ma sɔn ka so di.
+Il n'a pas accepté de donner le cheval.
+
+[64320-66370]
+A nana se gurupu sabanan ma.
+Il est arrivé au niveau du troisième groupe.
+
+[66660-68620]
+Alu fana y'a ɲininkan nin ɲininkancogo la.
+Eux aussi l'ont posé les mêmes questions.
+
+[68880-71190]
+Karisa e bɔra min? A ko n bɔra so.
+Monsieur, d'où viens-tu? il dit je viens de la maison.
+
+[71500-74400]
+Aaa a ko i ka ni so cɛ kaɲi dɛ aah a k'a bɛ feere de dɛ.
+Ah tu as ton cheval là est joli, ah il dit que c'est à vendre.
+
+[74730-76510]
+Aaa a k'i bɛ so feere n ma joi?
+Ah il dit: tu vas me vendre le cheval à combien?
+
+[76690-80890]
+A ko tiɲɛn do ne ka so n tɛ n'a feere wari la k'a da f'i ye yali e yɛrɛ bɛ se k'a san joli?
+Il dit c'est vrai, je ne te dirai pas un prix de vente du cheval, toi même tu peux l'acheter à combien?
+
+[81350-86050]
+Aaa a ko ne bɛ se k'a san e fɛ riyal caman na, k'a san e fɛ sanubilen caman na k'a d'i ma.
+Ah il dit: je peux l'acheter avec beaucoup de riyal et beaucoup d'or.
+
+[86500-93290]
+Ɔ a ko tiɲɛn do e y'o caman min fɔ e b'o di ne man o ye ne ka so sɔgɔn ye mɛ dɔwɛrɛ t'e bolo k'a da so sɔgɔn ka min ni so sɔgɔn tɛ kelen ye?
+Il dit c'est vrai tous ceux que tu viens de me promettre c'est le prix de mon cheval mais tu n'as pas d'autre chose à me donner en dehors du prix du cheval?
+
+[93710-98060]
+Aaa a ko n mɔdenkɛ n denkɛ a ko feere de do a ko n'an bɛnna min na ne b'o de d'i man kɛ.
+Ah il dit mon petit-fils, mon fils c'est le commerce je te donne ce qu'on aura convenu.
+
+[98360-100170]
+Aaa ayi a ko n'o do ne ka so tɛ d'i ma.
+Ah, Il dit non! si c'est ça je ne te donne pas mon cheval.
+
+[100220-101830]
+A ma sɔn-a ma sɔn k'a feere.
+Il a refusé de le vendre
+
+[102530-107240]
+A bɔra ye f'a nana dugu ban ka na se dugu so kɔfɛ.
+il a sillonné toute la ville.
+
+[107910-114290]
+Ka na don kugow la-kugow la dɔɔni a nana sɔrɔ cɛkɔrɔba dɔ bɛ yen o b'a la ka bin de kan kuwan, bin.
+Il a commencé à rentrer  dans les brousses petit à petit, il y trouve un vieux  en train de faucher les herbes quoi, les herbes.
+
+[114830-117740]
+O b'a la ka bin kan cɛkɔrɔba kɔrɔlen bonbonsijɛmaba b'a la.
+Un vieux avec des barbe très blanches qui fauchait les herbes.
+
+[119080-121360]
+O b'a la k'o kan, o ye so in dɔrɔrn a jarabila la.
+Il les fauchait dès qu'il a vu ce cheval, il l'a aimé.
+
+[122140-124600]
+Mɛ o cɛkɔrɔba tɛ adamaden ye, jinɛ yɛlɛmanen do.
+Mais ce vieux n'est pas un être humain, c'est un djinn qui s'est transformé.
+
+[125660-128630]
+O k'a ma karisa n mɔdenkɛ n denkɛ a  ko e bɔra min?
+Il lui demande: mon petit-fils, mon fils d'où viens-tu?
+
+[128730-129830]
+Aa a ko ne bɔra so.
+Ah il dit je viens du village.
+
+[129960-131880]
+A k'i bɛ taa min?
+Il dit: où vas-tu?
+
+[132660-134700]
+Aaa a ko e ka nin so in cɛkaɲi dɛ! a k'a bɛ feere.
+Ah il dit :ton cheval là est joli, il dit: c'est à vendre.
+
+[135210-139000]
+Aaa a k'i bɛ so feere n man joli, a ko ayi a ko e yɛrɛ bɛ se ka so san ne fɛjoli?
+Ah il dit: tu me vends le cheval à combien, il dit non toi même tu peux acheter le cheval à combien?
+
+[139370-147740]
+Hum a ko n mɔdenkɛ n denkɛ a k'e bɔra Makan sanutigiw bɛ yen Arabuw la i bɔra mankan waritigiw bɛ yen Arabuw la,
+Hun il dit; mon petit fils, mon fils tu viens de la Mecque, il y a des Arabes riches là-bas
+
+[147930-151000]
+Ne ye i mɔkɛ ɲɔgɔn de ye ne ye faantan de ye fɛn tɛ ne fɛ dɛ!
+Je suis pauvre comme ton grand père, je n'ai rien.
+
+[151320-157600]
+I nana ne sɔrɔ min na o ye bin kan de ye, ne kɔni bɛ se ka binsiri kelen d'i man n'i ya ye e bɛ se ka so di yan.
+Tu m'as trouvé en train de faucher les herbes, je peux quand même te donner un des foins, si tu peux me donner le cheval.
+
+[157960-161310]
+Aaa a k'o tɛ basi ye, a ko binsiri o ye ne ka so sɔgɔn ye.
+Ah il dit ça ce n'est pas un problème, le foin est le prix de mon cheval.
+
+[161800-162880]
+Mɛ>>
+Mais>>
+
+[163010-165260]
+Binsirilen, bin binkannen k'a siri
+Les herbes, les herbes fauchés et rattachés.
+
+[165740-168860]
+A ko ne bɛ se k'o sirikelen dɔrɔn de d'i man i ka so di yan.
+Il dit: Je peux te donner seulement une seule attache de foin contre le cheval.
+
+[169120-171890]
+Aaa a ko bin siri o ye ne ka so sɔgɔn ye.
+Ah il dit: le foin est le prix de mon cheval.
+
+[172040-175930]
+A ko mɛ e tɛ se ka foyi da bin siri kan k'a di ne man min ni sosɔgɔn tɛ kelen ye.
+Il dit mais tu ne peux pas ajouter d'autre chose au foin pour le prix du cheval?
+
+[176340-181330]
+O cɛkɔrɔba ko ne bɛ se ka fɛn wɛrɛ d'i ma min n'i ka sosɔgɔn tɛ kelen ye.
+Ce vieux dit: je peux te donner d'autre chose différente du prix ton cheval.
+
+[181720-183530]
+ A k'i bɛ jumɛn d'a kan?
+Il dit: tu ajoutes quoi?
+
+[184100-186520]
+A ko fɔlɔ n bɛ dugawu d'a kan.
+Il dit premièrement, j'ajoute les bénédictions.
+
+[187130-194150]
+Filanan n bɛ barika d'a kan k'a d'i ma i ka bin siri di n ma i ka so di n ma, a k'o tɛ basi ye.
+Deuxièmement, je te donne en ajoutant la baraka (fortification) pour que tu me donne le cheval, il dit: ce n'est pas un problème.
+
+[194400-197050]
+A ko sisan kɔni n bɛ se ka so feere e ma.
+Il dit maintenant je peux te vendre le cheval.
+
+[197960-205140]
+A ye so juru di cɛkɔrɔba ma, cɛkɔrɔba ye binsiri ta ka dugawu d'a kan ka barika d'a kan k'a di a mɔdenkɛ in ma.
+Il a donné le cheval au vieux, le vieux l'a donné le foin avec bénédiction et baraka.
+
+[206100-210540]
+ A ni so-a ni so cɛkɔrɔba ni so taara, ale ye binsiri d'a kun a donna n'a ye Makan kɔnɔ.
+Le vieux est parti avec le cheval, lui il a pris le foin rentrer à la Mecque.
+
+[211050-212920]
+Ka na a mɔkɛ ka so.
+Il est venu chez son grand-père.
+
+[213620-215170]
+A nanen mɔkɛ ka so>>
+Arrivé chez son grand père>>
+
+[215610-224460]
+Mɔkɛ ye fiɲɛtɔ ye, mɔkɔ musofɔlɔ ye fiɲɛtɔ ye, a denkɛfɔlɔ o ye fiɲɛtɔ ye, denkɛfɔlɔ muso fana ye fiɲɛtɔ ye.
+Le grand père est aveugle, la première femme du grand père est aveugle, son premier garçon est aveugle, la première femme du premier garçon est aussi aveugle.
+
+[224930-228260]
+Mɔdennin dɔrɔn fana de ye ɲɛtigi ye, binsiri b'ale de fana bolo ka don so kɔnɔ.
+Seul le petit fils n'était pas aveugle, c'est lui aussi qui a le foin.
+
+[228870-229930]
+Donke a nana.
+Donc il est revenu.
+
+[230280-233960]
+A ko a mɔkɛ ma a ko a ni ɲakuma mɔkɔ y'a laminɛ eee a ko n den a ko sugu diyara?
+Il dit à son grand-père: salut, le grand-père l'a répondu tout en disant euh mon fils tu as fait un bon marché?
+
+[234110-236400]
+Aaa a ko sugu diyara a ko nka ne ma so feere wari la dɛ.
+Ah il dit que le marché s'est bien passé mais je n'ai pas vendu le cheval contre une somme d'argent.
+
+[237220-238530]
+A k'i ma feere wari la? A ko ayi.
+Il dit: tu ne l'as pas vendu contre une somme d'argent? Il dit non.
+
+[239000-240400]
+A ko e ye so feere jumɛn na?
+Il dit: tu as vendu le cheval contre quoi?
+
+[240550-242760]
+A ko ne ye so falen binsiri de la.
+Il dit: j'ai troqué le cheval contre une attache d'herbes.
+
+[243080-251670]
+N taara cɛkɛrɔba dɔ sɔrɔ kungo kɔnɔ a ne y'a-ale ye ne mɔkɛ ɲɔgɔn de ye se kɔni t'ale nka binsiri b'a bolo mɛ a bɛ so in fɛ.
+J'ai trouvé un vieux dans les broussailles qui a aimé le cheval, il a dit qu'il est comme mon grand père, il n'a pas de moyen mais il a des foins.
+
+[251870-254430]
+A bɛ se ka binsiri kelen di n ma ka n ka so minɛ.
+Il dit qu'il peut me donner une attache d'herbes contre mon cheval.
+
+[254870-260510]
+Bɔn ne k'a ma binsiri ye n ka so sɔgɔn mɛ dɔwɛrɛ t'i bolo ka da binsiri ka min ni n ka so sɔgɔn tɛ kelen ye?
+Bon je lui dit que le foins est le prix de mon cheval, mais tu n'as pas d'autre chose à me donner à part le prix du cheval?
+
+[260690-264570]
+Cɛkɔrɔba in ko ne ma, o ko dɔwɛrɛ bɛ n bolo ka d'i ma min ni so sɔgɔn tɛ kelen ye.
+Ce vieux m'a dit qu'il a une autre chose à me donner en plus du prix du cheval.
+
+[264690-268110]
+A k'a bɛ dugawu d'a kan ka di yan a bɛ barika d'a kan ka di yan.
+Il dit qu'il va l'accompagner avec la bénédiction et le baraka.
+
+[268240-271380]
+Ɔ a y'o fana da binsiri kan ka di ne ma ne fana ye binsiri minɛ.
+Donc il a fait ça sur le foin et me l'a donné, j'ai pris aussi le foin.
+
+[271470-275610]
+Ɔ mɔkɛ k'o la a ko yarabi Ala ka dugawu ni barika don an bɛɛ la.
+Le grand-père a donc dit : que Dieu nous bénisse tous!
+
+[275820-277390]
+Taa bila so kɔnɔ, se bɛ Ala de ye.
+Va le déposer dans la maison, c'est Dieu qui est fort.
+
+[278530-280900]
+Donke a fana ye binsiri ta a taara binsiri bila so kɔnɔ.
+Donc il a pris le foin et l'a déposé dans la chambre.
+
+[282060-285000]
+Wuladani nana se, cɛkɔrɔba don nɛnɛ y'a minɛ.
+Vers le petit soir, le vieux a eu froid.
+
+[285730-289580]
+Dɔgɔ tɛ bolola, saribɔn ko kuma tɛ ye binsiri de bɛ ye.
+Il n'avait ni de bois de chauffe, ni charbon à part le foin.
+
+[289890-292690]
+Ɔ a ko n mɔden a ko i t'i ka binsiri dɔɔni fɔri ka na,
+Il dit mon petit fils apportes un peu de foins.
+
+[292940-297340]
+I ka babɛlɛ fila ci ɲɔɔn na i ka tasuma k'a la puruke n ka n ja pasike nɛnɛ b'a la ka n minɛ.
+Il faut l'allumer pour que je me chauffe parce que je commence à avoir froid.
+
+[297550-298480]
+Aaa a k'o tɛ basi ye.
+Ah il dit il n'y a pas de problème.
+
+[298620-301990]
+A taara binsiri dɔ cɛ ka n'o don a mɔkɛ sen kɔrɔ.
+Il est allé entasser un  peu de foin aux côtés du vieux.
+
+[302230-306480]
+Ka babɛlɛ caro k'a fila ci ɲɔgɔn na tasuma bɔr'a la dɔrɔn a ya bila binsiri la.
+Il a allumé le feu à travers deux pierres provenant de la mer.
+
+[306590-307330]
+Binsiri manana.
+Le foin a pris feu.
+
+[307540-310740]
+A mananen, au sisi de yɛlɛla cɛkɔba ɲɛfɛ dɔrɔn a ɲɛ yɛlɛla.
+Une fois allumé, grâce à cette fumée, le vieux a recouvert la vision.
+
+[312170-315160]
+Cɛkɔrɔba kulela, a ko a muso n'a mɔdenw ma, a ko ne ɲɛ yɛlɛla koyi.
+Le vieux a crié, il a dit à sa femme et à ses petits fils qu'il a recouvrer la vision.
+
+[315270-318000]
+N ɲɛ yɛlɛla a ye na n ɲɛ yɛlɛla binsiri sisi yɛlɛla ne ɲɛfɛ n ɲɛ yɛlɛla
+Venez, j'ai recouvré la vision grâce à la fumée du foin.
+
+[318220-323780]
+O don tilema cɛkɔrɔba musofɔlɔ ɲɛ t'a fɛ o nana sig'a kunna sisi yɛlɛla o ɲɛ fɛ dɔrɔn o ɲɛ yɛlɛla.
+Ce jour là la première femme du vieux était frappé de cécité, elle est venu s'asseoir, la fumée a guéri sa cécité.
+
+[324540-330180]
+Cɛkɔrɔba denkɛfɔlɔ ɲɛ t'a fɛ, a nana binsiri n kɔrɔ a sisi yɛlɛla ɲɛ fɛ dɔrɔn a ɲɛ yɛlɛla.
+Le premier garçon du vieux était aveugle, il est venu à côté du foin, il a recouvré la vision.
+
+[330230-330940]
+ɲɛ yɛlɛla;
+Les yeux sont guéris.
+
+[331020-336900]
+Denkɛfɔlɔ o muso o ye  fiɲɛtɔ ye yɛ t'a fɛ o nan'i sig'a kunna sisi yɛlɛ o fana ɲɛ fɛ o ɲɛ yɛlɛla.
+La première femme du premier garçon du vieux était aveugle, elle est venu s'asseoir, elle a recouvré aussi la vision.
+
+[336950-337500]
+O ye kabako ye.
+C'est étonnant.
+
+[337520-340640]
+Donke du bɛɛ ye ɲɛ sɔrɔ nin cogo de la.
+Donc c'est comme ça que toute la famille est guérie de leur cécité.
+
+[340790-343540]
+Mun nana n'a ye? Dugawu ani barika.
+Cela est dû à quoi? La bénédiction et la baraka.
+
+[345330-349840]
+Adamadenw kana tulon kɛ dugawu ɲinin ni barika ɲinin na masaw fɛ.
+Les gens ne doivent pas se décourager pour la recherche de la bénédiction et la baraka à leurs parents.
+
+[351000-353090]
+Dugawu ni barika de bɛ se fɛn caman na.
+Ce sont la bénédiction et la baraka qui peuvent tout.
+
+[353210-357200]
+Donc yarabi an b'a ɲinin Ala fɛ, Ala ka dugawu ni barika Ala k''o kilif'an na.
+Donc que Dieu nous bénisse et nous donne la baraka.
+
+[357260-358090]
+Amiina yarabi
+Incompréhensible
+
+[358140-359060]
+Nin fana y'o ye.
+C'était ça.
+
+[359130-360280]
+Aaa ni diyara.
+Ah ça c'est bon.
+
+[360320-360650]
+Hann
+Hann
+
+[360710-361980]
+Ni fana famu na, wala sesa.
+Cela aussi est compris, voilà c'est ça.
+
+[362100-366610]
+Wala yarɔ ni fana bɛ maa-maa ɲɛnajɛ dɛ? ɔhɔɔ wala donke a bɛ ni cogo de la.
+Voilà cela aussi nous distrait n'est ce pas? Voilà donc c'est comme ça.
+
+[366960-367960]
+Donke alimudulila
+Donc
+
+[368690-372840]
+O y'o yɔrɔ ye donc sisan n bɛna kuma tiɲɛ tilali ko kan.
+C'était ça, donc maintenant je parlerai de la façon dont on partage le bien.
+
+[374140-377330]
+Tiɲɛ-tiɲɛ tilan cogo, wala.
+La manière de partager le bien, voilà.
+
+[377750-383790]
+Cɛkɔrɔba dɔ fana tun bɛ ye ale fana ɲamɛkɛkelen dɔrɔn de tun b'ale bolo ɲamɛkɛkelen mais denkɛ saba de tun b'a bolo.
+Il y avait un vieux qui n'avait qu'un seul chameau mais il avait trois garçons.
+
+[384650-388840]
+Bɔn Ala bana nana minɛ a denw wele k'a fɔ.
+Bon par la volonté Dieu il a atteint la maladie, il a appelé ses enfants pour les informer.
+
+[389420-398360]
+Fɛn tɛ n kɔni ye faantan ye mɛ ɲamɛkɛkelen  de bɛ n bolo mɛ ni n sara, n bɛ bana min na n b'a dɔn n tɛ bɔ a la, mɛ n'a ma ɲɛ n taara ɲamɛw a kan'a feere.
+Je n'ai rien, je suis quand même pauvre mais, j'ai un seul chameau, si je meurs, il ne faut pas vendre ce chameau.
+
+[398720-401550]
+A kan'a nin maa na, a kan'a tɔnɔmada.
+Ne le donnez pas à quelqu'un, ne le tuez pas.
+
+[402430-404240]
+Ɲamɛw ka to a bolo tiɲɛ ye.
+Gardez le chameau comme un bien.
+
+[405470-407190]
+A ka miir'a la kɔmi ne bɛ so kɔnɔ.
+Pensez à ce chameau comme vous pensez à moi.
+
+[408180-415020]
+Bɔn Ala nan'a kɛ bana nana cɛkɔrɔba gosi k'a da, bana in gɛlɛyara f'a nana fatu ka ɲamɛ in to .
+Bon par la volonté de Dieu la maladie du vieux s'est aggravée, il est décédé laissant derrière lui le chameau.
+
+[415260-416950]
+Mɛ ba bɛ so kɔnɔ yen.
+Mais la maman est dans la maison là-bas.
+
+[419000-424730]
+O ɲamɛkɛkelen min bɛ so kɔnɔ apɛrɛ denw nana o ma ɲ'a la kuma nana caya.
+Après que les enfants ne se sont pas entendus sur la situation de ce chameau, il y a eu des échauffourées.
+
+[424930-429650]
+Denlabanni ko ko fo ka ɲamɛn feere u k'a wari tilan.
+Le benjamin à demander de vendre obligatoirement le chameau et partager l'argent.
+
+[429790-430980]
+Pasike fa tiɲɛ de do.
+Parce que c'est un bien parental.
+
+[431370-434510]
+Bɔn sariya dun ya jira n'aw ma ɲɛ tiɲɛ la dɔrɔn a bɛ tilan de.
+Bon selon la charia, s'il n'y a pas d'accord concernant le bien, il doit être partagé.
+
+[436170-440260]
+U yɛrɛdama ye ɲɔgɔn sama-sama nɔfɛ u ma bɛn a la.
+Ils se sont disputés là-dessus, il n'y a pas eu un accord.
+
+[440440-446620]
+Mun nana kɛ sisan ? ko kɔmi an tɛ dɔɔnibaga minnu bɛ yen n'olu ye dɔɔnibaga an ka se olu ma ɲamɛ ka tilan.
+Que s'est-il passé maintenant ? Ils ont décidé d'aller voir les spécialistes de partage des bien pour pouvoir partager le chameau.
+
+[447590-451540]
+Ala y'a kɛ u nana se gesedala dɔ ma o b'a la ka gese da.
+Ils sont partis voir un tisserand.
+
+[451620-452290]
+ Unhun
+Oui!
+
+[452750-459410]
+U ye kuma caman-caman de fɔ u nana gesedala y'u ɲininkan a ko denkɛ n mɔdenkɛ a ko a kɛra cogodi aw bɛ ka ɲɔgɔn sama-sama aw bɛ ka ɲɔgɔn sɔsɔ.
+Ils ont dit beaucoup de choses, ils sont venus le tisserand les a demandés: il dit mon fils, mon petit fils vous vous contredisez il y a quoi?
+
+[459600-467580]
+Yali mun bɛ ye aaa ko anw fa sara, a ma sa ka sanu to an bolo, a ma sa ka wari to an bolo, a sa ka misi to a sara ka ɲamɛkɛkelen de to.
+Qu'est ce qu'il y a? Ah notre père est décédé, il n'a laissé ni l'or, ni l'argent, ni boeuf; il nous a laissé un seul chameau.
+
+[467760-471330]
+Mɛ a ko n'a sara ɲamɛ kana ffeere a kana ni maana a kan tɔnɔmada.
+Mais il dit qu'après sa mort de ne, ni vendre, ni donner à quelqu'un, ni tuer le chameau.
+
+[471720-475210]
+Bɔn ne ni n dɔgɔninw ma se ka ɲɛ a la, o y'a jira ko fo ɲamɛ ka tilan.
+Bon mes jeunes frères et moi ne nous sommes pas entendus, ils demandent de partager le chameau.
+
+[475530-482020]
+Donke an ba fana ko an sariya mɔgɔw ɲini n'an sera k'a tilan mɛ fa kɔni ye min fɔ a ka d'ale de ye a ka kɛ o ye o de tun ka d'a ye.
+Donc notre maman nous a demandé d'aller voir des hommes de droit pour pouvoir partager le chameau mais ce que le père avait dit, elle veut qu'on respecte cela.
+
+[482400-486010]
+Mɛ n'a dɛsɛr'a denw na a bɛ denw to ye o ka taa lajɛ n'a bɛ cogo min.
+Mais si elle n'arrive pas à convaincre ses enfants, elle les laisse le choix de trouver une à l'amiable.
+
+[487310-490050]
+An nana ka na halinaɲuma ɲin'i fɛ n'a y'a sɔrɔ a bɛ kɛ cogo min.
+Nous sommes venus prendre de bons conseil auprès de toi  concernant le partage du chameau.
+
+[490310-494590]
+Eee e ko k'o tɛ basi ye ko ɲamɛ tilan mago k'a ba faga dɔrɔn k'a kɛ tɔnɔ ye.
+Eh il dit que c'est facile de partager un chameau, qu'il faut tuer et partager sa viande.
+
+[495090-498370]
+N'a y'a kɛ tɔnɔ ye bɛ b'i-bɛ b'i ta.
+Si vous le tuer chacun va prendre sa part.
+
+[498580-500340]
+Donke n'o kɛra a bɛ bɛn kola.
+Donc si vous faites cela, vous allez vous entendre.
+
+[500510-502210]
+Cururuu denkɛfɔlɔ ko a ko e ta ɲɛdɔ.
+Le premier garçon dit que tu n'en sais pas.
+
+[502720-503490]
+U bɔra yen.
+Ils ont quitté là-bàs.
+
+[504750-513160]
+U nana se dugutigi ma k'a fɔ dugu tigi ayiwa an nana an ye denmisɛnninw de ye, an fa karisa a tɛ balola a faturura mɛ sann'a ka fatu a ye kalifa dɔ kɛ.
+Ils sont partis voir le chef de village pour dire bon nous sommes des enfants, notre père ne vit plus il est décédé, mais il nous a confiés quelque chose.
+
+[513300-517760]
+O kalifa ye jumɛn ye a ma sa ka sanu to a ma sa wari to asa ka ɲamɛkɛkelen dɔrɔn de to du kɔnɔ.
+Il est décédé sans laisser ni or ni argent à part un seul chameau.
+
+[517970-522210]
+O ɲamɛ a ko n'ale sara fana an kan'a ɲamɛ feere an kan'a ni maana a kan'a tɔnɔmada.
+Il a dit que s'il meurt, de ne ni vendre, ni donner à quelqu'un et ni tuer le chameau.
+
+[522380-523930]
+Bɔn an ma se ka bɛn a la.
+Bon, nous ne nous sommes pas entendu sur la situation.
+
+[524220-529520]
+Donke an nana n'a ya sɔrɔ min bɛ se ka kɛ puruke ne ni n badenw an ka sinji kana fara.
+Nous sommes venus pour voir ce qui peut être fait pour consolider notre fraternité.
+
+[530320-537750]
+A ko k'o tɛ basi ye eee ko nin tilan man go ko ɲamɛ do a tɛ se ka di maa kelen ma ka kelen to, n'a ma bɛn a la a bɛ ɲamɛ feere dɔrɔn a b'a wari tilan.
+Il dit qu'il n'y a pas de problème, euh c'est facile de le partager, c'est un chameau on ne peut pas le donner à une seule personne en laissant les autres, s'il n'ya d'accord entre vous il faut vendre seulement le chameau et partager l'argent.
+
+[538020-541520]
+Aaa kɔrɔkɛ ko a ma feere fana o yɔrɔ n man di n ye ne t'o fɛ a la.
+Ah l'ainé l'a dit qu'il ne veut pas le vendre
+
+[541790-542910]
+E t'a tilacogo dɔn.
+Tu ne sais pas comment le partager.
+
+[544030-544810]
+U bɔra yen.
+Ils ont quitté là-bas.
+
+[545180-547200]
+Donke o nana se misiri de kɔnɔ sisan.
+Donc ils sont partis maintenant dans la mosquée.
+
+[547730-550100]
+U nana sɔrɔ alimami b'a la ka mɔgɔw laseli.
+L'imam priait avec les gens.
+
+[550300-556750]
+O ye alimami kɔnɔ fo alimami tilala alimami tilalen, sisan jama bɛɛ farala ɲɔgɔn kan ka n'o mɔgɔ saba sɔrɔ misiri dala.
+Ils ont attendu l'imam d'abord, après avoir terminé, maintenant les gens se sont regroupés autour des trois personnes à la porte de la mosquée.
+
+[556960-558490]
+O ni alimami bɛ kuma na.
+Ils discutaient avec l'imam.
+
+[558890-562920]
+O ko alimami ma ko anw bɛ kɛlɛ de la an balimadama cɛ saba fakelen bakelen.
+Ils ont dit à l'imam qu'il y une mésentente entre trois frères de même père et de même mère.  
+
+[563090-569390]
+An fa bɛ sa don min a sara ka ɲamɛkɛkelen de to, sanu tɛ ye wari tɛ ye ɲamɛkɛkelen dɔrɔn de b'an bolo so in kɔnɔ.
+Le jour où notre père mourait, il n'a laissé ni or, ni argent sauf un chameau, nous n'avons qu'un seul chameau à la maison.
+
+[569960-574320]
+Mɛ a ko n'a sara an kana ɲamɛ in feere an kan'a nin maa na an kan'a tɔnɔmada.
+Mais il dit que s'il meurt, qu'il ne faut ni vendre, ni donner et ni tuer le chameau.
+
+[574410-576420]
+A tɛ se ka di kelen ma fana ka kelen.
+Il ne peut être aussi donné à une seule personne au détriment des autres.
+
+[576760-579160]
+Donke mɛ anw kɔni man ɲ'a la sariya ya jira a ka tila.
+Donc, mais nous ne nous sommes pas entendus sur la situation, selon la charia il doit être partagé.
+
+[579560-582320]
+Donke an nana n'a ya sɔrɔ ɲamɛ bɛ se ka tila tilacogo min na.
+Donc nous sommes venus pour savoir comment faire le partage du chameau.
+
+[582580-585010]
+Aaa o ko k'o tɛ basi ye k'o ka nɔgɔ n'a bɛɛ ye.
+Ah il dit que ce n'est pas un problème, c'est très facile.
+
+[585340-589310]
+Ko a b'a faga dɔrɔn k'a tɔnɔmada bɛɛ b'i ta ta.
+Il faut le tuer seulement et partager, tout le monde prend sa part.
+
+[589680-590890]
+Aaa a ko k'e t'a don.
+Ah il dit: tu ne le sais.
+
+[591110-593290]
+O yɔrɔ de la a ye Ala wele.
+C'est là-bas qu'il a invoqué Dieu.
+
+[593880-595410]
+A ye masaw ka masaw wele.
+Il a invoqué le roi des rois.
+
+[596340-597160]
+A fɔra masakɛ min ma>>
+Le qui est désigné>>
+
+[597200-602000]
+Kuluhu Alahu ahadiu Alahu samadu lamiyalidi walamiya kun lahu kufu wani ahadi
+Incompréhensible
+
+[602490-603640]
+Denkɛfɔlɔ kuma kan filɛ.
+Voilà le propos du premier garçon

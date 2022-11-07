@@ -1,0 +1,687 @@
+[80-2350]
+Dugujɛra, nhun
+Au matin
+
+[2350-3350]
+A y'a ka wuluni fɔɔni
+Il a détaché son petit chien
+
+[3350-3800]
+nhun 
+nhun
+
+[3850-7320]
+U [jeunesse] cɛ bakelen, n'o ye dugu kamalenhuntigiw ye
+ils étaient mille leaders des jeunes 
+
+[7390-9490]
+U ye ɲɔgɔn sɔrɔ Masakɛ ka bulon kɔnɔ
+ils se sont retrouvé dans le vestibule du roi
+
+[9560-10840]
+Dɔw n'u sunguruw taara
+il y en ont qui sont allés avec leurs copines
+
+[10890-12300]
+Dɔw n'u musow taara 
+il y en ont qui sont allés avec leurs femmes
+
+[12330-13620]
+Dɔw n'u buranmusow jɔɔlen don 
+il y en ont qui sont arrêtés avec leurs belle-mères
+
+[13730-17640]
+Dɔw yɛrɛw n'u dɔgɔniw jɔlen don, ko ye ulu nin ye, nhun 
+il y en ont même qui sont arrêtés avec leurs petit_frères comme leurs amis fidèles
+
+[19700-21400]
+Jaama bɛɛ ɲininkara
+on a demandé à tout le monde
+
+[21680-23740]
+fo kana [tour] se Mahamudu jɔlen ma 
+jusqu'au tour de Mamoudou
+
+[23790-24990]
+A kunkolo b'a kandala
+la tête sur le cou 
+
+[25110-27610]
+[turu] sera a ma, a ka wuluni b'a bolo juuru la
+à son tour, il avait son chien avec sa corde
+
+[27730-30420]
+A ma kuma, fo masakɛ ka ɲininkali tɛnkunen a la
+il n'a pas parlé jusqu'à la demande du roi
+
+[30550-33000]
+u ye ɲininkali tɛɛnku a la 
+ils l'ont demandé
+
+[33050-35410]
+Masakɛ ko a ma, a ko Mahamudu. nhun
+Le roi lui a dit : Mamoudou
+
+[35470-36830]
+A ko nanmu Arazali
+il a dit : oui Arazali
+
+[37420-40880]
+A ko ne ye weele da, nko sini bɛɛ kana nin a nin ye 
+il lui a dit: j'ai appelé à ce que tout le monde vienne avec son fidèle
+
+[41440-45380]
+A ko bɛɛ y'a nin jiira, a ko e dun e nin bɛ minin
+il lui a dit: tout le monde a montré son compagnon fidèle et pour toi, où est ton compagnon fidèle
+
+[45660-46930]
+A ko Arazali, A ko naamu
+il lui a dit: roi, il a répondu oui
+
+[47030-48370]
+A ko ne nin filɛ
+il lui a dit: voici mon compagnon fidèle
+
+[48450-50460]
+A y'a ka wulunin ta, a y'a kɔrɔta
+il a pris son chien et l'a soulevé
+
+[50620-55320]
+Masakɛ ye wulunin filɛ, Masakɛ yɛlɛla
+Le roi a regardé le petit chien puis s'est lancé dans le rire
+
+[55990-59970]
+A ko jaama, a ko aw ɲɛtɛ Mamuru la 
+il a questionné les gens: ne voyez-vous pas Mahamadou
+
+[60470-65490]
+ A ko ne ye weele da, kamalenkuntigi cɛ bakelen, nko bɛɛ kana n'i nin ye
+je fais appel à mille leaders des jeunes que tous viennent avec leurs compagnons fidèles
+
+[65570-66840]
+bɛɛ nanan ni nin ye
+tous sont venus avec leurs compagnons fidèles
+
+[66890-70670]
+Aw ma Mamudu ye a taara wulu de ta kana na ye ne ka maasaya bulon kɔnɔ
+n'avez-vous pas vu Mamoudou se présente avec un chien dans mon vestibule royal 
+
+[70820-73810]
+A tɛ Mamudu laajɛ n'o ya sɔrɔ a ma gulɔ min 
+vérifiez bien si Mamoudou n'a pas bu de l'alcool
+
+[73890-76170]
+A ye Mamudu laajɛ n'o ya sɔrɔ a kunkolo ma tiɲɛ
+vérifiez bien si Mamoudou n'a pas un problème à sa tête
+
+[76380-78380]
+A ye Mamudu lajɛ n'a hakili ma wiili
+vérifiez bien s'il na pas perdu sa tête 
+
+[78700-82140]
+A ye Mamudu laajɛ n'o ya sɔrɔ baana t'a la 
+vérifiez bien si Mamoudou n'est pas malade
+
+[82190-86300]
+Ko mɔw kana n'u ninw ye e be wulu n'a juuru de ta kana na ye ne ka maasaya bulon kɔnɔ
+on a dit à ce que les gens viennent avec leurs compagnons fideles, toi, tu amènes le chien et sa corde dans mon vestibule royal
+
+[86540-88860]
+Mamudu i tɛgɛra ne la dɛ
+Mamoudou  tu m'as sous-estimé 
+
+[89330-93100]
+Mamudu, haa Mamudu ni kɛra ɲɛdon dan ye 
+vraiment Mamoudou tu m'as minoré
+
+[93470-95690]
+Mamudu ni kɛra faasa dan ye
+Mamoudou vraiment tu m'as minimisé
+
+[95820-99470]
+Haa Mamudu, i ye nin dabɔ ni kama dɛ
+Haa Mamoudou tu as fait exprès cela
+
+[99560-102390]
+Kulibali, marahaba
+Coulibaly, oui
+
+[102550-104430]
+A ko Arazali, nhun 
+il a dit: Arazali
+
+[104530-106320]
+A ko n bɛ kuma ɲinin i fɛ
+il a dit au roi: je vous demande la parole
+
+[106360-109550]
+N'i sɔnɔ ka kuma diɲan , nbɛ ndatigɛ
+si vous acceptez de me donner la parole, je m'expliquerais
+
+[110590-114450]
+Masakɛ o tuman, Mamudu an b'i lamɛ i dantigɛ
+le roi lui a dit: donc nous t'écoutons Mamoudou, explique-toi
+
+[114580-116530]
+ A ko masakɛ, 
+il a dit: au roi
+
+[116720-120340]
+A ko i ɲɛbe ni wulunin na, a ko nin de ye ne nin 
+il lui a dit: voyez-vous ce petit chien là, c'est lui mon compagnon fidèle
+
+[120550-127400]
+A ko ma mana i ka wulu mara  cogo  wo cogo, a ko i ka wulu tɛ i janfa dɛ
+il lui a dit: quel qu'en soit la manière d'élever ton chien, il ne te trahira pas
+
+[127490-128730]
+A ko ye ciɲɛ ye
+ça c'est vrai disait le roi
+
+[128800-129790]
+A ko masakɛ
+il a dit: le roi
+
+[129990-134520]
+A ko ni ma ye i ka wulu ta, ka ta kunko fɛ, nhun
+il a dit: si tu pars vers la forêt avec ton chien
+
+[134790-140410]
+Ni fɛlɛ  y'i sɔrɔ, ni soboli y'i sɔrɔ, a ko i ka wulunin fɔlɔ de be sa
+s'il t'arrive un malheur, c'est ton chien qui mourra en premier
+
+[140580-144380]
+Masakɛ  y'i kunkolo munumunu, a ko ye ciɲen ye
+le roi a remué sa tête et dit: ça c'est vrai
+
+[144700-147370]
+A ko masakɛ
+il a dit: le roi
+
+[147660-151110]
+A ko ni taara tunka fɛ, ni ye san tan kɛ
+si tu fais dix ans en aventure,
+
+[151620-152770]
+N'i seginnan kana i ka so
+si tu reviens chez toi
+
+[152880-156490]
+A ko ma fɔlɔfɔlɔ min b'i [reconu] na b'i dɔn, a ko y'i ka wulu ye dɛ
+c'est ton chien qui te reconnaîtras en premier
+
+[156700-160950]
+Ni donna i ka dafɛ dɔrɔn, a bɛ grin ka da i kan, a b'i sumu sumu
+quand tu franchis le seuil de ta porte seulement, il accourut vers toi, il te renifle
+
+[161520-167390]
+A b'i  sumu sumu a bɛ toka  ku cɛcɛ i la,  a bɛ toka ku cɛcɛ i la, a b'a ku cɛcɛ i la, fo kata t'i se i sigiyɔrɔla 
+il te renifle, il te caresse avec sa queue, il te caresse jusqu'à ce que tu t'asseye
+
+[168400-171670]
+Masakɛ ko, a ko Mamudu, a ko ni fana ye tiɲɛ ye 
+le roi lui a dit: Mamoudou, ça aussi c'est vrai 
+
+[172800-173530]
+A ko masakɛ
+il a dit: le roi
+
+[175310-182900]
+A ko ma ka wulu, a k'a b'i [gradé] kalo tile mougan ni tan, a b'i [gardé] a ko sara t'i na cɛ
+il lui a dit: ton chien te garde pendant les trentes jours du mois, il te garde pas de salaire entre vous
+
+[183090-184260]
+A ko ye tiɲɛ
+c'est vrai dit-t-il 
+
+[184350-192310]
+Ni wulunin  y'a kunda kokola a bɛ grin, ni jakuma y'a kunda kokola a bɛ grin, ni ma  suure donan siga be ma min na, i ka wulu  fɔlɔ de be grin
+si un chien, un chat ou même une personne  inconnue tentent d'accéder à votre maison, il réagit rapidement
+
+[192580-193880]
+A ko ye  tiɲɛ ye
+c'est vrai dit-t-il 
+
+[194290-197390]
+ka bo bɛɛ k'i ye , a ko yala sara b'i nacɛ wa
+il te fait tout, est-ce qu'il ya une récompense entre vous
+
+[197940-198930]
+A ko sara t'i nacɛ
+pas de récompense entre vous
+
+[199680-205260]
+A ko ni ye lɔgɔma kelen min d'a ma, o ya fa sawa, o ma fa sawa, a b'i waasa don ola
+le peu que tu le donnes à manger, qu'il le suffit ou pas, il se contente de ça
+
+[205650-208840]
+N'a yo dun, a bɛ t'i da dindin kɛrɛfɛ, a bɛ Ala minɛ
+s'il mange ça, il ira s'allonger aux bords du mur et s'en remet à Dieu
+
+[209640-211310]
+kulibali marahaba
+Coulibaly, marahaba
+
+[212700-215800]
+A ko masakɛ, a ko i ye hadamaden bila k'i [gardé]
+il a dit: roi, si tu fais d'un homme ton gardien
+
+[217240-227810]
+N'a ye kalo kelen kɛ, ka kalo fila kɛ, i ma ka sara d'a ma, kalo sabanan a na fiye, ɛlɛtaani, [patron] an ka yafa ɲɔgɔn ma, ni ye kalo fila ye  ne ka sara sɔrɔ ne bɛ sira ɲinin
+si vous faites un mois, deux mois sans salaire, le troisième mois il mettra fin à votre contrat
+
+[228290-230500]
+Ni ye hadama bila k'i [gardé] ni ma sara a bɛ taa dɛ
+si tu engages un homme comme ton gardien, sans salaire, il se cherche
+
+[231690-234180]
+Ni ye wulu bila k'i [gardé] n'i ma wulu sara, wulu t'i taa
+mais si tu engages un chien même sans salaire, il restera
+
+[235410-236090]
+Ako masakɛ
+il a dit: mon roi
+
+[236560-237190]
+A ko naamu
+il a dit : oui
+
+[237340-240410]
+A ko hɔrɔnya wulowula bɛ wulu la, ko tɛ bani hadamaden la
+il lui a dit: le chien possède sept comportements d'honnêteté que l'homme ne possède
+
+[241880-243600]
+A ko nka Ala y'a dan ka kɛ wulu ye
+mais Dieu a fait de lui un chien
+
+[244130-245310]
+A ko ni de ye ne nin ye
+il a dit que c'est lui son compagnon fidèle
+
+[247330-248360]
+Masakɛ kunkolo fununa
+le roi est devenu rouge
+
+[248510-250010]
+A ye kaba kaba kumaw f'a ye
+il lui a dit des propos mystérieux
+
+[251310-254450]
+Masakɛ ko sisan, nhun , a ko mamudu
+le roi a dit: maintenant Mamoudou
+
+[261000-264970]
+A ko sisan, n sɔmina e fɛ Mamudu
+maintenant, j'ai su à travers toi Mamoudou
+
+[265430-267360]
+N sigara e la Mamudu
+j'ai des soupçons sur toi, Mamoudou
+
+[267930-268880]
+Nb'i faa
+je vais te tuer
+
+[271140-274400]
+Masakɛ ko k'a bɛ Mamudu faa, k'a sigara Mamudu la
+le roi a dit: qu'il va tuer Mamoudou car il ne le fait plus confiance
+
+[276480-277540]
+Mamudu ko masakɛ ma
+Mamadou  s'est adressé au roi
+
+[278440-279540]
+A ko Arazali
+il a dit Arazali
+
+[280800-282430]
+A ko dugu wɛrɛ tɛ lahara kɔfɛ
+la vie s'arrête au monde ici
+
+[284570-286130]
+Ni ye san bakelen balo
+si tu atteins mille ans 
+
+[286370-287480]
+A k'i bɛ sa
+tu vas mourir
+
+[287700-289010]
+A ko  ye tiɲɛ ye
+c'est vrai disait le roi
+
+[289400-291060]
+A ko ni ye san bafila balo
+il a dit: si tu atteins deux milles ans
+
+[291610-292540]
+I b'i sa
+tu mourras
+
+[292750-293640]
+A ko ye tiɲɛ ye
+c'est vrai, disait le roi
+
+[294910-297650]
+A ko n ma siran saya ɲɛ dɛ, n ma taamaki sayala
+il a dit : j'ai pas peur de la mort, je n'en fais même pas attention
+
+[298130-303470]
+I bɛ n faa kun minnan dɛ masakɛ, ni y'o kun fɔ nye walayi sɔnan sayama
+je suis  d'accord que tu me tue mais à condition que je chasse le pourquoi
+
+[306060-307440]
+Arazali k'a ma, ko Mamudu
+Arazali lui a dit: Mamoudou
+
+[308350-309460]
+A ko naamu
+il a dit oui
+
+[309670-314410]
+A ko b'i faa kun tala, b'i faa ju tala
+il lui a dit: je vais te tuer sans cause, sans fondement
+
+[314670-319010]
+N b'i faa  a se t'i ye, n b'i faa a dabali t'i ye
+je te tue car tu n'as ni les moyens ni le pouvoir
+
+[319670-328330]
+N b'i faa, a  fɔrɔ t'i ye, n b'i faa, a kiiri t'i bolo jamana nin bɛ, ne de ye Arazali, bamuru wolowula de b'a bolo ma wo ma nin jamanan  ka  ɲɛlɛ a kan a b'i kunkolo tigɛ
+je te tue, tu n'as pas  ni où t'exprimer ni une loi  pour te défendre, c'est moi Arazali celui qui possède sept sabres, quiconque ose il t'arrache la tête sur ton cou
+
+[332850-334290]
+Mamudu fana k'a ma, a ko Arazali
+Mamoudou aussi lui a répondu, il a dit Arazali
+
+[336120-341390]
+A ko walayi ni saya dugu jɛra, balo tɛ ye, balo don a ko saya tɛ ye
+il a dit: au nom du Dieu, le jour de la mort, il n'y a pas de vie et le jour de la vie, il n'y a pas de mort
+
+[341530-348140]
+A ko ne ma ban sayama, n'a kadiye muru da n kana, n'a kadiye mugu kɛmɛ jɔ ne la i ka ci
+il a dit: je n'ai pas refusé de mourir, si vous voulez placer un sabre sur mon cou ou pointer mille armes sur moi 
+
+[348370-358224]
+[mais] ny'i ɲininka muna, i bɛ faa dalilu min kama, i k'o dalilu fɔ n ye, ma bɛ se ka  ma ye dron ka baga i mɔgɔ ɲɔgɔn ma ka bɔnɛ a nin na muna i ma [raison] f'a ye i ma kun f'a ye
+tout ce que je te demande, c'est la raison  car on ne peut tuer une personne sans cause ni raison 
+
+[360550-367650]
+A ko Mamudu, a ko ne b'i faa, kun tala ju tala, se t'i ye  dabali t'i ye n sigar'i ma, nsɔmina i fɛ
+Il a dit Mamoudou, je vais te tuer sans raison ni cause, tu n'as aucun moyen, j'ai des soupçons sur toi
+
+[368780-371620]
+N ma da i la, nb'i faa i ni faali de kakan
+je ne te fais pas confiance, je te tue, tu mérites la mort
+
+[373630-374590]
+A ko masakɛ
+il a dit : le roi
+
+[376910-385590]
+ A ko se de b'i ye i bɛ faa se kama, dabali b'i ye i bɛ faa dabali kama, ma faa muru b' i bolo i bɛ faa ma faa mugu b'i bolo i bɛ faa 
+c'est parce  que vous avez le pouvoir ,vous me tuez, vous possédez des armes,  vous me tuez
+
+[385900-388130]
+A ko nin ye ne faa ko se b'i ye
+il a dit:; si vous me tuez parce que vous avez le pouvoir
+
+[388340-390630]
+ Ahh a ko se tigi wɛrɛ bɛ sanfɛ dɛ
+Ahh il a dit: qu'il y ' a un autre au dessus de toi
+
+[390840-393110]
+A ko nin ye ne faa k'i faama ye k'i ye masakɛ ye 
+il lui a dit: si vous me tuez parce que vous êtes roi
+
+[393370-394660]
+A ko Ala kɔrɔba bɛ sanfɛ dɛ
+il a dit: le tout puissant est en haut hein
+
+[394850-395600]
+A ko ye tiɲɛ ye
+il a dit que c'est vrai
+
+[396200-396620]
+A ko Mamudu
+il a dit : Mamoudou
+
+[396660-397300]
+A ko naamu
+oui lui disait
+
+[397470-400160]
+A  ko  nb'i faa, a ko [ gardiw]  a k'aw ye Mamudu minɛ
+il lui a dit qu'il va le tuer et à demander aux gardes de saisir Mamoudou
+
+[402860-404820]
+O yɔrɔ bɛ [gardiw] cɔrinan na 
+aussitôt les gardes l'ont entouré 
+
+[405160-405840]
+U y'a minɛ
+ils l'ont saisi
+
+[406590-407480]
+U ye jɔlɔkɛ a bolola 
+ils l'ont menotté
+
+[409350-411100]
+Ka taa na ye ma faa gendela
+pour l'emmener au lieu de condamnation
+
+[412640-413940]
+A ko masakɛ
+il a dit le roi
+
+[415230-416210]
+A  ko kuma bɛnfɛ
+il a dit qu'il a à parler
+
+[417820-419170]
+Masakɛ ko o ye mun kuma ye
+le roi lui a demandé ce qu'il a à dire
+
+[419800-421140]
+A ko kuma dakuru ɲɛkelen
+il a dit un seul propos
+
+[421870-427720]
+ A k'I bɛna mun fɔ nye, i bɛna mun subahana fɔ ye , i bɛna mun kuma lagasa fɔ nye, i bɛna  mun kuma tollile fɔ nye
+le roi a dit: tu vas me  raconter quel rago, tu vas me raconter quelle bêtise 
+
+[429580-430570]
+A ko masakɛ 
+il a dit mon roi
+
+[431340-436240]
+A ko Ala ye jiɲɛ da ka ma ɲuman da, Ala jiɲɛ da ka ma jugu da
+Dieu a créé le monde, il crée des bonnes personnes et des mauvaises
+
+[436490-444510]
+Ala ye diɲɛ da tuguni ka masakɛ ɲuman da, Ala ye diɲɛ da ka masakɛ jugu da, Ala ye diɲɛ da ka masakɛ terejugu da nin ye maasa saba ye  diɲɛ kɔnɔ
+Dieu a crée encore un bon roi, un mauvais et un malheureux voici les trois rois au monde
+
+[446700-447950]
+A ko sani ka n faa
+il lui a dit: avant de me tuer
+
+[448970-450210]
+A ko nsomɔgɔw bɛ ye 
+il a dit: qu'il a sa famille là-bas
+
+[450760-468868]
+A ko nba kɔrɔnin bɛ ye , a bana batɔ don, a dɛsɛlen don, i bɛ y'an ma, i bɛ hinɛnan , i bɛ sabali, ma ban sayama dɛ, i ba to nbɛ ta dumuni di nka musokɔrɔnin ma , mama musokɔrɔ nin ye dumuni d'i nba ma, nbɛ segin kana i bɛ faa
+j'ai ma vieille mère malade, sans  force, je vous prie de me laisser aller la nourrir après je reviendrais à vous
+
+[469860-471340]
+ Masakɛ ye [gardiw] filɛ 
+le roi a regardé les gardes
+
+[471560-475800]
+ka Mamudu filɛ, ka jama filɛ, masakɛ ɲɛlɛla
+il a regardé  Mamoudou et la masse puis il s'est lancé dans le rire
+
+[476100-476900]
+A ko jama
+il a dit: le peuple
+
+[477580-485100]
+A k'aw tulo tɛ Mamudu la, a k' a bɛ ne filɛ dajibɔ de ye, a bɛ ne filɛ lalatɔ de ye, a bɛ ne filɛ nusɔgɔtɔ de ye
+ne voyez-vous pas Mamoudou, il me prend pour un amaldeme , il me prend pour un fou
+
+[485320-493890]
+Ko neka ale kan bɔ mafaa muru kɔrɔ, ale bɛ taa so  kata dumuni d'a ba ma ka k'ila segin kana  ne k' ale faa, a k'aw tulu bɛnina wa nin tɛ fatɔ kan ye wa
+il me demande de le laisser aller nourrir sa mère et revenir afin que je le tue, qui va croire à ces propos de fou
+
+[494760-495810]
+jama ɲɛlɛla
+le peuple a produit des éclats de rire
+
+[496250-497030]
+Maachi ma kuma
+personne n'a parlé
+
+[498260-506520]
+Mamudu ko, a ko masakɛ, a ko faatɔ kan tɛ, a ko nusɔgɔtɔ kan tɛ, a ko dajibɔ kan tɛ
+Mamoudou a repliqué et dit: mon roi ce n’est les propos d'un fou ni d'un amaldeme
+
+[506970-510440]
+A ko nba banabatɔ de bɛ nbolo walaye masakɛ nma siran saya ɲɛ
+il a dit qu'il a sa mère malade sinon il n'a pas peur de la mort
+
+[510640-519350]
+Hali min tɛ nin ye, ne bɛ jɔn u saya kɔrɔ, nba ɲinin i fɛ, i k'a sanganin diɲan ne bɛ ta dumuni di n somɔgɔw ma, ka n sara n somɔgɔw la dɔron masakɛ nbɛ na i bɛ faa
+j'ai jamais eu peur de la mort, je vous demande seulement de m'accorder quelques minutes pour nourrir ma mère et dire au revoir à ma famille
+
+[521060-522140]
+Masakɛ  k' a ma, a ko Mamudu
+le roi lui a appelé: Mamoudou
+
+[522970-526730]
+A ko ne tɛ sagan d'i ma, ntɛ  waati d'i ma
+je ne t'accorde aucune minute
+
+[526910-527490]
+ayi
+non
+
+[528200-532520]
+ A ko nin ye ne k'i leye k'i bila dɔrɔn, i bɛ [garantie] don i ka saya kɔrɔ
+je te laisse à condition que tu garantisses ta mort
+
+[533500-534590]
+Bamanan saya [garantie] beye
+Bamanan, la mort a-t-elle une garantie
+
+[534730-535330]
+hun, 
+hun
+
+[536150-537390]
+E ye [garantie] ye saya la
+as-tu vu une garantie de la mort
+
+[537710-540100]
+Ay'o tɛye yani jɔn don cɛ u tɛye
+ ça n'existe pas encore
+
+[540670-562310]
+I bɛ [garantie] ye mobilila, i bɛ [garantie] ye motola, i b'a ye [telephone] la, i b'a ye sanun na, hadamaden  nin de  bɔtɔfilɛ nin ye, ka nin [garantie] ta nin wɛrɛ de be bila nin nɔnan, waari t'i bila kɔrɔ, sanu t'i bilan  kɔrɔ, moto t'i bila kɔrɔ, [ étage]  t'i bila kɔrɔ , ka nin don kɛ ka nin don kumabɔ
+on peut garantir une voiture, une moto, un téléphone et même de l'or mais pour garantir une âme il faut une âme
+
+[563500-564590]
+O maa macan dɛ
+peu de gens font ça
+
+[565380-566730]
+O maa macan
+ces genre de personnes sont minimes
+
+[567420-570680]
+A ko Mamudu, a ko [choix] kelen min b'i bolo o y'o ye
+Il a dit: Mamoudou tu n'as d'autres choix
+
+[571030-574730]
+I bɛ nin wɛrɛ bila i,ka saya [garantie ] kɔrɔ ni ma [garantie] di i tɛta
+tu donnes une âme pour garantie sinon tu ne bougeras pas d'ici
+
+[578790-580120]
+A ko masakɛ
+il a dit: oh roi
+
+[580840-582310]
+A ko ne t'itaa nba lajɛ
+n'irai-je pas voir ma mère
+
+[583140-586930]
+Fo ne ka saya [garantie] bila, a ko ne bɛ saya [garantie ] bɔ minin
+jusqu'à ce que je garantisse ma mort, où vais-je trouver cette garantie
+
+[587420-588310]
+A k'o ka gɛlɛn dɛ
+il a dit : que c'est difficile
+
+[590040-595450]
+A ko nin duma [garantie] di, a k'o ne t'i bila dɛ, a bɛ nata waati bɛna ta nb'i faa
+en tout cas si tu ne garantis pas, tu n'iras nulle part, assez le temps file, je vais te tuer
+
+[597760-598880]
+Mahamudu y'a kunkolo kɔrɔta
+Mamoudou a levé sa tête
+
+[600850-603420]
+A ye [jeunesse] cɛ bakelen lajɛ kamalenkuntigiw
+il a regardé les milles leaders des jeunes
+
+[604520-609100]
+A y'a kunkolo munu-munu, n'a ɲɛ ni min ɲɛ bɛna , o b'i ɲɛ cɛ kabɔla
+il a remué sa tête, personne ne voulait croiser son regard
+
+[609440-615120]
+N'a ɲɛ ni min ɲɛ bɛna, o b'a fo cɛwo i ɲɛ bɔ nena dɛ, ne kɔni, ne tɛ bila i ka saya [garantie] kɔrɔ bɔnen k'o ta ka b'ila
+s'il lui arrive de croiser certains regards, on lui montrait le refus catégorique d'être sa garantie
+
+[619520-623820]
+N'a munu-munu tɔ nin min ɲɛ bɛna,  o b'i kunkolo munu-munu ka to ka nenin a da jukɔrɔ
+en croisant le regard de certains toujours, ils lui insultent sous la bouche
+
+[624660-626919]
+U b'a nenin , u b'a dondolima
+ils l'insultent et le ridiculisent 
+
+[627570-628380]
+A kamana gwanan
+il est devenu inquiet
+
+[628570-631330]
+A jɔlen wachira fo ka ji jigin a kulusifɛ
+il a tremblé sur place jusqu'à mouiller son pantalon
+
+[632320-633580]
+A ma [garantie] sɔrɔ 
+il n'a pas trouvé une garantie
+
+[633920-638330]
+A y'i to ɲɛnakala la, a ye paare ɲɛfila ta, a ye paare ɲɛfila ta
+en regardant les autres, il a fait deux puis deux encore
+
+[638630-641540]
+A ye kamalenin dɔ sigilen ye, hali o tɛ maw cɛla
+il a vu un jeune assis isolé des autres
+
+[641860-645140]
+A gɛrɛlola, a ser'o ma, a y'a ɲɛf'o ye
+il s'est approché de lui et lui expliqué la situation
+
+[645520-654120]
+U b'o kamalenin wele ko haaruna, o tun ye Mamudu dɛmɛsɛnin teri ye, u ye jɛ caman kɛ, u cɛbɔna muru cɛra ɲɔgɔnfɛ dɛmɛninya kɔnɔ
+on appelle ce jeune Harouna, c'était un ami d'enfance de Mamoudou, ils ont été circoncis  ensemble 
+
+[654530-663820]
+Dɛmisɛn yala nin ma jurujugu don i terikɛ la, n'aw sera gɛnfɛ sema, n'aw tile ye kokojanw  sago, a bɛ ɲɔgɔn ka ɲuman segin ɲɔgɔn ma, n'a ya sɔrɔ a ma jurujugu don dɛ
+Dans l'enfance, si les amis étaient généreux entre eux, à un stade de la vie ils continueront à se soutenir
+
+[664880-667290]
+Sabu jurujugu donba de ka ca bi
+mais les vrais amis sont rares aujourd'hui

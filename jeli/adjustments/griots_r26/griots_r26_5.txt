@@ -1,0 +1,575 @@
+[1130-1470]
+a y'a lajɛ 
+il l'a regardé
+
+[2869-3669]
+ko nin, k'ale
+incomp
+
+[3760-4500]
+ko nin ye mun ye tan
+qu'est-ce que sait?
+
+[4940-6600]
+muso ko k'a ka lajɛ tan
+la femme lui a dit de regarder
+
+[7070-8950]
+a y'a lajɛ, ka lajɛ, a ɲɛ b'a tɔgɔ de sɛbɛnna
+il la mitieusement observé, c'est son nom qu'il voit écrit
+
+[10850-12150]
+aa, a kɔnɔnafilila
+il était confus
+
+[13230-15980]
+a ye muso ɲinika, ko nin y'a sugu jumɛn ye?
+il a demandé à la femme: qu'est-ce que sait?
+
+[18480-19820]
+ne m'a f'e ye ko: n kɔrɔkɛ ka so ye nin ye wa
+ne t'ai-je pas dit que c'est la maison de mon grand frère?
+
+[20750-23500]
+  ko ne kɔrɔkɛ ka so tɛ o, k'e ka so de don, ko nin y'i yɛrɛ ka so de ye
+ce n'est pas la maison de mon grand frère, c'est ta propre maison
+
+[25080-26000]
+ko nin bɛɛ y'e ta ye
+tout ça, c'est pour toi
+
+[26200-28300]
+mobili o sotarama o
+que ce soit le véhicule, le Sotrama
+
+[30980-32890]
+du in yɛrɛ o, k'a bɛɛ y'e ta 
+la maison, ils sont tous à toi
+
+[33790-35700]
+hali garidiyen bɛ sara wari minna o bɛɛ y'e ka wari
+même le salaire du gardien est de ton argent
+
+[37900-42790]
+ne kɔni bɛna yafa, ee, ne ye wari de sonya i bolo ka so in baara
+je vais te demander pardon, car je t'ai volé pour construire cette maison
+
+[44780-47050]
+ko ni bɛ se ka yafa o kɔni na n kɔni b'o yafa ɲini fɛ 
+si tu peux me le pardonner, je te le demande du moins
+
+[47230-49960]
+n ɲ'a dabɔ denw ka siniɲɛsigi de kama
+je l'ai fais pour l'avenir de nos enfants
+
+[50730-56950]
+ ne ye  waati k'e bolo, n y'a ɲe an bɛ to nin nan ten to, an tɛna don dala sɔrɔ
+j'ai beaucoup de temps avec toi, j'ai remarqué que si on continue ainsi, on aura rien
+
+[57430-61150]
+a laban bɛ kɛ, ne taara eretɛreti k'an to nin cogo la a bɛ gɛlɛya 
+finalement si tu vas à la retraite ainsi, ça sera difficile
+
+[62740-68880]
+yann'a ka s'o ne ye yamaruya ɲini n bangɛbaaw fɛ
+avant que cela n'arrive, j'ai eu cherché le soutien de mes parents
+
+[69390-71780]
+n gɛrɛl'u la ka ɲɛfɔ n ba ɲɛna pareseke muso ba bɛ yen
+je les ai rapproché, je l'ai expliqué à ma mère, parce que la maman de la femme est là-bas
+
+[72730-73680]
+ko n y'a ɲɛfɔ n ba ɲɛna
+je l'ai expliqué à ma mère
+
+[74280-76370]
+ba y'a tɛmɛ sira, ba se ye tɛme sira in f'a ye
+c'est sa maman qui lui dit cet astuce
+
+[77590-79610]
+kɔmi deja  ba ye tɛmɛ sira in f'a ye
+comme sa maman lui a déjà montré ce chemin
+
+[80000-82900]
+pareseke ale tun b'a fɛ ka furusa, ko furusa tɛ u fɛ yen 
+parce qu'elle voulait divorcer, mais il y a pas de divorce chez eux
+
+[84010-91390]
+pareseke n'a ma ɲɛ ko furusilila bulon 
+parce que si le mariage a été fait dans le grand vestibule
+
+[91940-95300]
+ni furusilila bulon kɔnɔ cɛkɔrɔba ka laada kɔnɔ furusa kuma t'a la
+quand le mariage est fait dans le grand vestibule, dans la coutume du vieux, il n'y a pas question de divorce
+
+[96270-99190]
+donku, n'a bɛ min kɛ, a k'o kɛ  mɛ furusa ko kuma tɛ yen
+elle n'a qu'à faire ce qu'elle a à faire, sinon il n'y a pas question de divorce
+
+[100000-104560]
+ala y'a kɛ baw ka sɔrɔ, u ka nin fɛɛrɛ f'a ɲɛna
+les mamans lui ont dit cette solution
+
+[105530-110290]
+ale ko, ko n'ale ya kɛ esike a nɔ tɛ bɔ ale denw na wa?
+elle dit: est-ce que si je le fais mes enfants n'auront pas de conséquence?
+
+[111950-115180]
+ba de k'o la ka ka yafa ɲin'a fɛ
+sa maman lui a dit de lui demander pardon
+
+[115620-119630]
+ o kɔnɔna na, a kana ko in kɔni kɛ, a kɔnɔbara jitɔlama
+en cela, elle doit pas le faire pendant qu'elle est enceinte
+
+[120620-123840]
+n'a bɛ wari ta cɛ kun, a kana ta, a kɔnɔbara jitɔlama
+si elle prend l'argent de son mari, elle ne doit pas le faire étant enceinte
+
+[124770-125880]
+a ka ta kasɔrɔ fɛn t'a la
+qu'elle le prenne trouvant qu'elle n'est enceinte
+
+[126680-130350]
+a dalen don a  yɛrɛ la ka fɔ ko foyi t'ale la waatimin na a bɛ wari ta o waati de
+elle prenait l'argent au moment où elle était sûre qu'elle n'était pas enceinte
+
+[131230-134540]
+ko n'o tɛ  ni y'a kasɔrɔ kɔnɔbarajitɔlama don, ko den bɛ kɛ son ye
+si tu le prends étant enceinte, l'enfant sera un voleur
+
+[144270-146100]
+ko ni cɛ ko k'a yafara ma, ee, ayiwa k''a banna
+que si le mari lui pardon, c'est fini
+
+[146430-147720]
+ko ala ko don kuwa
+que c'est une question de foi
+
+[148620-157780]
+bon, mɛntenan a y'o de kɛ dɔrɔn, a y'o ɲɛfɔli kɛ dɔrɔn ka wili k'a bolo fila d'a ko a cɛ ye
+bon maintenant, dès qu'elle a fait ces explications, elle s'est mise debout en mettant ses deux mains derrière elle pour demander pardon à son mari
+
+[162190-163290]
+cɛ fana wilila k'i bolo d'a ko
+le mari aussi a mis ses mains derrière le dos
+
+[165840-170070]
+a ko cɛ ma ko: ale bɛ yafa ɲini cɛ fɛ, ko cɛ ka yaf'ale   ma 
+elle dit à son mari: qu'elle lui demande pardon que le mari lui pardonne
+
+[170520-171900]
+pareseke ale ye cɛ ka wari sonya
+parce qu'elle a volé l'argent du mari
+
+[173260-175320]
+cɛ fana ko k'a ka yafa ale ma pareseke ale y'a tɔɲɔn
+le mari lui demande aussi pardon parce qu'il lui a causé assez de tort
+
+[175840-176990]
+k'ale y'a tɔɲɔn deh
+qu'il lui a causé assez de peines
+
+[177810-181750]
+ ko ale y'i diya: ale ma son a fa ta ye,   ko jaa ale fa y'ale bilasira de koyi
+qu'il est chanceux: qu'il n'avait pas confiance au choix de son père, mais son père a fait le meilleur choix
+
+[182570-186390]
+k'ale fa kɔ a ma ka muso ta,  ale ka muso ɲininen ta
+son père lui a dit de se marier avec la femme qu'il lui aura choisi
+
+[187280-188660]
+a ko: ne fa ka muso ɲininen de ye e ye
+tu es la femme que mon père a choisi
+
+[190000-191560]
+a ko: o tuma a fɔ e ma kɛ ne ba ye sa de
+dis-moi: n'es-tu pas devenue ma mère?
+
+[193110-198680]
+ sisan kɔni, finaleman, ee a ko ne ka diɲɛnatigɛ yɛrɛ bɛɛ kɛra e ye
+maintenant, toute ma vie se repose sur toi
+
+[199780-204510]
+a ko: sisan ne y'e dɔn e ye mɔgɔ min ye 
+maintenant, je sais quel genre de personne tu es
+
+[205350-209790]
+ko n kɔni bɛ yafa ɲini fɛ n ye fɛn-fɛn kɛ ka tɛmɛ i ka yafa n ma n'o tɛ n tɛ don alijinɛ kɔnɔ
+que je demande pardon, pardonne-moi pour tout ce que je t'ai fait sinon je n'entrerai pas dans le paradis
+
+[210590-211440]
+muso k'ale yafara
+la femme dit qu'elle lui pardonne
+
+[213920-216910]
+o dugujɛ a ka sɔrɔ ka bɔ ni cɛ ye
+le lendemain, elle sortit avec son mari
+
+[218400-221320]
+muso ni cɛ taara ɲɔgɔn fɛ pansiyɔn bɛ ta yɔrɔ minna
+la femme et l'homme partiren où on prend les pansions
+
+[221740-225840]
+a taara muso tɔgɔ kɛ papiye la ye, k'ale tɛ gɛrɛ pansiyɔn ko in na
+il partit mettre le nom de la femme sur les papiers qu'il se tiendra à l'égard de l'argent de la pansion
+
+[226020-233320]
+wa n b'a jira ka fɔ ko san o san ale balolen don mɛ ko wari don kun t'ale bolo
+je montre qu'il est vivant chaque année, mais il ne prendra pas cet argent en main propre
+
+[234540-238560]
+mɛ o yɔrɔ muso sigilen kɔrɔ de a ye dulo haramu
+c'est là, devant sa femme qu'il a répudié l'alcool
+
+[239930-241490]
+ko n'a y'e dulo min dɔrɔn ka ni ka tigɛ
+que s'il boit de la l'alcool qu'il meurt
+
+[243720-248790]
+mɛ puruke, ni min filɛ nin ye , ni n bɛk'a baro bɔ, nin baro dɔnni sababu bɔra mun fɛ 
+cette histoire que je vous raconte là, quelle a été la raison de sa révélation?
+
+[250880-255370]
+ereterɛti kɛlen kɔfɛ u ye mɔgɔw de wele u fɛ yen, invitason
+après la retraite ils ont invité les gens chez eux
+
+[256320-258730]
+ko aa, sefu taara ereterɛti la k'an bɛ taa b'a ye
+Ah! que le chef est allé à la retraite nous allons le voir
+
+[259480-266930]
+o senfɛ de a ye mɔgɔw to buwason minw ni fɛnw na  dɔrɔn kasɔrɔ ka kuma in bɔ ka da
+c'est au cours de ça, pendant que les gens buvaient les besoins et autres qu'il l'a dit
+
+[268580-271180]
+aa, a kɛra kuma y'a don, a kɛra kuma y'a don
+ça suscité beaucoup de débat, ça suscité beaucoup de débat
+
+[271600-275790]
+mɔgɔ dɔw ye muso in filɛ, dɔw ye, muso yɛrɛ wari min sɔr'a don a cayara
+certains ont tant regardé la femme, certains d'autres, l'argent que la femme a eu ce jour-là a été énorme
+
+[277490-281590]
+pareseke mɔgɔ minnu nan'a ladiya, mɔgɔw y'a son, ka son
+parce que les gens qui lui ont fait des cadeaux, les gens lui tant donné
+
+[282220-284120]
+paresek'olu bɛ baara minna nin ye, baara in man nɔkɔn
+parce que le travail qu'il font n'est pas facile
+
+[285190-289630]
+n'a fɔra k'i ka to in baara inna, k'i ka mɔgɔya k'a kɔnɔ
+s'il faut que tu fasse ce travail et de se bâtir une vie
+
+[292260-296560]
+se min b'e ye, e ka t'o la, e ka tila ka fɛn mara i yɛrɛ ɲɛ
+les moyens que tu as, s'il faut encore que tu gardes quelque chose
+
+[297080-301040]
+a bɛ k'i ɲɛna don o don ko sinin i bɛ dɔ sɔrɔ min ka ca ni kunun ta ye
+tu croiras chaque jour que tu auras mieux demain que ce que tu as aujourd'hui
+
+[302760-305170]
+bon, u b'a filɛ ko wari in ye wari fulama ye
+bon, ils croient que c'est de l'argent gratuit
+
+[306690-307520]
+wari fu dun tɛ yen
+alors qu'il n'y a pas d'argent gratuit
+
+[308470-316490]
+mɛ nin mɔgɔ sɔrɔla ka bila i ɲɛ, o bɛ kɔm'inafɔ, a ka denmisɛnya kɔnɔnana, i ka maaya kɔnɔnana,  n'i mɔgɔ sɔrɔ ka bila i ɲɛ 
+mais si tu trouves un guide, c'est comme au cours de ton enfance, de ta vie, si tu trouves un guide
+
+[317130-322000]
+i b'i kun fɔ mɔgɔ min ɲɛna, ani b'i bilasira, i ka diɲɛnatigɛ dilala
+à qui tu peux te confier et qu'il te conseille, ta vie est assurée
+
+[328790-330720]
+aa, n'e filila dɔrɔn i bɛ taa dingɛ kɔnɔ
+ah, si tu te trompes, ça sera fatal
+
+[332940-338570]
+o bɛ kɔm'inafɔ fama yɛrɛ
+c'est comme un chef
+
+[340080-346230]
+fama mana fili, mɔgɔ min bɛ se ka fama bɔ fili kɔnɔ 
+quand le chef se trompe, rares sont ceux qui peuvent le faire sortir de l'erreur
+
+[347540-353850]
+a bɛ mun ye dɔrɔn, a bɛna ye ko e b'a nɔfɛ a ka famaya kɔnɔna na, a ɲɛ b'o dɔrɔn de la
+il fera seulement que toi , tu le suis juste pendant son pouvoir, c'est tout ce qu'il voit
+
+[355260-357270]
+a tɛ se k'a kun siɲɛ i ye kuwa
+il peut rien faire
+
+[358180-363040]
+o de kama mɔgɔ ka kan ka maasa, i ka duwawu kɛ, i ka maasa ka mɛn i kɔrɔ
+c'est pourquoi, l'Homme doit faire des prières pour que tes parents restent près de toi longtemps
+
+[364080-368050]
+i maasa mɛnna i kɔrɔ dɔrɔn a bɛ kɛ sababu ye ka ko caman de da yɛlɛ i ye
+si tes parents vivent longtemps près de toi, cela t'ouvriras énormément de portes
+
+[368520-372170]
+i bɛ ban ko caman ma, i bɛ son ko caman ma, maasa b'o bolo
+tu refuses et acceptes beaucoup de choses, les parents te les déconseille 
+
+[372800-374930]
+i bɛ ban ko caman ma fana maasa b'o bi bolo
+tu refusera beaucoup de choses aussi, le parent te le déconseille
+
+[376550-380100]
+adamadenya gɛlɛya yɔrɔ fɔlɔ-fɔlɔ y'o kadiri dɔw ye kuwa
+le premier cadre de la complication de la vie humaine est dû à cela
+
+[381370-381940]
+i y'a faamuya
+tu as compris
+
+[394800-402380]
+a be kɔmi  inafɔ muso fɔlɔ min dira cɛ ma, n'a y'a ban o la, ani a yɛrɛ kɛra muso filanan min fɛ
+c'est la première femme qui a été donné au monsieur qu'il a réfusé et la deuxième femme qu'il a aimé
+
+[403880-406530]
+o ɲɔgɔn na dɔ kɛra anw yɛrɛ kɔrɔ dɔ la fana 
+la même chose est arrivé à l'un de nos frères aussi
+
+[407650-408970]
+a ye kalan kɛ ka ban
+il étudié et finit
+
+[409730-412530]
+kalan bannen a nana jamana kɔnɔ yan, a nana yan de
+une fois les études finies, il est venu au pays, c'est ici qu'il est venu
+
+[413370-417690]
+a bɛ na jigi don minna o y'a sɔrɔ se b'a ye de
+le jour où il vient, il avait beaucoup de moyens en ce moment
+
+[419890-423680]
+a nana tuma min se  b'a ye mɛ fa tɛ yen, ba tɛ yen
+au moment où il venait, il avait les moyens, mais il n'a ni père ni mère
+
+[425220-425740]
+a bɛ muso bɔ min
+où trouvera-t-il la femme?
+
+[428100-428570]
+a kɔnɔnafilila 
+il était inquiet
+
+[429850-433100]
+a ye kuma ɲɛfɔ mɔgɔ-mɔgɔ ɲɛna, u y'a ta ka kɛ baara yɔrɔ ɲɛmɔgɔba ye
+tous ceux à qui il l'a expliqué, il a été nommé grand chef de service
+
+[434930-439410]
+a ye kuma ɲɛfɔ mɔgɔ-mɔgɔ ɲɛna bɛɛ kɔnɔnafilila, bɛɛ ko a ma: aa, nin man nɔgɔn,nin man nɔgɔn
+tous ceux à qui il a parlé, ils étaient tous confus, tout le monde lui a dit: ah, ce n'est pas facile, ce n'est pas facile!
+
+[441870-442460]
+a tor'o de la sa
+il est resté ainsi
+
+[448640-453170]
+i ye diɲɛnatigɛ kow ɲuman-ɲuman fɛn-fɛn sɔrɔ, i ma muso sɔrɔ, muso ɲuman sɔrɔ fu y'i ta  
+même si tu as toutes les bonnes choses de la vie, si tu n'as une femme, une bonne femme tu n'as rien
+
+[455460-457180]
+n'i ma muso ɲuman sɔrɔ i y'a jɛ a bɛɛ 
+si tu n'as une bonne femme, tu as tout perdu
+
+[459290-467270]
+a tora o boli-boli de la, ka bɔ dɔrɔn, ka taa bali npogotigini dɔ la
+il était dans cette quête, il est allé tombé sur une fille par surprise
+
+[468960-469520]
+o kɛra min?
+ça se fait où?
+
+[469760-472910]
+suguba kɔnɔ, Bamakɔsuguba kelen-kelen in kɔnɔ
+dans le grand marché, même grand marché de Bamako
+
+[474040-475190]
+a ye deni ye suguba kɔnɔ
+il a vu la fille au grand marché
+
+[476910-478660]
+kɔmi tɔgɔ fɔ t'a la, n'otɛ n tun bɛ tɔgɔ fɔ i ye
+comme on ne doit mentionner des noms, sinon je t'aurais donné des noms
+
+[481250-482250]
+a ye deni ye suguba kɔno
+il a vu la fille dans le grand marché
+
+[483260-487230]
+aa, a ye deni ye yɔrɔ minna dɔrɔn a ye fɛɛrɛ kɛ ka bɔ, a ye mobili jɔ
+Ah! dès qu'il a vu la fille, il a stationné sa voiture et sortit
+
+[488330-490600]
+a ye mobili jɔ ka n'a senna
+il garé la voiture et vint à pieds
+
+[491890-493560]
+ka tugu deni ko
+il suit la fille
+
+[494740-498450]
+n'o donna yɔrɔ minna a fana bɛ don ye, n'o donna yɔrɔ minna a fana bɛ don ye 
+là où elle entre, lui aussi entre, là où elle entre, lui aussi entre
+
+[499410-502150]
+ka t'o de la, ka t'o la fo k'a yɛrɛ don yɔrɔ ban
+il continua et continua jusqu'à dépasser les lieux qu'il connaissait
+
+[504270-507110]
+suguba kɔnɔna ni mɛdinakura i ma don olu ka jan ɲɔgɔnna dɔɔnin
+le grand marché et Médina-koura, tu sais qu'il y a une bonne distance entre eux
+
+[508180-509670]
+a tugura deni kɔ fo mɛdinakura
+il a suivit la fille jusqu'à médina-koura
+
+[516275-517505]
+deni nana don u ka so kɔnɔ
+la fille est rentré dans leur maison
+
+[518210-522870]
+a fana y'i jɔ, ka mɔgɔ dɔw ɲinika ko ne ko min donna so kɔnɔ yan, ka tɔgɔ ye di?
+il 'est arrêté, il demanda à certains: dis quel est le nom de celle qui vient de rentrer dans cette maison
+
+[523870-525310]
+mɔgɔ sɔrɔla o la ka tɔgɔ fɔ a ye
+il a eu quelqu'un qui lui a dit son som
+
+[526320-527550]
+a ko tabarikala
+il a dit: Louange à Allah
+
+[528870-531130]
+a bra drn ka takisi ta
+dès qu'il est sorti il a pris un taxi
+
+[531570-532610]
+ka taa a ka mobili jɔlen ta
+puis il est parti prendre sa voiture
+
+[533920-536220]
+o y'a sɔrɔ a be karitiye minna a bɛ f'o ma ko ipɔdɔrɔmu
+ça trouvait qu'il était dans le quartier nommé Hippodrome
+
+[537410-538380]
+aa taara a ka so
+il est parti celui
+
+[539750-544250]
+o kɛlen na, a bɛna deni sɔrɔ cogodi?
+après cela, comment vas-tu trouver la fille
+
+[545040-546850]
+a kɔnɔnafilila a y'a f'a terikɛ dɔ ɲɛna
+il était confus, il l'a dit à un de ses amis
+
+[547790-549950]
+bon, a bɛ inafɔ o fana tun ye bandi kɔrɔ ye
+bon, celui-ci avait aussi l'air d'un ancien bandit
+
+[550070-553310]
+bandi kɔrɔ tɛ ko, ee, mɔgɔ min bɛ sonyani kɛ, o tɛ
+un ancien bandit n'est pas comme quelqu'un qui volait, ce n'est pas ça
+
+[553560-556870]
+bandi kɔrɔ ye, hakilina min b'a tigilamɔgɔ la, a bɛ ko dilan n'a kuwa
+un ancien bandit est une personne qui des idées pour régler les affaires
+
+[558040-560440]
+a y'a ɲɛfɔ o ɲɛna, o ko ma ko bon ko nin ka nɔgɔ
+il l'a expliqué à celui-ci, il lui dit que c'est simple
+
+[561060-564330]
+e ta fɛ ka dɔn ni deni b'i fɛ nafolo la  wa a bi fɛ de
+Ne veux-tu pas savoir si la t'aime pour de l'argent ou si elle t'aime tout simplement?
+
+[564870-567660]
+a ko: pareseke n'ale y'i kun bɔ deni ko in na deni bɛ son a la
+il dit: parce que si je me montre avec mes moyens la fille va accepter
+
+[569690-574560]
+n'a tun y'i kun bɔ muso-muso nɔfɛ Mali kɔnɔ yan no, o tun bɛ son a la, pareseke se tun b'a ye 
+n'importe quelle femme qu'il aurait choisi au Mali, elle l'aurait accepté, parce qu'il avait les moyens
+
+[575040-576100]
+a nana ni se de ye
+il est venu avec des moyens
+
+[576920-578600]
+mɛ ale dun mako bɛ muso de la min b'ale fɛ
+mais lui, il a besoin d'une femme qui l'aime
+
+[579450-580190]
+e y'a dɔn o ko man nɔgɔn de
+tu as vu que c'est pas facile
+
+[583690-587590]
+a taar'o la, a ka garidiyen, a n'a ka garidiyen fila de bɛ du kɔnɔ
+il est alors parti, c'est son gardien et lui qui vivent dans la maison
+
+[588750-596240]
+a ko garidiyen ma k'a bɛ wari d'o ma, fini min b'o la nin ye k'o ka o dɔ ɲini, o jari
+il dit au gardien: qu'il va lui donner de l'argent pour qu'il lui achète une tenue pareille à la sienne
+
+[597290-600800]
+o taara, o dabali banna, a b'o ɲɛna k'a bɛ na yugu-yugu san ka d'ale yɛrɛ de ma
+celui-ci est parti, il était surpris, lui, il pensait qu'il lui achetait ces fripes
+
+[601970-604140]
+u biyen a bɛ na ci ka taa so
+ou bien qu'il l'envoyait chez lui
+
+[604510-606680]
+a taara yugu-yugu nunun san ka na n'u ye
+l est parti acheter les fripes et les a apporté
+
+[607170-608970]
+a ye taamasiyɛn d'a ma
+il lui a donné le signe
+
+[610920-611980]
+o nan'o d'a ma
+celui-ci le lui a rendu
+
+[613390-618640]
+n'a bɔra baara yɔrɔ la ka na, n'a ye mobili jɔ ka ban, a bɛ ninnu de don 
+quand il revient du travail, et gare la voiture, c'est ce sont eux qu'il porte
+
+[619730-622900]
+n'a ye ninnu don, garidiyen bɛ kɔnɔnafili, o dabali banna
+quand il porte ceux-ci, cela surprend le gardien
+
+[623870-625040]
+bon o dabali bann'a la kuwa
+bon, il surprend ce dernier
+
+[626040-629530]
+a bɛ ninnu don ka takisi ta, ka ta deni ka so
+il met ceux-ci pour aller chez la fille
+
+[630560-632570]
+n'a surunyana deni ka kare la, a bɛ jigin
+quand il s'approche du carré de la fille il descend
+
+[633810-634620]
+a bɛ tɔgɔma a senna
+il marche à pied
+
+[636200-637820]
+a nana a jija fo ka deni ye
+il a pris du courage jusqu'à voir la fille
+
+[638500-643630]
+mɛ ni ala bɛ ko minna o tɛ tiɲɛ mɛnɛ n'o tɛ diɲɛ yɛrɛ la, a tɛ deni sɔrɔ
+mais quand Dieu veut une chose, rien y peut, sinon vraiment il n'aura pas la fille.

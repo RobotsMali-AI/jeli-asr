@@ -1,0 +1,571 @@
+[19140-21900]
+Ɛɛ n bɛ n balima bɛɛ fo.
+Eh je salue tous mes frères et sœurs.
+
+[22420-27270]
+Ne lamɛnbagaw ani n filɛbagaw n b'aw bɛɛ fo.
+Mes auditeurs et mes téléspectateurs, je vous salue tous.
+
+[27940-30300]
+An sira hɛrɛ la Ala m'an tilenna hɛrɛ la.
+Nous avons passé une paisible nuit, que Dieu nous accorde une bonne journée!
+
+[31240-41010]
+Ne tɔgɔ ye Adama Ture, ka bange Bozola san 1953.
+Moi je m'appelle Adama Touré né à Bozola en 1953.  
+
+[41500-43010]
+Ne fa tɔgɔ Sidi Ture.
+Mon père s'appelle Sidi Touré.
+
+[43550-44840]
+Sidi fa tɔgɔ Yusufu.
+Le père de Sidi s'appelle Youssouf.
+
+[45610-50820]
+Yusufu fa tɔgɔ Umaru, Umaru fa tɔgɔ Mukutari.
+Le père de Youssouf s'appelle Oumar, le père de Oumar s'appelle Mouktar.
+
+[52390-54790]
+N bayanfan, n ba tɔgɔ Nɛnɛ Jalo.
+Côté maternel, ma mère s'appelle Nènè Diallo.
+
+[55610-58310]
+O fa tɔgɔ Mamadu Jalo.
+Son père s'appelle Mamadou Diallo.
+
+[58460-60740]
+O fana ta fa tɔgɔ Bande Jalo.
+Lui aussi son père s'appelle Bandé Diallo.
+
+[61510-64440]
+O bangenna Kulukoro Kula mara la.
+Lui, il est né à Koulikoro dans le cercle de Koula.
+
+[66610-72990]
+[Bon] N bɛna kuma e Jɔkala kan n'o bɛ Bila mara la. 
+Bon je vais parler de eh Diôkala qui est dans le cercle de Bla.
+
+[73520-79480]
+Jɔnka u ka taabolo an'u sigicogo, u ka adamadenya kɛcogo.
+Dionka, leurs principes et leur histoire ainsi que leur mode de vie.
+
+[80060-81250]
+N bɛna kuma o de kan.
+C'est ce dont je vais parler.
+
+[82260-87240]
+Segu ni Miɲankala cɛ Banamininkalama.
+Entre Ségou et Miankala [Banamininkalama]. 
+
+[88230-93420]
+Olu de y'i sigi Segu ni Miɲankala cɛ ka kɛlɛ kɛ Bitɔn fɛ.
+C'est eux qui se sont installés entre Ségou et Miankala pour combattre avec Biton.
+
+[95050-100660]
+Jɔnka kɔrɔ bɛnkan, aw bɛnna min kan, si kana si janfa.
+Dionka signifie convention, ce dont vous vous  êtes convenus, que personne ne trahisse personne.
+
+[102840-104200]
+Jɔnka bɛ daminɛ min ?
+Où commence Dionka ? 
+
+[104460-105470]
+A bɛ daminɛ Falo.
+Il commence à Falo.
+
+[106790-110800]
+Falo, Buwarɛw de bɛ yen, kɛlɛmasadugu don.
+A Falo, il y a les Bouaré, c'est un village de guerriers.
+
+[111490-115110]
+U ye kɛlɛ kɛ Segu fɛ fɔ kɛlɛ gan.
+Ils ont fait la guerre avec Ségou, une guerre intense.
+
+[116970-119230]
+U ma siran u yiran-yiran.
+Ils n'ont ni craint ni panique.
+
+[120160-125350]
+Falo, numuw bɛ yen, a bɛ fɔ o ma kin.
+A Falo, il y a des forgerons, on appelle ça Kin.
+
+[126010-130980]
+I mana bɔ Kin i bɛ taa Muɲana ka na Kaana.
+Quand on quitte Kin, on arrive à Mougnana ensuite Kana.
+
+[132320-134960]
+Kaana, olu ye Marikow ye.
+Kana, ce sont les Mariko.
+
+[135990-138230]
+Ka bɔ yen ka na Sentala.
+Après là-bas c'est Séntala.
+
+[139610-142850]
+Sentala, olu ye kɛlɛcɛfarin ye, numuw don, Konatɛw don.
+Séntala, ce sont des guerriers, des forgérons; des Konaté.
+
+[144110-146790]
+U fana ye kɛlɛ kɛ kosɛbɛ fɔ ka kɛlɛ gan.
+Ils ont aussi mené une guerre intense.
+
+[147570-151440]
+Ka bɔ kɛlɛ kɔnɔ ka na Bɛndugu Ɲamana.
+Puis venir à Bèndougou Niamana après la guerre.
+
+[152570-153920]
+Ɲamana, o ye Kulubaliw ye.
+Niamana, ce sont les Coulibaly.
+
+[154590-157520]
+Kulubaliw fana ye kɛlɛ kɛ kosɛbɛ ka kɛlɛ gan.
+Les Coulibaly aussi ont mené une guerre intense.
+
+[158120-161770]
+U ye kɛlɛ kɛ Bitɔn nɔfɛ ka na fɔ Segu.
+Ils ont combattu derrière Biton jusqu'à Ségou.
+
+[163490-166370]
+Ka bɔ yen ka na Ngolokuna.
+De là-bas à Ngolokouna.
+
+[167500-170690]
+Ngolokuna, o ye Konatɛw ye.
+Ngolokouna, ce sont les Konaté.
+
+[171920-177780]
+Konatɛw fana olu ye kɛlɛ kɛ kosɛbɛ Bitɔn nɔfɛ.
+Les Konaté aussi ont beaucoup combattu derrière Biton.
+
+[178440-181030]
+Ka bɔ yen ka na Nca.
+De là-bas à Nthia.
+
+[181840-183320]
+Nca, o ye Tangaraw ye.
+Nthia, ce sont les Tangara.
+
+[184650-188010]
+Tangaraw, bamananw don, u tɛ siran u tɛ yɔgɔyɔgɔ.
+Les Tangara sont des bambaras, ils ne craignent pas, ils ne paniquent pas.
+
+[188540-195000]
+U ye Segu kɛlɛ kɛ kosɛbɛ ka fara Bila Tangaraw kan.
+Ils ont beaucoup fait la guerre de Ségou en plus des Tangara de Bla.
+
+[195670-198310]
+Ka bɔ yen ka na Ɲala.
+De là-bas à Niala.
+
+[199430-200749]
+Ɲala, olu ye Jaraw ye.
+Niala, ce sont les Diarra.
+
+[201830-204680]
+Bamananw don, u ma siran u ma yɔgɔyɔgɔ.
+Ce sont les bambaras, ils n'ont ni crainte ni panique.
+
+[205440-210150]
+Ka bɔ yen ka na Bagadaji.
+De là-bas à Bagadadji.
+
+[210575-213860]
+Bagadaji, olu ye e Wulalɛw ye.
+Bagadadji, ce sont les Woulalé.
+
+[215100-216325]
+Marakafinw don.
+Ce sont des Soninkés noirs.
+
+[216500-220900]
+U fana ye kɛlɛ kɛ, u ye mɔriya kɛ kɛlɛdenw ye.
+Ils ont aussi fait la guerre et le maraboutage pour les guerriers.
+
+[221490-223300]
+U b'u ja farinya k'u ja lamin.
+Ils les rassurent et les rendent audacieux.
+
+[224180-226260]
+Ka bɔ yen ka na Guwalan.
+De là-bas à Goualan.
+
+[227020-233020]
+Guwalan ye Bamanandugu ye, u bɛ numuya kɛ, u bɛ marifa dilan, u bɛ kɛlɛkɛlaw dɛmɛ.
+Goualan est un village bambara, ils pratiquent la forge, ils fabriquent des fusils pour aider les guerriers.
+
+[234300-241260]
+Numuw fana bɛ yen, u bɛ marifa dilan, u bɛ dabaw dila k'a di sɛnɛkɛlaw.
+Il y a aussi des forgerons qui fabriquent les fusils et les dabas pour les cultivateurs.
+
+[241510-244450]
+U bɛ sɛnɛ kɛ k'a di kɛlɛkɛlaw ma.
+Ils cultivent pour les guerriers.
+
+[245010-249390]
+Ka bɔ yen ka na ɛ Marena.
+De là-bas à Marena.
+
+[250170-252680]
+ Marena, olu ye Tangaraw ye.
+Marera, ce sont les bambaras.
+
+[253390-254800]
+U fana ye kɛlɛ kɛ kosɛbɛ.
+Ils ont aussi beaucoup mené.
+
+[256230-258670]
+U ma yiranyiran u ma siran.
+Ils n'ont ni craint ni paniqué.
+
+[260780-263840]
+N bɛ bɔ yen n bɛ na Ɲala.
+Je quitte là-bas et je viens à Niala.
+
+[265380-266942]
+O ye Ɲala wara ka dugu ye.
+C'est le village de Niala Wara.
+
+[267800-269860]
+Jaraw don, bamananw don.
+Ce sont des Diarra, des bambaras.
+
+[269910-273000]
+U ye kɛlɛ kɛ Segu fɛ kosɛbɛ, u ma siran.
+Ils ont aussi beaucoup combattu avec Ségou, ils n'ont pas craint.
+
+[274700-276860]
+N bɛ bɔ yen n bɛ na Nkɔnja.
+Après là-bas, je viens à Nkondia.
+
+[278050-286000]
+Nkɔnja, numuw don nka u bɛ dugukolo min kan o ye Guwalakaw ta ye.
+Nkondia, ce sont des forgerons mais la terre qu'ils habitent appartient aux habitants de Gouala.
+
+[286630-288010]
+Guwala, kɛlɛmasaw don.
+Gouala, ce sont des guerriers.
+
+[290140-295350]
+Olu ka numuw don, u bɛ numuya kɛ u ye, u b'u dɛmɛ kɛlɛ la kosɛbɛ, kɛlɛ cɛfarinw don.
+Ce sont leurs forgerons, ils font la forge pour eux et ils les aident beaucoup dans la guerre; ce sont des guerriers.
+
+[296380-298220]
+U ma siran u ma yiranyiran.
+Ils n'ont ni crainte ni panique.
+
+[299808-304110]
+U ye kɛlɛ kɛ kosɛbɛ ka kɛlɛ kɛ Guwalakaw fɛ.
+Ils ont beaucoup combattu avec les guerriers de Gouala.
+
+[304430-305760]
+Guwala, masadugu don.
+Gouala est une ville de rois.
+
+[307560-310580]
+Nkɔnja, numudugu, numudakabanadugu.
+Nkondia est un magnifique village de forgerons.
+
+[311530-313770]
+N bɛ bɔ yen, n bɛ na Sentala.
+Je quitte là-bas et je viens à Sentala.
+
+[314630-316490]
+Sentala, olu ye Kumarew ye.
+Sentala, ce sont les Koumaré.
+
+[317830-318840]
+Numuw don.
+Ce sont des forgerons.
+
+[319600-322100]
+U ye kɛlɛ kɛ kosɛbɛ Bitɔn fɛ.
+Ils ont beaucoup combattu avec Biton.
+
+[322690-323799]
+U ma siran.
+Ils n'ont pas eu peur.
+
+[325740-330060]
+Numudugu minnu don, u caman bɛ yen u ma siran.
+Ce sont des villages de forgerons qui n'ont pas eu peur.
+
+[331150-336370]
+U bɛ yen a bɛ san kɛmɛduuru bɔ u bɛka kɛlɛ dɛmɛ.
+Ils existent ça vaut environ cinq cents ans; ils sont en train de contribuer à la guerre.
+
+[337570-342140]
+Ka bɔ yen ka na Ɲica.
+De là-bas à Gnithia.
+
+[343090-345920]
+Ɲica o ye bamananw ye.
+Gnithia, ce sont les bambaras.
+
+[346230-348790]
+U bɛ laadafɛnw sɔn.
+Ils adorent les fétiches.
+
+[349550-355260]
+U bɛ a bɛ f'o ma ko kɔmɔko
+Incompréhensible
+
+[355410-359880]
+Ni kɛlɛ bɛ na, u bɛ kɔmɔko u b'a lajɛli kɛ.
+Si la guerre arrive, ils devinent avec le kômô.
+
+[359970-362560]
+Nin de saraka ka kan ka bɔ, nin ma kan tɛ ka bɔ.
+Nous devons faire ce sacrifice, nous ne devons pas cela.
+
+[362990-366310]
+A' ye nin bɔ, kɛlɛ bɛ kɛ tan a' bɛ kɛlɛ bunbɛn tan.
+Faîtes ce sacrifice, c'est comme ça que vous devez contrecarrer la guerre.
+
+[368870-372000]
+N bɛ bɔ yen n bɛ na Sintala.
+Je quitte là-bas et je viens à Sintala.
+
+[372870-375100]
+Sintala, olu ye Konatɛw ye.
+Sintala, ce sont les Konaté.
+
+[378221-383210]
+Olu ye sigiyɔrɔ di e e Ngolobala ma, olu ye Jakitew ye.
+C'est eux qui ont donné la terre, eh eh à Ngolobala, ce sont des Diakité.
+
+[383860-391450]
+Jakitew olu nana juraya senfɛ ka sigi yen ka kɛ kɛlɛ cɛfarin ye filaya kɔnɔ.
+Les Diakité sont venus s'installer là-bas par voie de commerce puis devenir des guerriers.
+
+[392670-397960]
+N bɔra yen n taara Guwalan.
+J'ai quitté là-bas et je suis parti à Goualan.
+
+[399151-403140]
+Guwalankaw o ye bamananw ye, bamanandɔni b'u la kosɛbɛ.
+Les habitants de Goualan sont des bambaras, ils ont beaucoup de savoirs bambaras.
+
+[403870-404510]
+U tɛ siran.
+Ils ne craignent pas.
+
+[404830-407200]
+U bɛ laturu da, u bɛ mɔriya kɛ.
+Ils pratiquent la géomancie, ils font le maraboutage.
+
+[413810-417030]
+Ni n bɔra Guwalan n bɛ taa ɛɛ Bagadaji.
+Quand je quitte Goualan je vais à Bagadadji.
+
+[417990-419850]
+Bagadaji olu ye Wulalɛw ye.
+Bagadadji, ce sont des Woulalé.
+
+[420290-423010]
+N bɛ bɔ yen n bɛ na Marena.
+Je quitte là-bas et je viens à Marena.
+
+[423950-426170]
+Marenakaw olu ye numusokala ye.
+Marena est le quartier des forgerons.
+
+[427210-429660]
+Kɛlɛ dɛmɛbagaw don kosɛbɛ kosɛbɛ.
+Ce sont de vrais participants à la guerre.
+
+[430200-433740]
+U ye kɛlɛ kɛ ka kɛlɛ [développer] kosɛbɛ.
+Ils ont beaucoup développé la guerre.
+
+[435690-437880]
+N bɛ bɔ yen n bɛ na Bila mara la.
+Je quitte là-bas et je viens dans le cercle de Bla.
+
+[438370-441820]
+Tangaraw don, bamananw don, u nin ma siran u t'u yɛrɛ sɔsɔ.
+Ce sont des Tangara, des Bambaras, ils n'ont pas eu peur, ils ne se contredisent pas.
+
+[442310-443601]
+U ye kɛlɛ kɛ kosɛbɛ.
+Ils ont beaucoup combattu.
+
+[444636-446930]
+Ka bɔ yen ka na Fana.
+De là-bas à Fana.
+
+[447350-448540]
+Olu ye Malew ye.
+Eux ils sont des Mallé.
+
+[449510-450560]
+Male ye jɔnka ye.
+Mallé est Dionka.
+
+[451341-453340]
+N'a fɔra Jɔnka bamanan don.
+Quand on dit Dionka, c'est le Bamanan.
+
+[454690-456100]
+U tɛ kan wɛrɛ fɔ ni bamanankan tɛ.
+Ils ne parlent que le bamanankan.
+
+[456310-458360]
+U farala Segu kan ka kɛlɛ kɛ.
+Ils ont aidé Ségou à faire la guerre.
+
+[459503-460700]
+Ka bɔ yen ka na Jɛna.
+De là-bas à Djèna.
+
+[462030-470330]
+0lu de ye nansara kunbɛn ka kɛlɛ kɛ [le 24 février] ka tubabuw kunbɛn, u ye san min k'a la a bɛ san duuru bɔ.
+C'est eux qui ont barré les blancs le 24 février, ils ont résisté aux blancs pendant à peu près cinq ans.
+
+[470820-472432]
+U ma yiranyiran u ma siran.
+Ils n'ont ni craint ni paniqué.
+
+[473570-476780]
+N bɛ bɔ yen n bɛ taa Folomana.
+Je quitte là-bas pour aller à Folomana.
+
+[478520-481110]
+Folomana o fana ye bamanan ye.
+Folomana est aussi bambara.
+
+[482100-484450]
+U ye kɛlɛ kɛ kosɛbɛ ka Segu dɛmɛ.
+Ils ont beaucoup combattu pour aider Ségou.
+
+[484840-489420]
+Nr'i ko Jɔnka i ko bɛnkan, i ko bamananya, i ko laadatigi.
+Qui dit Dionka dit convention, dit bamanan, dit homme de tradition.
+
+[490780-491927]
+Jɔnkaya kɔrɔ y'o ye.
+Ca c'est la signification de Dionka.
+
+[493160-499620]
+Laada min b'u fɛ, u bɛ denmisɛn caman fara ɲɔgɔn kan; u b'a fɔ olu ko bilakorow.
+Leur tradition est de réunir les enfants qu'ils appellent des Bilakoro.
+
+[500086-501150]
+Bilakoro kɔrɔ ye jumɛn ye?
+Que signifie Bilakoro?
+
+[501530-502250]
+Bilankɔrɔ.
+Bilankôrô.
+
+[503128-506020]
+Ni ko min nana i b'a bila i ka cidenya la.
+En cas de besoin, tu le commissionne.
+
+[506200-509480]
+N'a nana bɔ bilakoroya la, a bɛ kɛ kamalenkun ye .
+Quand il dépasse l'étape de bilakoro il devient Kamalen.
+
+[510530-512600]
+A mana kamalenya u b'a boloko.
+S'ils deviennent Kamalen, ils les circoncisent.
+
+[513040-518200]
+U bɛ se ka cɛ kɛmɛduura kɛmɛwɔɔo boloko ɲɔgɔn fɛ.
+Ils peuvent circoncire cinq cents à six cents garçons ensemble.
+
+[518440-523040]
+Aw mana bɔ bolokoliso kɔnɔ muso bɛ furu k'a di aw ma.
+A la sortie de la case de la circoncision, on vous donne des femmes.
+
+[523320-525371]
+A' bɛ cɛkulusi saba ta.
+Vous prenez les trois habits d'homme.
+
+[525680-527010]
+Cɛkulusi saba ye mun ye?
+C'est quoi les trois habits d'homme?
+
+[529640-534070]
+I bɛ kulusi min don ani duloki ani banfula.
+Le pantalon que tu portes, la chemise et le chapeau.
+
+[534540-536890]
+A labɛnnan tɔ ye mun? O ye marifa ye.
+Il reste quel élément? ça c'est le fusil.
+
+[537620-538880]
+O y'i ka cɛya labɛnnen ye.
+Et tu es devenu un homme.
+
+[539480-541910]
+O mana bɔ yen u bɛ so ta ka d'i ma.
+Ensuite ils te donnent le cheval.
+
+[542290-543180]
+So y'i ka yɛlɛnkanfɛn ye.
+Le cheval est ta monture.
+
+[544645-545645]
+I bɛ fara cɛw kan.
+Tu rejoins les hommes.
+
+[546750-548260]
+N'i ko cɛya i ko labɛn.
+Qui dit homme dit préparation.
+
+[548980-552400]
+N'i ko labɛn i ko kodɔn.
+Qui dit préparation dit savoir.
+
+[552640-555330]
+N'i ko kodɔn i ko jafarinya.
+Qui parle de savoir parle d'audace.
+
+[556030-558370]
+I tɛ se ka kɛ cɛ ye n'i ja man farinya.
+Tu ne peux pas être un homme si tu n'es pas audacieux.
+
+[560130-561800]
+I labɛnnen tɛ.
+Tu n'es pas préparé.
+
+[562440-564680]
+N'i labɛnna i nin t'i sɔsɔ.
+Si tu es préparé, ton âme ne te contredira pas.
+
+[565020-567130]
+I bɛ saya kɔrɔdɔn ni malo ye.
+Tu préfères la mort que l'humiliation.
+
+[568560-569620]
+O ye bamananya ye.
+ça c'est être bamanan.
+
+[570470-573820]
+N'a fɔra bamanan, maa min b'i banba a yɛrɛ kan.
+Quand on dit bamanan, c'est celui qui s'appuie sur soi-même.
+
+[574190-576270]
+A tɛ nkalon tigɛ, a tɛ janfa kɛ.
+Il ne ment pas, il ne trahit pas.
+
+[577319-578319]
+Bamananya ma sɔn o ma.
+Le bamanan ne fait pas ceci.
+
+[579030-581840]
+N'i ko bamanan, i bama i yɛrɛ kan.
+Quand tu dis bamanan, c'est de s'appuyer sur soi-même.
+
+[582460-583310]
+I kana siri maa na.
+Ne pas dépendre de quelqu'un.
+
+[585380-588250]
+Maa de bɛ se ka na sig'i kɛrɛfɛ ka fara i kan.
+Une autre personne peut te rejoindre pour s'asseoir à côté de toi.
+
+[588690-589510]
+I tɛ fara maa kan.
+Tu ne t'ajoute à personne.

@@ -1,0 +1,619 @@
+[1860-3230]
+Ko ni min bɛ siran o ka bɔ.
+Celui qui a peur n'a qu'à sortir.
+
+[4600-5600]
+U nana...
+Ils sont venus...
+
+[5630-6870]
+U bɛ ka surunya bulon na.
+Ils s'approchent de la vestibule.
+
+[7220-11010]
+Kaana Balaba, a ye ta don marifamugu la.
+Kana Balaba, il mit le feu dans la poudre à canon.
+
+[14310-16740]
+Ko ale bɛ saya kɔrɔ dɔn fulajɔnya ye.
+Qu'il préfère la mort à la captivité.
+
+[20250-28720]
+Futa kɛlɛkɛcɛw, u y'a su ta ka na a di Seku Amadu sigilen ma, Lamijurubɛ.
+Les guerriers de Fouta, ont pris son cadavre pour l'amener à Sékou Amadou, Lambijurbè. 
+
+[30370-31750]
+U nana su da a ɲɛ kɔrɔ...
+Ils sont venus poser le cadavre devant lui...
+
+[33290-34290]
+A y'i kun biri.
+Il baissa la tête.
+
+[34790-36315]
+A ye Kaana Balaba dalen ye.
+Il vit Kana Balaba allongé.
+
+[37570-38570]
+A ko ni ye denkɛ ye.
+il dit celui là est un fils.
+
+[39590-40590]
+Denkɛya bɛ kɛ tan.
+C'est être un fils.
+
+[42550-44960]
+Baki Tuma mɔden, Tarawele, cɛya bɛ kɛ tan.
+Petit fils de Baki Touma, Traoré, c'est ça être un homme.
+
+[49290-52690]
+E min sɔnna k'i jɔ denkɛ fɔlɔya jɔyɔrɔ la.
+Toi qui a accepté d'occuper la place de fils aîné.
+
+[54280-55010]
+Tarawele.
+Traoré.
+
+[58110-62660]
+U ye Kaana minɛn, ka Kaana fɛn fara ɲɔgɔn kan k'u bɛ na Segu.
+Ils ont pris Kana, se sont emparés des biens de Kana et sont venus à Ségou.
+
+[64300-67670]
+U nanen Ségu, a ye Amadu Hama Lɔbɔ wele.
+Arrivé à Ségou, il appela Amadou Hama Lôbô. 
+
+[67720-68100]
+Uhun.
+Uhun.
+
+[69240-72100]
+Bilakoro, san tan ni saba, hali a ma sigi nɛgɛkɔrɔ fɔlɔ.
+Un jeune de treize ans, même pas encore circoncis.
+
+[74640-76190]
+A ko ''Amadu Hama Lɔbɔ...''
+Il dit '' Amadou Hama Lôbô...''
+
+[79410-80860]
+N be muso saba di i ma.
+Je te donne trois femmes.
+
+[81750-83460]
+Ka jume kurufin saba di i ma.
+Te donner trois étalons à la robe noire et aux pattes blanches.
+
+[83510-83940]
+Uhun.
+Uhun.
+
+[85290-87230]
+Ka marifa ba tan ani fila di i ma.
+Te donner douze milles fusils.
+
+[88280-90590]
+Ka jume kurufin ba tan ani fila di i ma.
+Te donner douze mille étalons à la robe noire et aux pattes blanches.
+
+[91670-93270]
+He, Amadu Hama Lɔbɔ ko a ma...
+Ehh, Amadou Hama Lôbô lui dit...
+
+[94320-98420]
+Futa kɛlɛkuntigi, ne ye bilakoro de ye, n ye denmisɛnnin ye, hali n ma sigi nɛgɛkɔrɔ fɔlɔ.
+Souverain de Fouta, je suis jeune, je suis enfant garçon, je ne suis même pas encore circoncis.
+
+[98420-99310]
+N bɛ mun kɛ muso saba la?
+Je fais quoi avec trois femmes?
+
+[99370-100110]
+N bɛ siran.
+J'ai peur.
+
+[101500-102720]
+A ko bɔn n b'i boloko.
+Il dit alors je te circoncirais.
+
+[104650-106330]
+N b'i boloko, ka muso saba di i ma.
+Je te circoncirais et je te donne trois femmes.
+
+[108180-110210]
+Ki i sigi kɛlɛ ba tan ani fila kun na.
+Je te ferai général d'une armée de douze mille hommes.
+
+[112820-118500]
+A ko Futa kɛlɛkuntigi, Lamijurubɛ, n'i ye muso saba di ne ma, n bɛ siran.
+Souverain de Fouta, Lambijurbè, si tu me donnes trois femmes, j'ai peur.
+
+[119780-121090]
+N bɛ mun kɛ musa saba bɛe la?
+Qu'est ce que je fais avec trois femmes?
+
+[121110-121730]
+Kelen be ne bɔ.
+Une me suffit.
+
+[121920-126860]
+Parisike ko n'i ye muso saba ta, ko ni i m'i farati ko a bɛ i kɛ dangaden ye.
+Parce que si tu prends trois femmes, si tu ne fais pas attention, tu seras un fils maudit.
+
+[127570-130860]
+Ko dɔ b'i ba sagonako kɛ, dɔ t'i ba sagonako kɛ.
+Une fera qu’aimer ta mère et l'autre non. 
+
+[132890-136120]
+Amadu Hama Lɔbɔ, san tan ni saba.
+Amadou Hama Lôbô, treize ans.
+
+[137540-140460]
+U y'o di a ma, k'a sigi nɛgɛkɔrɔ.
+On la lui donna et on le circoncit.
+
+[141110-143830]
+A bɔlen nɛgɛkɔrɔ, ka muso kelen di a ma.
+On lui donna une femme après la circoncision.
+
+[146660-148970]
+Ka a sigi kɛlɛbolo ba tan ani fila kunna.
+Et le faire général d'un bataillon de douze mille hommes.
+
+[149450-150710]
+Marifa b'u bɛɛ bolo.
+Chacun possède un fusil.
+
+[155920-156440]
+Segu.
+Ségou.
+
+[158630-162530]
+Amadu Hama Lɔbɔ sigilen kɛlɛbolo ba tan ani fila kunna...
+Amadou Hama Lôbô installé à la tête d'un bataillon de douze mille hommes...
+
+[164230-165610]
+U tora o sigi la.
+Étant assis.
+
+[165610-166170]
+Uhun.
+Uhun.
+
+[168400-169400]
+Cɛ saba nana.
+Trois hommes sont venus.
+
+[169840-172090]
+Maa tɛ cɛ saba minnu bɔyɔrɔ dɔn.
+Personne ne sait d'où ils viennent.
+
+[178590-180700]
+O ce saba la, u nana.
+Ces trois hommes sont venus...
+
+[181050-183930]
+Mankan nana tɛmɛn-tɛmɛn u ni ɲɔgɔn cɛ.
+Il y a eu une discussion entre eux.
+
+[188020-188740]
+O kungo kɔnɔ.
+Dans la brousse.
+
+[189930-194560]
+O waati, jɔn de bɛ minɛ, i bɛ taa feere sugu la.
+En ce moment, on capturait les esclaves, on allait les vendre au marché.
+
+[202840-203700]
+Ha, o jɔnko la.
+Ah cette question d'esclave.
+
+[206200-211400]
+Dugu masakɛ, ntɛnɛn o ntɛnɛn, ale bɛ taa dɔgɔ jɔ.
+Le roi, chaque lundi, il partait à la foire.
+
+[211750-212750]
+A bɛ taa sugu jɔ.
+Il va au marché.
+
+[217280-221610]
+N'a' taara sugu jɔ, a' b'a yaala-yaala sugu kɔnɔ.
+Si vous allez au marché, vous vous promenez dans le marché.
+
+[221960-222960]
+A' bɛ jɔnw de san.
+Vous achetez des esclaves.
+
+[225020-228850]
+N'a' ye jɔn san, a' taa jɔn, kɔmasegin kɛ.
+Si vous achetez l'esclave, vous le revendez.
+
+[228860-236570]
+Kɔmasegin de ye, ka fɛn san, e bolo, ka taa a feere yɔrɔ wɛrɛ k'i ka sɔrɔta sɔrɔ a kan.
+Revendre c'est acheter quelque chose  toi-même, aller vendre ailleurs et avoir du bénéfice là dessus.
+
+[241360-245900]
+A don, a nana, jɔn bɛɛ sanna k'a tɔ to jɔn kelen ye.
+Ce jour-là, il est venu, tous les esclaves ont été achetés sauf un.
+
+[247780-253540]
+O jɔn kelen, masakɛ ko, ko a bɛ jɔn in san.
+Ce seul esclave, le roi a voulu l'acheter.
+
+[256020-259840]
+Min bɛ ka jɔn feere, o ni masakɛ tun tɛna ɲɛ feere la.
+Celui qui est en train de vendre l'esclave, n'allait pas s'entendre avec le roi.
+
+[260040-264750]
+Jɔnkɛ yɛrɛ ko, a ko masakɛ ne san, n'i ye san, i tɛ nimisa parisike fɛn saba bɛ yen, ne b'o dɔn.
+L'esclave même dit, o roi achète moi, si tu m'achètes tu ne vas pas regretter parce qu'il y'a trois choses que je connais.
+
+[267090-267850]
+Ha.
+Ah.
+
+[269690-271250]
+Ko fɛn saba be yen, ko e b'o dɔn?
+Il y a trois choses que tu connais?
+
+[271400-272100]
+Ko ahan.
+Il dit oui.
+
+[272560-273820]
+Ko o ye fɛn saba jumɛn ye?
+Quelles sont ces trois choses?
+
+[274290-278280]
+Ko ale bɛ mɔgɔ dɔn, k'a bɛ di dɔn, k'a bɛ so dɔn.
+Qu'il connaît l'homme, le miel et le cheval. 
+
+[280970-283230]
+Ko n san masakɛ, n'i ye n san i tɛ nimisa.
+Achètes-moi roi, si tu m'achètes, tu ne le regretteras pas.
+
+[283840-285120]
+Dɔnku, masakɛ y'a san.
+Donc le roi l'acheta.
+
+[287140-291160]
+Tuma min na ni feere latɛmɛnna a ma, masakɛ taara n'a ye a ka so.
+Lorsque la vente a été conclu, le roi l'emmena chez lui.
+
+[291690-297010]
+Don dɔ, u tora sigi la, so feerela dɔ nana, ko ale bɛ so feere.
+Un jour, étant installés, quelqu'un est venu, qu'il vend des chevaux.
+
+[297730-301040]
+Masakɛ ko, a' ye taa Fɛnsabadɔn weele ka na.
+Le roi dit '' allez-y appeler  ''Fɛnsabadɔn''.
+
+[301140-302550]
+Min ko, k'ale bɛ fɛnsaba dɔn.
+Celui qui dit qu'il connaît trois choses.
+
+[304390-305740]
+U taara jɔnkɛ weele ka na.
+Ils sont partis appeler l'esclave.
+
+[306190-308610]
+Jɔnkɛ nanen, a ko, ko bɔn ko so in lajɛ.
+Lorsque l'esclave est venu, il dit alors, regarde ce cheval.
+
+[308780-310630]
+So in kanu ye ne minɛ, n bɛ fɛ k'a san.
+J'aime ce cheval, je veux l'acheter.
+
+[310780-312850]
+Mɛ komi ne tɛ so dɔn, e ko i bɛ so dɔn.
+Mais comme moi je ne connais pas les chevaux, toi tu dis que tu connais les chevaux.
+
+[313920-316830]
+N bɛ fɛ i ka lajɛ ni lahalaya min yera a la i k'o fɔ n ye.
+Je veux que tu le consultes et que tu m'en dise sur son état.
+
+[318430-319430]
+A ko baasi tɛ.
+Il dit ok.
+
+[319570-329610]
+A ko Masakɛ, so in kanu b'i la, i bɛ se k'a san kanu yɔrɔ la, mɛ min bɛ so la,  n'i ko, ko f'i ye, kana so in san, a tere man ɲi, si t'a la.
+Il dit mon roi, tu aimes ce cheval, tu peux l'acheter par amour, mais ce qu'il y a, si tu veux que je te dise cela, n'achètes pas ce cheval, il est hanté, il n'a pas une longévité. 
+
+[331680-336550]
+Ha Masakɛ ko, ne be so in san, hali ni ne y'a san bi, n'a sara bi, a kanu bɛ n na.
+Ah le roi dit, J'achèterai ce cheval, même si je l'achète aujourd'hui et qu'il meurt aujourd'hui, je l'aime.
+
+[337450-339090]
+Masakɛ be fɛ ka jɔnkɛ kɔrɔbɔ.
+Le roi veut tester l'esclave.
+
+[339270-341050]
+A ye saba min fɔ, n'o y'a sɔrɔ a b'o dɔn.
+S'il connaît réellement les trois choses  qu'il a dites.
+
+[341050-341540]
+Uhun.
+Uhun.
+
+[343020-344020]
+Masakɛ ye so san...
+Le roi a acheté le cheval...
+
+[344460-348550]
+Wula selen, Masakɛ y'i pari k'i sigi so kan.
+Le soir, le roi s'est habillé et monté sur le cheval.
+
+[348690-350460]
+A bɛ yaala-yaala bɔlɔn kɔnɔ.
+Il se promène dans les rues.
+
+[350700-354180]
+Dugu denmisɛnnin bɛɛ cɛrra masakɛ kɔ.
+Tous les enfants du village ont suivi le roi.
+
+[354350-356700]
+Ko ha, ko masakɛ ka nin so in ko a ka ɲi.
+Ah vraiment ce cheval du roi est beau.
+
+[357150-358330]
+A seginna ka na so...
+Il est retourné à la maison.
+
+[358570-361120]
+Su kora a ye so siri, yanni dugu ka jɛ a taara sɔrɔ so sara.
+La nuit tombée, il attacha le cheval, le lendemain, il trouva que le cheval est mort.
+
+[361300-361810]
+Hun!
+Hun!
+
+[365240-366400]
+A y'i kun kɔmi-kɔmi.
+Il hocha la tête.
+
+[369110-370970]
+Komi jɔnke ko ale bɛ fɛn saba dɔn.
+Comme l'esclave dit qu'il connaît trois choses.
+
+[371740-374420]
+Kelen dɔnni, a y'o jira a la sisan.
+Il lui a montré la connaissance de l'une toute à l'heure.
+
+[377280-380830]
+U tora o sigi la, don dɔ kɛra, dɔ tora feere la.
+Étant là, un jour, quelqu'un était en train de vendre.
+
+[382450-383010]
+Di.
+Le miel.
+
+[383400-384400]
+I bɛ di dɔn wa?
+Connais-tu le miel?
+
+[384550-386830]
+Dɔ tora feere la, a bɛ ka di de feere.
+Quelqu'un était en train de vendre, il vendait du miel.
+
+[391510-392510]
+Di b'a bolo.
+Il avait du miel.
+
+[392700-394770]
+A bɛ fɛn suguya saba kɔnɔ a bolo.
+Il l'avait dans trois choses différentes.
+
+[395650-397740]
+U ko, ko taa Sabadɔn weele ka na.
+Ils disent d'aller appeler Sabadôn.
+
+[398200-399870]
+Ko komi ko a ko a bɛ fɛn saba dɔn.
+Comme il dit qu'il connaît trois choses.
+
+[400440-401580]
+Ko a ko a bɛ di dɔn.
+Il dit qu'il connait le miel.
+
+[401600-405080]
+Ko ditigi nana, ko ale bɛ fɛ ka di san mɛ ko a sirannen don.
+Que le vendeur de miel est venu, qu'il veut acheter du miel mais il a peur.
+
+[407760-410440]
+KO a bɛ fɛ ka di san nka ko a sirannen don.
+Qu'il veut acheter du miel mais il a peur.
+
+[415680-416680]
+Sabadɔn nana.
+Sabadôn est venu.
+
+[417530-423310]
+A ko masakɛ, e file, ne filɛ, di feerela yɛrɛ file.
+Il dit, mon roi, te voici, me voici et voici aussi le vendeur de miel.
+
+[423590-431820]
+Mɛ di feerela, n bɛ i ma ni Ala ye, i ka dibara fɔlɔ in, min filɛ, nin ye ŋunun di ye.
+Mais vendeur de miel, je viens vers toi par le nom de Dieu, ton premier pot de miel que voici, c'est du miel de ruche.
+
+[433740-434380]
+A y'o bila.
+Il laissa cela.
+
+[434700-437280]
+A ye filanan ta, a y'i bolo don o la k'o da a nɛ na.
+Il prit le deuxième, il mit sa main dedans et le gouta.
+
+[438800-445690]
+A ko di feerela, n bɛ i ma ni Ala ye, i ka nin dibara filanan in, nin ye yiri wo...
+Il dit: vendeur de miel, je viens vers toi par le nom de Dieu, ton deuxième pot de miel là, c'est du trou d'un arbre...
+
+[446470-448770]
+Yiri jɔlen, wo bɛ kɛ jirila, ko nin y'o di ye.
+Un arbre vivant, il peut avoir un trou, c'est du miel de celui-ci.
+
+[452360-453360]
+A y'o bila kɛrɛfɛ.
+Il déposa ça à coté.
+
+[453950-454950]
+A ye sabanan ta.
+Il prit le troisième.
+
+[455170-455570]
+Uhun.
+Uhun.
+
+[455660-458400]
+A ye bolo don o la, a y'o da a nɛ na.
+Il mit sa main dedans et le gouta.
+
+[459400-466200]
+A ko di feerela, n bɛ i ma ni Ala ye, i ka nin dibara sabanan in, nin ye kaburudo di ye.
+Il dit: vendeur de miel, je viens vers toi par le nom de Dieu, ton troisième pot de miel là, c'est du miel de cimetière.
+
+[469010-470010]
+A y'o fana bila kɛrɛfɛ.
+Il laissa aussi ça de coté.
+
+[471790-479520]
+Masakɛ ko ditigi, di feerela ma, a ko ne ka jɔnkɛ minnu fɔ sisan, a bɛɛ ye tiɲɛ ye wa walima a bɛ di?
+Il dit: propriétaire de miel, vendeur de miel, tout ce que mon esclave vient de dire est-il vrai ou faux?
+
+[479820-480820]
+Hunhun.
+Hunhun.
+
+[481580-486140]
+A ko masakɛ, a ko bara fɔlɔ min ye ŋunun di ye...
+Il dit, mon roi, le premier pot qu'il avait dit que c'est du miel de ruche...
+
+[486140-486560]
+Uhun.
+Uhun.
+
+[486970-490870]
+Don dɔ, ne ye diden kulu ye, ne yɛrɛ bolo de ye ŋunun da.
+Un jour, j'ai vu un essaim d'abeille, c'est moi-même qui ai posé la ruche.
+
+[490910-491360]
+Uhun.
+Uhun.
+
+[491440-495330]
+Ŋunun ye fɛn ye, burusi kɔnɔ, u b' dilan ni kala ni fɛnw ye.
+La ruche c'est quelque chose qu'on fabrique avec des épis et autres choses en milieu rural.
+
+[495550-496840]
+Ka taa ŋunun da.
+Partir poser la ruche.
+
+[497200-500440]
+Diden donna ŋunun kɔnɔ ka di nɔnɔ da a la, nin y'o di ye.
+Les abeilles sont entrées dans la ruche et  ont mit du nectar de miel, ce miel là.
+
+[503930-506600]
+A ko filanan min ni a ko, ko ye jiriwoladi ye...
+Le deuxième qu'il dit que c'est du miel du trou d'un arbre...
+
+[507040-516940]
+Don dɔ, ne tora yaala la wulada fɛ, ne ye didenkulu finnen ye jiri dɔ la, ne sera jiri in na, n y'a sɔrɔ wo de don, n taara, n ye wo in ci, n ye di bɔ.
+Un jour, je me promenais le soir, j'ai vu un essaim d'abeille dans un arbre, je me suis approché de l'arbre, j'ai vu que c'est un trou, j'ai percé le trou et extrait le miel.
+
+[517470-518810]
+Bara filanan in y'o di ye.
+Le deuxième pot est du miel de ceci.
+
+[523100-526110]
+Sabanan, a ko, ko ye kaburudo di ye.
+Le troisième, il dit que c'est du miel de cimetière.
+
+[526540-531480]
+Don dɔ, ne taama-taamatɔ, ne ye kaburu dɔ ye, diden finnen don a la.
+Un jour, je marchais, j'ai vu un cimetière où il y avait plein d'abeilles.
+
+[532000-535430]
+Ne taara, ne y'a lajɛ, ne y'a sɔrɔ di bɛ a la, ne y'o di bɔ
+Je suis parti, j'ai regardé, j'ai vu qu'il contenait du miel, j'ai extrait ce miel là.
+
+[535470-536670]
+Bara sabanan in y'o di ye.
+Le troisième pot est du miel de celui-ci.
+
+[540910-541990]
+Masakɛ ye di san.
+Le roi acheta le miel.
+
+[542480-543480]
+Difeerela taara.
+Le vendeur de miel est parti.
+
+[544040-551180]
+Masakɛ bɛ ka da jɔnkɛ la dɔnni-dɔnni pasike a ye fɛn saba fɔ, a ye fɛn fila jira ale la min dɔn bɛ ale la tiɲɛ yɛrɛ la.
+Le roi est en train d'avoir confiance en l'esclave parce que les trois choses qu'il a dit, il lui a montré deux choses qu' il connait vraiment.
+
+[554990-556210]
+San bɛ na yɛlɛma.
+L'année tend vers la fin.
+
+[556550-563300]
+Ni san yɛlɛmana, masakɛw, u b'u ka san kibaruya lajɛ, k'u ka don kibaruya lajɛ.
+Lorsqu'il y'a renouvellement de l'année, les rois consultent les devins pour la nouvelle année.
+
+[567570-568970]
+K'u ka don kibaruya lajɛ.
+Consulter le jour.
+
+[570010-572380]
+Dɔnku, san yɛlɛmanen...
+Donc la nouvelle année a débuté...
+
+[572830-576770]
+Masakɛ ye weele da Sabadɔn ma, ko a ka na.
+Le roi appela Sabaôn pour qu'il vienne.
+
+[577300-584030]
+Ko komi ale yɛrɛ ye masa ye, ko a bɛ fe sisan ka a ka san kibaruya lajɛ.
+Comme lui-même est un roi, il veut se renseigner sur la nouvelle année.
+
+[585320-588390]
+K'a dɔn, ale yɛrɛ ye min ye, ko Sabadɔn k'o fɔ a ye.
+Pour qu'il sache qui il est, que Sabadôn lui dise cela.
+
+[591290-603040]
+Sabadɔn ko a ma, ne te n da don i ka san kibaru la fo i ka don dugu kɔnɔ, dugu maa ladiri saba, i ko ɲinin ka fara i yɛrɛ kan, ka na ne kɛ olu duurunan ye.
+Sabadôn lui dit, je ne te renseignerais pas sur ton année sauf si tu rentres dans le village, chercher trois personnes honnêtes, les ajouter à toi et que moi je sois le cinquième.
+
+[604320-607360]
+An ka seereya Ala ɲɛ kɔrɔ, n ka sɔrɔ k'i yɛrɛ fɔ i ye.
+Qu'on témoigne devant Dieu pour que je te dise qui es tu.
+
+[610890-612690]
+Alihamudu lilayi arabili ala miina.
+Gloire à Dieu.
+
+[613000-614620]
+An bɛ Ala fo, ka Ala barika da.
+Nous saluons Dieu, nous Lui rendons grâce.
+
+[615150-620730]
+Masa min sɔnna ka bi sigi latɛmɛnni nɔgɔya an ma, o de ye Ala ye.
+Dieu qui a accepté de faciliter l'assise d'aujourd'hui, c'est lui Dieu.
+
+[621150-624260]
+A fɔra Masa min ma ko .........
+....................Arabe
+
+[624730-625730]
+O de ye Ala ye.
+C'est lui Dieu.
+
+[626140-627720]
+An bɛ Ala fo ka Ala barikada.
+Nous saluons Dieu et nous Lui rendons grâce.
+
+[628370-631470]
+A ka funɛkɛ mankan don Funɛ Sɛkinɛ Kamara ka bɔ Segu Duguninkɔrɔ.
+C'est votre griot, Founè Cheicknè Camara de Ségou Dougounikôrô.
+
+[632120-635890]
+Nin de kɛra a tulon garisɛgɛ bi, hakɛto bɛ kuma kan sɔli Rasuli...
+C'est ce qui à été votre chance, nous vous demandons pardon au nom du Prophète Paix et Salut sur Lui...

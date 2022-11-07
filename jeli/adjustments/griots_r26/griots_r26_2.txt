@@ -1,0 +1,783 @@
+[1530-4170]
+i ye san kelen, i ye kalo naani, kalo wooro k'ola
+quand tu fais un an, quatre moi, six mois ainsi
+
+[4990-6096]
+u be wari fanaɲɔgɔn kan
+ils assemblent les monnaies
+
+[6730-7800]
+u bɛ segin ka n'o ye
+ils reviennent avec ça
+
+[8480-11693]
+dɔw bɛ kɛ, nɛgɛso, i mako bɛ kɛ nɛgɛsola ka san 
+certains se font, si tu as besoin d'acheter un vélo
+
+[12120-15430]
+a y'a sɔrɔ kabin'i bɔtɔ,i ni g atigi b'a fɔ
+ça trouve que depuis en allant, tu en parles avec le chef de famille
+
+[16609-17830]
+a ko ni ne taara je in na
+que si je pars cette fois,
+
+[18090-20830]
+ko ni ne ye wari sɔrɔ
+si je trouve de l'argent,
+
+[21030-22523]
+n bɛ nɛgɛso kelen san
+je vais acheter un vélo
+
+[22875-24330]
+gatigikɛ bɛ yamaruya d'i ma
+le chef de famille te donne son accord
+
+[25063-28520]
+n'o kɛra, n'i ye wari sɔrɔ, i bɛ nɛgɛso kelen san
+ainsi , quand tu auras de l'argent, tu t'achèteras un vélo   
+
+[28994-32013]
+wari tɔ ye min ye pewu-pewu, i bɛ nan'a bɛɛ ye
+tu apporte tout le reste de l'argent
+
+[32290-33380]
+kan'a bɛɛ di gwatikɛ ma
+et le donne au chef de famille
+
+[34870-35931]
+o y'a sɔrɔ i ma se musofuru ye
+ça trouve que tu n'as pas l'âge de te marier
+
+[37540-39190]
+g atigikɛ bɛ wari ninnu faraɲɔgɔnkan 
+le chef de famille assemble les monnaies
+
+[41660-44600]
+inpo min bɛ dumɔgɔw la, o bɛ caman b'ola
+la plus grande partie des impôts de la famille sera payée
+
+[45720-47107]
+ka san wɛrɛ ta labɛn 
+et préparer celui de l'année prochaine
+
+[47564-49513]
+min bɛ mara, u bɛ misi san dɔw la
+ils payeront des boeufs avec ce qui reste
+
+[50130-51300]
+ka saridabaw san
+acheter des charrues
+
+[52377-54219]
+n'o kɛra san wɛrɛ ta bɛ labɛn
+après cela, celui de l'année prochaine sera  préparé
+
+[55012-57734]
+kɔmi saridaba sanna ɲinan, san wɛrɛ saridaba tɛ san
+puisque la charrue a été acheté cette année, l'année prochaine on en achètera pas
+
+[59500-63007]
+fo kana kɛ, fo kana kɛ wari maralen bɛ caya dɔɔnin   
+jusqu'à ce que la caisse d'épargne sera renflouée
+
+[63741-64930]
+musofuruko bɛ ɲɛɲin'i ye
+ils te chercheront une femme
+
+[66510-68280]
+yanni wari ka tiɲɛ,tiɲɛ ten tɔ
+avant que l'argent ne soit dépensé inutilement
+
+[68730-70693]
+musofuruko bɛ ɲɛɲini aw mɔgɔ damadɔ ye du kɔnɔ
+ils chercheront des femmes pour certains d'entre vous
+
+[72377-73909]
+ o muso ko fo k'a ɲɛɲini
+la femme est minutieusement cherchée  
+
+[74985-76050]
+o tɛ ɲɛɲini kunfɛ ten
+elle ne sera pas cherchée à tue-tête
+
+[76500-78540]
+o bɛ ɲini kabila kabila la 
+elle sera cherchée dans la communauté
+
+[79545-80730]
+fɔlɔla muso kun bɛ 
+auparavant, la femme
+
+[80760-83500]
+mɔgɔw tun be muso ɲini kɛ, i yɛrɛ ni dungɔ ye
+les gens cherchaient la femme par amour
+
+[83910-85250]
+nin ye karisa ye
+incomprehensible
+
+[85790-87660]
+ sisan mɔgɔ bɛ muso ɲini kɛ n'i dungɔ ye 
+actuellement une personne cherche la femme par amour
+
+[90290-91210]
+nin ka di n ye, o tɛ 
+que cela ce n'est pas ça
+
+[91533-94910]
+mɛ maasaw tun bɛ muso de bɔkolo filɛ
+mais les parents observaient la descendance de la femme      
+
+[95630-96650]
+musa fa ye jɔnni ye 
+qui est le père de la femme?
+
+[97180-98120]
+a ba ye jɔnni ye
+qui est sa maman?
+
+[99306-100835]
+e ni ne ye tɛri ye
+toi et moi, nous sommes amis
+
+[102510-104165]
+ne y'a don seba tɛ e ye
+je sais que tu n'as assez de moyens
+
+[105380-106956]
+nka e dun ka du maralen don
+mais tu as une bonne éducation dans ta famille
+
+[107844-109960]
+ni y'o kɛtɔ ye dɔrɔn i b'a sɔrɔ e muso sonnen don i ye
+si cela a été possible, parce que ta femme est soumise
+
+[111630-116820]
+o kama   u bɛ fɛɛrɛ bɛɛ cɔgɔ bɛɛ la, ka, e den dɔ lajɛ 
+c'est pourquoi il fera tout pour avoir une de tes filles
+
+[117702-119642]
+pariseke a bɛ fɔ de bamananna
+parce qu'on dit chez les bambara
+
+[120120-122300]
+ko musomanin bɛ k'a ba ye
+que la fille sera comme sa maman
+
+[123999-129580]
+ko ye musomanin hali misiri kɔnɔ , k'a ba to bari kɔnɔ
+que quand tu une fille même  dans la mosquée pendant que sa maman est dans un bar
+
+[130159-132390]
+a mɛn o mɛn  den in bɛ tila ka taa bari kɔnɔ 
+tôt ou tard, la fille finira dans le bar
+
+[133400-139323]
+ni ye musomani ye  bari kɔnɔ k'a ba to misiri kɔnɔ a mɛn o mɛn den in bɛ tila ka taa misir kɔnɔ
+quand tu vois une fille dans un bar pendant que sa maman est dans une mosquée, elle finira dans la mosquée
+
+[139835-145430]
+n'o ma ɲɛ k'o bɛ fɔ terima damaw bɛ denw lajɛ u n'u ɲɔgɔncɛ
+si on dit ça, les amis  cherchent à marier leurs enfants entre eux
+
+[145836-149080]
+kabila ko b'a la, dɔw ta ye kabila ye
+il y a question de communauté, pour certains c'est la communauté
+
+[149320-152570]
+u b'a jate minɛ an kabila, an t'a fɛ wari ka bɔ an ka kabila kɔnɔ
+il cherche dans leur communauté pour ne pas faire sortir l'argent de leur communauté
+
+[152954-154300]
+n'o ye filalakaw ye ka caya
+comme les peuls
+
+[155340-163490]
+ani caman bɛ yen no, u bɛ kɔlɔsili kɛ den terew ni fɛnw na
+et  nombreux sont ceux qui observent le téré de la fille et autre  
+
+[164793-166734]
+pariseke dɔnni bɛ jamana in kɔnɔ  yan
+parce qu'il y a la connaissance dans ce pays
+
+[167292-168780]
+dɔnni ye jamana in taalan ye
+le savoir fait partie de ce pays
+
+[169443-170310]
+tere ko b'a la
+il y a question de téré
+
+[170850-174110]
+ka dɔn fana an ka nafolo bɛ an ka kabila kɔnɔ 
+bon savoir aussi que votre argent reste dans notre communauté
+
+[174541-176510]
+a ma kan ka labɔ mɔgɔgansan wɛrɛ fɛ
+il ne doit pas en sortir
+
+[177091-178800]
+ donku u bɛ denw di  u yɛrɛ damaw ni ɲɔgɔn ma
+donc ils marient leurs enfants entre eux
+
+[181251-183730]
+o kɛlen na, ni denw yɛrɛ damaw dira ɲɔgɔn ma
+après ça, quand les enfants seront mariés entre eux
+
+[184383-185110]
+wari bɛ to yen 
+l'argent y restera
+
+[185680-187750]
+hali furunafolo min bɛ di a bɛ to du kɔnɔ
+même la dot qui sera donnée restera en famille
+
+[188318-190870]
+mɛ ni a kɛra ko k'a di mɔgɔ wɛrɛ ma
+mais si on la donne à une autre personne
+
+[191440-192801]
+o mɔgɔ wɛrɛ bɛ bɔ na ye de
+cette personne sortir avec elle
+
+[193401-195320]
+ni sɔrɔ den fana tere ka ɲi
+si l'enfant à un bon téré
+
+[195759-198552]
+o bɛ bɔ ni tere in ye, tere ɲuman in so kɔnɔ ka taa n'a ye fanwɛrɛ fɛ  
+ce bon téré sortira de la famille pour aller ailleurs
+
+[199459-201353]
+ bon, an mako bɛ min na si la, o te sɔrɔ
+ce dont on a besoin dans la descendance on ne l'aura pas
+
+[202883-205700]
+bɛɛ mako bɛ, adamaden siɲuman na i ka so
+tout le monde a besoin d'une bonne descendance dans ta famille
+
+[207210-211892]
+o la, adamadenya ka gɛlɛn kɔsɛbɛ, kɔsɛbɛ 
+dans ce cas, l'humanité est très difficile
+
+[218140-219590]
+ musofuru kɛ n'o kadiri kɔnɔna ye
+marier la femme dans ce cadre
+
+[219925-220753]
+u tɛ munumunu
+il ne tergiverse pas
+
+[222127-225950]
+guwatigi kɔnin bɛ i ta kɛ dɔrɔn ka maminɛ kɛ k'a bila aw bɛɛ ɲɛ
+le chef de famille cherche pour vous tous des fiancées
+
+[226774-228270]
+ni maminɛ kɛra ka bila aw bɛɛ ɲɛ
+quand vous aurez des fiancées,
+
+[229020-231424]
+aw bɛ waati kɛ baara la 
+vous travaillerez pendant un temps
+
+[232490-233416]
+buranciw bɛɛ bɛ yen
+il y a des travaux de la belle-famille:
+
+[233920-237220]
+ka taa buranw ka foro sɛnɛ
+aller cultiver les champs des beaux-parents
+
+[238160-242260]
+aw b'olu bɛɛ kɛ ka ban , ka waati k'o la  yanni furuko kana
+vous ferez cela avant qu'il n y ait le mariage
+
+[242920-244790]
+o y'a sɔrɔ aw ni musomanin yɛrɛ bɛ ɲɔgɔn ye
+cela trouve que vous et la fille vous vous côtoyez  
+
+[245430-247358]
+mɛ a tɛ ko kanu tɛ yen de
+mais, ce n'est pas comme s'il y a pas d'amour
+
+[248190-249769]
+n ka maminɛ don, n ka maminɛ don
+c'est ma fiancée, c'est ma fiancée
+
+[250620-251457]
+i bɛ taa baro k'a fɛ
+vous irez causer  chez elle
+
+[252032-253650]
+i ni terikew bɛ taa baro k'a fɛ
+tes amis et toi iront causer chez elle
+
+[254049-256887]
+a fana, a fana bɛ na aw fɛ yen aw bɛ baro kɛ 
+elle aussi vient chez vous pour causer
+
+[257323-259915]
+mɛ n'a bor'o la foyi tɛ yen
+mais en dehors de cela, il n y a rien d'autre
+
+[260680-261820]
+o ni sisan ta tɛ kelen ye
+c'est différent de celui de maintenant
+
+[263380-266790]
+sisan ni faratir'a ma dɔrɔn, den b'o la ka sɔrɔ i m'a dabɔ o kama
+actuellement, quand tu te hasardes à faire cela, il pourrait y avoir une grossesse bien que cela ne soit pas ton but
+
+[268572-269840]
+waati yɛlɛma na
+le temps a changé
+
+[271990-275548]
+aw bɛ t'o de la mɛntinan, fo kana se ni furu yɛrɛ kɛli ye
+vous resterez ainsi jusqu'au mariage
+
+[277165-281090]
+yanni furu ka kɛ fana, kalanbulon bɛ yen i bɛ don o kɔnɔ 
+avant le mariage aussi, tu passes par un apprentissage
+
+[281944-284928]
+o kalan bulon in, o de ye ka dɔnni ɲini
+cet apprentissage concerne l'acquisition du savoir
+
+[287430-290900]
+aw fɛ yan no jamana kɔnɔ den, e, mama na mɔna burusu kɔnɔ 
+chez nous ici, le peuple, toute personne qui a grandi en brousse
+
+[291498-299677]
+i bɛ fɛn fɛn wili k'a jɔ , a kɛmɛ o kɛmɛ, a kɛra cogo cogo biduuru ani dɔɔnnin fɛn dɔ, fɛn dɔ b'o kunkolo kɔnɔ
+cinquante pour cent  et plus de ceux-ci ont une certaines connaissances quoi qu'il arrive    
+
+[300750-305640]
+o ma sɔrɔ fɔsi fɛ, o sɔrɔ la maasa u biyen dugu mɔgɔkɔrɔba dɔ fɛ
+c'est un parent ou un vieux du village qui sont à la base de cela
+
+[306528-309483]
+mɛ ni y'a kɛ   ko an ka sira tɛ ko la 
+mais si tu fais comme  tu t'en fou de tout
+
+[309560-310900]
+i bɛ mɔ ten 
+tu grandiras ainsi
+
+[311677-316810]
+ni mɔra ten, i bɛ baro de bɔ ko : aa an fa tun bɛ nin kɛ, ne ka cekɔrɔba tun bɛ nin kɛ, ne ka cekɔrɔba tun bɛ nin kɛ 
+et si tu grandis ainsi, tu diras tout simplement: mon père faisait ceci, cela
+
+[317440-318767]
+mɛ e yɛrɛ, fɛn tɛ e yɛrɛ bolo
+mais toi-même tu n'as rien
+
+[319412-320346]
+a ma kɛ galo ye ma
+Ce n'est-il pas devenu une catastrophe?
+
+[321050-323050]
+o de kama yann'i muso ka don 
+c'est pourquoi avant le mariage
+
+[323498-325140]
+ i b'a sɔrɔ karamɔgɔ dɔ bɛ  e yɛrɛ la
+ça trouve que tu as un éducateur
+
+[325752-327670]
+waati waati e bɛ taa baro k' o fɛ
+de temps en temps tu pars causer chez lui
+
+[328514-329840]
+ka i bilasira sira ɲumanw kan 
+il te mettra sur les bons chemins
+
+[330639-331960]
+fɛn min ma kan ka fɔ , o b'o f'i ɲɛna
+ il te les dire, les choses qui ne doivent pas être dites
+
+[332030-333189]
+o b'i kalan
+il t'apprendrai
+
+[333690-334608]
+o b'i kalan
+il 'apprendre
+
+[334790-337128]
+o kalan kɔnɔna na, dɔnni kalan b'o la
+les savoirs mystiques font partie de cet apprentissage
+
+[337710-339550]
+n'o ye laturu b'o la 
+qui sont: la géomancie en fait partie
+
+[339830-342135]
+kɔmi inafɔ hali ka
+comme le...
+
+[342840-344005]
+ kilisi ni fɛnw bɛɛ b'o kɔnɔ 
+même les litanies en font partie
+
+[344855-345731]
+o b'i kalan o la
+il t'apprendra ceux-ci
+
+[346910-348300]
+a b'i labɛn ka bila diɲɛ ɲɛ
+il te préparera pour la vie
+
+[349176-350537]
+pariseke diɲɛ ye a damana
+parce que la vie elle seule est...
+
+[351460-353100]
+a damana mondi de ye  
+un monde à elle seule
+
+[353420-354060]
+ko de ye kana
+c'est une chose qui arrive
+
+[354452-356390]
+dɔw bɛ na di e ma, e ma fɛn min ye fɔlɔ 
+c'est une chose que tu n'as jamais vu
+
+[356626-358186]
+ale bɛ e dege o la
+   il t'apprendra cela
+
+[359063-361988]
+a ka se ka olu dɔn dɔɔni dɔɔni ka taa
+pour que tu puisses connaître ces choses petit à petit
+
+[362383-365731]
+dɔɔnin dɔɔnin ka taa, fo ka taa bulon kɔnɔ
+petit à petit jusqu'à ta sortie de l'apprentissage  
+
+[369800-371851]
+o kɔnɔna na nin muso dir'i ma
+en cela, quand la femme te sera donnée
+
+[372630-373692]
+yanni muso ka di fɔlɔ
+avant que la femme ne soit donnée
+
+[374892-376750]
+ee karamɔgɔkɛ in de  bɛ aw  kalan
+c'est cet éducateur qui vous apprendra
+
+[377789-381320]
+i muso nabolo ni fɛnw ni fɛnw ni fɛnw
+  les caractères de la femme, s'il y a ...
+
+[382164-385314]
+tereko nunun b'a la a ni fɛn b'a la karamɔgɔkɛ b'o bɛɛ yiri la  
+s'il ya question du téré et autre, l'éducateur t'apprendra tout cela
+
+[385769-387893]
+on, ni muso donna ola a tɛ kɛ ko balalen ye i  la
+et la femme entre ainsi, ça ne te surprendra plus
+
+[388608-390759]
+waati n'a cogo dɔrɔn don i b'o ɲɛdon
+c'est juste une question de temps et tu sais cela
+
+[391935-393069]
+i bɛ tɛmɛ n'o ye kuwa
+tu vivras avec cela
+
+[393310-395880]
+i muso donna san kelen, i b'o san kelen k  ɛ so
+tu feras la première année de ton mariage en famille
+
+[396137-397347]
+ni y'o san kelen kɛ so
+quand tu fais cette première année en famille
+
+[397900-401240]
+o kɔfɛ i bɛ bɔ i bɛ na ɲinini na
+après tu peux voyager  pour chercher de l'argent
+
+[402170-408984]
+pareseke n'a fɔra ko: e ka to so yen no muso furulen kurani
+parce que si on dit: que tu restes en famille juste après le mariage
+
+[409329-411892]
+e tɛ dɔwɛrɛ la fo, ee, sɛnɛ kelen in ko
+tu ne fais rien d'autre que l'agriculture
+
+[412921-413720]
+tiɲɛna bɛ na a ko la
+il aurait des problèmes conjugaux
+
+[414820-419200]
+ mɛ , i bɛ bɔ,                                   i yɛrɛ fadenmaw fana bɛ yen, o bɛɛ bɛ bɔ
+mais tu voyages, tes frères également voyagent
+
+[419330-420780]
+bɛɛ bɛ taa dɔɔnin  ɲinin ka na 
+ils vont tous chercher un peu d'argent et revenir
+
+[421171-422140]
+muso bɛ to so
+la femme reste à la maison
+
+[422750-424990]
+o fana bɛ to somɔgɔw kɔrɔ
+elle aussi reste près des membres de la famille
+
+[425868-429068]
+mɛ i fadenma nunun bɛ taa min ɲinin
+mais ce que tes frères iront chercher
+
+[429320-430138]
+i fana be taa ɲinini kɛ
+tu iras chercher aussi
+
+[431095-432090]
+n'i taa ɲinin kɛ
+quand tu iras chercher
+
+[432517-436220]
+ni ala y'i ka garijigɛw diya, i ni muso sama bɛ na 
+quand tu auras de la chance, tu reviendras avec des cadeaux pour la femme
+
+[437070-439770]
+yanni muso kana na kunko wɛrɛw bɔ k'a don i dala 
+avant que la femme ne te fasse part d'autres problèmes
+
+[440295-441509]
+i ni muso sama bɛ na
+tu apportes des cadeaux à la femme
+
+[441720-443950]
+o b'a sɔrɔ muso fana degera aw ka so la
+ça trouve que la femme aussi s'est habitué à ta famille
+
+[447040-448220]
+ni muso dun degera so la
+et si la femme s'habitue à la famille
+
+[448770-450160]
+ko caman b'o kɔnɔna na
+il y a beaucoup de choses en cela
+
+[450920-452723]
+a caman yɛrɛ bɛ yen no, san fɔlɔ in yɛrɛ la
+la plupart, dès cette première année
+
+[453143-454640]
+i be taa ka segin min kɛ 
+le va et vient que tu fais
+
+[454860-457080]
+i bɛ n'a sɔrɔ den kelen wolo la
+tu trouveras qu'un enfant est né
+
+[459319-460560]
+sisan furuw bɛ kɛ
+actuellement les mariages se font
+
+[461140-462930]
+ka bɛn ni waati min ye
+à un moment où
+
+[463146-466536]
+a caman bɛ bɛn ni adamaden ka densɔrɔwaatiw de ye
+la plupart coïncident avec le moment de fertilité de l'Homme
+
+[467910-469288]
+u bɛ o de kɛ k'a bɛ n'o ye
+ils le font coïncider avec ça
+
+[469548-474250]
+n'o kɛra dɔrɔn, kɔɲɔso bɛ ban dɔrɔn i b'a sɔrɔ kɔɲɔmuso yɛrɛ garisigɛlen don
+ainsi fait, juste après les noces, cela trouverait que la nouvelle mariée est déjà enceinte
+
+[474906-477570]
+o de kɔnɔ na e bɛ taa i ka dugutaa la
+c'est au cours de cela que tu fais tes voyages
+
+[477996-479204]
+on, n'e taara dugutaa la
+quand tu voyageras
+
+[479410-480610]
+e bɛ na tuma min
+au moment où tu reviendras
+
+[482520-486031]
+o y'a sɔrɔ kɔnɔbara taara yɔrɔjan 
+ça trouvera que la grossesse a beaucoup avancée
+
+[486543-488180]
+walima jigini yɛrɛ kɛra yɛrɛ 
+ou elle a même accouchée
+
+[489040-490759]
+n'o kɛra i den fɔlɔ b' i ɲɛ kɔrɔ
+ainsi tu auras ton premier enfant
+
+[491156-493620]
+o bɛ sɛbɛ don i dusukun na, i ka taa ci wɛrɛ kɛ
+cela t'encouragerais pour que tu ailles faire d'autres travaux
+
+[496996-499654]
+adamadenya tiɲɛ bolo dɔ fɔlɔ la
+auparavant, les raisons de la dégradation des conditions humaines
+
+[501080-503930]
+anw denmisɛnnama mɔgɔw tun bɛ anw  ci
+quand on était enfant, les gens nous commissionnons
+
+[504730-506300]
+ka don duw kɔnɔ
+pour entrer dans les maisons
+
+[507070-508950]
+an kɔrɔlamɔgɔw tun b'a ci
+nos aînés nous commissionnons
+
+[509290-510998]
+ka don duw kɔnɔ ka waledenw wele
+pour aller appeler les enfants d'autrui ( les filles)
+
+[511970-515700]
+mɛ o waliden wele kɔnɔna na, u tun b'an ci, ci sugu bɛɛ la 
+au cours de ces appels, ils soumissionnent pour faire un peu de tout
+
+[516780-520009]
+dɔw tun bɛ kɛ hali ka bɛlɛkisɛ fili tɔli kan
+certaines étaient même de jeter des pierres sur les tôles
+
+[520389-521155]
+o tun b'a la
+cela en faisait partie
+
+[521790-525040]
+o bɔra la, u b'i ci, i bɛ taa dalagaribu kɛ a ka soda la
+cela ne se fait plus, ils te commissionnent pour aller faire le mendiant à sa porte
+
+[525906-528733]
+n'o kɛra, ni deni ye garibumankan mɛn dɔrɔn
+ainsi, quand la fille entendra le mendiant seulement
+
+[528980-530450]
+a bɛ na dala k'a bɛna e son
+elle viendra à la porte sous prétexte de te donner quelque chose
+
+[530810-533337]
+i be ci fɔ a ye ko karisa jɔlen bɛ k'i kɔnɔ    
+tu lui diras que un tel t'attend
+
+[534241-534861]
+a bɛ b'ola
+elle sortira alors
+
+[535410-536820]
+mɛ sisan o fana banna
+maintenant, ça aussi est fini
+
+[537863-538760]
+o banna munna
+pourquoi c'est fini
+
+[539030-540190]
+telefoni nana o ko ban
+c'est le téléphone qui en a mis fin
+
+[541642-544284]
+i yɛrɛ ni denmiso, a ka denbaya bɛɛ sigilen
+ta fille  et toi, toute la famille présents
+
+[544659-546037]
+u b'i denmuso wele i sigilen kɔrɔ
+ils appellent ta fille près de toi
+
+[547020-548090]
+telefonina i t'a don
+au téléphone tu ne sauras pas
+
+[549080-549990]
+telefoni ye tiɲɛni kɛ de
+le téléphone a causé d'énormes dégâts
+
+[552360-554165]
+adamadew bɛna don o kadiri kɔnɔ
+les gens entreront dans ce cadre
+
+[555610-556755]
+ni adamadenw donna kadiri kɔnɔ
+quand les gens entrent dans le cadre
+
+[557008-561190]
+siritu musomanin yɛrɛ-yɛrɛ, musomani ka lamɔ ka gɛlɛn dɔɔnin  nin cɛmani ta ye
+surtout une fille, son éducation est plus difficile que celle du garçon
+
+[561910-563500]
+cɛmani bɛ nana ye du kɔnɔ de 
+parce que le garçon l'amène à la maison
+
+[564400-565814]
+musomani dun bɛ taa du wɛrɛ kɔnɔ
+alors que la fille va dans une autre maison
+
+[566811-570208]
+ni e ma lamɔ ɲuman ɲuman sɔrɔ  n'a fɔra ko e ka bɔ ka taa wali du wɛ rɛ
+si tu n'as reçu une bonne éducation et s'il faut que tu ailles dans une autre maison
+
+[570473-571613]
+a bɛ gɛlɛya de
+ça sera difficile
+
+[572297-573330]
+a bɛ kɛ don o don kuma ye
+il aura toujours des disputes
+
+[574430-579620]
+o de kama, i bɛ mɔgɔ caman ye, u bɛ taa, u bɛ muso furu, u bɛ furu ka taa furuyɔrɔla
+c'est pourquoi tu beaucoup de femmes qui rient dans leur foyer conjugal
+
+[580490-582312]
+furuyɔrɔ mɔgɔw de bɛ tɔɲɔ n'a ye
+c'est les membres de la famille qui en souffriront
+
+[585500-587450]
+u t'a fɛ adamadenya ka tiɲɛ u b'a muɲu
+comme ils ne veulent pas détériorer leur relation, ils l'acceptent
+
+[589063-591400]
+a dɔw bɛ kɛ hali mɔni gansan u tɛ se a tobili la
+certaines d'entre elles ne savent même pas préparer de la bouillie
+
+[592620-595822]
+mɛ u b'a muɲu pariseke u t'a fɛ u den ka to cɛgananya la
+ils acceptent parce qu'ils ne veulent pas que fils reste célibataire
+
+[597041-599090]
+mɔgɔ min ma mɔni tobi degen a faso la
+celle qui n'a pas appris à faire de la bouillie chez
+
+[600130-603100]
+a ba mana fɔ a ye garisa na nin tobi kɛ dɔrɔn
+si sa maman lui dit: une telle viens préparer cela
+
+[603440-608488]
+a b'a fɔ an ka nin ɲɛnajɛ bɛ yanfɛ an ka kan ka taa o la, a ka nin fɛn in bɛ yenfɛ an ka kan ka taa o la
+elle dira: on a une telle soirée, un tel événement on doit nous y rendre
+
+[608781-609600]
+a ma kɛ baara ye wa
+Cela n'est-il pas un problème?
+
+[611170-612390]
+yanni a ka s'o bɛɛ ma
+avant qu'il n'arrive à tout cela
+
+[612770-616050]
+tiɲɛ yɛrɛla den ka kan ka kalan so kɔnɔ maasaw bolo
+En vérité, l'enfant doit être éduqué par les parents à la maison.

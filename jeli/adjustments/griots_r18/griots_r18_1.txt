@@ -1,0 +1,632 @@
+[32205-34000]
+(Arabe)
+Arabe
+
+[36764-37470]
+Lamini
+Lamine
+
+[39294-41236]
+An bɛ Ala fo k'a waleɲumandɔn
+Nous remercions Dieu
+
+[44558-45500]
+San damasa Ala
+Créateur des cieux
+
+[46382-47705]
+duguda masa Ala
+Créateur de la terre
+
+[50147-51852]
+Danfɛn bɛ danmasa Ala
+Créateurs de tout créatures
+
+[52676-54117]
+Anb'a fo  k'a waleɲuman dɔ
+Nous le remercions
+
+[56294-57382]
+Kanun baga minbe ala la
+L'être qu'il a aimé le plus,
+
+[59117-60558]
+N'o ye sayiban mamadu ye
+Qui est Mohamed (PSL)
+
+[61382-62941]
+an b'o fo k'o waleɲumandɔn
+Nous remercions ce dernier
+
+[65205-66705]
+Bi, ne jeli Fuseni kuyate
+Aujourd'hui, Moi Djeli Fousseyni Kouyaté
+
+[68176-70164]
+M,bɛ barika bla n'bɔkolo ye
+Je loue mes aïeux
+
+[72058-73647]
+A kɛra cɛ ye, a kɛra muso ye
+Hommes ou femmes
+
+[75176-77029]
+Bɛ bɛ barika bla i bɔkolo deye
+Tout le monde loye ces aïeux
+
+[77558-78294]
+Nfa nin nba,
+Mon père et ma mère
+
+[80117-82117]
+Ne fa tɔgɔ ko Balaba Seku kuyate
+Mon père s'appelle Balaba sékou Kouyaté
+
+[83264-84911]
+Nba tɔgɔ ko jɛfadima kuyate
+Ma mère Djéfadima kouyaté
+
+[86764-88029]
+Ne yɛrɛ ye kuyate ye
+Je suis Kouyaté
+
+[90558-92264]
+Ne ye filani fila de ye
+Je suis jumeau…
+
+[92411-93852]
+Nfilani ɲɔgɔ ye Alasan kuyate
+mon jumeau se nomme Alassane Kouyaté
+
+[95880-96480]
+(bon...)
+Français
+
+[97130-97830]
+Lamini,
+Lamine
+
+[98980-99980]
+diɲa kadi,
+La vie est belle…
+
+[101460-102760]
+(Mais) niyame diɲa kadi
+mais la beauté de la vie
+
+[104440-105520]
+diɲa kɔnɔ mogow de do
+Elle est liée à l'Homme
+
+[107410-109280]
+I n'a mɛ ko dugu tɛ diya dugudenw kɔ ya?
+On dit souvent que la beauté du village est liée à ses habitants
+
+[111880-113200]
+No tɛ sankolo ni dugu kolo
+Les cieux et la terre
+
+[113780-115060]
+ a bɛ dalenbɛ ko mamadu
+Ceux-ci existent par amour pour Mohamed(PSL)
+
+[116330-116940]
+mu y'o ye?
+L'accent est mis sur quoi ?
+
+[117040-117770]
+kanun de do
+C'est sur l'amour
+
+[119029-120300]
+(bon) kanun de y'a se han
+C'est cet amour qui nous amène ici
+
+[122200-123460]
+An b'an kanun bagaw bɛ fo
+Saluons ceux qui nous aiment.
+
+[126120-127327]
+Sayiba ni mamadu
+Ce Mohamed,
+
+[128600-129820]
+kalanfɛn caa nana 
+Parmi tant de livres sacrés
+
+[131195-132600]
+kuranɛ nana ale de kanma
+C'est le coran qui lui est envoyé
+
+[134720-135080]
+o kuranɛ
+Ce coran contient
+
+[137260-138150]
+haya wawɔɔrɔ
+six mille
+
+[138980-139970]
+Haya kɛmɛwɔɔrɔ 
+six cents
+
+[140838-141730]
+haya biwɔɔrɔ
+soixante
+
+[142150-142790]
+haya wɔɔrɔ
+et six versets
+
+[144470-145460]
+N'i ya mɛ kuma
+Parlant de la parole,
+
+[145936-146790]
+tanuli
+les louanges
+
+[147992-149230]
+ala y'a yɛrɛ tanu
+Cela remonte à Dieu
+
+[151230-152360]
+ala ya yɛrɛ tanu
+Dieu a fait ses propres louanges
+
+[153500-154360]
+sura min kɔnɔ
+dans le verset
+
+[154430-155840]
+a tɔgɔ ko kulihuwalayu
+Ce verset est [koulhouwalahou
+
+[157390-158490]
+a fɔ ko mahamadu
+Demandant au prophète de dire
+
+[158640-159590]
+a fɔ ko kul
+arabe
+
+[160592-162090]
+masa wɛrɛ tɛye ni ale ala tɛ
+Il n'y a pas de Dieu de moi
+
+[164620-165350]
+i y'a famu ?
+Tu comprends ?
+
+[167380-168250]
+o mamadu
+Ce Mohamed(PSL)
+
+[168670-170780]
+ala tɔgɔ la se
+Par le nom de dieu
+
+[171157-172780]
+ka dinɛ diya mɔgɔw ye
+il transmit le message de dieu au monde entier
+
+[174560-176050]
+ola ne yɛrɛ jeli Fuseni
+Alors moi djeli Fousseyni
+
+[177920-178620]
+be ala fo
+Je remercie Dieu
+
+[178684-179450]
+ka anaw fo
+mon père
+
+[180620-181900]
+ka anbɔkolow bɛ fo
+Mes ancêtres aussi.
+
+[182930-184430]
+Ne sewara nbɔkolo la
+Je suis fier de mes ancêtres
+
+[186530-187250]
+ka ndiya
+Je m'en réjouis
+
+[188046-189820]
+ni ala y'i sɔ bɔkolo juman na
+Si Dieu te donne la chance d'avoir des bons ancêtres
+
+[190847-192220]
+i be ala fo k'a waleɲuman dɔn
+Il va de soit, de le remercier
+
+[194145-194890]
+i y'a famu?
+Tu comprends ?
+
+[196520-198100]
+hali ni yɛlɛma kɛera kura ye
+Même s'il fallait refaire le monde
+
+[198860-199732]
+ne bɛ ala deli
+mon souhait serait
+
+[200371-202140]
+nka na jeliya ( gamu) kɔnɔ (quoi)
+de devenir griot
+
+[203356-204450]
+jeliya kadi
+C'est beau le griotisme!
+
+[204990-205970]
+fɛnbɛ b'a kɔnɔ
+Tout y est
+
+[207477-210530]
+ni y'a mɛ ko jeliya, a fɔ ko hɔronya
+Qui parle de griotisme, parle de noblesse
+
+[212052-214710]
+( mais) ni kow kera cogo o cogo kolow bala
+Mais dans toute chose, il y a des mauvais
+
+[216820-221900]
+Ne ka ala deli ye hali n'an wolola kura ye ne ka ke jeli ye
+Comme je l'ai dit, mon souhait serait de devenir griot même si le monde était à refaire
+
+[222830-224170]
+ala ye ne sɔn jeliya la
+Dieu m'a donné cette grâce
+
+[225070-227240]
+ne bɔra jelikɛ jelikew  de la
+Je suis descendant des grands griots
+
+[228676-229480]
+i y'a famu
+Tu comprends ?
+
+[231700-233240]
+mɔgɔw be keela min tɔgɔ fɔ
+Le Kela dont les gens parlent souvent,
+
+[233860-237210]
+keela ye jeli dugu  ye, jabatew de do
+C'est un village de griot, les Diabate viennent de laba
+
+[239790-240660]
+i y'a famu?
+Tu comprends ?
+
+[241270-242270]
+jabatew de do
+C'est de Diabate
+
+[244559-248890]
+Ne mɔke, o baa de bɔra kela, ko Nare
+C'est la mère de mon grand-père qui vient de laba
+
+[250750-253370]
+O narew de de ye Nare Balaba ye
+Naré Balaba vient de laba
+
+[254480-255930]
+O den de ye Balaba Siku ye
+Balaba sékou est descendant de de Naré Balaba
+
+[257737-258390]
+I y'a famu?
+Tu comprends ?
+
+[259000-261580]
+O Balaba Siku, ala y'a sɔ den caaman na
+Balaba Sékou a eu plusieurs enfants
+
+[262650-269410]
+Ne fa den bɛ denkɛ bisaba ɲɔgɔ bɔ, filani sigiyɔrɔma saba, a bɛɛ ye ce ye
+ Environ trente, dont trois jumeaux et tous des garçons
+
+[270955-273550]
+Filani sigiyɔrɔma saba, a bɛɛ ye cɛma de ye
+Les trois jumeaux, tous aussi des garçons
+
+[274523-277610]
+cɛman wɔɔrɔ, ala ye ne fa sɔn ola
+Six garçons...
+
+[278830-281330]
+Ala ye kuma nɔgɔya ne ma k'an to demiseninya la
+À bas âge, par la grâce de Dieu, j'avais le verbe facile
+
+[283190-285060]
+Nbe ala fo ola k'a waleɲuman dɔ
+Je remercie Dieu pour cela
+
+[286160-294550]
+(Bon) ne demisenima, ndonna ekɔl la, ne bɔra setem na (mais) ntɛse ka sɛbɛnni kalan
+J'ai fréquenté l'école et abandonné à la septième année. Je savais ni lire, ni écrire
+
+[295900-297040]
+Ne tese ka sɛbennin kalan
+Je ne savais pas écrire
+
+[298980-299570]
+I y'a famu?
+Tu comprends ?
+
+[300004-301004]
+'Mais) ndona ekol la
+Mais j'ai fréquenté l'École
+
+[301699-314190]
+anga musokɔrɔba dɔ tun be yen, n'o ye nfa ba ye, ale ye jeli, N'a tun fɔɔra ko nka ta lekoli la nbɛ to ka gɛrɛ o la nbe nban ka taa lekɔli la
+Je chômais l'école pour apprendre le griotisme auprès de ma grand-mère
+
+[314818-318640]
+nbɛ gɛrɛ o la (quoi), nbe ka jeliya ɲɛɲini ka jeliya ɲɛɲini
+Je l'approche pour apprendre le griotisme
+
+[318810-319873]
+jeliya ye mun ye?
+C'est quoi le griotisme?
+
+[320876-322820]
+N'a fɔra ko jeliya, hɔɔrɔnya dɔ de don
+Le griotisme fait allusion à la noblesse
+
+[324430-325420]
+I y'a famu Laminɛ
+Tu comprends ?
+
+[325940-329450]
+(Bon) hɔɔrɔnya, abe fɔ de ko jelikɛ n'a jatigi
+On dit normalement le griot et son [djatigui]
+
+[330758-334460]
+(Mais) jeli dɔw fana beyen, u b'a fɔ ko hɔɔrɔ kɛ n'a jatigi
+Mais il y a certains griots qui demandent le noble et son griot
+
+[335036-341010]
+N'i y'o fɔ i filila kuma kɔnɔ, n'i y'o fɔ i filila kuma kɔnɔ... o tuma jeli tɛ hɔɔrɔ ye wa?
+ Cette formule est une erreur, c'est une erreur, car cela sous entend que le griot n'est pas noble
+
+[342220-343820]
+hɔɔrɔ ya daminana jeli de fɔlɔ la
+La noblesse commence par les griots
+
+[344710-345190]
+I y'a famu ?
+Tu comprends ?
+
+[345671-347810]
+N'i y'a mɛ ko hɔrɔya kolabɛ dedo
+La noblesse, c'est stabilité
+
+[348826-356860]
+N'i y'a mɛ ko hɔɔrɔn ya, Lamini  ne k'a f'e ma ko nbe nin k'i ye ko nbɛ nin k'i ye, nin ya k'i ye ye hɔɔrɔnya de kɛ
+La noblesse, c'est la loyauté, c'est être fidèle à sa parole donnée
+
+[357630-359130]
+(Bon) jeli bɛ kow de dilan
+Cela est le travail du griot
+
+[360370-362970]
+jeli bɛ kow de dilan, abe fɔ o de ma ko hɔɔrɔnya
+Le griot rétablit l'ordre social, c'est cela la noblesse
+
+[364380-366090]
+(Bon) ne ye kuma sɔrɔ nmamamuso fɛ
+j'ai reçu la parole de ma grande mère
+
+[367440-371560]
+A tun be dugu min na, ndona a ekɔli la 
+j'ai fréquenté l'école à ses côtés, abandonné par la suite
+
+[371580-374830]
+Sɛtɛmande, ma lɛkɔli don, nbɔr'o la ka jeliya ta
+J'ai quitté l'école pour le griotisme e étant en 7ème année
+
+[376080-380030]
+(Bon) nye mikoro ta ( même pas...) san tan ni kelen jate
+J'ai pris le micro à l'âge 11 ans
+
+[380800-381570]
+I y'a famu ?
+Tu comprends ?
+
+[382350-383510]
+San tan ni kelen jate
+11 ans environ
+
+[384239-390750]
+(alhamdulayi rabi alamina)  n'in ɲaamina ko o ko la a kɔnɔ, Ala b'a nɔgɔya nye
+Dieu merci, je parviens à m'en sortir dans toutes situations difficiles
+
+[391750-393140]
+ Oye Ala fo dɔ ye
+Je remercie Dieu pour cela.
+
+[395320-407100]
+Bi, Ala nin mamamouso barika kama, o ni [ ntele kɔrɔ baw ] barika kama, an ka laminin na ye Ala ye tɔgɔ nɔgɔy'an ye ka tɛmɛ nɲɔgɔna jeli demisen caaman kan
+Aujourd'hui, je suis plus populaire dans mon environnement que beaucoup de jeunes, par la grâce de Dieu et les bénédictions de ma grande mère.
+
+[408303-415300]
+O de kɔsɔ nko ni wolo kɛra kura ye ne be Ala deli Ala k'an kɛ jeli ye
+Raison pour laquelle je dis, s'il fallait refaire le monde, je souhaiterais devenir griot
+
+[416800-419000]
+N'i y'a mɛ ko jelikɛ, kan kelen tigi dedo
+Le griot est loyal…
+
+[420180-424230]
+Ale de bɛ jatiginin ke jatigiba ye, o de ye jeli ye
+Il est celui qui rend les petits des grands, le griot.
+
+[425910-426540]
+I y'a famu?
+Tu comprends ?
+
+[427465-441250]
+Ni jatigikɛ bɔra muso kɔ furula, a b'a fɔ de ko nka jeliba, nbɔra nin muso masina fɛ, taa u somogow  fen i ka taa woro di
+Le griot est celui qui fait les démarches du mariage pour son diatigui, l'intermédiaire des deux familles.
+
+[441310-444600]
+N'i taara woro di furu bɛ kɛ
+C'est lui qui amène la cola pour que le mariage ait lieu.
+
+[444658-446070]
+jelike ye hɔɔrɔnya 
+Le griot a joué son rôle de noblesse.
+
+[446128-447830]
+jeliya dabɔra furu de ma
+Cela dans les fonctions du griot
+
+[448710-453100]
+ Ka furu ɲɔgɔnw la bɛn, ka kabila la bɛn, ka duw la bɛn
+Maintenir les relations, entre familles, entre communauté, entre les individus.
+
+[453740-460320]
+O de kɔsɔ nko ko ne wolo kɛra kura ye, nbɛ kɛ jeliya fe, (parceque) ne bɔkolo bɛɛ ye jeli ye
+C'est pour cela que je dis, même si le monde était à refaire, je choisirais le griotisme, car tous ancêtres sont griots
+
+[461700-462400]
+I y'a famu ?
+Tu comprends ?
+
+[463270-467680]
+( alihamdulayi rabi alamina) manden kadi
+Dieu merci, le mandé est doux.
+
+[469090-474390]
+ N'i ya mɛ manden, manden [ tɔ bennii] donsow de fɛ
+Quand on parle de mandé, (......) par les donsos
+
+[476370-479410]
+Ola aw fɛ manden yan, dɔnsoya ye fɛ ba ye
+Alors chez au mandé ici, le donsoya est un grand privilège
+
+[481690-489570]
+N'i ya me sariya (...) sɔrasiya, osoferi, polisi, (gendrameri], a bɛɛ fɔra donsow kɔ
+La gendarmerie, la police et autres sont inspirés du donsoya, même les lois.
+
+[490860-494060]
+Fɔlɔ, donsow dɛ tun bɛ manden lakanda
+Ce sont les dons qui protégeaient le mandé à l'époque.
+
+[495260-500160]
+I bɛ duguw ta, dugu jaaman jaaman, dɔnsow de y'a bɛ sigi
+Les donsos sont les fondateurs de plusieurs villages.
+
+[501710-503190]
+(Bon) ola donsoya kadi
+Alors le donsoya est un privilège.
+
+[503481-504810]
+Obɛ manden kɔnɔ yan
+Cela existe au mandé ici.
+
+[505810-507650]
+(Mais) donsoya yɛre ye nun ye?
+Mais le donsoya veut dire quoi ?
+
+[509470-511800]
+Donsoya ye sanɛ ni kɔtɔrɔn de ye
+Le donsoya c'est le [sanè et contron]
+
+[512092-513730]
+[ sekana ] de ye donsoya ye
+Le donsoya, c'est la promesse.
+
+[514890-517270]
+Ola an bɛ manden donsow fo k'u waleɲumandɔ
+Sur ce, saluons les donsos
+
+[518681-524730]
+I bɛ manden sigi dugu kɛmɛ o kɛmɛ, donsow ye min sigi a bɛ bikɔnɔtɔn bɔ 
+ Quatre-vingt-dix pourcent des villages du mandé sont fondés par les donsos.
+
+[525390-526030]
+I y'a famu ?
+Tu comprends ?
+
+[527030-530770]
+(Bon) ola, barika bɛ donsoya la
+Le donsoya est donc sacré.
+
+[533160-536810]
+Donsoya, kankelentigi de ye donso ye
+Le donso est un homme de promesse.
+
+[538090-538750]
+I y'a famu ?
+ Tu comprends ?
+
+[539820-541330]
+Donsoya ye kankelentigiya de ye
+Le donsoya c'est la loyauté.
+
+[542311-547880]
+Fɔlɔ donsow, ni ne ni e kɛlɛla, donsow de bɛ kɛlɛ ba
+ Les donsos d'antan viellaient au maintien de l'ordre social.
+
+[549339-553090]
+Ni dugu ni dugu bɛ kelɛ, donsow de bɛ kɛlɛ ba
+Ils interviennent en cas de conflit entre deux villages.
+
+[554820-562340]
+Sɛnɛkɛdugukolo nɔfɛ,Lamini ni ne ni e ma bɛn o la an bɛ taa donsow ɲinin, donsow bɛ na da yir'an ni ɲɔgɔcɛ
+Ils interviennent en cas de problème de terre et tant d'autres.
+
+[563400-565580]
+(Bon) donso ya tun ye tu ni kala de ye
+Les donsos sont des hommes de guerre
+
+[566630-569330]
+Ni kɛlɛ wulila, donsow de tum bɛ wuli k'u jɔ
+Ce sont les donsos qui veillent à la sécurité du village.
+
+[570516-573130]
+(Bon) o donsow, mɔgɔ damadɔ [ tɛkɛyen]
+Bon ces donsos...
+
+[573599-581390]
+Lamini, donsow de ye manden laben , ka manden kɛ manden ye
+ Lamine, ce sont les donsos qui ont fait le mandé.
+
+[583220-590590]
+N'i ya mɛ sariya, manden kaw yɛrɛ de ye sariya wote kurukanfuka, sariya binaani a ni naani
+On parle de loi, les habitants du mandé ont voté 44 lois à Kouroukanfouka
+
+[592320-593310]
+Bɛɛ n'i placi don
+On a donné à chacun sa place.
+
+[594890-602620]
+(Bon sariya binaani a naani'in kɔnɔ, musow nin a ni jeliw  de nin bɛ fan kelen fɛ
+ Sur les 44 lois, les griots et les femmes sont dans le même lot
+
+[604190-609260]
+Odekɔsɔ ni jatigikɛ farinɲara ɲaa o ɲa ma, i b'a ye jelikɛ de b'a kɔ
+C'est pour cela que le roi, quelque soit son degré de sévérité, est toujours accompagné de son griot
+
+[610300-611260]
+K'a la dusu
+Il le motive
+
+[611994-613330]
+K'a la dusu cɛya la
+Il l'encourage.
+
+[614160-617410]
+K'a la dusu, a donko n'a bɔko
+Il l'encourage dans les actes.
+
+[619520-625110]
+(Bon) odekɔsɔ manden kadi
+Raison pour laquelle le mandé est doux
+

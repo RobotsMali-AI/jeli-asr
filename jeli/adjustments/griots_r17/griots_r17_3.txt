@@ -1,0 +1,504 @@
+[3040-6590]
+Karamɔgɔ Dayi bɔra juma la.
+Dayi=Nom propre de personne.
+
+[7880-11601]
+Ka nafila seli, ka kanɲa fila di Ala ma.
+Prier la prière surérogatoire en faisant deux rakats pour Dieu.
+
+[13590-17100]
+Ka dɔn a ka cɛso kɔnɔ ; wulan mɛnɛlen.
+Il est rentré dans sa case d'homme et l'encens était allumé.
+
+[17650-19210]
+Mɛ yani a ka dɔn, a kagalen jumala.
+Mɛ=Mais emprunté au français et qui signifie en bamanankan: n'ka. Donc, c'est un emprunt dénotatif.
+
+[19740-25320]
+O ya sɔrɔ a musow ye Ala minɛ ka jɔnmusonin dɔ ladon karamɔgɔ Dayi ka dilan jukɔrɔ.
+En ce moment, ses femmes avaient placé une esclave sous le lit du maître/marabout Dayi. 
+
+[29340-32327]
+Karamɔgɔ Dayi bɔlen juma la kana dɔn a ka so kɔnɔ,
+Quand maître Dayi est revenu de la prière du vendredi et est entré dans sa chambre.
+
+[33060-34784]
+Ka dɔn a ka cɛso kɔnɔ,
+Rentrer dans sa case d'homme,
+
+[36390-37604]
+Ka wusula mɛnɛ,
+Allumer l'encens,
+
+[38740-40390]
+Ka fini nana faga,
+j'ignore ce que Fina nana veut dire
+
+[41770-44084]
+Jinɛw bɔra san fɛ.
+Les djinns/génies sont venus du ciel.
+
+[45020-47347]
+Ka salamaleku Bila karamɔgɔ Dayi ma
+Salamaleku est emprunté de l'arabe pour saluer.
+
+[49060-51522]
+Ee ! A ko: ko Dayi i ye saratiba tiɲɛ !
+Sarati emprunté de l'arabe signifie en bamanankan: bɛnkan.
+
+[55900-59538]
+N'ne n'ye bɛnna a kan ne k'i nin muso kana si; ko muso ye bɔnna yan.
+Toi et moi sommes convenus que tu ne passes la nuit avec une femme alors que y a une femme dans la chambre, ici.
+
+[59620-61210]
+Karamɔgɔ Dayi ko: ko muso tɛ yan.
+Karamɔgɔ Dayi a dit qu'il n'y a pas de dame, ici.
+
+[63080-65874]
+Ko muso ye so kɔnɔ; ko muso tɛ yan
+Qu'il y ait une dame, qu'il n'y ait pas de dame.
+
+[68450-70236]
+K'i kun majigi dilan jukɔrɔ !
+Regarde sous le lit !
+
+[71800-74181]
+Anw ye jinɛw ye, nka anw tɛ sarati tiɲɛ.
+Nous sommes des djinns, mais nous ne trahiront pas.
+
+[74400-76930]
+A y'i Kun majigi dilan jukɔrɔ ka ta jɔnmusonin sɔrɔ yen.
+Il a regardé sous le lit et a vu la jeune esclave.
+
+[76990-79450]
+A ye surafa bɔ k'a bɛ jɔnmusonin faga.
+Surafa: j'ignore son sens, mais je l'ai traduit comme arme en français.
+
+[79770-83031]
+Jinɛw ko ka ka to yen, ka kana a faga.
+Les génies lui ont dit de ne pas la tuer.
+
+[84180-89500]
+A tun b'a fɛ ka jɔnmuysonin faga anin jinɛw ka lajidu ka dafa.
+Il voulait tuer la jeune esclave pour garder la confiance des génies.
+
+[90290-92539]
+Jinɛw ko k'anw tɛ bɔ i ye tuguni.
+Les génies lui ont dit qu'ils ne viendront plus pour lui.
+
+[93850-99307]
+N'ka nin an bɔra mɔgɔ mɔgɔ ye , nin o y'a tulɔn ila o ka mɔgɔya bɛ tiɲɛ.
+Mais, quand nous viendrons, pour toute personne qui va te faire du mal, verra son pouvoir gâché.
+
+[102980-111440]
+U ko karamɔgɔ Dayi ma ,  an ni an tɛnɛnmuso de wiliala  ka na k'an bɛ na kɛlɛmarifa di farafinna.
+Ils ont à karamɔgɔ Dayi que ce sont eux qui sont venus avec leur tante pour donner l'arme de guerre à l'Afrique.
+
+[112660-114915]
+An tɛnɛnmuso de bɔra Sikaso Cɛba ye.
+Sikasso= Sikasso= Nom propre d)e ville du Mali(3e région). Cɛba= Tiéba forme francisée: nom propre de personne 
+
+[116840-119804]
+Anw de tun nana kɛlɛmarifa d'i ma
+C'est nous qui étions venus t'apporter l'arme de la guerre.
+
+[120360-127820]
+San bisaba,kalo saba, tile saba, i tun b'o de kɛ kɛlɛmansaya la.
+Tu allais faire trente ans, trois mois, trois jours comme commandant de guerre. 
+
+[132630-134681]
+Mɛ antɛna bɔ i ye dɛ !
+Mais, nous ne reviendrons plus pour toi !
+
+[135700-139824]
+Mɛ kɛlɛmarifa bɛ di mɔgɔ min ma nin o y'a tulɔnkɛ e karamɔgɔ Dayi la o kun bɛ to a la !
+Mais celui qui va recevoir l'arme de la guerre mourra s'il ose te faire du mal !
+
+[139890-140950]
+O ka kɛlɛ bɛ tiɲɛ !
+Il verra perdre sa guerre !
+
+[142120-143732]
+Jinɛw bɔra a ye.
+Les génies sont venus pour lui.
+
+[145250-150953]
+O ya sɔrɔ Alimami Samori ka k'a kɛlɛ... a tun bɛ kɛlɛ kɛ, nke fanga ba tun tɛ a ka kɛlɛ la.
+Almamy vient de l'arabe = imam, ici nom propre et qualificatif de Samory qui est aussi un nom propre de personne.
+
+[153010-155518]
+U ye sigo ladɔn Alimami Samori ɲɛ la.
+Ils sont venus vers Almamy Samory en rêve.
+
+[156740-160500]
+Ko a ka dunu jɛ bɔ, ka kulusijɛ bɔ,
+Qu'il fasse les sacrifices de coq blanc, de pantalon blanc,
+
+[161360-166311]
+Ka dulɔgijɛ bɔ, ka fugulanjɛ bɔ, ka samarajɛ bɔ,
+de chemise blanche, de chapeau blanc, de chaussure blanche,
+
+[166510-170450]
+Ka worojɛ tan ta, k'u ka ɲɔngɔn sɔrɔ jijɛ la.
+Prendre dix noix de colas blanches et qu'elles se retrouvent au marigot à eau limpide(propre ou blanche).
+
+[170590-171300]
+Jijɛ o bɛ min?
+Où cette eau limpide
+
+[171380-172290]
+Ka bɛ Kɛrɛwani.
+Kɛrɛwani =nom de lieu au mandé
+
+[174130-176764]
+K'u ka ɲɔgɔn kunbɛn jijɛla Kɛrɛwani.
+Qu'ils se rencontrent au point d'eau limpide de Kɛrɛwani.
+
+[179130-181630]
+Alimani Samori ye sarati dafa.
+Almamy Samory a été honoré au rendez-vous.
+
+[182330-184245]
+Ka ta Kɛrɛwani jijɛ dala.
+Partir à kɛrɛwani le point d'eau limpide.
+
+[184820-187090]
+A selen Kɛrɛwani jijɛ la,
+Quand il est arrivé à Kɛrɛwani,
+
+[189750-192820]
+Jinɛw ye ji wuli i ko takisi.
+Les génies ont bouilli l'eau comme la braise.
+
+[192840-196550]
+Jinɛw bɔra ta la ka kuma Alimami Samori fɛ o dɔn.
+Ce jour-là, les génies sont sortis du feu pour parler à Almamy Samory.
+
+[200600-205370]
+A ko: ko Alimami Samori
+Il a dit : Almamy Samory, nous, nous sommes des génies. Nous ne sommes pas humains.
+
+[206210-208780]
+An nana kɛlɛmarifa de di Farafininna.
+Nous sommes venus apporter l'arme de guerre à l'Afrique.
+
+[208840-212137]
+Mɛ Ala kitira ala bi e ka an ka kiti dafa.
+Mɛ= Mais emprunté au français.
+
+[214430-216994]
+An nana kɛlɛmarifa d'i ma.
+Nous sommes venus m'apporter l'arme de. guerre.
+
+[221200-223860]
+Mɛ, sarati saba bɛ kɛlɛmarifa nin kan.
+Mais il y a trois conditions sur le don de cette arme.
+
+[228500-234479]
+Sarati fɔlɔ,I ka karamɔgɔ Lansina ye ko toyen !
+Lassina= nom propre de personne provenant de l'arabe.
+
+[235350-237749]
+O kalifalen bila kabini i ka kɛlɛ ma wuli.
+Il doit être sous ta protection bien avant le début de ta guerre.
+
+[240930-248213]
+Sarati filannan, i ka karamɔgɔ Dayi toyen Kankan, ni y'i tulɔn o fɛn o fɛn ka mansaya la i ka kɛlɛmansaya bɛ tɔ o dafɛ.
+Kankan= nom propre de la ville en Guinée Conakry.
+
+[249340-252992]
+Ibɛ Sikaso Cɛba toyen, an tɛnɛnmuso de b'o ka jinɛya la.
+Tu épargnes Tiéba de Sikasso, notre tante est son génie.
+
+[257060-260392]
+O sarati saba de bɛ kɛlɛmarifa kan ka d'i ma.
+Ce sont ces trois conditions qui sont sur l'arme de guerre pour te le remettre.
+
+[263460-267229]
+ ni y'i tulɔn  o mɔgɔ saba fɛn o fɛn ka mansaya la i ka kɛlɛmansaya bɛ tɔ o dafɛ.
+Quand, tu touches à l'une d'entre ces trois personnes, ton poste de commandant de guerre est compromis.
+
+[268590-270640]
+U ye  kɛlɛmarifa di Samori ma.
+Ils ont donné l'arme à Samory.
+
+[270780-275650]
+Nin i dɔn na kɛlɛ o kɛlɛ la Manen yan, an jinɛw bi fɛ anka o mɔgɔ sabaw ye k'u toyen
+Mandé= nom propre de lieu ex-empire du Mali
+
+[276790-278959]
+Jinɛw kɛra Alilmami Samori fɛ
+Les génies ont aimé Almamy Samory.
+
+[280100-282590]
+A k'a kɛlɛ nana wuli ni fanga ye.
+Sa guerre a commencé avec force.
+
+[282850-288081]
+Moriw de y'a fo a ye ka k'a sajigijɛ bɔ.
+Ce sont ces marabouts qui lui ont dit du sacrifice du mouton blanc.
+
+[288760-291897]
+Nbɛ min f'i ye tiɲɛ bɛ jɛliko la dɛ ! an fɛ Manen yan.
+Ce que je te dis : il y a l'importance d'avoir un griot chez nous au mandé !
+
+[293840-298540]
+Alimami Samori ka jɛlikɛ tun ye Morifin-jan ani ɲamakala Amara.
+Morifin-jan et ɲamakala Amara sont des noms propres.
+
+[298600-301320]
+Olu de tun bɛ Alimami Samori kɔ.
+Ce sont eux qui accompagnaient Almamy Samory.
+
+[302790-305641]
+Kɛlɛmansa bɛ n'a ka jɛli de tun bɛ an fɛ Manen yan.
+Kɛlɛmansa= roi, mais je l'ai traduit partout par commandant de guerre.
+
+[306960-314440]
+O de kosɔn an benbaw ko: ko kɔtɛ ciden na Manden yan.
+C'est pourquoi, ici, au Mandé, nos ancêtres ont dit que l'envoyer n'ont pas de problème à craindre.
+
+[316950-320534]
+Alimami Samori a ka moriw de y'a fɔ ka k'a sagajigɛ bɔ.
+Ce sont les marabouts qui ont dit à Almamy Samory faire le sacrifice de mouton blanc.
+
+[322170-324200]
+Ko k'a o kɛ a ka mansaya hadiya ye.
+Hadiya: Sacrifice en bamanankan/ maningaxan ou maninkakan.
+
+[326780-332610]
+Alimami Samori de wuli la ola ko fɔ n'ale tara Gankundo Sagajigi minɛ ko k'a o k'ale ka mansaya saraka ye.
+Gankundo Sagajigi= Nom propre.
+
+[334750-338165]
+Gankundo Sagajigi o tun ye mansa do de ye.
+Gankundo Sagajigi était un roi.
+
+[341410-345218]
+A ye kɛlɛ wuli ko kɔnɔntɔn kɛ ka dɛsɛ Gankundo Sagajigi la.
+Il a attaqué neuf fois Gankundo Sagajigi sans avoir de succès.
+
+[348640-352200]
+ kɛlɛ wuli ko kɔnɔntɔn kɛ ka dɛsɛ Gankundo Sagajigi la ! 
+Attaquer neuf fois Gankundo Sagajigi sans avoir de succès !
+
+[356060-359870]
+A ye ci bila Gankundo Sagajigi ka baramuso ma.
+Il a envoyé un message à la petite femme de Gankundo Sagajigi.
+
+[361370-364222]
+K'i cɛ mina i k'a di yan nka i kɛ nka baramuso ye.
+Aide-moi à vaincre ton mari pour que tu sois ma petite femme.
+
+[366280-369008]
+Njatigiw ka Alimami Samori ka tariku lamɛn !
+Écoutez l'histoire d'Almamy Samory de mes hôtes !
+
+[370040-373234]
+Nin bɛ fɔ diɲɛ ye ka diɲɛ hakilijilagin kɔrɔlenna !
+Cela se fait au monde, pour rappeler l'histoire au monde !
+
+[377000-381624]
+A ye ci bila Gankundo Sagajigi  ka baramuso ma k'i cɛ mina  k'a di yan nka i kɛ nka bara ye. !
+Il a envoyé un message à la petite femme de Gankundo Sagajigi, aide-moi à vaincre ton mari pour que tu sois ma petite femme.
+
+[384230-386650]
+A ko ko nmana cɛ mina ka d'i ma itɛ janfa ?
+Quand je t'aide à vaincre mon mari, tu ne vas pas me trahir ?
+
+[386700-390520]
+Ko aji ko nti janfa. K'itɛ njanfa ? ko aji ko nt'i janfa .
+Elle a dit : Non, je ne te trahirai pas. Tu ne vas pas me trahir ? Elle a dit : Non, je ne te trahirai pas.
+
+[395460-399475]
+A ko ko juma ni tala , o kunɲɔgɔn juma i jija i ka dɔn Gankundo !
+Elle a dit : ce vendredi ne fait pas partie, mais le sûr prochain, fais tout pour rentrer à Gankundo !
+
+[399520-401986]
+Nbɛ Gankundo sɛ n'a mɔgɔ mina ka d'i ma !
+Je t'attraperai les poules et les humains de Gankundo !
+
+[402980-405407]
+Gankundo Sagajigi ka baramuso kan y'o ye.
+C'est le propos de la petite femme de Gankundo Sagajigi.
+
+[409620-418460]
+Kasɔrɔ Gankundo Sajigi muso, a ka baramuso, muso kɛmɛsaba de tun b'a koliji kala , ka k'a dilan da ka digidigi.
+Alors, la femme de Gankundo Sagaji, sa petite femme, il y avait, trois cents bonnes qui chauffaient son eau pour se laver, réparaient sa natte et la massaient.
+
+[424400-427310]
+Alamusa su Gankundo sagajigi y'i maga a ka baramuso la;
+La nuit du jeudi, Gankundo sagajigi a touché sa petite femme ;
+
+[427850-432450]
+Alamusa su ka dugu jɛ juma la, Gankundo sagajigi y'i maga a ka baramuso la.
+La nuit du jeudi, bien avant la journée du vendredi, Gankundo sagajigi a touché sa petite femme ;
+
+[432807-437418]
+Baramuso ko a ma ko fara n'na e kɛlɛmansa jitɔ !
+La petite femme lui a dit de la laisser, le peureux commandant de guerre/ roi !
+
+[438570-442670]
+Kɛlɛmansa bɛ ka muguso kile bɛ si a ka baramuso bolo f'i kelen.
+Tous les commandants de guerres donnent leurs clés de la chambre aux cendres à leurs petites femmes, excepté, toi.
+
+[443150-444400]
+Ee, a ko ko gansan de dɔn ?
+Eh, c'est ça seulement ?
+
+[444430-445493]
+A ko ee ko gansan dɔn.
+Eh, Ah oui, c'est ça seulement.
+
+[448200-450982]
+A ko sofaw a ye ci lata Jankunu Kuma ma.
+Jankunu kuma= nom propre de personne.
+
+[455250-460593]
+K'a ka dabɔn kɔnɔntɔn kile di nmuso ma ;janin kɛnɛ ka bɔ anin dabɔn kɔnɔntɔn ka si.
+Qu'il donne la clé des neuf chambres à mon épouse avant l'aube ; pour qu'elle passe la nuit avec.
+
+[465180-471370]
+U ye ci bila a ye ci bila Jankunu Kuma ma ; a nana ni dabɔn kɔnɔntɔn kile ye k'a di Alimami Samori ka baramuso ma alamisa su
+Ils ont transmis le message à Jankunu Kuma ma qui apporté la clé à la petite femme de Almamy Samory, la nuit du jeudi.
+
+[473370-475260]
+Su selen a cɛminɛ yɔrɔ,
+Quand il faisait tard,
+
+[476560-478170]
+su selen a selifana ma,
+Selifana= moment de la nuit qui correspond à 2h du matin. C'est un mot aarabe.
+
+[479800-483703]
+Nin o kɛra a b'a bolo da Gankundo sagajigi kunna ka kun mɔmɔ.
+Ainsi, elle mettait sa main sur la tête de Gankundo sagajigi et le caressa.
+
+[484690-487700]
+ Gankundo sagajigi bɔra so kɔnɔ.
+Gankundo sagajigi est sorti de la chambre.
+
+[487841-495760]
+A muso bɔra so kɔnɔ ka taga fɔ  jɔnmuso kɛmɛ ni biwɔrɔ ye k'u ka ji da muguso bɛ kan janin kɛnɛ ka bɔ.
+Sa femme est sortie de la chambre pour aller dire aux cent-soixante servantes d'aller arroser toutes les chambres à cendres.
+
+[495780-497490]
+Ko n'a sigara mun na k'a bo kunkolo tigɛ a la.
+Et gare à la personne qu'elle soupçonne !
+
+[501340-505830]
+Jɔnmuso mɔgɔ biwɔrɔ olu ye ji da muguso bɛ kan.
+Ces soixante servantes ont arrosé toutes les chambres à cendres.
+
+[508080-509500]
+A tara i da .
+Elle est allée se coucher.
+
+[511320-515090]
+Jumakɛnɛ bɔ Alimami Samori ka mugukan wuli la.
+Le vendredi matin, Almamy Samory a attaqué
+
+[517070-518760]
+Sɔnkɔrɔfɔ tagara.
+Sɔnkɔrɔfɔ= nom propre de personne.
+
+[519200-523210]
+So min tun b'a bolo ale de tun b'a kili dɔnina k'a taga mɔgɔ wɛrɛ cɛ a fɛ.
+Le cheval qu'il avait, c'est lui, ramassait les œufs et partir ensuite ramasser celui des autres.
+
+[523340-525927]
+A bɛ fɔ o de ma an fɛ Manden yan ko bidibidiba
+Bidibidiba= j'ignore de quoi s'agit-il.
+
+[528060-532123]
+Lanfiya Turudɛ minankurujɛsɛ, Alimami Samori ni Kɛlɛ donna.
+LanfiyanTurudɛ minankurujɛsɛ, Almamy Samory est entré par la force.
+
+[534440-540120]
+ Gankundo sagajigi ko , aw taa mugu bɔn dayɛlɛ, a cɛnin karatɔ nana.
+ Gankundo sagajigi a dit d'aller ouvrir la porte, que le petit imprudent est venu.
+
+[540340-543650]
+O y'a sɔrɔ Alimami Samori ye kɛlɛ wuli ko kɔnɔntɔn kɛ mɛ a bɛ dɛsɛ la ala
+En ce moment, Almamy samory l'avait attaqué neuf fois sans succès.
+
+[544670-545910]
+U tara mugubɔn dayɛlɛ.
+Ils sont partis ouvrir la chambre aux cendres.
+
+[545930-548560]
+N'u ye min dayɛlɛ o sumalen  ji la.
+Ceux qu'ils ouvraient étaient mouillés par l'eau.
+
+[548950-551210]
+N'u ye min dayɛlɛ o sumalen  ji la
+Ceux qu'ils ouvraient étaient mouillés par l'eau.
+
+[551260-554190]
+Ka ta mugubɔn kɔnɔntɔn bɛ dayɛlɛ a bɛ falen dɔn ji la
+Ils ont ouvert toutes les chambres à cendre qui étaient mouillées par l'eau.
+
+[556150-560820]
+Gankundo Sagajigi wulila ka taga i sigi Alimami Samori kɔrɔ.
+Gankundo Sagajigi est allé s'asseoir devant Almamy Samory.
+
+[561710-564040]
+Ko Ala ye nd'ima.
+Dieu m'a pris pour toi.
+
+[564120-568100]
+A ko ko Ala m'i di nma, i muso de y'i di nma.
+Ce n'est pas Dieu qui t'as piégé pour moi,c'est ta femme.
+
+[569590-570970]
+A muso in bɛ min ?
+Où la femme ci ?
+
+[573650-575290]
+Muso nana i jɔ; ko filɛ.
+La femme est venue s'arrêter et dire : me voici.
+
+[576850-578846]
+I ma dɔn e tɛ miirila !
+N'as-tu pas honte ?
+
+[579240-583442]
+Muso kɛmɛ saba de bɛ koliji kala la, ka dilan da ka tila ki digidigi. 
+C'est trois cents femmes qui chauffent ton eau pour te laver, faire ton lit et te masser.
+
+[585410-589677]
+NIn ne y'i kɛ nka bara ye, iye nin mun da, i cɛ kan i bɛ nin ɲɔgɔn kɔrɔlen da ne kan.  
+Quand, je te prendrai pour ma petite femme, ce que tu viens de faire à ton mari, tu feras autant.
+
+[593850-595420]
+A ko ko safaw, a y'a minɛ !
+Il a dit : les gardes, attrape là !
+
+[595580-597946]
+Aw kana a cɛ faga dɛ, a y'a muso faga !
+Ne la tuez pas comme un homme ! Tuez-la comme une femme !
+
+[603000-606655]
+Taga fɔ alikiyamakaw ye ko waliɲumandɔnbaliya maɲi.
+Alikiyama= au-delà
+
+[609280-615130]
+Ooo,Gankundo ka mana o nbɛ dɔnnin fitinin fɔ yen.
+Oh, l'histoire de Gankundo, je vais dire un petit mot, ici.
+
+[615360-619059]
+Ka fɔ cɛbakɔrɔ bɛ ye, ikana da muso la !
+Dire à tous les hommes, ne croyez à la femme !
+
+[619750-623060]
+Inin i muso mana diya cogocogo  i kana i gundo fɔ muso ye .
+Quelque en soit ta relation avec la femme, ne dis jamais votrebsecret à la femme.
+
+[623670-627500]
+Inin i muso mana diya cogocogo  i kana ika sekɛrɛ fɔ muso ye .
+Sekɛrɛ=secret=gundo en bamanankan
+
+[630140-634960]
+Nbɔ kumanin da o kan, ka Gankundo Sagajigi mina a bɔra yen ne.
+Voilà pourquoi Gankundo Sagajigi a été capturé/ pris/vaincu.
+

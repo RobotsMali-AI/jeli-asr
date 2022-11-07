@@ -1,0 +1,323 @@
+[16830-24521]
+Lise dɔ bɛ yen.
+Il y a un lycée.
+
+[24591-28323]
+Lise Asikiya Mohamɛdi bɛ Ɲame.
+Il y a le lycée Askia Mohamed à Niamé.
+
+[28408-31985]
+Fɛn fana bɛ yen.
+IL y a aussi quelque chose là-bas.
+
+[34816-37945]
+Nafa bɛ tɔgɔ la dɛ.
+Le nom a de l'importance, pour sûr.
+
+[38422-42508]
+Nafa bɛ tɔgɔ la.
+Le nom a de l'importance.
+
+[42676-47616]
+N ka kuma kun tɛ ko mɔgɔ ma ɲugun i tɔgɔ la.
+Je ne dis pas cela pour que quelqu'un ait honte avec son nom.
+
+[47718-48661]
+N bɛ segin a kan.
+Je le répète.
+
+[48732-52901]
+Mɔgɔ fa ye tɔgɔ fɛn o fɛn da i la, o don e sago t'i la, i fa sago de b'i la.
+Le nom que ton père t'a donné, quel qu'il soit, ce jour-là tu ne pouvais exprimer de volonté, ton père l'a exprimée pour toi.
+
+[53112-54394]
+O de diyara a ye.
+Cela lui a plu.
+
+[57873-60943]
+Anw bɛka fɛn caman dɔn tɔgɔko ta fanfɛla la.
+Nous connaissons beaucoup de choses aujourd'hui dans le domaine des noms.
+
+[61028-63309]
+Dɔwɛrɛ tɛ o, nko de y'a kɛ.
+Ce n'est pas autre chose c'est le Nko qui l'a permis.
+
+[67309-69084]
+Ɛseke i y'a faamuya?
+Est-ce que tu as compris?
+
+[69169-74507]
+Pariseke arabuw tɛna na k'u b'anw ka tabiyaw defan dɛ.
+Parce que les Arabes ne viendront pas pour défendre nos valeurs.
+
+[74549-75802]
+Arabuw t'o kɛ i ye dɛ.
+Les Arabes ne font pas ça pour toi.
+
+[75943-78732]
+Tubabu fana t'o kɛ i ye.
+Les blancs non plus ne font pas ça pour toi.
+
+[82112-84197]
+I y'a ye wa?
+Tu vois ça?
+
+[85563-90718]
+Nko bɛ kɛ sababu ye ka tɔgɔ caman labɔ anw ye.
+Grâce au Nko, on redécouvre beaucoup de noms.
+
+[90901-97380]
+I n'a an tun bɛ denkokuma min na.
+Toi et moi, on parlait tout à l'heure du mal à avoir l'enfant.
+
+[97676-100309]
+U b'a da dɔw la ko Tɔgɔntan.
+Ils appellent certains "Togontan".
+
+[100380-102985]
+N ka kalanden dɔ bɛ yen ko Tɔgɔntan Jara.
+J'ai là un élève qui s'appelle Togontan Diarra.
+
+[103112-112348]
+A bɛ karamɔgɔya dugu dɔ la min ni Kolokani cɛ ye kilo duuru ye.
+Il enseigne maintenant dans un village à cinq kilomètres de Kolokani.
+
+[115154-117846]
+Gɛlɛya kɔtɔgɔw bɛ yen.
+Il y a des noms qui viennent après des difficultés.
+
+[118366-119802]
+I y'a ye?
+Vois-tu?
+
+[119929-123253]
+Tɔgɔ dɔw fana tun bɛ da fɔlɔ.
+Il y a certains noms que l'on donnait autrefois.
+
+[123563-128281]
+An k'a kɛ sisan lajɛba dɔ bɛ yan bi.
+Supposons qu'il y a une grande réunion ici aujourd'hui.
+
+[128394-130901]
+E n'i muso sigilen bɛ yan.
+Tu es assis ici avec ta femme.
+
+[131028-139760]
+Ni fɔlɔfɔlɔ tun don sisan, ni muso y'a yɛrɛ sɔrɔ lajɛ in don, a den bɛ weele ko Cɛjɛ n'a kɛra cɛ ye.
+Si aujourd'hui était comme autrefois, et que ta femme accouche le jour de cette réunion, son enfant, si c'est un garçon, sera appelé « Tièdiè ».
+
+[140830-144455]
+Cɛjɛ.
+Tièdiè.
+
+[146197-147633]
+A tɔgɔ man ca.
+Ce nom est peu fréquent.
+
+[147845-150253]
+Mun bɛka tɔgɔ in tɔ tunun?
+Qu'est ce qui fait disparaître tous ces autres noms?
+
+[150323-153760]
+A bɛka a fɔ tɔgɔ ninnu de ma ko Tijɛ.
+On appelle ces noms-là des Tidiè.
+
+[156816-158704]
+Tijɛ
+Tidiè.
+
+[158802-160309]
+O tɛ dɛ.
+C'est pas ça.
+
+[160380-163056]
+Ko lasiri ye Cɛjɛ de ye.
+Tièdiè est le vrai.
+
+[163098-165647]
+Cɛw ka jɛ don den min bangera.
+L'enfant qui est né le jour de la rencontre des hommes.
+
+[171985-174323]
+I y'o yɔrɔ faamuya wa?
+As-tu compris cette partie?
+
+[175929-184676]
+Degun min b'anw sɔrɔ tɔgɔko ta fanfɛla la, a fanba bɛ sɛbɛnniko kun.
+Le problème principal qu'on rencontre concernant les noms est dû à l'écriture.
+
+[184887-186802]
+Sɛbɛnni tɛ kɛ.
+On n'écrit pas.
+
+[186873-191478]
+Dɔ b'a sɛbɛn sisan ko Jara.
+Quelqu'un peut maintenant écrire Diarra.
+
+[191591-194535]
+Do b'a fɔ i ye ko Jata.
+Un autre te dit Diata.
+
+[194619-196915]
+D'autre te dit Jada.
+Un autre te dit Diada.
+
+[196985-200042]
+Jata, Jala, Jada, Jara.
+Diata, Diala, Diada, Diarra.
+
+[200169-206070]
+Nin tɛ fɔcogo ye wa?
+N'est-ce pas la prononciation ?
+
+[206267-208056]
+A bɛɛ tɛ Jara ko ye wa?
+Il s'agit de Diarra dans tous les cas, non?
+
+[208154-217338]
+Mɛ ni bɛn kɛlen don a kan k'a y'a sɛbɛn tan, hali ni ne y'a sɛbɛn cogo wɛrɛ la ne b'a dɔn ko Jara ko don.
+Mais si on était arrivé à un accord disant écrivez-le comme ça, même si je l'écris autrement, je saurai qu'il s'agit de Diarra.
+
+[217845-222084]
+Sɛbɛnni bɛ fɛn yɛlɛma.
+L'écriture change les choses.
+
+[225605-226478]
+Ɛseke i y'a faamu?
+Est-ce que tu as compris?
+
+[229295-238394]
+Nka ni Ala y'a kɛ an ye sɛbɛnni sɔrɔ, an k'an janto o la.
+Mais si grâce à Dieu nous avons eu une écriture, alors prenons en soin.
+
+[238676-243774]
+An bɛ yɔrɔnin min na bi, alhamdulilayi, nko sɛbɛnni b'an bolo.
+Nous en sommes à un point aujourd'hui, Dieu merci, on a l'écriture Nko.
+
+[243901-249859]
+An ka tɔgɔ kɔrɔ caman bɛ yen, a b'u walanwalan k'u bɔ ɲɔgɔn na.
+Il y a beaucoup de nos anciens noms qu'elle clarifie et qu'elle permet de différencier les uns des autres.
+
+[250478-253802]
+Ka se ka mɔgɔw lafaamuya.
+Et qu'elle arrive à bien nous faire comprendre.
+
+[253915-258627]
+U k'a dɔn tɔgɔ bɛ da kun minnu na.
+Afin qu'ils sachent pourquoi un nom est donné. 
+
+[258746-262732]
+I k'a bila i kun na dɔrɔn tɔgɔ tɛ fɛn gansan ye.
+Il faut seulement se mettre bien en tête qu'un nom n'est pas pour rien.
+
+[262943-268028]
+N'i y'a kɔlɔsi Kunta Kite filimu o y'a sɔrɔ e dennama don walima i ma sɔrɔ yɛrɛ.
+Si tu fais attention, le film Kunta Kinte est sorti, si ça se trouve tu étais enfant ou bien même pas encore né.
+
+[268901-271422]
+Me komi filimu don a bɛ se ka kɛ i y'a ye.
+Mais comme c'est un film, tu l'as peut-être regardé.
+
+[271633-276112]
+A b'a denmusonin in sɔrɔ don min na Ameriki, o y'a sɔrɔ u y'a sen tigɛ.
+Le jour où elle a eu sa fille en Amérique, ils lui avaient coupé le pied.
+
+[276253-279943]
+I bɛ t'i jɔ ni den in ye k'a tɔgɔ da ko Kisi.
+Elle se tient débout avec l'enfant et lui donne le nom de Kizzy.
+
+[283746-286873]
+Amerikɛnw bɛ cɛ min tɔgɔ da ko Tobi.
+L'homme que les américain appellent Toby.
+
+[287042-290492]
+A bɛ den in tɔgɔ da ko Kisi.
+Elle donne le nom de Kizzy à l'enfant.
+
+[290732-297154]
+Bon o Kisi in bɛ kɛ repɛri ye fo Kunta Kite orizini bɛ na ye.
+À cause de ce nom-repère de Kizzy, on découvre l'origine de Kunta Kinte.
+
+[297591-303788]
+Mɔgo minnu tun bɛk'an filɛ ani minnu b'an lajɛ, n bɛ dugawu kɛ u bɛɛ lajelen ye.
+J'adresse mes bénédictions à tous ceux qui nous voient et nous regardent.
+
+[303901-304873]
+N bɛ segin a kan
+Je le répète
+
+[304971-308098]
+Ne tɔgɔ ye Fakɔ, n jamu ye Bagayɔkɔ.
+Mon prénom est Fako, mon nom de famille est Bagayoko.
+
+[308281-312563]
+Ne ye kalanfa de ye, Nkokaramɔgɔ.
+Je suis professeur, maître de Nko.
+
+[312732-316971]
+N bɛ laseli kɛ wuyanbon dɔw la.
+Je fais des émissions dans des radios.
+
+[317070-318295]
+Wuyanbon ye arajoso ye.
+Wuyanbon veut dire radio.
+
+[320718-323042]
+Tanba caman b'an bolo.
+Nous avons beaucoup de centres.
+
+[323605-326183]
+Tanba ye santiri de ye, an bɛ walanda di yɔrɔ minnu na.
+Tanba est un centre où l'on donne des cours.
+
+[326704-330802]
+N tun b'a fɛ ka dɔɔni fɔ an ka farafinna tɔgɔw kan.
+Je voulais dire quelques petites choses sur les noms africains.
+
+[331000-334450]
+A be se ka kɛ a ye mɔgɔw minɛ.
+Peut-être cela a-t-il intéressé les gens.
+
+[334704-338183]
+Nka a ka ca Ala fɛ an tɛna dan nin ma a dɔw la.
+Mais s'il plaît à Dieu on ne s'arrêtera peut-être pas à celle-là.
+
+[338309-341366]
+N b'a' fo k'aw barikada.
+Je vous salue et vous remercie.
+
+[341535-345802]
+Ala ye nin latigɛ cogo min, Ala ka caman latigɛ o cogo la.
+Que Dieu permettre beaucoup d'opportunités comme celle qu'il a permise aujourd'hui.
+
+[345943-347211]
+K'an bɛn kelen ma.
+Que Dieu nous unisse.
+
+[347352-349436]
+Ala ka jamana in yiriwa.
+Que Dieu développe ce pays.
+
+[349647-351253]
+Ala ka jamana kolo suma.
+Que Dieu fasse que la paix règne dans le pays.
+
+[351380-355140]
+An bɛ foli kɛ aw minnu sɛgɛnnen bɛ a baara la ye.
+Nous vous saluons, vous qui êtes fatigué par ce travail.
+
+[355281-357704]
+Ala k'aw bolo mɛn aw ka baara la.
+Que Dieu vous soutienne longtemps dans votre travail.
+
+[357915-360760]
+Aw ye denmisɛnw ye, Ala ka maakɔrɔsi di aw ma.
+Vous êtes des enfants, que Dieu vous donne une vie d'ancien.
+
+[362915-365634]
+Ala k'an ka jamanaw basigi.
+Que Dieu redonne de la stabilité à nos pays.
+
+[366577-369407]
+Aw ni baraji, n bɔra kuma na.
+Merci à vous, je laisse la parole.

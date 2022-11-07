@@ -1,0 +1,603 @@
+[132-5999]
+Ee, Ŋolo saba mɔden, kana ni kɛ i den.
+Eh, le petit fils de trois Ŋolo, ne fais pas ça à ton fils.
+
+[6075-7924]
+N ni denjugu tɛ ɲɔgɔn ye.
+Je ne rencontre pas un mauvais fils.
+
+[7999-11245]
+Jeliw ko Ŋolo saba mɔden, wuli i n'i den ka ɲɔgɔn ye.
+Les griots ont dit: le fils de tois Ŋolo, va rencontrer ton fils.
+
+[11301-13679]
+A ko jeliw, a na mɔnɛ don n na.
+Les griot, vous allez me dénigrer.
+
+[13811-16490]
+A ko na an ka taa.
+Il a dit viens.
+
+[16566-18924]
+Ka don so kɔnɔ ka don soɲɛkɔnɔ na.
+Ils sont entrés dans la chambre au fond.
+
+[19018-22773]
+A ko Baba, i tɛna marifa kɔrɔnin dɔ di yan, n b'a fɛ ka don kɔnɔfaa la.
+Il a dit: Baba, peut tu me donner un ancien fusil, je veux commencer à chasser les oiseau.
+
+[22849-25566]
+Fa jɔlen yɛlɛla kuwa kuwa kuwa.
+Le père a rigolé.
+
+[25641-29396]
+A ko i bɛ don kɔnɔfaa de la? A ko nin diyara ne ye kɛ.
+Vas tu commencer la chasse des oiseau? Il a dit que cela m' a fait plaisir.
+
+[29471-34113]
+I daka tɔnin min tun bɛ ne da la, nin y'o bɛɛ bɔlen ne da la bi.
+Aujourd'hui, le reste de ta petite charge qui était sur moi est fini.
+
+[34188-40867]
+Marifaw filɛ nin, Masajan. Min ka di e yɛrɛ ye e k'o ta marifa la.
+Voici les fusills, Massadjan. Choisit le fusil que tu veux.
+
+[40924-43528]
+Masajan ye dafila ta o don.
+Massadjan a pris le fusil ce jour là.
+
+[43603-45622]
+A ko nɛgɛdenbɔrɛ filɛ nin ye.
+Il a dit voici le sac de munition.
+
+[45716-48716]
+A y'o bɔrɛ duuru ta, ka mugu ta.
+Il a pris cinq sac plus la poudre.
+
+[48811-61358]
+A ko Masajan, n'i bɔra ka taa kungo la, n'i marifa kunkan ɲɛ siɲɛ saba kɛ, i ni maa na ɲɔgɔn min ɲɛkili ka bon n'i kunkolo.
+Il a dit Massadjan, si tu pars en brousse et que tu fais trois coup de fusil, tu verras quelque chose qui a les yeux plus gros que la tête de ta mère.
+
+[61433-64226]
+Nka i bɛ taa.
+Il lui dit partir.
+
+[64301-65415]
+A bɔra.
+Il est sorti.
+
+[65490-68415]
+A nan'a ba jɔlen sɔrɔ, a ko Maa, ne bɛ taa kungo la.
+Il est venu près de sa mère, il a dit: Maa, je dans la brousse.
+
+[68471-71792]
+Ba ko Masaja, n bɛ dugawu k'i k'i bilasira.
+La mère a dit Massadjan, je bénis et t'accompagne.
+
+[71886-79528]
+Ne y'a sɔrɔ ne furu le e fa ma e fa ko kelen ne ko fila, i ɲuman kana segin abada.
+Depuis mon mariage avec ton père si je lui ai une fois désobéïs, tu ne retounera spas saint et sauf.
+
+[79622-92962]
+Nka n'a y'a sɔrɔ ne ye ko to e fa ta la, Masajan i ni cɛ o cɛ mana ɲɔgɔn ye Ala k'a bɛɛ kɛ tasumakami ye i ka kɛ jisuma ye k'u faa.
+Mais si j'ai respecté ton père afin que mon fils sois fort, Massadjan, que tous leshommes que tu rencontreras se transforme en feu et que sois de l'eau pour les éteindre.
+
+[93018-97037]
+Fo n'a y'a sɔrɔ ne ma ko to e fa ta la.
+Sauf si je n'ai pas respecté ton père.
+
+[97150-100188]
+Aye dugawu kɛ den ye a bɔra, a taara.
+Elle béni l'enfant et il est parti.
+
+[100264-104320]
+Kulu janaba de tun bɛ u ka dugu ni kɔrɔn cɛ.
+Il y avait une grande montagne à lest de leur village.
+
+[104433-106999]
+Jamana donso bɛɛ tun ɲɔgɔn sɔrɔ o la.
+Tous les chasseurs du pays se rencontraient là bas.
+
+[107075-109056]
+Sogow ka ca kojugu.
+Il y a beaucoup d'aniamaux.
+
+[109132-112283]
+A taara o kulu in de la.
+Il est parti sur cette colline.
+
+[112377-115245]
+Ka fura kɛnɛ tigɛ ka bugu dila.
+Il a construit la case avec les feuilles vertes.
+
+[115301-117113]
+A bɛ don k'i da a kɔnɔ.
+Il se couche dedans.
+
+[117188-124018]
+Nka ni su bɛna surunya, a bɛ marifa da a kan na ka Ncibugu sɛgɛrɛ.
+Quand la nuit commence à tombé, il se dirige vers Ntchibougou.
+
+[124132-127603]
+I bɛ taa don wo fɛ su fɛ.
+Il entre par le trou pendant la nuit.
+
+[127660-131056]
+A bɛ to jigin ka bɔ a ba ka gada la, ka to dun k'i fa ni ka bɔ.
+Il déscend le to, il mange et sort.
+
+[131150-133698]
+A be to sigi a nɔ na, a be bɔ.
+Il met le to à sa place et sort.
+
+[133773-135943]
+A bɛ na kulu in na tuguni.
+Il revient encore sur la colline.
+
+[136037-138245]
+Tile saba in kɔnɔ a ɲɛ ma da sogo kan janko ka marifa ci sogo la.
+Durant ces trois jours,  il même pas vu un animal à forte raison de tirer.
+
+[138339-147962]
+A tile saba dafara tuma min na, don dɔ sɔgɔmada fɛ a dalen taraba kɔnɔ a ye cɛkɔrɔba jan dɔ natɔ ye.
+Après lécoulement des trois jours, un matin, étant allongé dans tranchée, il a vu un long vieux venir.
+
+[148056-151301]
+O bɛ taama ka na jasa, jasa.
+Il marche vers lui.
+
+[151358-154283]
+A ko n bɛ nin faa ka fara n ka marifa kan.
+Il a dit qu'il va tuer celui là et ajouter son fusil au sien.
+
+[154396-156679]
+Ni n ye nin faa n bɛ nin ka marifa fara n ta kan.
+Quand je tue celui là je vais ajouter son fusil au mien.
+
+[156849-159811]
+N ka marifa bɛ kɛ fila walasa ne yɛrɛ ja bɛ jɔ maaninfin faali la.
+J'aurai deux fusil pour que je m'habitue à tuer une personne.
+
+[159905-163094]
+A ye marifa sigi a disi la
+Il a positionné le fusil sur sa poitrine
+
+[163169-167452]
+Kabini cɛkɔrɔba in bɛ yɔrɔ jan, fo ka n'a se a ma, a ma se ka tulo tigɛ.
+Depuis que le vieux est loin, jusqu'à ce que le vieux arrive près de lui, il n'a pas pu tiré.
+
+[167547-171452]
+Ka na cɛkɔrɔba in gɛrɛ a la, a ma se ka marifa ci.
+Le vieux est venu pès de lui, il n'a pas pu tirer.
+
+[171528-176188]
+Fo ka na cɛkɔrɔba in tɛmɛ a kɛrɛfɛ. A ko n dun t'a to yen.
+Jusqu'à ce que le vieux passe à côté de lui. Il a dit , je ne vais pas quand même le laisser.
+
+[176283-179018]
+A ye marifa munumunu k'a ɲɛ jɔ cɛkɔrɔba taatɔ la.
+Il a tourné le fusil vers le vieux qui est entrain de partir.
+
+[179075-182433]
+Fo ka taa cɛkɔrɔba kun tunu a la, a ma se k'a ci.
+Jusqu'à ce que le vieux a disparu, il n'a pas pu tirer.
+
+[182509-186792]
+Cɛkɔrɔba kun tununna a la tuma min na, a ko jaa Baba ye kuma min fɔ o ye tiɲɛ ye koyi.
+Quand le vieux a disparu, il a dit ce que Baba a dit est vrai.
+
+[186849-189773]
+A ko jaa ne yɛrɛ ɲɔgɔnna fukariden ma deli ka wolo fɔlɔ o.
+Il n'y a jamais eu un enfant paresseux comme moi.
+
+[189830-192905]
+N'o tɛ ne tun mana nin faa sisan ne ka marifa tun bɛ kɛ fila.
+Sinon j'aurais deux fusil si j'avais pu tué celui là.
+
+[192943-195735]
+N fana ja tun bɛ jɔ maaninfin faali la.
+J'allais aussi m'habituer à tuer une personne.
+
+[195792-198264]
+A ko nka n tɛ cɛkɔrɔba in to yen, n b'a nɔbɔ.
+Mais je ne laisse pas ce vieux, je vais le suivre.
+
+[198301-200509]
+A tugura cɛkɔrɔba nɔ fɛ.
+Il a pousuivi le vieux.
+
+[200584-203849]
+Tu ma dɔw a be sennɔ ye, tuma dɔw sennɔ bɛ tunu a la.
+Parfois il voit la trace du pied, parfois il ne voit rien.
+
+[203886-206660]
+Tu ma dɔw a be sennɔ ye, tuma dɔw sennɔ bɛ tunu a la.
+Parfois il voit la trace du pied, parfois il ne voit rien.
+
+[206716-211283]
+A taara a sɔrɔ cɛkɔrɔba in fana dalen bɛ taraba kɔnɔ.
+Il est allé retrouvé le vieux allongé dans la tranchée.
+
+[211358-213754]
+O bɛka sogo dɔw makɔnɔ.
+Il attend les animaux.
+
+[213849-220754]
+Nka o ɲɛ bɛ ale cɛ jan natɔ la, a kɛra cɛkɔrɔba kɔnɔ k'a kɛlen bɛ ka marifa ci sogo dɔ la. O b'o joginnen nɔ kan ko gɛn.
+En voyant cet grand venir, le vieux a pensé qu'il a blésseé un animal par balle.
+
+[226490-229320]
+A ko e bɛ nɔ kan wa?
+Es tu à la poursuite d'une trace?
+
+[229377-232320]
+A ye min jogin a na ye wa a tɛ de?
+Ce que tu as bléssé sera vu ou pas?
+
+[232396-235075]
+Masajan ko k'a na ye, sabu ne ye n ta in ye kaban.
+Massadjan a dit qu'il le verra parce que qu'il a déjà vu le sien.
+
+[235132-238603]
+Ne tɛ sogo nɔ kan.
+Je ne suis pas un animal.
+
+[238641-241566]
+Aw ye donsow ye aw bɛ sogow de faa.
+Vous êtes des chasseurs, vous tuez les aniamaux dans la brousse.
+
+[241603-246547]
+Ne fana ni donsokamalen mana ɲɔgɔn ye, i ka laharataa latigɛra.
+Quand je rencontre un jeune chasseur, ta mort est assurée.
+
+[246622-248245]
+Bo yan!
+Sors d'ici!
+
+[248301-251433]
+Cɛkɔrɔba in y'i miiri a ka denmisɛnya la, nka ale minɛna, ale kɛra bololamaa ye.
+Le vieux a pensé à sa jeunesse, mais il est en captivité et est devenu prisonnier.
+
+[251528-254754]
+Ale tun ye cɛfarinba ye.
+Il était un brave homme.
+
+[254792-257415]
+Nka ale minɛna, ale kɛra bololamaa ye.
+Mais il est en captivité et est devenu prisonnier.
+
+[257490-263924]
+Min y'a mine, o kɛlen bɛ ka marifa di a ma k'a ka du dahirimɛ ɲini  marifa la.
+A cause de sa vieillesse, son maître lui a donné le fusil d'aller nourrir sa famille avec.
+
+[263962-271226]
+N'a fɔra ne bɔra kungo ko n bɛ na kungoyaala la, ne fana minɛna maa wɛrɛ ko n bɛ taa kɛ bololamaa ye.
+Quand je vois que je suis venu chassé en brousse, quelqu'un ma capitulé et je serai esclave.
+
+[271301-275283]
+Ne dun ka denw fitinin bɛ n kɔ.
+Mes enfants sont petits.
+
+[275358-277320]
+Dotɛ se ka dɔ balo.
+Aucun ne peut nourrir l'autre.
+
+[277377-279811]
+A ko a kɛra baara ye dɛ.
+Il a dit que c'est devenu problème.
+
+[279867-283698]
+A ko n bɛ bɔ Masajan.
+Il a dit qu'il va sortir.
+
+[283792-288754]
+A bɔra k'i jɔ kɛnɛ ma tuma min na, a ko nin ce in ye denmisɛnnin kɛnɛ de ye.
+Quand il est sorti, il a dit que cet homme est très jeune.
+
+[288830-291132]
+Ne dun tɛ se nin na fanga na.
+Je ne peux pas le vaincre par force.
+
+[291207-297283]
+N'i dun y'a kanmɛ k'a fɔ k'a ta b'a ni donsokamalen cɛ, dalilu do bɛ sɔn ka ke a yɛrɛ bolo.
+Quand on le voit dira qu'il a à faire avec les chasseurs,  il a un pouvoir.
+
+[297396-300509]
+Masajan ko bila n ɲɛ.
+Masadjan lui a dit d'aller deavnt lui.
+
+[300584-302509]
+Masajan ko bila n ɲɛ.
+Masadjan lui a dit d'aller deavnt lui.
+
+[302584-304433]
+U ye dɔɔni aama.
+I la marché un peu.
+
+[304490-307301]
+A y'i to taama na, il sinna k'i kɔfilɛ ko n denkɛ?
+En marchant, il a regardé par derrière et dit: mon fils.
+
+[307339-310226]
+A ko a na sɔrɔ Ala kɛlen be k'e da kɛlɛmasaya kama dɛ.
+Peut être tu es né pour devenir roi.
+
+[310283-312283]
+Masajan ko e ye o fɔ munna?
+Pourquoi tu as dit ça?  
+
+[312358-317566]
+A ko fɛn fila bɛ ne bolo, ni ne ye o di e ma sisan, e t'o minɛ ka ne bila.
+J'ai deux chose, si je te donne ces deux choses, tu va me libérer.
+
+[317603-320679]
+A fɔ o fɛn fila tɛna fusaya e ma ni ne minɛni ye.
+Ces deux choses te feront mieux que de ma ma capitulation.
+
+[320735-322811]
+A k'o ye mun?
+Il a dit que c'est quoi?
+
+[322886-330566]
+A ko yefegeden kunkolo bɛ n bolo. N'i ya sɔn, i bɛ fɛn min sɔrɔ, fɛn min b'i sɔrɔ, a bɛ bɛɛ fɔ i ye.
+Il a dit qu'il a la tête d'un enfant albinos. Quand tu lui donnes le sacrifice, il te dira ce que tu va avoir, et  ce qui va t'avoir.
+
+[330660-337490]
+A ko siriku bɛ n kun na. Cɛ o cɛ ka di i ye n'a ka d'i ye i b'a bɛɛ siri ka taa npogo don a bɛɛ la ka na.
+Il a dit qu'il a le fétiche. Tu peux immobilisé le nombre d'hommes que tu veux et aller les vaincre tous.
+
+[337566-342377]
+Cɛ kelen t'a la min bɛ marifa tulo tigɛ yɔrɔ dɔn janko ka arifa ci i la.
+Aucun homme parmi eux ne saura où tirer le fusil à forte  raison de te tirer avec de balles.
+
+[342452-347000]
+A ko e t'o fɛn fila in mine i ka ne bila. O minɛni be sɔn ka fusaya e ma ka tɛmɛ ne mineni kan bi dɛ.
+Il faut prendre ces deux choses et me laisser. C'est choses te feront bien plus que ma capitulation.
+
+[347094-352000]
+A ko aw yɛrɛ cɛkorɔbaw ka kuma don.
+C'est la parole de vous les vieux.
+
+[352075-356113]
+A b'a b'a fo denmisɛnwulu sen ka di nka ko maakɔrɔbawulu bɛ kungo dɔn a ye.
+Un jeune chien est rapide mais les chiens âgés maitraise la brousse.
+
+[356207-358320]
+A 'o tuma i b'a fɛ ka nfakun don ne bolo wa?
+Il a dit donc tu veux me duper?
+
+[358358-361924]
+A ko n denkɛ, an tɛ fɛn lankolo n mara tuguni.
+Il a dit mon fils, nous ne gardons plus des choses inutiles.
+
+[362018-367509]
+A ko nin dilali jɔn hakɛ mana fɔ e ye, e bɛ d'a la ko nin ye fɛn ɲuman ye.
+Quand on te dit le nombre d'esclave sacrifié pour ce objet, tu sera sûr que c'est une bonne chose.
+
+[367603-374132]
+A ko nk i bɛ na ni kolon kɛmɛ ye, ne b'a kunmabɔ k'a di e ma.
+Mais tu amènes 100 cauris je te donne la chose.
+
+[374188-378094]
+N'a bɛ min fɔ sinin, a b'o fo e ye a t'o fo ne ye.
+Ce qu'il va dire demain sera à toi sinon pas moi.
+
+[378150-381056]
+O yɔrɔ bɛ a ye turu cɛ a y'i sigi dugu ma.
+Immédiatement il s'est retouné et assis par terre.
+
+[381094-384113]
+O y'a sɔrɔ yanni ale ka bɔ woro bilen tun b'a ka posi kɔnɔ.
+Avant qu'il ne sorte, il avait la cola rouge dans la poche.
+
+[384150-387735]
+Nk'a ma sɔnni kɛ o don ka bɔ. A teliyabagatɔ bɔra.
+Mais il n'a pas idolatré ce jour avant de sortir. Il est sorti dans la précipitation.
+
+[387811-396245]
+A ko n denkɛ, n bɛna yefegeden kunkolo sɔn sisan.
+Il a dit mon fils, je idolatrer maintenant la tête de l'enfant albinos.
+
+[396301-402641]
+N'a sɔrɔ e ye ne minɛni min kɛ n'a ka di ne na, n ka se k'o dɔn, n'a yɛrɛ man di ne na n ka se k'o dɔn.
+Si ma capitulation par toi est bénéfique poir moi, je saurai ça si elle ne l'est pas je saurai aussi.
+
+[402716-409188]
+A y'o fɔ tuma min na, a ye yefegeden kunkolo bɔ k'a da, ka sirikuba bɔ, ka woro bilen bɔ, ka sɛgɛnji bɔ.
+Après avor dit cela, il a sorti la tête de l'enfant albinos, la cola rouge, la l'eau de savon, le grand fétiche.
+
+[409358-414716]
+Sɛgɛnji de bɛ kɛ siriku juru la.
+On verse l'eau de savon sur la corde du fétiche.
+
+[414773-417471]
+A y'o bɔ k'o da tuma min na, 
+Quand ii l'a sorti,
+
+[417584-441188]
+A ko ne ka Nasuru, k'a sɔrɔ bɛnbakɛcɛn na, k'i sɔrɔ mɔkɛcɛn na, k'i sɔrɔ facɛn na, bɛnbakɛw tun bɛ fɛn min di i ma, wobobilen kelen don, mɔkɛw tun bɛ fɛn min di i ma, worobilen kelen don, faw tun bɛ fɛn min d'i ma, worobilen kelen don, i sonworobilen kelen filɛ nin ye.
+Il a dit: mon Nassourou, je tai comme héritage de mes ancêtre, mes grands pères, mes pères, les ancêtres, les grands pères , te donnaient une seule cola rouge; voici ta cola rouge.
+
+[441245-445716]
+A ye woro kari k'a fili sanfe a fila bɛɛ nana i dabiri.
+Il a cassé la cola et les jeté en haut tous les deux se sont fermé en tombant par terre.
+
+[445811-451339]
+Woro dabirila tuma min na,yefegeden kunkolo kasira kɛrɛfɛ.
+Apès que les partie de la cola se sont fermé, la tête de l'enfant albinos a pleuré.
+
+[451792-458301]
+Ako n tigi, kana to i ka bila dɛ. A ko minɛni in bi ka di i la, a sinin ka di i la.
+Elle a dit: mon maître, n'accepte pas d'être libérer. Cette capitulation joue en ta faveur aujourd'hui, et demain.
+
+[458396-460528]
+Cɛnin tɛ sa a be ke masa ye.
+Le garçon mourra pas sans devenir roi.
+
+[460584-462188]
+Cɛnin bɛ masaya kɛ.
+Le garçon va regner.
+
+[462245-465207]
+A ko n denkɛ i yɛrɛ tulo bɛ nin na dɛ.
+Il a dit mon fils toi même tu entends ça.
+
+[465396-467584]
+A ko n ye nin faamu.
+Il a dit qu'il l'a compris.
+
+[467660-471490]
+A ko i bɛ na an bɛ taa n bɛ taa se n sigiyɔrɔ la.
+Maintenant, tu viens, on va à mon abri.
+
+[471547-476377]
+Cɛkɔrɔba in bilara Masajan ɲɛ. A taara n'a ye a ka furajalanbugu la.
+Le vieux a marché devant Massadjan. Ils est parti avec lui dans sa case en feuilles sèches.
+
+[476452-479377]
+Cɛkɔrɔba ko n den kɛ e bɛ yan de wa?
+Le vieux a dit, tu es là mon fils?
+
+[479452-482037]
+A ko i ye jinɛ de ye wa?
+Es tu diable?
+
+[482094-484283]
+A ko i ye subaga de ye wa?
+Il a dit tu es sorcier?
+
+[484377-486867]
+A ko ni bɛ kɛ maaninfin siyɔrɔ ye cogo di?
+Comment cela ppeut être l'abri d'u humain?
+
+[486924-492056]
+A ko ne tɛ jinɛ ye, ne tɛ subaa ye. Nka bɔcogo de ma ɲɛ so.
+Il a dit je ne suis ni diable ni sorcier. Je n'ai pas quitté la maison dans une bonne condition.
+
+[492169-494320]
+Nka n ma fadento dun.
+Mais je n'ai pas fait l'adultère.
+
+[494396-497377]
+Nka n ni mɔnɛ de bɔra so.
+J'ai un regret.
+
+[497452-499528]
+N tɛ se ka segin so fo n ka fɛn dɔ sɔrɔ.
+Je ne peux pas retourner à la maison sans pourtant avoir quelque chose.
+
+[499641-501056]
+Nk i bɛ n kɔnɔ yan.
+Mais tu m'attends ici.
+
+[501132-508226]
+N bɛ taa to ta n faso kɔnɔ ka na ni su kora.
+Je vais chercher le to chez moi quand la nuit tombe.
+
+[512811-515226]
+O tuma ne ni cɛmannin be ɲɔgɔn ye.
+Don je vais rencontrer les garçons.
+
+[515283-518094]
+U y'u sigi, su nana ka na surunya ka ko.
+Ils se sont assis, la nuit a commencé de tomber.
+
+[518169-521603]
+A wulila ka Ncibugu sira miɛ.
+Il est parti à Ntchibougou.
+
+[521716-527641]
+A bɛ boli, marifa dalen b'a kan na. A nana se faso donda la su dugutilama fɛ.
+Il porte le fusil à l'épaule et court, Tard dans la nuit, il est arrivé à la porte de la maison.
+
+[527773-531188]
+Ka na a ba ka da kɔnkɔn.
+Il est venu frappé à la porte de sa mère.
+
+[531245-535056]
+Ba ko jɔnni bɛ ne ka da la? Jɔnni de bɛ ne hɔrɔntɔ ka da bi su in na?
+La mère a dit qui est à ma porte? Moi en tant que noble, qui est à ma porte cette nuit?
+
+[535245-539339]
+A ko ne don, Ma.A Ko Masajan wa? A ko Masajan i yelen diyara ne ye bi koyi e m'a don an famana?
+Massadjan ça me fait de plaisir de tavoir vu aujourd'hui. Ça fait longtemps.
+
+[539396-543547]
+I nanen diyara n ye dɛ, Masajan.
+Je suis très contente que tu sois venu , Massadjan.
+
+[543603-545188]
+Ba ye da yɛlɛn.
+La  mère a ouvert la porte.
+
+[545339-547622]
+A ko Maa i t ɛ kolon 100 di yan?
+Il a dit Ma, peut tu me donner 100 cauris.
+
+[547679-550905]
+Ba donna so kɔnɔ ka taa kolon jate ka kɛmɛ bɔ a la ka na o di a ma.
+La mère est entré dans la maison et pris 100 cauris pour lui et lui donné.
+
+[550981-553509]
+A m'a ɲininka a bɛ fɛn min kɛ kolon in na, 
+Il n'a pas demandé ce qu'il fait avec les cauris, 
+
+[553603-556603]
+a b'a dɔn a den bɛ baara la.
+elle sait que son fils travaille.
+
+[556698-560320]
+A ko Ma, sɛgɛji be sɔrɔ wa?
+Il a dit est ce que je peux avoir l'eau de savon?
+
+[560377-562943]
+A ko fo ni n taara bɔ gadaw nɔ na.
+Elle a dit : laisse moi voir  après les servantes.
+
+[563037-569150]
+A ye sɛgɛj ta k'a kɛ bara kɔnɔ ka n'a di den ma.
+Elle a mis l'eau de savon dans le bidon et donné au fils.S
+
+[569264-571622]
+A ko n bɛ segin, Ma.
+Il a dit: je retourne Ma.
+
+[571716-575358]
+A ko n bɛ dugawu de kɛ i ye, Masajan. Ala k'i se cɛw la don o don.
+Elle a dit : je te bénis Massadjan. Que tu vainques chaque jour les hommes.
+
+[575433-577905]
+Denkɛ in bɔra wo fɛ, a ye kungo sira.
+Le fils est sorti par le troun et se dirige vers la brousse.
+
+[577981-586792]
+A sera kungo fe tuma min na, a ni cɛkɔrɔba in y'u sigi.
+A rrivée dans la brousse, il s'est assis avec le vieux.
+
+[591716-593660]
+Masajan ye kolon 100 d'a ma.
+Masadjan lui a donné les 100 cauris.
+
+[593754-597811]
+A ko Masajan ma ni n y'a kunmabɔ k'a d'i ma, n tɛ labila dɛ.
+Quand je le donne, je serai pas libéré.
+
+[597886-603867]
+N'i ye fanga sɔrɔ don o don, n ni ka denbaya bɛ taa n sigi i fɛ yen sabu i n minɛ.
+Le jour où tu seras roi, je viendrai avec ma famille chez toi par ce que tu m'a capitulé.
+
+[603943-612792]
+Kolon kɔni kɛra ne ta ye. Yefegeden kunkolo ni siriku dira i ma.
+Les cauris m'appartinnent  quand même. Tu as le fétiche et la tête de l'enfant albinos.
+
+[612943-620150]
+N'i ye fanga sɔrɔ don o don, n bɛ taa fara i kan i faso la.
+Le jour où tu prendras le pouvoir, je viendrai vivvre avec toi.
+
+[620264-622528]
+I ni cɛmanninw ne sɔrɔ ka jɔgɔn ye.
+Tu vas rencontrer les garçon dans ce cas.
+
+[622622-629886]
+Kabi fajiri fɛ, a ko n denkɛ e be sunɔgɔ wa?
+Dès l'aube, i l a dit dors tu mon fils?

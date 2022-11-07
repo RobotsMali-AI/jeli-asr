@@ -1,0 +1,519 @@
+[0-4135]
+A nana garijɛgɛ sababan sɔrɔ.
+Elle est tombée enceinte pour la troisième fois.
+
+[4216-8297]
+Balimamuso in a fɔ cɛkɔrɔba ye.
+La sœur a dit au vieux.
+
+[8405-18675]
+A ko n kɔrɔ, an ba ko k'an bɛ taa ni i muso ye.
+Elle a dit : mon grand frère, notre mère demande d'amener ta femme.
+
+[18837-23216]
+Nin ye kɔnɔ tiɲɛko fila ye sisan.
+C'est la deuxième fois qu'elle fait une fausse-couche.
+
+[23297-28108]
+An bɛna taa i muso furakɛ duguba kɔnɔ.
+On va soigner la maladie de ta femme en ville.
+
+[28297-31027]
+A kɔnɔ teka sigi.
+Elle n'arrive pas à garder la grossesse.
+
+[31135-37297]
+O y'a sɔrɔ balimamuso in sɔmina ko muso lajɔlen don.
+La sœur avait déjà soupçonné que la femme est enceinte.
+
+[37513-40540]
+a ya fɔ a balimakɛ ye.
+Elle a dit à son frère.
+
+[40702-43027]
+Balimakɛ ko:
+Le frère a dit:
+
+[43162-49594]
+N'an ba ko ko ka na ni n muso ye u bɛ n'a kɔnɔ furake, a' ye taa n'a ye.
+Si notre mère demande d'amener ma femme pour soigner sa grossesse, amenez-la.
+
+[49675-57324]
+Balimamuso ni cɛ muso dara ɲɔgɔn kan ka na duguba kɔnɔ.
+La sœur et la femme du monsieur sont venues en ensemble en ville.
+
+[57486-66810]
+U nana ni musoninncinin ye ka muso fɔlɔ to yen sani o ka sɔmi k'a garijɛgɛlen don tuguni.
+Elles ont amené la seconde femme avant la première femme ne soupçonne qu'elle est de nouveau tombée enceinte.
+
+[66972-69918]
+N bɛ ka kuma min fɔ i ye baro de don.
+Ce que je suis en train de te raconter, c'est une histoire.
+
+[70054-73729]
+A kɛra.
+C'est fait.
+
+[73864-77729]
+A kɛra n ɲɛna yɛrɛ.
+J'ai assisté à ça.
+
+[77891-80702]
+Nin ye baro de ye dɛ.
+C'est une histoire.
+
+[80783-82756]
+AN bɛ baro de la, ne den.
+On est né causerie, mon enfant.
+
+[82945-91324]
+U nana ni muso ye kalo kɔnɔ kalo fila fo ka taa se kalo kɔnɔntɔn ma.
+La femme est venue étant donné la grossesse était à deux mois et restée jusqu'à neuf mois.
+
+[92621-95054]
+Kalo kɔnɔnton dafalen a nana jigin.
+Après neuf mois, elle a accouché.
+
+[95162-98324]
+O y'a sɔrɔ muso fɔlɔ in bɛ yen fɛ.
+La première femme était là-bas.
+
+[98513-100972]
+Den nana ke muso ye.
+Le bébé était une fille.
+
+[101162-104675]
+Muso tora duguba kɔnɔ.
+La femme est restée en ville.
+
+[106270-109918]
+Den kɔrɔbayalen, cɛ ko k'a ka na.
+Après que l'enfant a grandi, l'homme a demandé à la femme de venir.
+
+[110135-112891]
+A taara.
+Elle est partie.
+
+[113081-116810]
+A taalen, Ala nana a garijɛgɛ tugun.
+Après son départ, elle est tombée de nouveau enceinte.
+
+[117054-123216]
+Kabini kɔnɔ ma kalo fila bɔ, a sɔmina a muso la.
+Depuis que la grossesse ne vaut pas deux mois, il a soupçonné sa femme.
+
+[123405-129756]
+Sani muso fɔlo in k'a dɔn, a ye muso bila tuguni.
+Avant que la première femme ne soit au courant, il a laissé la femme partie.
+
+[129864-135900]
+A ko i labɛn, i bɛ taa n ba fɛ yen duguba la.
+Il a dit : prépare-toi, tu iras chez ma mère en ville.
+
+[136000-137000]
+Kana fɛn fɔ dɛ.
+Surtout ne dit rien.
+
+[137351-139027]
+I bɛ taa i yɛrɛ sɔrɔ yen.
+Tu vas accoucher là-bas.
+
+[140324-143972]
+A nana o nacogo fana na.
+Elle est venue de cette manière.
+
+[144189-146837]
+A den nana kɛ muso ye tuguni.
+Son enfant était encore une fille.
+
+[146918-148864]
+O te musoman fila ye?
+Cela fait deux filles non?
+
+[149000-151297]
+A seginna ka taa.
+Elle est retournée.
+
+[151513-153351]
+Muso in ye denmisɛnnin ye.
+Cette femme est une enfant.
+
+[153486-156216]
+A furula cɛkɔrɔba in ma k'a si to san tan ni duuru la.
+Elle est donnée au vieux en mariage à l'âge de 15 ans.
+
+[156351-157891]
+A te foyi dɔn.
+Elle ne sait rien.
+
+[158027-162027]
+Musokɔrɔba be min dɔn fitinin t'a dɔn.
+La vieille connait les choses plus que la jeune femme.
+
+[162189-164972]
+A bɛ siran musokɔrɔba in ɲɛ.
+Elle craint la vieille.
+
+[165081-167945]
+A taalen, Ala nana a gaijɛgɛ tugun.
+Elle est de nouveau tombée enceinte après son départ.
+
+[168027-171351]
+A nana den cɛmannin sɔrɔ.
+Elle a eu un garçon.
+
+[174918-176864]
+Kɔnɔ in nana kɔrɔbaya.
+La grossesse a grandi.
+
+[177135-182297]
+A kera i ko musokɔrɔba in ye muso in siri de.
+C'était comme si la vieille avait jeté de sort sur cette femme.
+
+[189270-192135]
+Kɔnɔ in nana kɔrɔbaya.
+La grossesse a grandi.
+
+[192324-197189]
+A ni musokɔrɔba in fila ni den musomannin tɔ fila bɛ so kɔnɔ.
+Elle vit avec la vieille à la maison avec les autres filles.
+
+[197405-201864]
+A bɛka muso jate minɛ.
+Elle surveille la femme.
+
+[202027-206270]
+Muso ka tin nana wuli.
+La femme a eu des douleurs de ventre.
+
+[206432-209405]
+U taara n'a ye.
+Ils l'ont amené.
+
+[209540-213162]
+A nana a yɛrɛ sɔrɔ ko den kɛra cɛ ye.
+Elle a accouché, le bébé est un garçon.
+
+[213270-217000]
+Daga wulila sonkala ma ye.
+Proverbe.
+
+[217108-220324]
+O ma kun musokɔrɔba in fɛ.
+La vieille n'a pas pu supporter cela.
+
+[223459-226189]
+Mukɔrɔba in bɛna mun kɛ?
+Qu'est-ce que la vieille va faire?
+
+[226378-231648]
+Den kɛra cɛ ye, muso ye  den tɔgɔ da  a yɛrɛ fa la.
+Le bébé fut garçon, la femme a donné le nom de son père à l'enfant.
+
+[231918-236783]
+An ka mara taabolo yɛrɛ ye o ye.
+C'est ainsi notre culture.
+
+[236918-240783]
+Ni cɛ ye den fila tɔgɔ da, muso bɛ kelen da.
+Quand l'homme baptise deux enfants, la femme baptise un.
+
+[240972-243243]
+den sabanana kɛra cɛ ye.
+Le troisième fils est un garçon.
+
+[243405-248675]
+Muso y'o d'a yɛrɛ fa la ko Mamadu.
+La femme a donné le nom de son père Mamadou à l'enfant.
+
+[249135-256135]
+Den in ma tile bi naani sɔrɔ.
+L'enfant n'a pas atteint 40 jours.
+
+[259459-266918]
+Musonin ncinin ni musokɔrɔba bɛ ɲɔgɔn kan, filanan in bɛ siran fɔlɔ ɲɛ kojugu.
+La seconde femme et la première vivent ensemble, la seconde femme craint la première trop.
+
+[267027-269540]
+O y'a sɔrɔ kɔrɔmuso in de fɔlɔ sara.
+Cela a trouvé que la grande sœur était morte en premier.
+
+[269648-270540]
+I bɛka baro mɛn dɛ.
+Tu entends l'histoire?
+
+[272513-280945]
+Den kalo kelen be dafa tuma min na, cɛkɔrɔba ko k'ale bɛ taa jamana kɔnɔ.
+Au moment où l'enfant a atteint un mois, le vieux a dit qu'il veut partir en aventure.
+
+[281054-282054]
+Ka bɛ taa minɛnta la.
+Qu'il va chercher les marchandises.
+
+[282297-285324]
+A bɛ na minenw feere.
+Il va vendre les marchandises.
+
+[285432-288486]
+Cɛkɔrɔba taara minɛnta la k'u to ɲɔgɔn kan.
+Le vieux est parti chercher les marchandises en les laissant ensemble.
+
+[291594-298135]
+An ka togoda ninnu na yɔrɔ bɛɛ n'a sugudon don.
+Dans la campagne, tous les villages ont leur jour de foire.
+
+[298324-300432]
+Dɔ ka sugudon ye ntɛnɛn ye.
+Le lundi est le jour de la foire chez certains.
+
+[300594-302189]
+Dɔw ta ye tarata ye.
+Le mardi est la foire chez d'autres.
+
+[302324-307540]
+Fo ka taa se kari ma, bɛɛ n'i ka sugudonya don.
+Jusqu'à dimanche, chacun a son jour de foire.
+
+[307675-311783]
+Nka ntɛnɛn tun y'a dugu in sugudon ye.
+Le lundi était le jour de la foire de ce village.
+
+[311891-314918]
+I y'a faamuya?
+As-tu compris?
+
+[315216-317756]
+O tun ye ntɛnɛn ye.
+C'était lundi.
+
+[318135-323486]
+Musokɔrɔba in ye dɛgɛ dila.
+Elle a préparé le dèguè.
+
+[323648-328162]
+Dɛgɛ de ka di mɔgɔw ye sugudon fɛ an ka togoda ninnu na.
+Les habitants du village aiment le dèguè le jour du mariage.
+
+[328459-332540]
+N'u ye dɛgɛ in dila, u bɛ sorɔ ka taa u ka sugu la.
+Quand ils préparent le dèguè, elles partent au marché.
+
+[332702-340756]
+Musonin ncinin y'a den da so kɔnɔ ka don jɛgɛn ka t' a ko.
+La seconde femme a couché son bébé dans la chambre et entré dans la toilette pour se laver.
+
+[340891-342918]
+A bɛk'a ko.
+Elle est en train de se laver.
+
+[343054-346567]
+Mukɔrɔba ye dɛgɛ dila.
+La vieille a préparé le dèguè.
+
+[346729-350378]
+Mukɔrɔba bɔtɔ y'a ka dɛgɛ min.
+En sortant, la vieille a mangé son dèguè.
+
+[350675-358405]
+A ye musonin ncinin ta datugu o ka gakɔrɔla la.
+Elle a mis la part de la seconde femme sous le hangard de celle-là.
+
+[358567-361513]
+A y'i kanto o ko karisa!
+Elle a appelé celle-là une telle!
+
+[361648-364000]
+E be ɲɛgɛn na wa?
+Es-tu dans les toilettes?
+
+[364108-367216]
+Musonin cninin ko awɔ, ne be ɲɛgɛn na, ne bɛka n ko.
+La seconde femme a dit oui, je suis dans la toilette, je me lave.
+
+[367297-370270]
+Ɔɔ, ne bɛ taa sugu la.
+Ok, je vais au marché.
+
+[370432-372783]
+Ne ye n ka dɛgɛ min haan!
+J'ai mangé mon dèguè.
+
+[372918-376621]
+I ka dɛgɛ bɛ i ka gakɔrɔla la.
+Ton dèguè est sous ton hangar.
+
+[380270-383081]
+N'i bɔra ɲɛgɛn na i ka dɛgɛ b'i ɲɛ.
+Quand tu sors de la toilette, ton dèguè est là.
+
+[383216-387135]
+Muso bɔra ɲɛgɛn na o y'a sɔrɔ ale kɔni taara lɔgɔjɔ la.
+La femme est sortie de la toilette, l'autre était déjà partie au marché.
+
+[387270-398000]
+Muso nana sin di a den ma, a tilalen sindi la, a ye dɛgɛ dayɛlɛn.
+La femme est venue, elle a allaité son bébé, pares, elle a ouvert la tasse du dèguè.
+
+[398243-400513]
+A ye dɛgɛ min.
+Elle a mangé le dèguè.
+
+[401054-406918]
+Muso ni dɛge galama ɲɛ kelen de taara lahara.
+Une seule fois de louche dans le dèguè a tué la femme.
+
+[407135-414000]
+O y'a sɔrɔ dutigikɛ yɛrɛ bɛ jamana kɔnɔ minɛnɲini na.
+Le chef de la famille était en aventure pour chercher les marchandises.
+
+[414135-417027]
+A  bɛ taa minɛnw ta ka n'a feere.
+Il part prendre les marchandises pour venir les vendre.
+
+[417162-421432]
+Kɔnɔdimi nana muso minɛ.
+La femme a eu des maux de ventre.
+
+[421567-425081]
+K'a ye mun dun?
+Qu'elle a mangé le dèguè.
+
+[425324-430405]
+A kɛra sefana tuma sugu falen.
+L'incident s'est passé au moment de la prière de l'après-midi.
+
+[430540-435675]
+U y'a cɛ ka taa n'a ye furakɛlaw fɛ yen.
+Ils l'ont amené chez les guérisseurs.
+
+[435864-442405]
+Muso ye diɲɛ to fitiri masunya.
+À l'approche du crépuscule, la femme a rendu l'âme.
+
+[448000-455972]
+Lawale la, n'i taara dugu la, ii bɛ taa i jatigi kɛ mɔgɔ ye mɔgɔ min ɲɛnabɔlen don dugu.
+Auparavant, quand tu pars dans un village, tu vas chez quelqu'un qui s'est fait les affaires.
+
+[456081-457621]
+Bɛɛ n'i jatigi don.
+Tout le monde a son hôte.
+
+[457864-462729]
+Cɛkɔrɔba in kɔni bɛ wajiniyɔrɔ la.
+Le vieux est en aventure.
+
+[462945-465081]
+A ma na.
+Il n'est venu.
+
+[465324-468189]
+Ci taara fɔ a jatigikɛ ye.
+L'information a été donnée à son hôte.
+
+[469108-477594]
+K'i ka dunanke musoninncinin banna dɛ.
+Que la seconde épouse de ton étranger est décédée.
+
+[477729-482189]
+O muskɔrɔba sigilen bɛ.
+La première femme de ce dernier était assise.
+
+[482270-490648]
+O  ko ko ee, kɔrɔmuso nana o sara, dɔgɔnin nana bila o nɔ na o sara.
+Celle-là a dit eh! La grande sœur est venue, elle est morte, la petite sœur est venue remplacer celle-là, cette dernière est morte aussi.
+
+[490837-496756]
+Aa, hali ni musokɔrɔba in te ko kɛ, mɔgɔw na siga a la.
+Ah, même si cette vieille ne fait rien, les gens vont douter d'elle.
+
+[496837-499270]
+Tiɲɛ don wa tiɲɛ tɛ?
+C-est ou faux?
+
+[499432-501486]
+Mɔgɔw ɛna siga i la?
+Les gens ne vont pas douter de toi?
+
+[501702-503540]
+E ma den sɔrɔ.
+Tu n'as pas eu d'enfant.
+
+[503675-505945]
+Minnu ye den sɔrɔ olu taara.
+Celles qui ont eu des enfants sont parties.
+
+[506108-510648]
+Muso taacogo filɛ k'a dennin saba to.
+La femme est partie comme laissant ses trois enfants.
+
+[510810-515891]
+Min tun b'a sin na ma kalo kelen yɛrɛ sɔrɔ.
+Celui qui traitait n'avait même pas atteint un mois.
+
+[516216-522513]
+U ye su don k'a sɔrɔ cɛkɔrɔba ma na.
+Ils ont enterré le cadavre avant que le vieux vienne.
+
+[522675-527918]
+Cɛkɔrɔba nana o cogo la ka bɔ a ka minɛntayɔrɔ la.
+Le vieux est ainsi venu de son aventure.
+
+[528081-531297]
+A nana musokɔrɔba in kelen ni denw de sɔrɔ.
+Il est venu trouver la vieille seule avec les enfants.
+
+[531486-537000]
+A ko Ala y'a ka baara kɛ.
+Il a dit que Dieu a fait son travail.
+
+[537675-541594]
+Cɛkɔrɔba ye denw ta.
+Le vieux a pris les enfants.
+
+[541729-546378]
+Den saba, musomen fila, cɛman kelen.
+Trois enfants, deux filles et un garçon.
+
+[546513-552027]
+A y'u ta k'u bila kurun kɔnɔ.
+Ils les ont mis dans la pirogue.
+
+[552297-554297]
+A kɛra bakɔfɛla de la.
+Ils étaient derrière le fleuve.
+
+[554405-559837]
+A  y'u bila kurun kɔnɔ, ka na ni den saba in bɛɛ ye faaba la.
+Ils les ont mis dans la pirogue et amené les trois enfants dans la capitale.
+
+[560081-565027]
+Ni musokɔrɔba in tun ye ɲuman ye, a bɛ dɔ to a bolo.
+Si cette vieille avait un bon cœur, elle allait en garder un.
+
+[565108-567918]
+A ma dɔ to a bolo.
+Elle n'a pas gardé un seul enfant.
+
+[568108-576297]
+A ye den saba in bɛɛ ta ka na n'u bɛɛ ye duba in kɔnɔ.
+Il a amené les trois enfants dans la grande famille.
+
+[576486-578459]
+A ba balolen bɛ.
+Sa mère est en vie.
+
+[578702-582540]
+Den kɔrɔbalen be sanji naani.
+L'enfant le plus âgé a 4 ans.
+
+[582702-588081]
+a y'o ta k'o di a dɔgɔke ma.
+Il a donné celui-là à son petit frère.
+
+[588270-592000]
+A y'a  sɔrɔ o fana ye denbatigi ye.
+Celui-là avait une famille.
+
+[592216-599000]
+A ye denmuso filanan ta k'o di a yɛrɛ nɔnan ma.
+Il a donné la seconde fille à celui qui le suivait.

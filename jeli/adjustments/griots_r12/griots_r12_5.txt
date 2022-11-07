@@ -1,0 +1,520 @@
+[950-5600]
+Futaka cɛ saba, u bɛɛ taara k'u so to Kaana Balaba n'a ka maaw bolo.
+Trois guerriers de Fouta ont fui laissant leurs chevaux entre les mains de Kana Balaba et ses hommes.
+
+[6890-10500]
+A naaninan, o kɔra gunbeli Sanba Hako ye.
+Le quatrième, est Gounbel Samba Hako.
+
+[10770-17420]
+Gunbel Sanba Hoko, a wulila k'a jube kurufin ta, ka kirike siri a la k'a bɛ sira minɛ...
+Goubeli Samba Hako se leva et prit son étalon à la robe noire et aux pattes blanches, voulut prendre la route...
+
+[17660-21450]
+Yanni a ka se Kaana Balaba ye kolonkisɛ kɛmɛ yeri n'a tɔgɔ ye.
+Avant qu'il arrive, Kana Balaba étala cent coris en son nom.
+
+[24980-28740]
+A sera, Kaana Balaba ko a ma, ko Gunbeli Sanba Hako tɛ wa?
+Arrivé Kana Balaba lui dit, n'est-ce pas que c'est Gounbel Samba Hako?
+
+[28820-31330]
+Ko haa, ko Gunbeli Sanba Hako don.
+Il dit, ah, c'est Gounbel Samba Hako.
+
+[31950-35130]
+K'e natɔ y'i sara i ka morikɛ la, a y'i bilasira ni tiɲɛ den kelen ye.
+En venant, tu t'es confié à ton charlatan, il t'a accompagné avec un signe de géomancie.
+
+[35640-36380]
+A ko tiɲɛ don.
+Il dit: c'est vrai.
+
+[36560-37710]
+Ko bɔn i ka saraka ma minɛ.
+ll dit alors ton offrande n'a pas été acceptée.
+
+[38870-41790]
+N'i mago bɛ tasuma na, jigin i ka tasuma ta.
+Si tu veux du feu, descends pour en prendre.
+
+[41800-43670]
+Anw tɛ tasuma di maa ma k'i to so kan.
+Nous ne donnons pas du feu à quelqu'un étant à cheval.
+
+[47500-52550]
+O fɔlen, kamalenkɔrɔ y'i cun k'a b'i bolo maga takuru la, u ye kunkan tan ni fila tigɛ ani takuru cɛ.
+Cela dit, le guerrier descendit pour toucher le feu, on lui somma de douze coups de fusil.
+
+[53070-55640]
+A taara k'a ka sokɛ jɔlen to Kaana Balaba n'a ka maa bolo.
+Il fuit laisser son étalon entre les mains de Kana Balaba et ses hommes. 
+
+[60470-63830]
+Cɛ duurunan, o ye Dafetigi Jawoyi ye.
+Le cinquième guerrier est Dafétigui Djawoye.
+
+[64560-72830]
+Ha, Dafetigi Jawoyi, a ye i kun kɔrɔta, a ye Jeli Mamu ɲɛda lajɛ, a y'i kun biri k'a ka jube kurufin jɔlen lajɛ.
+Ah, Dafétigui Djawoye, leva sa tête, regarda le visage de Djeli Mamou, baissa la tête pour regarder son étalon à la robe noire et aux pattes blanches.
+
+[74510-85470]
+A ko: ko Futa ka kɛlɛkuntigi, Futa ka jelikɛ mandi, ne yɛrɛ Dafetigi Jawoyi, n bɛ n ka jube kurufin ta, n bɛ taa tasuma ta ka d'i ma.
+Il dit: Souverain de Fouta, Griot populaire de Fouta, moi Dafétigui Djawoye j'irai te chercher du feu avec mon étalon à la robe noire et aux pattes blanches.
+
+[90420-95090]
+Dafetigi Jawoyi wulila, yanni a ka se Kaana Balaba ye kolonkisɛ kɛmɛ yeri n'a tɔgɔ ye lɛfɛ kɔnɔ.
+Lorsque Dafétigui Djawoye prit le chemin, avant d'arriver Kana Balaba étala cent coris dans le van en son nom.
+
+[96770-98090]
+A sera, a ye foli kɛ.
+Arrivé, il salua.
+
+[98330-99810]
+Ko Dafetigi Jawoyi tɛ wa?
+C'est Dafétigui Djawoye, n'est-ce pas?
+
+[99950-100580]
+Ko o don.
+Il dit c'est ça.
+
+[102240-104270]
+K'i natɔ y'i sara i ka morikɛ la.
+En venant, tu t'es confié à ton charlatan.
+
+[105270-106270]
+A ye dugawu k'i ye.
+Il t'a fait des bénédictions.
+
+[106740-107410]
+O tɛ wa?
+N'est-ce pas?
+
+[107730-108270]
+Ko ahan.
+Que oui.
+
+[108520-109760]
+Ko bɔn k'i ka dugawu ma minɛ.
+Alors ton vœu n'a pas été exhaussé.
+
+[110170-111170]
+K'i ka saraka ma minɛ.
+Ton offrande n'a pas été accepté.
+
+[111590-113200]
+Ko n'i mago bɛ tasuma na: jigin!
+Si tu as besoin du feu: descends!
+
+[113400-115360]
+An tɛ tasuma di maa ma k'i to so kan.
+Nous ne donnons pas du feu à quelqu'un étant à cheval.
+
+[118680-122480]
+Dafetigi Jawoyi, a jiginna, k'a b'i tɛgɛ maga takurun na...
+Dafétigui Djawoye descendit, voulut toucher la braise.
+
+[123020-128720]
+Kaana Balaba ka cɛ tan ni fila: u ye kunkan ɲɛ tan ni fila tigɛ a ni takuru cɛ, a ye takuru fili ka taa k'a ka so to.
+Les douze hommes de Kana Balaba le sommèrent de douze coups de fusil, il jeta la braise et prit la fuite.
+
+[134170-134720]
+He.
+Eh.
+
+[136280-142480]
+Bamanw ko: ko Ala ye den min da dugutigiya kama ko Ala tɛ sɔn k'a ncinin faga bamunan na.
+Les bambara disent: un enfant destiné à la royauté ne mourra pas dans le landeau.
+
+[145630-154490]
+Bamanw ko: ko sɛgɛ min dara dugutilama fɛ kasi... dununkɔrɔ min dara dugutilama fɛ kasi kama ko sɛgɛ lankolon tɛ taa n'a ye.
+Les bambara disent: l'aigle destiné à chanter à l'aube... le coq destiné à chanter à l'aube ne pourra pas être la proie d'un aigle bouffon.
+
+[156190-159586]
+A tɔ tora bilakoro ye, hali a ma siginɛgɛkɔrɔ fɔlɔ, san tan ni saba.
+ça reste le très jeune, même pas encore circoncis, douze ans.
+
+[159700-160860]
+Amadu Hama Lɔbɔ.
+Amadou Hama Lôbô.
+
+[163490-170630]
+Amadu Hama Lɔbɔ, a y'i sigilen to, a ko Futakɛlɛkuntigi ka jelikɛ mandi Jeli Mamu.
+Amadou Hama Lɔbɔ, étant assis, dit: Griot populaire du souverain de Fouta Djeli Mamou.
+
+[171320-176170]
+I sigi, n bɛ taga, tasamu ta, n bɛn'a di i ma yan. 
+Asseois-toi, je m'en vais chercher du feu pour te le donner ici.
+
+[180080-187560]
+Bilakoro wulila, Amadu Hama Lɔbɔ, a y'a jube kurufin ta n'o y'a sokɛ, ka kirike sigi a la, k'i sigi a la.
+Le très jeune, Amadou Hama Lôbô prit son étalon à la robe noire et aux pattes blanches, posa la scelle et monta.
+
+[187670-191390]
+A natɔ, Kaana Balaba ye kolonkisɛ kɛmɛ yaeri lɛfɛ kɔnɔ n'a tɔgɔ ye.
+En venant, Kana Balaba étala cent corris dans le van en son nom.
+
+[191490-196260]
+A ko hun, fɛn den kelen bɛ ka na, a saraka ye fɛn den kelen ye.
+Il dit hum, une chose arrive et il en faut une chose comme offrande pour la contrer.
+
+[199940-202830]
+Ha, Kaana Balaba ka mɔgɔw ko, k'o ye fɛn den kelen jumɛn ye?
+Ah, les hommes de Kana Balaba dirent: quelle est cette chose?
+
+[202930-206450]
+Ko sisɛfan dayɛlɛnbali, sisɛfan cibali, k'o y'a saraka ye.
+Il dit l'œuf non ouvert, l'œuf non cassé, c'est ça l'offrande.
+
+[209650-213430]
+Ha, u ko Kaana Balaba ma ko an ni so ka jan, k'o bɛ kɛ cogo di?
+Ah, ils dirent à Kana Balaba, nous sommes loin du village, que faire?
+
+[213510-217220]
+Ko turabu so tan ni wɔɔrɔ lajɛ ni nabiɲuman kɛmɛ ni mugan ni naani tɔgɔ ye.
+Consulte les seize signes de la géomancie avec le nom des cinquante quatre messagers.
+
+[217790-222110]
+A y'a jigin turabu la, o fana y'a jira a la k'a saraka ye fɛn den kelen.
+Il a fait de la géomancie, ceci aussi lui montra que qu'il n'y a qu'une seule offrande.
+
+[222660-223790]
+Sisɛfan dayɛlɛnbali.
+L'œuf non ouvert.
+
+[227650-230970]
+Haa, Kaanakaw huntanna u disi la.
+Ahh, les guerriers de kana se prirent la tête.
+
+[233300-234781]
+Amadu Hama Lɔbɔ, a sera.
+Amadou Hama Lôbô arriva.
+
+[235750-239330]
+Kaana Balaba ko a ma: a ko e de tɛ Amadu Hama Lɔbɔ ye wa?
+kana balaba lui dit: n'est-ce pas que c'est toi Amadou hama Lôbô?
+
+[239340-239990]
+A ko ahan.
+Il dit oui.
+
+[240620-245300]
+E, n den, e ma se kɛlɛfɛ na ye, bilakoro.
+Eh, mon fils, tu n'as pas l'âge de faire la guerre, tu es très jeune.
+
+[246260-248874]
+E ma sigi nɛgɛkɔrɔ fɔlɔ, mun y'e bila nin na?
+Tu n'es pas encore circoncis, pourquoi tu fais ça?
+
+[251730-253324]
+A ko, i nana k'i ba to so.
+Il dit, tu es venu laisser ta mère à la maison.
+
+[253920-258820]
+I ba kɛlen don ka lɛfɛ saba sigi ga kan, a ka mugu b'a kɔnɔ.
+Trois vans contenant de la farine sont posés sur le hangar par ta mère.
+
+[258920-260930]
+N'i ma taa, i bɛ taa a sɔrɔ baw y'a bɛɛ dun.
+Si tu ne retournes pas, tu iras trouver que les chèvres ont tout mangé.
+
+[264270-270250]
+Amadu hama Lɔbɔ, bilakoro, san tan ni saba, a ma siginɛgɛkɔrɔ, a ko Kaana Balaba ma ko a ka segin kolon kan.
+Amadou Hama Lôbô, très jeune, non circoncis, dit à Kana Balaba de refaire les coris.
+
+[272910-275990]
+Ngilikiden dilannen b'a bolo, a y'o da mugu kan.
+Il a du ''ngiliki'' fabriqué,qu'il a mélangé avec de la poudre à canon.
+
+[278980-280830]
+Cɛniden dilannen b'a bolo k'o da mugu kan.
+Il a du ''cɛniden'' fabriqué qu'il a mélangé avec de la poudre à canon.
+
+[280950-284930]
+Kaana Balaba ko abɛ kolon yeri tuguni, a ye kukan ɲɛ kelen wuli, a y'a bolo bɔ a la.
+Kana Balaba a voulu étaler de nouveau les coris, il tira un coup de fusil, celui-ci retira sa main.
+
+[285120-286680]
+kaana Balaba ko gɔnga.
+''gônga''= expression peulh
+
+[287050-287790]
+A y'i bolo serin.
+Il secoua sa main.
+
+[289060-291690]
+Fɛn dɔ tun b'a bolo, u b'a f'o ma ko Kɔfilɛ.
+Il avait quelque chose qu'on appellait '' Kôfilè''.
+
+[291780-292340]
+Biyɛn don.
+c'est une pointe.
+
+[292400-296400]
+A y'o turu duguma k'a ka fugula bɔ k'a fili, fugula taara bari jiri la.
+Il  piqua pointe  au sol et jeta son chapeau qui s'accrocha à l'arbre. 
+
+[299610-303790]
+Fugula barila jiri la, a ko Amadu Hama lɔbɔ ma ko a ka fugula in kɔnɔ lajɛ.
+Le chapeau accroché à l'arbre, il dit à Amadou hama Lôbô de regarder l'intérieur du chapeau.
+
+[303830-304700]
+Ko ni t'a ba ye wa.
+il dit n'est-ce pas que c'est sa mère?
+
+[304750-305830]
+A ko ahan ko ni ye ale ba ye.
+Il dit oui, c'est sa mère.
+
+[306290-308970]
+Ko ni t'a ka filen saba ye ga san fɛ wa?
+N'est-ce pas que ce sont ses trois calebasses sur le hangar?
+
+[309010-309750]
+Ko ahan, ko nin y'o ye.
+Que oui, c'est ça.
+
+[309990-311120]
+k'a ɲɛ tɛ baw la?
+Ne voit-il pas des chèvres?
+
+[311360-312710]
+Ko baw bɛna a ba ka ɲɔ dun.
+Les chèvres vont manger le mil de sa mère.
+
+[312950-318730]
+O yɔrɔ bɛɛ Amadu Hama Lɔbɔ, a y'i kɔ filɛ ka fugula kɔnɔ lajɛ, a ye kunkan ɲɛ kelen wuli fugula kɔnɔ.
+Amadou Hama Lôbô se retourna immédiatement pour regarder l'intérieur du chapeau, il tira un coup dedans.
+
+[320080-324490]
+Ba binna ka bɔ ga kan, ka na bin a ba kɛrɛfɛ so.
+La chèvre tomba du hangar près de sa mère.
+
+[325420-326580]
+Joli bɛ ka bɔ a nun kɔnɔ.
+Son nez saigne du sang.
+
+[327770-329590]
+Ba y'o binnen ye, ba siranna.
+La mère, en voyant cela, eut peur.
+
+[334160-339870]
+Ba sirannen, a ka cɛkɔrɔba bɛ yen, o ko a ma, ko n'i y'i den ka baara ye.
+La mère effrayée, son vieux étant là, lui dit: c'est l'œuvre de ton fils.
+
+[340470-343080]
+K'i den ye nin faga k'a to kɛlɛkɛyɔrɔ la.
+Ton fils a tué ceci étant au champ de bataille.
+
+[345230-352085]
+Ko n'i den tun ma nin faga, ni ba in tun ye i ka filen kɔnɔ ɲɔ saba dun, i n'i den tun tɛ ɲɔgɔn ye.
+Si ton fils ne l'avait pas tué,  cette chèvre allait manger le mil contenu dans tes trois calebasses, tu n'allais plus voir ton fils.
+
+[355910-360560]
+A ko nka, ne ye ngilikibɔlɔ ni cɛninden min dilan ka di a ma, o ka baara de ye nin ye.
+Il dit mais le '' nguilikibôlô et le cɛninden'' que j'ai fabriqué pour lui, c'est l'oeuvre de ceci.
+
+[367620-373930]
+Amadu Hama Lɔbɔ, Kaana Balaba, a y'a ka cɛ tan ni fila bila a la, a y'u bɛɛ dimasonya.
+Amadou Hama Lôbô, Kana Balaba mis ses douze hommes sur lui, il les chassa tous.
+
+[374090-376190]
+K'u fara ɲɔgɔn kan kunkan ɲɛ tan ni fila.
+Il les rassembla tous en douze coups de fusil.
+
+[376320-377550]
+K'u ka marifaw kɛ ɲɔgɔn kan.
+Rassembler leurs fusils.
+
+[377810-379410]
+Kaana Balaba bolila, a taara Kaana.
+Kana Balaba s'en fuit pour rentrer à Kana.
+
+[381320-385470]
+A ye cɛ tan ni fila ka marifa fara ɲɔgɔn kan ka segin ka n'a di Jeli Mamu ma.
+Il rassembla les fusils des douze hommes pour venir les donner à Djeli Mamou.
+
+[388320-394380]
+A ko Futa kɛlɛkuntigi ka jelikɛ mandi, marifa tan ni fila filɛ, taa di Futa kɛlɛkuntigi ma.
+Il dit: ' Griot populaire du souverain de Fouta, voici les douze fusils, vas donner au souverain de Fouta.
+
+[394530-397840]
+Ko sini ko ne ko, k'a ni kɛlɛbolo ka n sɔrɔ soforokun na.
+Que moi je lui dis de me rejoindre demain aux abords de la ville avec l'armée.
+
+[398990-399990]
+ko an bɛ don kaana.
+Nous allons rentrer à Kana.
+
+[401170-402350]
+San tan ni saba.
+Treize ans.
+
+[403650-404650]
+A siginɛgɛkɔrɔ.
+Il n'est pas circoncis
+
+[408950-415700]
+A taara di Jeli Mamu ma, Jeli Mamu ye marifa tan ni fila minɛ k'u siri ɲɔgɔn na ka taa n'a ye Segu.
+Il est parti donner à Djeli Mamou, Djeli Mamou attache les douze fusils pour les amener à Ségou.
+
+[417980-421930]
+Ka taga Futa kɛlɛkuntigi sigilen sɔrɔ n'o ye Lanbi Jurubɛ Amadu Seku.
+Venir vers le souverain de Fouta Lambi Jurbé Amadou Sékou.
+
+[422580-431640]
+A ko, eee, Amadu Hama Lɔbɔ, n'i ye bilakoro ka baara ye san ani saba min ma siginɛkɔrɔ fɔlɔ
+Il dit, ehh, Amadou Hama Lôbô, c'est l'œuvre d'un très jeune qui n'a même pas été circonscis.
+
+[431860-437220]
+Ko ka na cɛ tan ni fila ka marifa di i ma, ko sini i ni kɛlɛ k'a sɔrɔ soforokun na.
+Il dit de venir te donner les fusils des douze hommes et que tu le rejoins demain aux abords de la ville.
+
+[440690-444410]
+Haa, Futa kɛlɛkuntigi y'i sigilen to, a ko k'a tɛ sini kɔnɔ o la.
+Ah, le souverain de Fouta dit que ça n'attendra pas demain.
+
+[444470-446790]
+A tabalen gosi, cɛw farala ɲɔgɔn kan.
+Il battit le grand tambour, les hommes se sont réunis.
+
+[448480-450490]
+U ye Amadu Hama Lɔbɔ sɔrɔ sofokun na.
+Ils ont rejoint Amadou Hama Lôbô aux abords de la ville.
+
+[450550-454800]
+U y'u kunda Kaana kan, k'u b€ taa Kaana minɛn ta.
+Ils se sont dirigés vers kana pour la piller.
+
+[458150-463080]
+U selen Kaana soforokun na, u ye Jeli Mamu bila ko a ka don Kaana.
+Arrivé aux abords de Kana, ils déléguèrent Djeli Mamou pour entrer.
+
+[463670-470860]
+Jeli Mamu donna Kaana, k'a bi taga kuma, Kaana Balaba ka cɛw, u ye kisɛ kɛ Jeli Mamu na Kaana.
+Djeli Mamou est rentré à Kana pour aller parler, les hommes de Kana Balaba le tirèrent dessus.
+
+[470910-472740]
+A ko, ko ale tɛ sa Kaana dugukolo kan.
+Il dit qu'il ne mourra pas sur la terre de Kana.
+
+[473217-476500]
+A bɔra k'u k'a ta ka n'a da a jatigikɛ sen kan.
+Il est sorti et a ordonné qu'on le couche sur les pieds de son maître.
+
+[476520-478830]
+k'ale bɛ sa k'a kunkolo dalen to a jatigikɛ sen kan.
+Qu'il mourra la tête sur les pieds de son maître.
+
+[483360-491780]
+U ye Jeli Maamu ta, kisɛ kɛlen a la waati min, ka na n'a ye, k'a sɛnsɛn ka n'a di Futa kɛlɛkuntigi ma, Lami Jurubɛ.
+Ils prirent Djeli Mamou, atteint par balle, le transporter chez le souverain de Fouta, Lambi Jurbé.
+
+[494140-494850]
+A sara.
+Il est mort.
+
+[495170-499170]
+Jeli Mamu salen, jeli kɛmɛ wɔɔrɔ bɛ yen, olu tɔɔrɔla.
+A la mort de Djeli Mamou, six cent autres griots furent attristés.
+
+[499330-500680]
+U bɛɛ sigilen don n'u ka ngɔni ye.
+Ils se sont tous assis  avec leurs guitares.
+
+[500810-510380]
+Olu ko: bi, ko ngɔnifɔ tɛ olu ma, pasike k'olu dusukun tɔɔrɔlen don, k'olu ɲɛmaa min ye Jeli Mamu ye, Futa kɛlɛkuntigi ka jelikɛ mandi.
+Ils disent qu'aujourd'hui, ils ne joueront de guitare parce qu'ils sont attristés, leur leader Djeli Mamou, le griot populaire du souverain de Fouta.
+
+[514230-517280]
+K'o tora Kaana kɛlɛ la, k'olu tɛ ngɔni fɔ bi
+Qu'il a péri à Kana, qu'eux ne joueront pas de guitare.
+
+[521830-524700]
+Jeli cɛ kɛmɛ wɔɔrɔ, u ye ngɔni bila.
+Six cent griots ont abandonné la guitare.
+
+[524860-525860]
+U ye marifa ta.
+Ils ont pris les fusils
+
+[525940-527290]
+U doona kɛlɛcɛw cɛ la.
+Ils se sont mélangés aux guerriers.
+
+[527950-538270]
+Futa kɛlɛkuntigi Seku Amadu, o ko, ko jeliw ye ngɔni bila yɔrɔ min ka marifa ta, ko ni cɛfarin wɛrɛ min yera jama na, ni i boli, k'o lakalicogo b'o kɔnɔ.
+Le souverain de Fouta Sékou Amadou dit: là où les griots ont laissé la guitare pour le fusil, s'il ya un guerrier fuyard, il saura lui-même raconter cela.
+
+[545350-546060]
+U donna.
+ils sont rentrés.
+
+[546980-548120]
+Kaana Balaba donnen.
+Kana Balaba rentra.
+
+[548660-551460]
+A donna u ka faso bulon kɔnɔ, bulon wolonwula.
+Il est rentré dans le vestibule de leur concession, sept vestibules.
+
+[551830-556290]
+A ko kaanakaw ma, ni min bɛ fɛ ka kɛ fulajɔn ye...
+Il dit aux habitants de Kana, si celui qui veut être captif des peuls...
+
+[557270-563670]
+Ni min bɛ fɛ ka kɛ Futa fulaw ka jɔn ye, olu ka bɔ bulon kɔnɔ.
+Ceux qui veulent être captifs des peulhs de Fouta, qu'ils sortent du vestibule.
+
+[564070-568130]
+Minnu tɛ fɛ ka kɛ filajɔn ye, olu ka fara ale kan bulon kɔnɔ.
+Ceux qui ne veulent pas être captifs des peuls, qu'ils se joignent à lui dans le vestibule.
+
+[571970-578000]
+O fɔlen, ɛɛ, jitɔ minnu bɛ yen, ni olu bɛ siran saya ɲɛ, olu bɔra.
+Cela dit, les peureux qui craignent la mort sortirent.
+
+[579370-583620]
+Minnu bɛ saya kɔrɔ dɔn ni fulajɔnya ye, olu farala Kaana Balaba kan.
+Ceux qui préfèrent la mort que  la captivité des peuls se sont joints à Kana Balaba.
+
+[587980-588980]
+U farala Balaba kan.
+Ils ont rejoint Balaba.
+
+[589030-589510]
+Uhun.
+Oui.
+
+[589590-591420]
+A ye forobamugu bɛɛ fara ɲɔgɔn kan.
+Il rassembla l'ensemble de la poudre à canon de l'armée.
+
+[591450-591900]
+Uhun.
+Uhun.
+
+[592800-595130]
+Ayiwa, Kaana donna dugu kɔnɔ.
+Alors, Kana est rentré dans la ville.
+
+[596310-597950]
+Futa donna Kaana dugu kɔnɔ.
+Les troupes du Fouta sont rentrées dans la ville de Kana.
+
+[598260-603040]
+Futa donnen dugu kɔnɔ, u ye dugu fɛn bɛɛ k'u ta ye k'u ɲɛsin bulon ma sisan.
+Les troupes de Fouta entrées dans la ville, elles se sont emparées de tous les objets de la ville et se sont dirigées vers le vestibule.
+
+[603850-608300]
+Ha Kaana Balaba ko, ko bilakoro kɔni tɛna ale ɲɛnaman minɛ ka kɛ jɔn ye.
+Ah Kana Balaba dit, un jeune non circoncis ne pourra pas le capturer pour en faire esclave.
+
+[608370-608910]
+Uhun.
+Oui.
+
+[610010-611640]
+K'ale bɛ saya kɔrɔ dɔn n'o ye.
+Qu'il préfère la mort que cela.
+

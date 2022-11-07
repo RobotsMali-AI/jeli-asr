@@ -1,0 +1,591 @@
+[11862-14689]
+Ka na bonyamasegin kɛ a ma.
+Venir lui faire une reconnaissance.
+
+[14862-17862]
+Ne muso kalifara e la san fila.
+On t'a confié ma femme durant deux ans.
+
+[18034-19896]
+Ne taara tukan fɛ.
+Je suis allé à l'extérieur
+
+[20034-23448]
+E ma fɛn wɛrɛ ɲɛ jira ne muso la.
+Tu n'as pas voulu ma femme.
+
+[23620-29931]
+E ye ne muso mara komi i balima n'i sinji.
+Tu as veillée sur ma femme comme ta sœur.
+
+[30137-32310]
+E ye ne muso bilasira.
+Tu as conseillé ma femme.
+
+[32482-36482]
+N'i tun kɛra cɛ dɔ ye i tun bɛ ne muso tiɲɛ k'a bila n ɲɛ.
+Si tu étais quelqu'un, tu allais gâcher ma femme.
+
+[36689-39000]
+Jaa e ye hɔrɔn.
+Tu es noble.
+
+[39275-42931]
+E ye halaha le, jaa mɔgɔ bɛ se k'a kɔ to e bolo.
+Tu es légitime, on peut compter sur toi.
+
+[43068-50724]
+Kɔɲɔcɛ yɛrɛ bi filankɛ majamu.
+Le marié loue ton camarade.
+
+[50896-52724]
+O fana bɛ nisɔndiya.
+Lui aussi se contente.
+
+[52896-55344]
+I y'a dɔn nisɔndiya kɛra furu la.
+Le mariage est joyeux.
+
+[55517-56931]
+Sisan aw bɛ kɔɲɔso don.
+Donc, vous commencez les noces.
+
+[57034-61724]
+I b'a sɔrɔ dɔw fɛ yen dɔgɔkun kelen don.
+Elle dure une semaine chez certaines ethnies.
+
+[63517-66586]
+I b'a sɔrɔ tile saba don dɔw fɛ yen.
+C'est trois jours chez certains.
+
+[66793-68241]
+Laadaw tɛ kelen ye.
+Les traditions sont différentes.
+
+[68379-72551]
+Ni minnu ta ye dɔgɔkun ye, aw be dɔgɔkun kɛ.
+Les gens chez lesquels ça dure une semaine, vous passez une semaine.
+
+[72793-76103]
+Dɔgɔkun kelen don marakaw fɛ yen.
+C'est une semaine chez les soninkés.
+
+[76275-81068]
+N'a bɔra o dɔgɔkun kelen na, muso bɛ taa bila a faso.
+Quand cette semaine passe, la femme vient chez ses parents
+
+[81241-83068]
+Fitiri mana.
+Quand le crépuscule arrive.
+
+[83206-87310]
+Ne bɛka ka kuma an ka fasoba in ko de kan.
+Je parle des faits de ce pays.
+
+[87448-95482]
+I b'a sɔrɔ nin bɛ kɛ yan, a bɛ kɛ Laginɛ, Sɛnɛgali, Kɔdiwari.
+Si on fait cette chose ici, peut-être on la fait en Guinée, au Sénégal, et en Côte d'Ivoire.
+
+[95620-98724]
+A ka ca Ala fɛ anw ka laadaw bɛɛ ye kelen ye.
+Généralement nos traditions sont les mêmes.
+
+[98896-101068]
+Kɔɲɔmuso ka minɛn de bɛ siri.
+On prépare les affaires de la mariée.
+
+[101241-107068]
+Ni kɔɲɔmuso ka minɛn sirila sisan, u bɛ t'i bila i cɛla de la sisan.
+Quand les bagages de la mariée sont prêt, on amène la mariée chez le marié.
+
+[107172-112586]
+Yanni i ka taa, i faw ni baw b'i lasigi tuguni.
+Avant que tu ne partes, tes parents te conseillent.
+
+[112724-116000]
+Lamɔ ye min ye, u b'o de jira i la tugun.
+Ils te montrent la politesse.
+
+[117344-122034]
+Ayiwa i taatɔ filɛ, an t'i dɔn ni dakandenya ye dɛ.
+Tu pars maintenant, tu n'es pas une fille maudite !
+
+[122206-125655]
+I taato filɛ, an t'i dɔn ni mɔgɔkɔrɔbadɔgɔya ye dɛ.
+Tu ne dois pas perdre respect pour les personnes âgées.
+
+[125862-127896]
+An t"i dɔn ni mɔgɔdalaminɛ ye dɛ.
+Tu ne dois pas faire des discussions.
+
+[128068-131206]
+I baw y'anw bonya, an ka aw sɔrɔ.
+Tes mères nous ont respectées, on vous a eu.
+
+[131379-134310]
+E y'a jiran an k'a fo k'i bɛ se k'i ce bonya.
+Tu nous as montré que tu peux respecter ton mari.
+
+[134413-136206]
+O de la, an y'i di balimafuru la.
+C'est pourquoi tu as été donné au fils de notre sœur.
+
+[136448-139034]
+O tuma ke muso ye min bɛ cɛ bonya.
+Donc soit une femme qui respecte son mari.
+
+[139137-142103]
+U be ladilikan caman fɔ i ye.
+Ils te donnent beaucoup de conseils.
+
+[142310-145241]
+Balimaya kalalen to.
+Laisse la fraternité unie.
+
+[145413-149551]
+N'e ka furu tiɲɛna, o ye balimaya tiɲɛnen ye.
+Quand ton mariage échoue, cela va affecter la fraternité.
+
+[149689-157275]
+Ni e sera ka kɛ furubatola ye, a ka ca Ala fɛ an balimaya bɛ to a no na.
+Quand tu arrives à respecter ton mariage, notre fraternité va rester intacte.
+
+[157379-160448]
+O b'o de ɲini i fɛ, n'i taa i k'o kɛ.
+On te demande cela, quand tu pars faire cela.
+
+[160620-164758]
+Fɔlɔ fɔlɔ, hɔronke tun tɛ kuma a buran ɲɛna.
+Auparavant, le noble ne parlait pas en présence de beau-fils.
+
+[164896-171344]
+A b'a ka ɲamakalakɛ de weele ka ninkuma in bɛɛ don o da o fana bɛ taa kuma cɛlakaw fɛ.
+Il dit toutes ses paroles à son griot, ce dernier va parler avec les gens du marié.
+
+[171620-177827]
+N'u taara, u bɛ cɛ kabila lasigi.
+Arrivé là-bas, il réunit les membres de la famille du marié.
+
+[178000-179448]
+A yiwa ne cira ka na.
+Je suis envoyé ici.
+
+[179620-181965]
+Muso dira n ma ko n ka n'a di aw ma.
+On m'a donné la femme pour venir vous la donner.
+
+[182172-188034]
+An ye muso di aw ma nka an m'a ba di aw ma, an m'a fa di aw ma.
+On vous a donné la femme, mais pas sa mère ni son père.
+
+[188137-190586]
+An ye muso n'a ka minɛn de di aw ma.
+On vous a donné la femme et se affaire.
+
+[190689-193172]
+Furu kɛra balimaya de kosɔn.
+Le mariage a eu lieu à cause de la fraternité.
+
+[193413-197137]
+Furu kɛra walasa ka balimaya kelen in kala.
+Le mariage a eu lieu pour que la fraternité reste intacte.
+
+[197275-200172]
+Aw kana to balimaya in ka fara cogo si la.
+Il ne faut pas que cette fraternité se détériore.
+
+[200310-204689]
+Ne filɛbagaw ni n lamɛnbaga, ladili kɛra fan fila bɛɛ fɛ.
+Mes chers auditeurs et spectateurs, le conseil est dû deux côtés.
+
+[204896-207586]
+Kankagari gɛlɛn bɛ da kɔjɔkɛ ye.
+On avertit bien durement le marié.
+
+[207793-211482]
+Muso y'i balimamuso ye.
+La femme est ta sœur.
+
+[211620-216689]
+Muso de dira i ma, a fa n'a ba ma di i ma.
+On t'a donné la femme, mais pas son père ni sa mère.
+
+[217310-224931]
+Min ka jugu furu la n'a bɛɛ ye, an tɛ fanibanɛni fɛ.
+On déteste l'insulte des parents.
+
+[225172-229517]
+Dɔw ko k'an te busanni nɛnkun  fɛ.jan 
+Certains disent le fouet avec une langue.
+
+[229620-236793]
+N'u donna furu la, o ye furu tiɲɛnen ye.
+Quand ils entrent dans le mariage, le mariage est fini.
+
+[237000-239724]
+Ɲamakalakɛ bɛ nin bɛɛ fɔ kɔɲɔkɛ ɲɛna.
+Le griot dit tout ça au marié.
+
+[239965-241827]
+I y'a faamu?
+Tu as compris ?
+
+[242068-245965]
+N'o kɛra sisan, ladibaga sɔrɔla aw fila bɛɛ la.
+Donc, vous avez tous les deux eu des conseils.
+
+[246068-253758]
+Sisan muso bena taa sigi wɛrɛ daminɛ n'o ye walidu sigi ye.
+Maintenant la femme va commencer une nouvelle vie, la vie chez sa tante.
+
+[253931-258172]
+A b'a fa ka du dɔn, nk'a t'a  tɛnɛmuso ka du sariya dɔn.
+Elle connait la famille de son père, mais pas celle de sa tante.
+
+[258310-260827]
+A t'olu ka laadaw dɔn.
+Elle ne connaît pas les traditions de là-bas.
+
+[260931-265275]
+Musokɔrɔba wɛrɛ bɛna sɔrɔ, u b'a kalifa o fana ne.
+Ils vont la confier à une autre vieille.
+
+[265448-269241]
+N'a kalifara o la, o y'a ba kura.
+Quand elle la confie à celle-là, cette dernière sera sa nouvelle mère.
+
+[269448-272241]
+o de bɛ se ka du sariya fɔ i ɲɛ na.
+Celle-là peut te raconter les règles de la famille.
+
+[272482-275448]
+N'i ye nin kɛ, o bɛ bɛn anw ka so.
+Quand tu fais ça, ça marche chez nous.
+
+[275655-278551]
+N'i ye ninkɛ an anw ka so , o tɛ bɛn.
+Quand on fait chez nous, ça ne marche pas.
+
+[278793-281724]
+An ka so tana ye min ye, i tɛ bɔ fitiri fɛ.
+On ne sort pas pendant le crépuscule chez nous.
+
+[281931-285172]
+Ni fitiri y'i sɔrɔ kɛnɛ ma, o ye kɛlɛ ye.
+Quand le crépuscule te trouve dehors, c'est la querelle.
+
+[285344-287827]
+N'i m'i ce bonya, o ye kɛlɛ ye.
+Quand tu ne respectes pas ton mari, c'est la querelle.
+
+[288137-290965]
+I ka bonya ka kan ka se i cɛ fa n'a ba ma.
+Tu dois respecter les parents de ton mari.
+
+[291206-295689]
+I nana cɛ terikew kalalen sɔrɔ, kan'a to u ka bɔ ɲɔgɔn na.
+Il ne faut pas que le mari et ses amis se séparent à cause de toi.
+
+[295862-303206]
+Sigiɲɔgɔn minnu kɛlen don k'an lakoori, an bɛɛ ye du kelen ni min y'i weele k'i ladi ɲumana na, a lamɛn.
+Nos voisins sont de la même famille que nous, quand quelqu'un te conseille, écoute-le.
+
+[303344-304896]
+I ma kan ka don du bɛɛ kɔnɔ.
+Tu ne dois pas entrer dans toutes les familles.
+
+[305068-310206]
+I cɛ ba dɔ b'o ɲɛfɔ i ɲɛna.
+Une des mères de ton mari t'explique ça.
+
+[310448-313413]
+O tuma i ye du sigicogo dɔn.
+Donc, tu connais maintenant les règles de la famille.
+
+[313482-314482]
+I bɛ du sigi kɛ ten.
+Tu vis dans la famille de cette manière.
+
+[314620-319413]
+Ne fa ni furu dugawu jumɛn bɛ kɛ?
+Mon frère, quand on se marie, quelle bénédiction fait-on?
+
+[319586-323827]
+Ala ka furu ni si bɛn, Ala k'a ke sima fila ta ye.
+Heureux ménage, que Dieu vous donne une longue vie.
+
+[323965-325827]
+Ala ka den barikalen bɔ aw la.
+Que Dieu vous donne un enfant bénit.
+
+[326034-329551]
+Ni den minnu bɔra aw la, Ala ka u ke aw nafadenw ye.
+Que Dieu vous donne des enfants utiles.
+
+[329724-333241]
+A ka ca Ala fɛ, dugawu ninnu caman bɛ minɛ.
+Généralement, la plupart de ces bénédictions seront entendues par Dieu.
+
+[333379-337758]
+Ni dugawu ninnu nana minɛ sisan, e fana b'i denw wolo.
+Quand les bénédictions sont entendues, tu auras tes enfants.
+
+[337965-343241]
+E ye lamɔ min sɔrɔ, e fana be na o lamɔ kelen de di i denw ma.
+L'éducation que tu as reçu, tu transmettras cette même éducation à tes enfants.
+
+[344172-349137]
+Olu b'o lamɔ de ta k'u ka hadamadenya dila.
+Les enfants prennent cette éducation pour construire leur vie.
+
+[349379-353206]
+E fa n'i ba y'i ka Hadamaden ya dila k'a di e ma.
+Tes parents ont construit ta vie pour toi.
+
+[353413-356137]
+E fana ta ye jumɛn ye?
+Qu'est-ce que tu dois faire maintenant?
+
+[356379-363344]
+a wajibiyalen don e yɛrɛ fana kan i fana k'i denw lamɔ u fana ka hadamadenya ka dila.
+C'est aussi une obligation pour toi d'éduquer tes enfants afin qu'ils puissent construire leur vie.
+
+[363517-371379]
+N'i ma lamɔcogo ɲumana sɔrɔ, hadamadenya tiɲɛnen don bari e t'a dɔn nin ka ɲi, e t'a dɔn nin man ɲi.
+Quand tu n'as pas une bonne éducation, ta vie est gâchée parce que tu ne sauras faire la différence entre le bien et le mal.
+
+[371551-374103]
+Nka bɛ ne ta kan.
+Il y en a, mais dans mon cas.
+
+[374206-379896]
+Ne Wali Ayisata Kaloga, ne furula, ne taara tugan de fɛ.
+Moi Aîssata wali Kaloga, après mon mariage, je suis partie à l'extérieur…
+
+[380034-382413]
+N taara sigi jamana wɛrɛ la.
+Je suis allée vivre dans un autre pays.
+
+[382724-389310]
+O jamana laada ni ne faso laadaw tɛ kelen ye.
+Les traditions de ce pays sont différentes de celles de mon pays.
+
+[389517-392172]
+U lamow tɛ kelen ye cogo si de la.
+Les éducations sont complètement différentes.
+
+[392310-394689]
+U te kelen ye dɛ.
+Elles ne sont pas très différentes.
+
+[395000-397862]
+K'a da cogo jumɛn kan n filɛbaga ni n lamɛnbaga?
+Pour quelle raison, mes chers auditeurs et spectateurs ?
+
+[398103-405103]
+AN ka jamana kan yan, ni den ye kojugu kɛ, i b'a gosi, i b'a kɔrɔfɔ.
+Dans notre pays, ici, quand l'enfant fait des bêtises, tu le frappes.
+
+[405615-415344]
+Gabɔn jamana kɔnɔ, n'i y'i den gosi, n'a ma diya a ye, a be taa n'i ye fanga la.
+Quand tu frappes ton enfant au Gabon, si ça ne lui plait pas, il t'appelle à la justice.
+
+[416076-419282]
+A b'i weele fanga la.
+Il t'appelle à la justice.
+
+[419487-421282]
+Aw bɛ taa kiiri tigɛ.
+Vous allez faire le jugement.
+
+[421461-426461]
+N'i y'i den nɛni, n'a ma diya a ye, a be taa n'i ye fanga.
+Quand tu insultes ton enfant, si ça ne lui plait pas, il t'appelle à la justice.
+
+[426641-432358]
+Bari olu bɛ den lamɔ cogo di, ni kelen min be e la, o ni ni kelen bɛ den na.
+Comment eux, ils éduquent l'enfant, tu as le même  âme que l'enfant..
+
+[432564-434435]
+Aw fila beɛ ni de ye kelen.
+Vous avez la même âme.
+
+[434538-436615]
+Ni si ma fusaa ni si.
+Toutes les âmes sont égales.
+
+[436871-441871]
+E bɛ se ka dɔ ta tɔɔrɔ cogo di k'i yɛrɛ bila lafiya la k'o ye e dusu kasi?
+Comment peut-on déranger quelqu'un et rester tranquille parce qu'il t'énervé?
+
+[442000-444641]
+Olu ka jamana sariya y'o ye.
+C'est la loi de leur pays.
+
+[444897-455769]
+Ala ye ne sɔn denw ne nka n ma u kɛ,  Ala ye n dɛmɛ, n sera ka n taw lamɔ n danbe kɔnɔna na.
+J'ai eu des enfants, mais je ne l'ai pas fait, Dieu m'a aidé, j'ai pu éduquer les miens dans ma dignité.
+
+[460410-463153]
+Ne yɛrɛ denmuso furula.
+Ma fille est mariée.
+
+[463538-467820]
+Fa yɛrɛ fana y'a denw lamɔ.
+Le père lui-même a éduqué ses enfants.
+
+[468000-469358]
+Kuma bɛɛ bɛ mun nɔfɛ?
+Pourquoi toutes ces paroles ?
+
+[469461-473179]
+Lamɔ ka segin so.
+Que l'éducation revienne à la maison.
+
+[476205-486666]
+Ni lamɔ seginna so sisan, anw denbaw bɛ kamanagan min na, dɔ bɛ bɔ a la.
+Quand l'éducation revient à la maison, nous les mères auront moins d'inquiétudes que maintenant.
+
+[486871-493666]
+Ni lamɔseginna so, denfaw bɛ lafiya ni bɛɛ ye.
+Quand l'éducation revient à la maison, les pères de famille seront très à l'aise.
+
+[493794-496692]
+Duw bɛna dila.
+Les familles seront construites.
+
+[496820-501410]
+Ni duw dilala, sigida bɛ segin a cogo la.
+Quand les familles seront construites, la société sera bien.
+
+[501538-505051]
+Ni sigida dilara, jamana bɛ dila.
+Quand la société sera construite, le pays sera construit.
+
+[505179-506794]
+Nka mɔgɔ klen tɛ se dɛ.
+Mais une seule personne ne peut pas.
+
+[506974-512769]
+Bolokɔnnin kelen tɛ se ka bɛlɛ ta cogo si la ne filɛbagaw ni n lamɛnbagaw.
+Un seul doigt ne peut pas soulever le caillou.
+
+[512974-519769]
+An bɛɛ de bɛ fara ɲɔgɔn kan,ka ŋaniyaw kɛ kelen ye, ka diinɛw kɛ kelen ye.
+On doit réunir nos forces sur tous les plans.
+
+[519871-527230]
+K'a fɔ an ka mara tiɲɛna, an ka dilacogo ɲini a la.
+Notre éducation est gâtée, on doit chercher une solution.
+
+[527384-529641]
+AN ni jɔn bɛna dilacogo ɲini a la?
+Avec qui cherche ont une solution?
+
+[530025-532384]
+N da bɛ taa se an ka faamaw ma.
+Je m'adresse à nos autorités.
+
+[532589-534615]
+Faamaw be se k'an dɛmɛ.
+Les autorités peuvent nous aider.
+
+[534871-536410]
+Faamaw b'an dɛmɛ cogo di?
+Comment les autorités nous aident ?
+
+[536589-539000]
+Olu yɛrɛ tena se ka sigi ka kuma o.
+Ils ne peuvent parler eux même.
+
+[539128-544153]
+N y'a fɔ i ye n ka kuma kɔnɔ ko hɔrɔnke kumada tun y'a ka ɲamakala de ye.
+Je t'ai dit que le griot parlait à la place du noble.
+
+[544282-548666]
+U bɛ ɲamakalaw weele, u bɛ taa n'u ye jabaranin kan.
+Ils invitent les hommes de castes sur les plateaux télé.
+
+[548846-555743]
+Kuma be kuma la, ɲamakalaw bɛ se k'a fɔ fo ka se a dan na.
+Les griots peuvent dire toutes les paroles.
+
+[555974-558333]
+Faamuaybaga be sɔrɔ.
+Il y aura des gens qui vont comprendre.
+
+[558538-562692]
+N'i kɛra tulo kunnadi ye, i bɛ caman tɔmɔ o la.
+Quand tu écoutes bien, tu peux apprendre beaucoup.
+
+[563000-567743]
+E b'a dɔnk'a fɔ aa, jaa ne bɛka lamɔ min kɛ ninye o man ɲi.
+Tu sauras que ton éducation n'est pas bonne.
+
+[567820-571564]
+N ka segin n kɔ ka n den lamɔ fɔlɔ fɔlɔ lamɔ la.
+Je dois éduquer mon enfant avec d'anciennes méthodes.
+
+[571615-573512]
+O ye kelen ye.
+C'est un.
+
+[573641-580666]
+Faamaw ka gafesɛbɛnnaw weele u k'a sɛbɛn gafew kɔnɔ.
+Les autorités doivent inviter les écrivains à les écrire dans les livres.
+
+[580846-583564]
+Fɔlɔ fɔlɔ lamɔ tun be ke tan.
+L'éducation était comme ça auparavant.
+
+[584435-597461]
+N'o sɛbɛnna, ni den min kɛra den kunnandi ye, n'i yo kalan i b'a dɔn i ka kan k'i yɛrɛ bilasira cogo min na.
+Quand on les écrit, si les enfants lisent eux-mêmes, ils sauront se comporter.
+
+[597615-605512]
+Hali n'i fa  ni ba ma bɛrɛ fɔ i ye bilen, i yɛrɛ ye min mɛn, i ye min kalan gafe kɔnɔ, i bɛ baara kɛ n'o ye.
+Même si ton père et ta mère ne te le disent pas plus, ce que tu as entendu ou lu dans les livres va te servir.
+
+[605666-607435]
+O t'a dɔ ye?
+Ça, c'est un.
+
+[607538-608974]
+A bɛna ke cogo di tuguni?
+Comment ça va se passer encore ?
+
+[609051-614282]
+Ni o bɛɛ kɛra k'a ban, an lamɛnniw kɛ.
+Quand tout ça est terminé, on doit écouter.
+
+[614435-617846]
+A ka ca Ala fe, faamaw b'u sago sɔrɔ.
+S'il plaît à Dieu, les autorités auront ce qu'elles veulent.
+
+[618128-620974]
+Ka da mun kan? sisan jamana tiɲɛna.
+Pour quelle raison, le pays va mal maintenant.
+
+[621102-622948]
+Lamɔ tɛ yen bilen.
+Il n'y a plus d'éducation.
+
+[623102-625923]
+Bɛɛ kɛra sɔrɔɲinina ye.
+Tout le monde est devenu matérialiste.
+
+[626128-627128]
+Bɛɛ ko wari
+Tout le monde dit l'argent.
+
+[627359-630743]
+Cɛw ko wari, musow ko wari.
+Les hommes disent l'argent, les femmes disent l'argent.
+
+[630871-632410]
+O de ye lamɔ tiɲɛ.
+C'est cela qui a gâté l'éducation.
+
+
+
+

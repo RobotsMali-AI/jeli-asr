@@ -73,7 +73,8 @@ class JeliFileLoader(JeliFS):
         """
 
         return [
-            i for i in self.all_eaf_files() if i.split("/")[-2] == r_id]
+            i for i in self.all_eaf_files() if i.split("/")[-2] == r_id
+        ]
 
 
 class JeliEafProcessor(object):
@@ -235,7 +236,7 @@ class JeliStats(object):
 class JeliFileExporter(JeliFS):
     """ """
 
-    URL_P = lambda self, x: f"https://zenodo.org/record/7094702/files/{x}.zip?download=1"
+    URL_P = lambda self, x: f"https://zenodo.org/record/7296317/files/{x}.zip?download=1"
 
     def __init__(self, path=None):
         """ """

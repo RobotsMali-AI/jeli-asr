@@ -1,0 +1,439 @@
+[10111-13666]
+Sirife in ye numu ka dilali de ye.
+Ce rasoir est une fabrication de forgeron
+
+[15944-24777]
+Numu b'a labɛn ka ɲɛ k'a di a ka masakɛ ma.
+Le forgeron le prépare à perfection et le donne à son roi.
+
+[25000-29694]
+Ni jɔn nana, a bɛ jɔn minɛ k'a kun di n'o ye.
+Quand l'esclave arrive, il attrape l'esclave et rase sa tête avec.
+
+[29888-33222]
+Numu de tun bɛ jɔnkundimuru dilan.
+C'est le forgeron qui fabriquait le rasoir des esclaves.
+
+[33333-37333]
+A ni masakɛ den kundimuru dilancogo tɛ kelen ye.
+Sa fabrication est différente de celui avec lequel on rase la tête du prince.
+
+[37944-45305]
+Jɔn kun bɛ di ni min ye, o ye numukɛ ka dilalen.
+Le rasoir avec lequel on rase la tête de l'esclave est une fabrication du forgeron.
+
+[46055-55749]
+Ni numukɛ y'a dila k'a di masakɛ ma, a bɛ jɔn kun di ni a ye.
+Quand le forgeron le fabrique et le donne au roi, il rase la tête de l'esclave avec.
+
+[55861-58472]
+A b'a sɔrɔ lamu ma na.
+Il se trouvait que les lames n'étaient pas encore arrivées ici.
+
+[63277-66722]
+Kunkolo tun bɛ di ni muru de ye.
+On rasait la tête au couteau.
+
+[67027-72472]
+Numukɛ dɔ de tun bɛ o muru in dila.
+C'était un forgeron qui confectionnait ce couteau.
+
+[72638-76805]
+A b'a dilan kulan sanfɛ.
+Il le confectionnait sur l'enclume.
+
+[80888-87861]
+Dɔw b'a fo marito ma ko fulumɛ, dɔw b'a fo nɛgɛgosilan.
+Certains appellent le marteau "Fulumè", d'autres l'appellent outil-à-battre-le-fer.
+
+[88138-98250]
+N'u ye muru dila k'a ban k'a di masakɛ ma, a bɛ jɔnw kunkolo di ni muru in ye.
+Quand il avait fini de fabriquer ce couteau et qu'il l'avait donné au roi, ce dernier rasait avec la tête des esclaves..
+
+[98388-105055]
+Masakɛ b'a fɔ numukɛ ma: i ka baara ma ban.
+Le roi dit au forgeron que son travail n'est pas terminé.
+
+[105361-108388]
+Ayi, i ka baara ma ban.
+Non, ton travail n'est terminé.
+
+[108555-110472]
+I ka baara ma ban munna?
+Pouquoi ton travail n'est fini?
+
+[110638-119249]
+Ne ka masaya sinsin man di k'a sɔrɔ e ka numuya t'a kɔnɔ.
+Mon règne ne sera pas facile à assurer tant que ton métier de forgeron n'y sera pas associé.
+
+[119472-123305]
+A b'a fɔ masakɛ ma baasi t'a la.
+Il dit au roi qu'il n'y a pas de problème.
+
+[123555-132500]
+Ni maa y'i walɛri dɔn k'a sɔrɔ i yɛrɛ m'a fɔ, i b'i ka baara diya i bolo k'a nɔgɔya.
+Quand quelqu'un reconnaît ta valeur sans que ne la dise toi-même, cela te rend le travail agréable et le rend plus facile.
+
+[132777-140138]
+I bɛ n'a sɔrɔ numu cɛkɔrɔba bɛ so kɔnɔ, a bɛ min ye kɛnɛmamaa t'a ye.
+Tu t'apercevras qu'un vieux forgeron assis dans sa maison voit plus que quelqu'un qui est dehors.
+
+[140305-143138]
+O ye bamanankan de ye.
+C'est du bambara.
+
+[145666-149333]
+A bɛ min ye, kɛnɛmamaa tɛ a ye.
+Ce qu'il voit, quelqu'un qui est dehors ne le voit pas.
+
+[149638-160388]
+Numuya tɛ ko numujamu bɛ n na, walima n bɛ numuyabaara kɛ.
+Être forgeron, ce n'est pas dire « j'ai un nom de forgeron » ni même « je fais du travail de forge ».
+
+[160555-162888]
+Numuya yɛrɛ rasi de b'a dan na.
+Être forgeron c'est avant tout une race
+
+[167972-179638]
+Karisa ye numu ye, a ka baara ye nin ye, karisa ye garanke ye, a ka baara ye nin ye, karisa ye sakɛ ye, a ka baara ye nin ye, nin bɛɛ n'a ka baara tun don kɛlɛmasa nɔfɛ.
+Un tel est forgeron, voilà son travail, un tel est cordonnier, voilà son travail, un tel est sellier, voilà son travail, tous ceux-là et leurs métiers étaient derrière le roi.
+
+[179861-185750]
+Mɛ numu jɔyɔrɔ de tun ka bon a la ka tɛmɛ a nɔfɛmaa bɛɛ kan.
+Mais le rôle du forgeron était plus grand que celui de tous les autres de sa suite.
+
+[189305-191083]
+I y'a mɛn?
+Tu as compris?
+
+[191416-195972]
+Mukutari, numu jɔyɔrɔ de tun ka bon a la ni ka tɛmɛ maa bɛɛ kan.
+Le forgeron occupait une place plus importante que tous les autres.
+
+[196166-202638]
+Don dɔw, masakɛ b'i miiri, a bɛ numukɛ ɲininka.
+Certains jours, le roi réfléchit et interroge le forgeron.
+
+[202888-210888]
+E bɛ ka ne dɛmɛ ka n ka masaya in sankɔrɔta n bolo k'a da kun jumɛn kan.
+Pourquoi ne m'aides-tu pas à glorifier mon règne?
+
+[211111-215694]
+A b'a fɔ Ala de ye ne da ka ne kɛ numu ye.
+Il répond que c'est Dieu qui l'a créé forgeron.
+
+[215833-219694]
+E don, e tɛ, ne ka numuya baara in bɛ kɛ.
+Que ce soit toi ou pas, mon travail de forge se fera.
+
+[219916-221416]
+Diɲɛlatigɛ ye ɲɔgɔndafa ye.
+L'existence est faite de complémentarité.
+
+[221972-224194]
+Ne fana tɛ foyi kɛ ni n ka numuya baara in tɛ.
+Moi aussi je ne fais rien d'autre que mon travail de forge.
+
+[224249-228777]
+Ni e fana sababu te, ne fana ka numuyafɛn in tɛ walɛri sɔrɔ.
+Sans toi aussi, mon travail de forge n'aura pas non plus de valeur.
+
+[229444-234972]
+O bɛ masakɛ kamanagan kosɛbɛ.
+Cela rend le roi très inquiet.
+
+[235472-243972]
+Jaa i ɲagalen bɛ maa dɔ ka ko la, maa wɛrɛ fana bɛ yen min ɲagalen don i ka ko la.
+En fait, tu es attiré par quelqu'un, il y a aussi d'autres personnes qui sont attirées par toi. 
+
+[244333-250972]
+A b'a fo masakɛ ma, to k'i kɔfilɛ i ka Baa numu na.
+Il dit au roi, ne cesse pas de te retourner sur ton forgeron Baa.
+
+[251083-254138]
+N'i y'i kɔfile yɔrɔ o yɔrɔ i b'i ka Baa numu y'i kɛrɛfɛ.
+Où que ce soit, si tu te retournes, tu verras ton forgeron Baa à tes côtés.
+
+[254333-256694]
+O ye bamanankan de ye.
+C'est du bambara.
+
+[257222-262805]
+Jeliw bɛ to k'u kanto, ko numukɛ taa ka bɔ an so!
+Les griots disent tout le temps, sors de chez nous, forgeron !
+
+[263000-264166]
+O bɛ bɛn.
+C'est d'accord.
+
+[264222-265916]
+Numukɛ i n'i bololafɛn bɛɛ ka taa ka bɔ an ka so!
+Forgeron, sors de chez nous avec toutes tes affaires !
+
+[266472-270305]
+Ko n'i m'i farati k'a fɔ k'i ni dutigi yɛrɛ bɛ taa.
+Si tu ne fais pas attention, tu vas partir avec le chef de famille.
+
+[270555-274861]
+Mukutari, bamanankanba don dɛ.
+C'est du bambara très fort, Mouktar.
+
+[275138-278222]
+Numukɛ, bɔ an ka so!
+Forgeron, sors de chez nous.
+
+[278361-284888]
+Nk'i n'i bololafɛn bɛɛ ka bɔ! ee!  numukɛ ni gatigi yɛrɛ bɛ taa.
+Mais sors avec toutes tes affaires ! eh ! le forgeron partira avec le chef de famille.
+
+[285027-289305]
+Pariseke gatigi bɛ sigi yɔrɔ min na numukɛ ka taamasiyɛn b'o la.
+Parce que la chaise du chef porte le signe du forgeron.
+
+[289472-293055]
+Siga si t'a la.
+Il n y a aucun doute.
+
+[293194-297111]
+O tuma na numuya ye fɛnba ye an sosiyete kɔnɔ.
+Donc le fait être forgeron est une chose très importante dans notre société.
+
+[297194-302722]
+N'an bɛ to k'an da don a la k'a lakali an kan na, a bɛ sidɔn.
+Si on continue d'aborder ce sujet et de le raconter dans notre langue, il sera bien connu.
+
+[302722-306861]
+Caman bɛ k'i yɛrɛ bila kɔ, o bɛ na i yɛrɛ kɛ maa ye.
+Beaucoup se sous-estiment, cela va les transformer en hommes.
+
+[307000-309333]
+Jaa ne yɛrɛ tɛ kɔmaa ye fiyewu.
+Je ne suis pourtant pas du tout quelqu'un qui se sous-estime.
+
+[309694-315472]
+Numu ka baara dɔ fana ye mun ye?
+Qu'est-ce que le forgeron fait encore?
+
+[315611-327750]
+K'i jɔ k'a fo masakɛ ye, masakɛ, e bɛ ka nin ko min daminɛ, kana don nin ko in na.
+Se lever et dire au roi, roi, l'affaire que tu es en train de commencer, surtout n'y entre pas.
+
+[327833-330027]
+N kɔnɔ.
+Attends-moi.
+
+[330138-334805]
+Numukɛ b'o fɔ a ka bamanankɛ ye.
+Le forgeron dit cela à son Bambara.
+
+[334861-337388]
+Walima a b'o fɔ a ka jatigikɛ ye.
+Ou bien il dit ça à son maître.
+
+[337527-342805]
+N'a y'o fɔ a ye, a tigi bɛ sɔn k'i jɔ k'a kɔnɔ.
+Quand il lui dit cela, la personne accepte de s’arrêter et de l'attendre.
+
+[342972-345083]
+Numu jatigi ka ca.
+Le forgeron a beaucoup d'hôtes.
+
+[345166-353638]
+I sigira maraka kunda, i sigira fula kunda, i sigira bamanan kunda,numu kɔni ye numu de ye.
+Que tu sois parmi les soninkés, que tu sois parmi les peuhls, que tu sois parmi les Bambaras, le forgeron, lui, reste toujours forgeron.
+
+[353750-356750]
+N'i ni min jɛra i n'o de b'a ka maaya kɛ.
+Tu passes ta vie avec celui avec lequel tu collabores.
+
+[357055-370361]
+Ni numukɛ ye jɔlɔkɔ dila k'a di masakɛ, n'o banna,
+Quand le forgeron fabrique la chaîne et la donne au roi, quand il a terminé
+
+[371583-376472]
+A b'a fɔ numukɛ ma, i ka baara ma ban, ne ka kɛlɛmasaya ma sinsin hali sisan.
+Il dit au forgeron que son travail n'est pas encore fini, que sa position de chef de guerre n'est même pas assurée à ce jour.
+
+[376750-382055]
+A b'a fɔ e de b'i ka kɛlɛmasaya sinsinni ɲɛdɔn.
+Il dit toi, tu sais parfaitement comment assurer ta position de chef de guerre.
+
+[382166-383388]
+N b'a fɛ k'o ɲini i fɛ.
+Je veux te demander cela.
+
+[383972-387027]
+A b'a fɔ ne yɛrɛ ka masiri.
+Il dit, mon ornement.
+
+[387277-390083]
+Ale ka masiri ye mun ye?
+Quel est son ornement?
+
+[390222-395000]
+Nɛgɛduloki min bɛ don a kan na.
+La chemise en fer qu'il porte.
+
+[395194-397972]
+Ale ka masiri ye mun ye?
+Quel est son ornement?
+
+[398194-402666]
+A bɛ bukulu min don a tulo.
+Il est dans la boucle qu'il porte à l'oreille.
+
+[403000-404000]
+Ale ka masiri ye mun ye?
+Quel est son ornement?
+
+[404222-406583]
+A bɛ chaine minnu don a kan na.
+Il est dans le collier qu'il porte à son cou.
+
+[407000-410277]
+Ale ka masiri ye mun ye? a bɛ nɛgɛ minnu don a bolo la.
+Quel est son ornement ? Il est dans les bracelets qu'il porte au bras.
+
+[410444-415138]
+Numukɛ de b'a labɛn labɛncogo ɲuman na.
+Le forgeron le confectionne de la meilleure manière.
+
+[415305-428527]
+Mukutari, kannajɔlɔkɔ bololanɛgɛ, ni kannasɛni.
+Mouktar, la chaîne, le bracelet, le collier.
+
+[428749-433842]
+A b'a dila nɛgɛ saba walima nɛgɛ naani.
+Il l'a confectionné à partir de trois ou quatre métaux.
+
+[434083-437666]
+Numukɛ b'a dila sanu na.
+Le forgeron les confectionne avec de l'or.
+
+[437805-440833]
+Numukɛ b'a dila nɛgɛ la.
+Le forgeron les confectionne avec le fer
+
+[440999-443444]
+Dɛɲɛ, numukɛ b'a dila o la.
+Le cuivre, le forgeron la confectionne avec ça.
+
+[447666-454805]
+Numukɛ b'a dila k'a di a ka kɛlɛmasa walima bamanankɛ ma.
+Il les confectionne et les donne à son roi ou à un bamanan.
+
+[454916-460277]
+A b'a fɔ unhun, Baa numu, n y'a minɛ.
+Il dit d'accord, Baa Noumou, je l'ai pris .
+
+[460444-464361]
+I bɛ dugawu kɛ n ye pariseke nin ye souvenir ye.
+Donne-moi ta bénédiction parce que ça, c'est un souvenir.
+
+[464777-468638]
+O souvenir dɔw bɛ bila yen
+Certains de ces souvenirs sont posés là-bas.
+
+[470138-472749]
+Halibi, o dɔw bɛ sɔrɔ yen.
+Aujourd'hui encore on les y trouve.
+
+[472805-475416]
+A b'a fɔ tun
+Il dit encore.
+
+[475527-479249]
+Ne ye muso min furu, n b'a fɛ muso in ka labɛn.
+La femme que j'ai épousée, je veux qu'elle soit préparée.
+
+[479388-485444]
+E de bɛ bɛ muso in ka sanu labɛn k'a di a ma.
+C'est toi qui vas préparer l'or de cette femme et le lui donner.
+
+[485749-494861]
+N'a ye muso ka sanu labɛn, muso bɛ yaala.
+Quand il a préparé l'or de la femme, la femme se promène.
+
+[495222-503666]
+A bi jɔnw walima ɲamakalaw bila ka yaala, k'a ɲɛɲini.
+Il envoie un esclave ou un homme de caste se promener, et la rechercher.
+
+[504055-511999]
+I ka numukɛ ye sanu min dila i ka baramuso ye, sanu in ɲɔgɔn tɛ jamana bɛɛ.
+L'or que ton forgeron a confectionné pour ta femme préférée est incomparable dans tout le pays.
+
+[518027-522777]
+A b'o sanu ta k'o don a muso kan.
+Il prend cet or et le met au cou de la femme.
+
+[522916-526972]
+O sanu caman kɛra cɛn ye.
+La plupart de ces ors sont devenus héritage.
+
+[527194-529944]
+I bɛ cɛn dɔn wa?
+Connais-tu l'héritage?
+
+[530138-533635]
+Maa salen ka fɛn to, a bɛ fɔ o de ma ko cɛn.
+Ce qu'une personne laisse derrière elle en mourant, c'est cela qu'on appelle l'héritage.
+
+[535583-540111]
+O cɛn, dɔw sera k'u ta mara, dɔw ma se k'u ta mara.
+Cet héritage, certains ont pu le conserver, d'autres n'ont pas pu le conserver.
+
+[540361-541416]
+Dɔw y'u ta dogo.
+Certains ont caché le leur.
+
+[541638-547138]
+A dogolen, o yɔrɔ kɔrɔ dɔw bɛ to ka poyi-poyi.
+Quand il est caché, certains vieux morceaux réapparaissent de temps en temps.
+
+[547277-549027]
+Karisa bɔra daa datugulen kan.
+Un tel a découvert un canari fermé.
+
+[549166-553944]
+Karisa bɔra karisa ka masiri kan , a bɔra kɛlɛmasa ka sanumarifa dilalen kan.
+Un tel a découvert les bijoux d'un tel, il a découvert le fusil en or qui avait été fabriqué pour un chef de guerre.
+
+[554166-555805]
+Numuw de tun b'a dila.
+Ce sont les forgerons qui l'avaient fabriqué.
+
+[555916-560083]
+I bɛ sanumarifa dilabaa ɲini jamana in kɔnɔ bi, a ka dɔgɔn sa dɛ.
+Cherche quelqu'un qui peut fabriquer un fusil en or dans ce pays aujourd'hui, c'est vraiment très rare.
+
+[560388-571500]
+Ni kɛlɛmasa tun y'o sanumarifa ɲɛsin mɔgɔ o mɔgɔ, hali n'a ma ci i la , i bɛ to sisi la.
+Si un chef de guerre pointait ce fusil en or sur quelqu'un, qui que ce soit, même s'il ne tirait pas sur lui, la personne mordait la poussière.
+
+[574194-581972]
+Kɛlɛmasa ko numukɛ ma, i ye n ni n muso ta dila?
+Le roi dit au forgeron, as-tu fabriqué le mien et celui de ma femme ?
+
+[582194-584222]
+N b'i kɔnɔ.
+Je t'attends.
+
+[586833-588861]
+A bɛ labɛn ɲini a fɛ.
+Il lui demande de les préparer.
+
+[590472-595583]
+Den bɛ n bolo walima n balimakɛ den bɛ n bolo, i b'o fana ka labɛn.
+J'ai un fils ou bien j'ai le fils de mon frère, tu en fais un pour lui aussi.
+
+[595722-597111]
+O ka labɛn in ye mun ye.
+Qu'est-ce que cette préparation ?
+
+[597361-599750]
+E yɛrɛ b'o dila i ka numuya kɔnɔ.
+Toi-même tu fabriques cela avec ton esprit de forgeron.
+
+[600055-603138]
+Pariseke ne bɛna sa ka n kɔ de to nin bolo.
+Parce que je vais mourir en laissant ceci à ma descendance.

@@ -1,0 +1,696 @@
+[210-1450]
+A bɔra.
+Il est sorti.
+
+[2200-3990]
+Ka munumunu ka na du kɔnɔ ka n'i sigi.
+Puis revenir s'asséoir à la maison.
+
+[4320-9160]
+Mɔgɔ si m'a ɲininka a, karisa, i kɔnɔma tun don, i y'i denw bila min ?
+Personne ne lui demandé tu étais enceinte, où est-ce que tu as mis les enfants ?
+
+[9900-10900]
+Mɔgɔ si m'a ɲininka.
+Personne ne lui a demandé.
+
+[13390-16030]
+K'a sababu kɛ juguya min tun b'u kɔnɔ ka taa a fɛ.
+A cause de la haine qu'ils nourrissaient pour elle.
+
+[18720-20060]
+A y'i sigi, a ma fɛn fɔ.
+Elle s'est assise sans rien dire.
+
+[21500-26020]
+U m'a ɲininka, u yɛrɛ bolo alihamudulilayi a taara denw fili.
+Ils ne lui ont pas demandé, ils pensaient qu'elle était partie jeté les enfants.
+
+[27940-28940]
+Kasɔrɔ a y'u kalifa wara ma.
+Alors qu'elle les a confié au lion.
+
+[31100-38540]
+Bɔn, yɔrɔ dɔ bɛ Danbɛlɛlakaw ni Tarawelew ni Jaraw cɛ kasɔrɔ sinankunya yɛrɛ ma na fɔlɔ.
+Bon, il y a une partie entre les Dembélé, les Traoré et les Diarra bien avant le cousinage à plaisantérie.
+
+[38870-39870]
+N b'o yɔrɔ fɔ yan.
+Je vais évoquer cette partie ici.
+
+[41410-46260]
+Muso min tun furulen bɛ Kɔnɛlakaw fɛ yen, a bɔra Turamakan na de.
+La femme qui était mariée chez les Koné était une descendante de Touramakan.
+
+[46990-50130]
+O y'a sɔrɔ Tarawele jamu fɔli tun tɛ yen.
+En ce moment il n'y avait pas le nom Traoré.
+
+[50510-52040]
+Danbɛlɛ jamu fɔli tun tɛ yen.
+Il n'y avait pas le patronyme Dembélé.
+
+[52320-53580]
+A bɔra Touramakan na de.
+Elle est descendante de Touramakan.
+
+[55290-56320]
+I y'a famu ?
+Tu as compris ?
+
+[57790-68370]
+Turamakanw de ko a ma, a karisa, anw den de y'i ye, anw balimamuso de y'i ye, an b'a kalama i tun kɔnɔma don waati dɔ, i ye denw bila min ?
+Les Touramakan lui ont dit : tu es notre fille et notre soeur, nous savons que tu étais enceinte à un moment donné, où est-ce que tu as mis les enfants ?
+
+[70790-73370]
+A k'u ma ko n ye denw kalifa wara ma.
+Elle leur a dit qu'elle a confié les enfants au lion.
+
+[75130-76130]
+Olu ko a k'a ɲɛna.
+Ils ont d'accord c'est bien.
+
+[76610-78140]
+olu de taara kungo kɔnɔ.
+Ce sont eux qui sont allés en brousse.
+
+[79880-93050]
+Wa a kɛra yɔrɔ min na, bi n'i ye Jara ye, n'i taara Segu, n'i ko ko Jaralakaw bangera kuluwo min kɔnɔ k'u k'a jira i la, u b'a fɔ i ye k'i ka taa Busɛn.
+Et puis là où ça c'est passé, aujourd'hui si tu es Diarra et que tu partes à Ségou et demander de te montrer la grotte où les Diarra sont nés, ils vont te dire d'aller à Boussin.
+
+[94710-95710]
+Busɛn kelen-kelen min filɛ Segu.
+Le même Boussin qui est à Ségou.
+
+[96370-98060]
+N'i taara Busɛn, u bɛ farawo jira i la.
+Si tu pars à Boussin, ils vont te montrer la grotte.
+
+[98310-99310]
+A jiginna yen de.
+C'est là-bas qu'elle a acouché.
+
+[100770-111520]
+O la donso ninnu n'o ye Turamakan ninnu ye, u taara ka taa kala da ka wara dabali.
+Donc ces chasseurs qui sont les Touramakan, ils sont allés tendre un piège au lion.
+
+[112150-114390]
+Ka wara saraka, wara ma fosi f'u ye.
+Ils ont envouté le lion, le lion ne leur a rien dit.
+
+[115000-119050]
+u donna ka denw ɲini wara fɛ ka denw ta ka bɔ n'a ye.
+Ils sont rentrés demander les enfants au lion, ils ont pris les enfants pour sortir.
+
+[119480-123100]
+Wara tugura u kɔ fɔ ka na se dugu soda la.
+Le lion les a suivis jusqu'à l'entrée du village.
+
+[123230-124440]
+Waraw seginna ka taa kungo kɔnɔ.
+Les lions se sont rétournés en brousse.
+
+[124600-127940]
+U nana ni denw ye ka na denw lamɔ u fɛ yen.
+Ils sont venus avec les enfants pour les éléver.
+
+[128950-130810]
+U ye mɔgɔninfinkan fɔ yen de.
+C'est là-bas qu'ils ont parlé le langage humain.
+
+[131800-134360]
+Anw ka so n'o ye Turamakanw fɛ yen.
+Chez nous, chez les Touramakan.
+
+[134840-137020]
+Nin y'a sɔrɔ sinankunya t'an ni ɲɔgɔn cɛ.
+En ce moment, il n'y avait pas de cousinage à plaisanterie entre nous.
+
+[137470-139140]
+Nka sinankunya nacogo, an bɛ s'a ma.
+Mais nous allons arriver à l'origine du cousinage à plaisanterie.
+
+[140430-141430]
+I y'a famu ?
+Tu as compris ?
+
+[141860-149900]
+O kɛlen, den ninnu lamɔna u fɛ yen fɔ ka na den ninnu kɔgɔ.
+Alors, ces enfants ont grandi chez eux là-bas.
+
+[151130-152620]
+K'u kɛ i n'a fɔ e yɛrɛ bɛ cogo min.
+Ils sont devenus comme toi-même.
+
+[153220-154690]
+K'u kɛ kamalen ɲanamaw ye.
+Ils sont devenus des gaillards.
+
+[155420-162600]
+Mɔgɔ min balola wara sinji la, a, o kɔni n'i y'o ye, i b'a jinɛ don.
+Ah ! quelqu'un qui s'est nourri par le lait du lion, quand tu le vois, tu diras que c'est un diable.
+
+[164510-171030]
+O kɛlen sa, Turamakan ninnu k'u ma : anw b'aw ba dɔn.
+Après cela, les Touramakan leur ont dit : " nous connaissons votre mère ".
+
+[173060-180350]
+Nka n'anw ko k'a' ba y'anw balimamuso ye, u b'a fɔ ko nkalon don, ko nin den ɲuman ninnu k'an b'a fɛ k'u d'an balimamuso ma.
+Mais si nous disons que notre soeur est votre maman, ils diront que c'est faux, que nous voulons donner ces jolis garçons à notre soeur.
+
+[180710-181710]
+U tɛ sɔn.
+Ils ne vont pas accepter.
+
+[181770-183700]
+Nka aw yɛrɛ ka taa aw ba ɲini.
+Mais allez-y chercher votre mère vous-mêmes.
+
+[184250-185890]
+U ye so d'u ma k'u ka taa u ba ɲini.
+Ils leur ont donné un chéval pour qu'ils aillent chercher leur maman.
+
+[187590-189530]
+O de kama a bɛ fɔn nsiiri la.
+C'est pour cela on le raconte dans le conte.
+
+[190120-192500]
+Filaninw b'u ba ɲini kala dɛndɛn kalaba dɛndɛn.
+Les jumeaux cherchent leur maman.
+
+[193820-195460]
+U yalala ten.
+Ils se sont promenés comme ça.
+
+[196670-203120]
+Mɔgɔw ko nin ma se kuma caman na, ni tigi ma dɔn u la, a ye taa u di masakɛ ma.
+Les gens ont que cela est simple, si vous ne voyez pas leurs parents, allez-y les donner au roi.
+
+[203900-205140]
+Ninnu ye masakɛdenw ye.
+Ceux-ci sont des princes.
+
+[205770-209880]
+U yecogo, fanga min b'u la an'u bɛ cogo min na, a ye taa u di masakɛ ma.
+Leur apparence et leur élégance montrent que ce sont des princes ; allez-y les donner au roi.
+
+[210320-211320]
+U ko ko abada.
+Ils ont jamais.
+
+[212420-213420]
+K'olu b'u ba de ɲini.
+Qu'ils cherchent leur maman.
+
+[214330-220560]
+Olu ba mana ye yɔrɔ o yɔrɔ hali n'o yera bugutufa kɔrɔ k'olu b'o de dɔn.
+N'importe où qu'ils verront leur mère que même si c'est sous une case, qu'ils vont l'accepter.
+
+[222810-224580]
+U munumununa ka taa don masakɛbulon kɔnɔ.
+Ils sont partis rentrer dans le vestibule du roi.
+
+[225750-226750]
+Muso bɛɛ bɔra.
+Toutes les femmes sont sorties.
+
+[227830-230910]
+U n'i ɲininka e y'an sɔrɔ cogo di, i y'an kɛ cogo di ?
+Ils te demandent comment est-ce que tu nous a eus, qu'est-ce que tu as fait de nous ?
+
+[232120-233590]
+Anw n'e farala ɲɔgɔn na cogo di ?
+Comment est-ce que nous nous sommes séparés ?
+
+[235220-238340]
+A ! mɔgɔ tɛ se k'o jaabi n'u ba yɛrɛ tɛ o !
+Ah ! personne ne peut repondre à cela si ce n'est pas leur maman.
+
+[238870-239870]
+Nka bɛɛ bɛk'i ta fɔ.
+Mais tout le monde dit sa version.
+
+[240390-242250]
+Dɔw ko n y'aw sɔrɔ sange kɔrɔ.
+Certaines disent que je vous ai eus sous la moustiquaire.
+
+[242400-243600]
+N y'aw sɔrɔ soju la.
+Je vous ai eus dans la chambre.
+
+[243740-245890]
+Dɔw ko a kɛra yan, bɛɛ bɛk'i ta fɔ.
+D'autres disent que c'est fait ici, tout le monde dit sa version.
+
+[246880-248370]
+U yɛrɛ woloba, o nana.
+Leur maman même est venue.
+
+[248840-250620]
+O ko k'a bɛ kuma, u y'o ɲɔni k'a fili dugu ma.
+Celle-là voulaient parlent, on l'a repoussée.
+
+[251150-252460]
+Ko e bɛ se ka nin ɲɔgɔn denw wolo wa ?
+Est-ce que tu peux mettre ces genres d'enfansts au monde ?
+
+[253180-254810]
+Mɔgɔw ko a, a' jɔ tan.
+Les gens ont dit ah ! attendez d'abord.
+
+[256300-263920]
+Aw bɛɛ b'a kalama nin min filɛ nin ye, a kɔnɔma tun don waati dɔ la.
+Vous savez tous tous que cette femme était enceinte à un moment donné.
+
+[264720-267140]
+Mɔgɔ si m'a ɲininka yala i y'i denw bila min ?
+Personne ne lui a demandé où est-ce que tu as mis tes enfants.
+
+[269939-271800]
+A ! u  ko k'a fana ka kuma.
+Ah ! ils l'ont laissée parler alors.
+
+[272660-273660]
+A nana.
+Elle est venue.
+
+[273840-277250]
+A ko ne y'aw wolo Busɛn.
+Elle a dit : " je vous ai mis au monde à Boussin ".
+
+[278260-279980]
+N y'aw wolo farawo kɔnɔ.
+Je vous ai eus dans la grotte.
+
+[280440-282040]
+N y'aw wolo wara tun bɛ yen.
+Je vous ai mis au monde, il y avait un lion.
+
+[282320-286000]
+N y'aw wolo, jinɛw tun bɛ yen.
+Je vous ai mis au monde, il y avait des diables.
+
+[287100-291860]
+Jinɛ minnu don mɔgɔ t'u ye nka n'i y'a yɔrɔ ye, i b'a dɔ ko jinɛmayɔrɔ don.
+C'est des diables qu'on ne voit pas mais en voyant le lieu, on sait qu'il y a des diables.
+
+[292820-295350]
+Ko jinɛmayɔrɔ don nka n y'aw kalifa wara ma.
+C'est un endroit où il y a des diables, mais je vous ai confiés au lion.
+
+[295480-297650]
+N ko n'aw balola, aw balola wara ye.
+Que si vous vivrez, vous vivrez pour le lion.
+
+[299160-303800]
+A wulila k'a jɔ k'a bolo d'a disi kan "ko wanase carin ye."
+Elle s'est levée avec la main sur la poitrine en disant "ko wanase carin ye".
+
+[305320-306320]
+Nin de fɔra nin don.
+Cela a été dit ce jour-là.
+
+[307940-312920]
+O la bɛɛ b'a kalama a fɔra mɔgɔ fɔlɔ-fɔlɔ min ma Jara, o de ye Wanase ye.
+Donc tout le monde le sait, la prémière personne à être appelée Diarra, ça c'est Wanasé.
+
+[315400-318160]
+O la a y'i bolo d'a disi kan Wanase carin ye.
+Donc elle a posé la main sur sa poitrine en disant Wanasé Carin yé.
+
+[318190-318830]
+O kɔrɔ ye di ?
+Cela signifie quoi ?
+
+[319270-320600]
+Wa, o kɔrɔ ye ko yen.
+Wa veut dire là-bas.
+
+[320890-322150]
+Na, o ye ne yɛrɛ ye.
+Na, c'est moi-même.
+
+[322390-324080]
+Se, o ye sɛbɛyali ye.
+Se, c'est l'accouchement
+
+[325140-327270]
+Se kɔrɔ k'a sɛbɛya.
+Se veut dire accoucher.
+
+[327880-330440]
+Nka bi, an bɛ wolo fɔ, wolo tɛ bamanankan ɲuman.
+Mais aujourd'hui nous disons "wolo" (qccoucher), wolo n'est pas un bon terme en bamanankan.
+
+[331840-332840]
+Wolo tɛ bamanankan ɲuman ye.
+Wolo n'est pas un bon terme.
+
+[332870-334350]
+Maninkaw ko k'a moyira.
+Les malinkés disent "k'a moyira" (elle a accouché )
+
+[334910-335910]
+Moyi fana kɔrɔ ye di ?
+Que signifie le terme "moyi" aussi ?
+
+[336180-337180]
+K'a tigiyara.
+Devenir propriétaire.
+
+[337910-338630]
+O de ye moyi ye.
+C'est ça moyi.
+
+[341150-343680]
+Nka Segu ko k'a sɛbɛyara.
+Mais à Ségou, on dit "a sèbèyara" (elle a accouché)
+
+[343740-344560]
+O de ye se ye.
+C'est ça le terme "se".
+
+[344610-345610]
+O la a ye se de fɔ.
+Donc elle a employé le terme "se".
+
+[346020-347020]
+Carin
+Tcharin
+
+[347370-349300]
+Carin yiri ko waraw fɛ yen.
+"Tcharin yiri" chez les lions.
+
+[349490-350700]
+Wara tɔgɔ de ye carin ye.
+Le lion s'appelle tcharin.
+
+[351800-352800]
+Carin kɔrɔ ye di ?
+Tcharin signifie quoi ?
+
+[353360-356520]
+Ni waraba donna kuru kɔnɔ yan, bɛɛ bɛ carin.
+Si le lion entre dans la cour ici, tout le monde va se disperser.
+
+[357300-358960]
+Carin carin carin, bɛɛ bɛ carin.
+Tout le monde va disperser.
+
+[359320-362980]
+O carin carin de ye waraba tɔgɔ ye sabu o ye warab jogo ye.
+Cette dispersion "tcharin" est le nom du lion, car ça c'est son travail.
+
+[363750-366260]
+O la o carin, o de yɛlɛmana ka k'a jamu ye.
+Donc ce terme "tcharin" est devenu son nom de famille.
+
+[367130-368760]
+Wanase, o kɛr'a tɔgɔ ye.
+Wanasé est devenu son nom.
+
+[369110-372460]
+O la bɛɛ ko Wanase Cari, Wanase Cari. 
+Alors tout le monde a dit Wanassé Tchari, Wanassé Tchari.
+
+[372880-375550]
+O Wanase nin, a kanuru bɛ Busɛn bi.
+Aujourd'hui, la tombe de ce Wanassé est à Boussin.
+
+[375770-380390]
+A wolola farawo min kɔnɔ, a kaburu bɛ Busɛn an bɛ yɔrɔ min na i ko bi.
+La grotte où il est né, sa tombe se trouve à Boussin aujourd'hui.
+
+[381080-382080]
+N'i taara u b'a jira i la.
+Si tu vas, ils vont te la montrer.
+
+[382840-384910]
+O de ye Wanase Jara ye.
+C'est lui Wanassé Diarra.
+
+[385250-387140]
+Jara bonda bɛɛ bɔra ale de la.
+Tous les Diarra descendent de lui.
+
+[388510-394920]
+Denw kɛlen k'u ba ye, o y'a ba ɲɛmanɔgɔsilen don, masakɛ ko nin gɛlɛyara dɛ.
+Quand les enfants ont vu leur maman, la maman était misérable, le roi a dit que ça c'est grave.
+
+[396370-397370]
+Ko nin gɛlɛyara dɛ.
+Cela a été vraiment grave.
+
+[397840-399240]
+Ko jɔniw nɔ ye nin ye ?
+Que qui a fait ça ?
+
+[401170-403070]
+Ko k'u minɛ ka na ka dɔ bɔ u kuntama na.
+Qu'ils faut les amener pour réduire leur taille.
+
+[404720-406720]
+U y'a muso jugu ninnu bɛɛ wele ka na.
+Ils ont amené toutes ces femmes méchantes.
+
+[408790-409790]
+Ko ka dɔ bɔ u kuntama na.
+Qu'il faut réduire leur taille.
+
+[411680-416670]
+Jaralakaw ba de tilala ka deelili kɛ k'o kana kɛ.
+C'est la mère des Diarra qui a intercédé pour que cela ne se fasse pas.
+
+[417230-418230]
+Ko k'u to yen.
+Elle demandé de les tolérer.
+
+[419510-420510]
+Masakɛ ka sɔrɔ k'u to yen.
+Alors le roi les a tolérées.
+
+[421850-427960]
+O yɔrɔ bɛɛ u ye bamuso in minɛ k'a ko k'a jɛ ka n'a sigi masakɛ ka faamabulon kɛrɛfɛ.
+Immédiatement, elles ont lavé la mère des Diarra pour la rendre propre et venir l'asseoir à côté du vestibule du roi.
+
+[429090-431270]
+K'a tɔgɔ yɛlɛma k'a fɔ a ma ko Kamisa.
+Et changer son nom pour la nommer Kamissa.
+
+[433250-434440]
+Anw fɛ yan Kamisa ye saba ye.
+Il y a trois Kamissa chez nous ici.
+
+[435470-436680]
+Ale de ye Kamisa fɔlɔ ye.
+C'est elle qui est la prémière Kamissa.
+
+[437030-438130]
+Jaralakaw ba Kamisa.
+Kamissa la mère des Diarra.
+
+[438270-439270]
+Kamisa kɔrɔ ye di ?
+Que signifie le nom Kamissa ?
+
+[441080-442250]
+K'a ye kobaw ye.
+Qu'elle a vécu des événements.
+
+[442340-446350]
+Yɔrɔ dɔ la Ka bɛ kɛ koba ye.
+Quelque part, "Ka" est un événement.
+
+[446560-449960]
+O de la n ko i ma ko ka bɛ kow kofɔ.
+C'est pour cela je t'ai dit que "Ka" montre un événement.
+
+[450580-452980]
+Nka kan, a bɛ jamana kofɔ.
+Mais "Kan" désigne le pays.
+
+[453090-455730]
+Nka n'a sera sɛbɛnni ma, a sɛbɛncogow tɛ kelen.
+Mais à l'écriture, ce n'est pas la même orthographe.
+
+[456880-460090]
+Ka ye kow ye, o ye k'a sɛbɛn "ka".
+Ka désigne l'événement, ça c'est écrire directement "ka".
+
+[460630-463281]
+Nka ni jamana don, a bɛ fɔ de ko "Kan".
+Mais si c'est le pays, ça se prononce "Kan".
+
+[464190-466910]
+Nka "kan", an b'a bɛɛ yɛlɛma k'a kɛ "ka" ye.
+Mais on transforme tout en "Ka".
+
+[467810-468810]
+I y'a famu ?
+Tu as compris ?
+
+[468990-473050]
+O la, a fɔra ko Kalamusa.
+Donc on a dit Kalamoussa.
+
+[474730-476600]
+Ko ko tora i ta la.
+Que la vérité t'est revenue.
+
+[477960-478960]
+Kamusa.
+Kamoussa.
+
+[479350-481100]
+N k'i ma ko "Mu" y'e yɛrɛ ye.
+Je t'ai dit que "Mou" veut dire toi-même.
+
+[481510-485100]
+Nko jamu ko yala e ye jɔmu den ye; mu b'o kɔnɔ.
+J'ai dit Diamou, que qui sont tes parenst, cela contient "Mou".
+
+[485350-487250]
+Kamusa, mu b'o fana kɔnɔ.
+Kamoussa aussi contient Mou.
+
+[487590-489030]
+O la mu ye e yɛrɛ de ye.
+Don Mou, c'est toi-même.
+
+[489150-490940]
+Ko ko tora i ta la.
+Que la vérité est revevue à toi.
+
+[490960-492430]
+Sa kɔrɔ ye ko kotontala.
+Sa veut dire raison.
+
+[492590-495570]
+N'i ye sa mɛn kuma o kuma kɔnɔ, o ye ko to n ta la ye.
+Cgaque fois que tu vois sa dans un mot, ça veut dire raison.
+
+[495610-497600]
+I ye ko to mɔgɔ ta la walima mɔgɔ ye ko to i ta la.
+Tu es d'accord avec quelqu'un ou bien quelqu'un est d'accord avec toi.
+
+[498280-502870]
+Nka taalen ɲɛ, i n hakili jigin, n bɛ don sa kɔnɔ, sa bɛ kumaden minnu kɔnɔ n b'a bɛɛ kɔrɔ fɔ i ye.
+Après il faut me rappeler, je vais expliquer "S" , je vais citer tous les mots qui contiennent sa.
+
+[505370-507690]
+O la muso tɔgɔ kɛra Kamisa ye.
+Donc la femme a été nommée Kamissa.
+
+[508040-509550]
+O de ye Jaralakaw ba Kamisa ye.
+C'est elle la mère des Diarra.
+
+[510790-515520]
+O la, a ka sɔrɔ ka ci bila donson ninnu ma k'u ka na.
+Donc elle a appelé les chasseurs.
+
+[516300-517610]
+U nana n'o ye Turamakanw ye.
+Ils sont venus, les Touramakan.
+
+[519350-522600]
+Nin y'a sɔrɔ Tarawele fɔli da la tun tɛ yen ka Turamakan tun bɛ yen.
+Donc cela a trouvé qu'il n'y avait pas l'appelation Traoré, mais il y avait Touramakan.
+
+[523020-525330]
+Tarawele bɔra Turamakan na, Danbɛlɛ bɔra Turamakan na.
+Traoré et Dembélé viennnet de Touramakan.
+
+[525560-527400]
+Nka u bɛɛ n'a nacogo don.
+Mais chacun a son origine.
+
+[527700-529060]
+N bɛ s'a bɛɛ ma.
+Je vais tout expliquer.
+
+[529180-532470]
+Ni waati m'an ta, n b'a bɛɛ kɔrɔ fɔ kelen-kelen, a nacogo n b'a bɛɛ fɔ.
+Si le temps ne nous prend pas, je vais expliquer leurs sources et origines.
+
+[533700-538430]
+A ye ci bila Turamakanw ma.
+Il a appelé les Touramakan.
+
+[538910-540510]
+A ko a' ye baara min kɛ a ɲana.
+Il a dit vous avez fait un bon travail.
+
+[541370-543280]
+Ne yɛrɛ ye muso furu aw ka kabila kɔnɔ.
+Moi-même j'ai épousé une femme au sein de votre tribu.
+
+[544460-549070]
+O ka tila ka nin den dakabana ninnu wolo ne ye, n'aw tɛ fana den ninnu tun tɛ balo.
+Elle m'a donné ces enfants merveilleux, sans vous ces enfants n'allaient pas survivre.
+
+[550000-553620]
+O la, a ko tɛ to tan, a bɛ don sinankunya kɔnɔ.
+Donc ça ne va pas s'arrêter comme, ça va entrer dans le cousinage à plaisanterie.
+
+[554920-557740]
+A ka sɔro ka misiw faga ka bɛɛ wele.
+Il a ensuite égorgé des boeufs et invité tout le monde.
+
+[558150-561610]
+Bɛɛ nan'i bolo da misi ninnu kan, u ye misi ninnu faga, misi caman.
+Tout le monde est venu posé sa main sur ces boeufs et ils les ont égorgés.
+
+[562280-565200]
+Kabila ni dugu bɛɛ welela ka na, bɛɛ y'a sogo ɲimi.
+Tous les villages et toutes les tribus ont été invtés et tout le monde ont mangé la viande.
+
+[566190-569140]
+A ka sɔrɔ k'a don sinankunya la an ni Jaralakaw cɛ.
+C'est ensuite rentré dans le cousinage entre les Diarra et nous.
+
+[571160-574380]
+Sinankunya nacogo filɛ an ni Jaralakaw cɛ, a donna ni don de.
+Le cousinage est venu comme ça entre les Diarra et nous ce jour-là.
+
+[575440-576440]
+I y'a famu ?
+Tu as compris ?
+
+[577260-578260]
+Sinankunya n b'a kɔrɔ f'i ye.
+Je vais t'expliquer le sens du cousinage à plaisanterie.
+
+[578870-581580]
+SI-NAN-KUN-YA
+SI-NAN-KOUN-YA
+
+[581640-582640]
+Kanɲɛ naani.
+Quatre syllabes.
+
+[583720-584720]
+Si kɔrɔ ye di ?
+Que veut dire Si ?
+
+[585570-588800]
+N'i ye Si mɛn kuma o kuma kɔnɔ, a bɛ kalikan de kofɔ.
+Chaque fois que tu vois "SI" dans un mot, ça montre le serment.
+
+[590010-591970]
+Ko kalikan de b'aw ni ɲɔgɔn cɛ.
+Qu'il y a le serment entre vous.
+
+[593410-596140]
+NAN min b'a kan, NAN ye jalaki ye.
+NAN qui est ladans, NAN est le tort.
+
+[596240-600950]
+Ni jalakiko y'aw dɔlakelen sɔrɔ, aw ka sɔ jalaki ma.
+Si l'un d'entre vous a tort, il faut accepter le tort.
+
+[601550-605870]
+A b'e n'a min cɛ, e fana k'a makoto sabula a sɔnna a ka jalaki ma.
+Toi aussi qui as raison, tu dois lui pardon puisqu'il a accepté son tort. 
+

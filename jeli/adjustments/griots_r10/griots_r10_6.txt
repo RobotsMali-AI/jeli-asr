@@ -1,0 +1,471 @@
+[25-2564]
+Bɛɛ bolo tun bɛ dumuniminɛn kelen na.
+Tout le monde mangeait dans la même tasse.
+
+[2615-4564]
+HInɛ banna.
+La pitié est terminée.
+
+[4666-8410]
+Balimaya hinɛ banna.
+La pitié de la fraternité est terminée.
+
+[8512-11179]
+Furu hinɛ banna.
+La pitié du mariage est terminée.
+
+[17051-19461]
+Munna an tɛ se ka segin nin ma?
+Pourquoi ne pouvons-nous pas revenir à celles-ci ?
+
+[23025-26102]
+Foyi tɛ se kan bali ka segin an danbe kɔrɔ ma.
+Rien ne peut nous empêcher de revenir sur notre dignité.
+
+[26205-29538]
+An ka hinɛ ɲɔgɔn na.
+Ayons pitié les uns et les autres.
+
+[29641-33102]
+Nikun ka lafiya.
+Que l'âme se repose.
+
+[33230-36102]
+N'an hinɛna ɲɔgɔn na, walahi bɛɛ bɛ lafiya.
+Quand on a pitié les uns et les autres, tout le monde sera à l'aise.
+
+[36256-39846]
+Bɛɛ bɛ lafiya.
+Tout le monde aura la paix.
+
+[39948-48897]
+N'an hinɛna ɲɔgɔn ka segin danbe kɔrɔ ma, walaahe nikun bɛ lafiya.
+Quand on a pitié les uns et les autres et revient vers notre culture au nom de Dieu, l'âme aura la paix.
+
+[49000-52205]
+Munna bolo tɛ jigin dumuniminɛn kelen kɔnɔ tugun?
+Pourquoi on ne mange plus dans la même tasse ?
+
+[57000-60461]
+AN k'an bolo don dumuniminɛn kelen kɔnɔ.
+Mangeons dans la même tasse.
+
+[60615-69948]
+Halibi n'i taara marakaw ka so, bolo bɛ don dumuniminɛn kelen kɔnɔ.
+Jusqu'à présent, si tu pars chez les soninkés, on mange dans la même tasse.
+
+[70025-76333]
+N'i taara fuladu kɔnɔ i b'a sɔrɔ bɛɛ bolo bɛ don minɛn kelen kɔnɔ.
+Quand tu pars dans une famille, tu trouves qu'on mange dans la même tasse.
+
+[76435-81205]
+Nin ye karisa den ye nin karisa den o tɛ yen.
+C'est le fils d'untel n'existait pas.
+
+[81256-85205]
+o tun tɛ yen.
+Cela n'existait pas.
+
+[85282-91307]
+I bɛ se ka balikuya k'a sɔrɔ i m'a dɔn k'i fa ye nin ye.
+Tu peux devenir majeur sans savoir qui est ton père biologique.
+
+[91410-96000]
+I bɛ se ka balikuya k'a sɔrɔ i m'a dɔn k'i woloba ye nin ye.
+Tu peux devenir majeur sans savoir qui est ta mère biologique.
+
+[96128-104128]
+A mana gɛlɛya i ma cogo o cogo, a tɛ sara i woloba la, a tɛ sara i wolofa la.
+Quelle que soit la difficulté que tu as, on ne demande tes parents biologiques, mais ton oncle et ta tante.
+
+[104256-108000]
+Bakɔrɔba in ni fakɔrɔba in de b'a ɲɛnabɔ.
+L'oncle et la tante gèrent tout.
+
+[108153-112871]
+Bidenw ko k'u fa kelen.
+Les enfants d'aujourd'hui disent seul mon père.
+
+[112974-118435]
+N fa kelen de nana ni tiɲɛni ye.
+Seul mon père a gâché les choses.
+
+[118538-122153]
+Bidenw ko n ba kelen.
+Les enfants d'aujourd'hui disent seulement à ma mère.
+
+[122256-125307]
+N ba kelen de nana ni tiɲɛni ye.
+Seule ma mère a gâché les choses.
+
+[125435-128410]
+An ka segin an kɔ.
+Revenons en arrière.
+
+[128487-135000]
+N b'a fɔ tuguni denmisɛnnin ka segin u kɔ.
+Je dis encore, les enfants, revenez en arrière.
+
+[135179-142923]
+N'o tɛ anw ye min balo, ni Alako yɛrɛ tɛ o ɲɔgɔn sɔrɔ man di tugun dɛ.
+Sinon ce que, nous avons vécu, mis à part Dieu, c'est difficile d'avoir pareil.
+
+[143000-146153]
+O ɲɔgɔn sɔrɔ man di tugun.
+C'est difficile d'avoir pareil.
+
+[146256-151794]
+N'i ye san bi duuru tɛmɛ, i bɛ don dɔ de ɲɛnafilɛ la sa.
+Quand tu dépasses les 50 ans, tu attends seulement un jour.
+
+[151871-154538]
+Denmiisɛnnin k'u kɔfilɛ.
+Il faut que les enfants regardent par derrière.
+
+[154666-158897]
+A mana gɛlɛya cogo cogo, a bɛ laban denmisɛnw de bolo.
+Quelle que soit la difficulté, les enfants ont toujours le dernier mot.
+
+[159076-162205]
+A mana nɔgɔya cogo ocogo, a bɛ laban denmisɛnnin de bolo.
+Peu importe la facilité, les enfants ont le dernier mot.
+
+[162333-165333]
+Denmisɛnw k'u kɔfilɛ.
+Que les enfants regardent par derrière.
+
+[165461-167820]
+U ka hinɛ fara u yɛrɛ.
+Qu'ils fassent pitié leur compagnon.
+
+[167897-171076]
+U ka hinɛ ka balimaya lajɛ.
+Qu'ils aient pitié et voir la fraternité.
+
+[174205-180102]
+ALa ye diɲɛ da ka sɔrɔ da ka kɔli da.
+Dieu a créé le monde, la richesse et la pauvreté.
+
+[180179-185256]
+A ye sɔrɔ kɛ e la bi. 
+Il t'a donné la richesse aujourd'hui.
+
+[185307-189282]
+Sinin ma sininkɛnɛ ma, o ɲɔgɔn bɛ se ka kɛ i ɲɔgɔn wɛrɛ ye.
+Dans les jours à venir, un autre peut avoir cela.
+
+[189384-194000]
+A b'e bolo don kelen min kama e ko k'i tɛ hinɛ k'i tɛ makari.
+Le jour où tu possèdes, tu dis que tu n'as pas de pitié.
+
+[194153-197205]
+Ala in ye yɛlɛma masa de ye.
+Dieu est le roi du changement.
+
+[211692-213615]
+O yɔrɔnin fana be fɔ ka fara a kan.
+On ajoute cette partie aussi.
+
+[213794-218641]
+A ye sɔrɔ kɛ e ye don min na, ni e m'i kɔfilɛ.
+Le jour où il t'a donné la richesse si tu ne penses pas aux autres.
+
+[218717-222717]
+E ma hinɛ, a y'a minɛ i k'a di i ɲɔgɔnna wɛrɛ ma.
+Il te l'a arraché et donné à une autre personne.
+
+[222820-227717]
+N'o tigi fana ko k'a b'a ta sara dun?
+Si cette dernière décide de se venger ?
+
+[227794-230948]
+A bɛ gɛlɛya e bolo a don dɛ.
+Ça sera difficile pour toi ce jour-là.
+
+[231076-236307]
+Yanni a ka se o ma, an k'an kɔsegin.
+Avant d'arriver à ce niveau, revenons en arrière.
+
+[236410-239743]
+AN k'an kɔttaramabɔ.
+Reculons.
+
+[239897-250076]
+An yɛrɛ tun b'a fɔ an ka bamanankan na fɔlɔ: Ala de ye jurudonmoriba ye ALa de ye jurusaramoriba ye.
+Proverbe.
+
+[250179-255358]
+N'a ye juru o juru don, a bɛ se k'o juru sara.
+Il peut payer toutes les dettes qu'il accorde.
+
+[255487-259923]
+Ale de bɛ juru in don, ale de bɛ tila ka juru in sara.
+Il accorde cette dette et il la rembourse aussi.
+
+[260025-266076]
+Munna an bolo te don dumuniminɛn kelen kɔnɔ bi?
+Pourquoi nous ne mangeons pas dans la même tasse aujourd'hui ?
+
+[266205-270487]
+Munna an tɛ hinɛ ɲɔgɔn na?
+Pourquoi on n'a pas pitié les uns et les autres ?
+
+[270615-278512]
+Munna an tɛ kɔrɔkɛ den k'an den ye ka balimamuso den kɛ an den, ka dɔgɔkɛ den kɛ an den ye?
+Pourquoi nous ne considérons pas l'enfant du grand frère, du petit frère et celui de la sœur comme notre propre enfant ?
+
+[278641-280487]
+Bɛɛ ko ko n ta.
+Tout le monde dit le mien.
+
+[280615-285153]
+Tatigiya in de gɛlɛyara.
+La propriété privée a tout mélangé.
+
+[285307-289666]
+Tatigiya in ye ko bɛɛ tiɲɛ.
+La propriété privée a tout gâché.
+
+[289794-293794]
+Nin bɛɛ la ne tɛ jigin cɛw la.
+Malgré tout, je n'en veux pas aux hommes.
+
+[293897-296717]
+N bɛ jigin anw yɛrɛ musow la.
+J'en veux à nous les femmes.
+
+[299538-304179]
+Du diya, muso, du goya, musow.
+Le bonheur et le malheur de la famille dépendent des femmes.
+
+[304282-310051]
+Du ɲɛbaga, musow, du tiɲɛbaga, musow.
+Les femmes construisent la famille, les femmes détruisent la famille.
+
+[310179-317333]
+Bɛɛ tɛ ɲɛ ka ɲɛ, bɛɛ tɛ jɛ ka tiɲɛ.
+Tout le monde sera bon à la fois et tout le monde ne sera pas aussi mauvais à la fois.
+
+[317435-323717]
+Hali an ka maraw kɔnɔ, bangebaga dɔs kunkolo tun man ɲi.
+Chez nous, ici, tous les parents n'étaient pas bons.
+
+[323871-326615]
+Mansa dɔw kunkolo tun man ɲi.
+Certains parents étaient mentalement malades.
+
+[326743-332076]
+Ni du muso fɔlɔ ɲɛna, a bɛ tɔ bɛɛ dila.
+Quand la première femme de la famille est bonne, elle va affecter toutes autres.
+
+[332205-338076]
+Ni muso kelen ɲɛna du kɔnɔ, a be tɔ bɛɛ dila.
+Si une seule femme est bonne dans la famille, toutes autres vont la suivre.
+
+[338153-347641]
+Ka badenw kɔdon ɲɔgɔn na muso de b'o kɛ.
+Séparer les frères de sang, la femme fait ça.
+
+[347769-349461]
+Mun y'a kɛ ni musow tɛ?
+Qu'est-ce qui a mis à côté les femmes ?
+
+[349615-368282]
+Ni cɛ kɛra ɲɔgɔn na, n'u bɛna balimayakɛlɛ ke, n'e y'i ta weele ka don so kɔnɔ ka ladilikan di a ma, a dusu bɛ faga.
+Quand il y a la mésentente entre les frères, si tu invites le tien à l'intérieur de la maison, et tu lui donnes des conseils, il va se calmer.
+
+[368333-377051]
+Dɔwɛrɛ y'a ta ladon so kɔnɔ ka ladilikan di a ma, a dusu be faga.
+Une autre a invité le sien dans la chambre, il va se calmer aussi.
+
+[377102-379794]
+Badenkɛlɛ bɛ ban wa a tɛ ban?
+La guerre fraternelle prendra-t-elle fin ou non ?
+
+[379846-381717]
+Badenkɛlɛ bɛ ban.
+La guerre fraternelle prendra fin.
+
+[381794-389461]
+Ni ye balimakɛw ka kɛlɛ sɛgɛsɛgɛ ka taa ɲɛfɛ, an muso don.
+Quand tu analyses la guerre des frères, tu verras que les femmes sont à l'origine.
+
+[389589-392461]
+Karisa kana sɔn ni ka ke i la dɛ.
+N'accepte pas cela untel.
+
+[392564-396025]
+A badenw b'i filɛ naloma de ye.
+Tes frères te prennent pour idiot.
+
+[396076-399358]
+I b' t'i ka nafolo ɲini k'a di baden bɛɛ ma munna?
+Pourquoi tu donnes toute ta richesse à tous les frères ?
+
+[399461-402307]
+I t'i ka siniɲɛsigi labɛn.
+Il faut préparer ton avenir.
+
+[402487-406384]
+Siniɲɛsigi tɛ mɔgɔ si bolo, i ye wale min kɛ diɲɛ na o de y'i ka siniɲɛsigi ye.
+Personne n'a de l'avenir, ce que tu as fait dans le monde est ton avenir.
+
+[406461-409282]
+Nafolo te mɔgɔ ka siniɲɛsigi ye.
+La fortune n'est pas l'avenir d'une personne.
+
+[409358-413589]
+Du tɛ mɔgɔ ka siniɲɛsigi ye, fini tɛ mɔgɔ ka siniɲɛsigi ye.
+Le terrain, l'habit ne sont pas l'avenir de quelqu'un.
+
+[413692-416564]
+I ye baara ɲuman min ke diɲɛ konɔ o y'i siniɲɛsigi ye.
+Tes bienfaits dans le monde constituent ton avenir.
+
+[416717-423153]
+Musow de bɛ se k'a dila, musow de bɛ se k'a tiɲɛ.
+Les femmes peuvent construire et détruire.
+
+[423256-428589]
+Musow ne b'a fɛ an ka ke an baw ye.
+Les femmes, je veux que nous soyons comme nos mères.
+
+[428641-433333]
+An ka kɛ an baw ye mɛ minnu baw ka ɲi.
+Soyons comme nos mères, mais celles qui ont de bonnes mères.
+
+[438179-444333]
+Minnu baw man ɲi, Ala bɛ se ka yɛlɛma don olu ma k'u ɲɛ.
+Celles qui ont de mauvaises mères, Dieu peut les changer.
+
+[444410-449435]
+AN ka ɲa.
+Soyons bonnes.
+
+[449512-452076]
+N'an ɲɛna, barika bɛ sɔrɔ.
+Si nous sommes bonnes, il y aura la bénédiction.
+
+[452230-457051]
+Hinɛ ni makari be , du bɛ yiriwa.
+La pitié sera là, la famille sera prospère.
+
+[457179-459282]
+Ala bɛ barika don denw na.
+Dieu bénit les enfants.
+
+[467461-470230]
+Dɔgɔke muso.
+La femme du petit frère.
+
+[470410-476512]
+I b'a sɔrɔ muso 1, 2, 3, 4be dɔw bolo.
+Certains peuvent avoir 1, 2, 3, ou 4 femmes.
+
+[476615-482666]
+Kɔrɔkɛ ka lagare de bɛ se ka kɛ fɛntigi ye so kɔnɔ.
+Le benjamin du grand frère peut être riche dans la famille.
+
+[482743-488256]
+Dɔgɔnin ka lagare be se ka kɛ nafolotigi ye so kɔnɔ.
+Le benjamin du petit frère peut être le riche de la famille.
+
+[488358-492000]
+A se b'a ye ka du bɛɛ ta.
+Il a le pouvoir de prendre toute la famille en charge.
+
+[492179-496743]
+N'a bɛnna bajugu ma, a  b'a den kɛrɛnkɛrɛn ka don so kɔnɔ.
+Quand elle tombe sur la mauvaise, elle fait entrer son fils dans la chambre.
+
+[496846-503564]
+N'a bɛnna baɲuman ma, den bɛ ǩ bɛɛ ta ye.
+Quand ça tombe sur une bonne mère, l'enfant à tout le monde.
+
+[503666-507128]
+Kabila bɛɛ bɛ dɔ sɔrɔ a la.
+Toute la communauté va en profiter.
+
+[507205-510307]
+O de ye du duman ye.
+C'est ça une bonne famille.
+
+[510384-512897]
+O de ye danbe du ye.
+C'est ça une famille de dignité.
+
+[513025-517128]
+Bajugu be mun fɔ?
+Qu'est-ce que la mauvaise dit ?
+
+[517256-520128]
+Taa y ɔrɔ san.
+Va acheter un terrain.
+
+[520256-523076]
+Ne bɛ taa yennin nɔ.
+Je vais là-bas.
+
+[523205-525512]
+Ne bɛ bɔ duba kɔnɔ.
+Je vais quitter la grande famille.
+
+[525641-528205]
+O de ye duba caman kɛ du fitinin ye.
+C'est ce qui a fait que beaucoup de grandes familles sont devenues de petites familles.
+
+[528333-532641]
+Ni e taara o san
+Tu es parti acheter cela.
+
+[532769-540512]
+E y'i fa ni ba ani i dɔgɔmusonin ta ka taa n'olu ye.
+Tu as amené ton père, ta mère, plus tes deux petites sœurs.
+
+[540589-542256]
+Tɔw tora maɲumako la i kɔfɛ yan.
+Les autres sont restés dans la galère derrière toi.
+
+[542384-544102]
+Nafolo ye mun ɲɛ?
+Qu'est-ce que la fortune a servi ?
+
+[547256-551846]
+HInɛ banna, danbe banna.
+La dignité et la pitié sont finies.
+
+[552000-557230]
+Ne bɛ min fɔ an ka segin tugunin a ka na danbe ma.
+Ce que je dis, c'est que doit revenir à la dignité.
+
+[557307-560333]
+AN ka hinɛ ɲɔgɔn na.
+Ayons pitié les uns et les autres.
+
+[560435-563897]
+N'an hinena ɲɔgɔn na, Ala be lafiya di an bɛɛ ma.
+Quand on a pitié les uns et les autres, Dieu va nous donner tous la paix.
+
+[567102-569717]
+Du be diya, jamana be diya.
+La famille et le pays seront prospères.
+
+[569846-572641]
+Denw be lafiya.
+Les enfants auront la paix.
+
+[572897-578076]
+Ne tun b'a fɛ ka n da don baro min na, o de tun ye nin ye.
+C'était ça ce que je voulais dire.
+
+[578179-581846]
+Ne tɔgɔ ye Korotumu Sisɔkɔ ka bɔ Wagadu.
+Je me nomme Korotoumou Sissoko, je viens de Ouagadou.
+
+[582000-588333]
+Wagadu dugu jumɛn, Kundu, Ala ye n sigiyɔrɔ bɛn sigida duurunan ma.
+Je suis de Koundou à Ouagadou, cinquième commune.
+
+[589743-592615]
+Hakɛto be nin kan.
+Merci.

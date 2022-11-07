@@ -1,0 +1,1260 @@
+[670-4070]
+A bɔra ka munumunu ka na du kɔnɔ ka na i sigi.
+Elle est sortie faire des tours et revenir à la maison.
+
+[4310-6210]
+Mɔgɔ si m'a ɲinika.
+Personne ne lui a demandé.
+
+[6496-9330]
+Aa karisa, i kɔnɔman tun don, i ye denw bila min?
+Ah une telle, tu étais enceinte, où est ce que tu as laissé les enfants?
+
+[9892-10480]
+Hun!
+Houn!
+
+[10507-11110]
+Mɔgɔ si m'a ɲinika.
+Personne ne lui a demandé.
+
+[11110-11590]
+Uhun
+Oui
+
+[12511-16130]
+Tɛlima kee k'a sababu kɛ juguya min tun bɛ u kɔnɔ ka ta'a fɛ.
+A cause de la jalousie qu'ils avaient envers elle.
+
+[16141-16570]
+Uhun
+Oui
+
+[17648-20270]
+Dɔnki a y'i sigi a ma fɛn fɔ.
+Donc elle s'est assise et n'a rien dit.
+
+[20308-20860]
+Uhun
+Oui
+
+[21474-26310]
+U m'a ɲinika, u yɛrɛ bolo aa alihamudulilayi, a ye den ninnu a taara u fili
+Ils ne lui ont pas demandé, ils se disent Dieu merci, elle est allée jéter ses fils.
+
+[26758-27450]
+Uhun
+Oui
+
+[27982-29260]
+K'a sɔrɔ a y'u kalifa wara ma.
+Tandis qu'elle les a confiés au lion.
+
+[29332-29990]
+Uhun
+Oui
+
+[31277-35720]
+Bɔn yɔrɔ dɔ b'an ni Danbɛlɛlakaw ni Tarawelew ni Jaaraw cɛ.
+Il ya quelque chose entre les Dembélé, Traoré, Diarra et nous.
+
+[35750-36090]
+  Uhun
+Oui
+
+[36152-38720]
+O O k'a sɔrɔ sinakunya ma na fɔlɔ.
+Cela était là avant même le cousinage.
+
+[38927-40060]
+N bɛ o yɔrɔ fɔ yan.
+Je vais dire cela ici.
+
+[40348-41348]
+Uhun
+Oui
+
+[41569-43910]
+Muso min tun furulen bɛ kɔnɛlakaw fɛ yen.
+La femme qui était  dans la famille Koné.
+
+[44013-45013]
+Uhun
+Oui
+
+[45130-46480]
+A bɔra Turamaganna de.
+Elle vient de Touramagan na.
+
+[47195-50300]
+O y'a sɔrɔ ee ee Tarawelejamu fɔli tun tɛ yen.
+A l'époque il n' y avait pas le nom Traoré.
+
+[50365-50790]
+Uhun
+Oui
+
+[50815-52320]
+Danbɛlɛjamu fɔli tun tɛ yen.
+Il n'y avait pas du nom Dembélé.
+
+[52455-53720]
+A bɔrɔ Turamagan na de.
+Il vient de Touramaganna .
+
+[54864-55560]
+Unn!
+Ounn!
+
+[55614-56380]
+I y'a famu?
+Tu comprends?
+
+[56463-57070]
+Uhun
+Oui
+
+[57200-63460]
+A Turamaganw de ko aa karisa e balima > anw den de y'i ye.
+Ce sont des Touramagans qui disent < Ah telle personne... tu es notre fille>.
+
+[63512-64630]
+An balaimamuso de y'i ye.
+Tu est notre soeur.
+
+[64739-65100]
+Uhun
+Oui
+
+[65159-68290]
+An b'a kalama e tun kɔnɔman don waatinin dɔ la i ye denw bila min?
+On savait que tu étais enceinte à un moment donné, où est ce que tu as laissé les enfants?
+
+[71127-73450]
+A k'u ma ko < n ye denw kalifa wara ma>
+Elle leur a dit que <j'ai confié les fils au lion>
+
+[73724-74724]
+ Uhun
+Oui
+
+[75038-76220]
+Olu ko ko aa ko a ɲɛna.
+Ils disent que Ah cela est bon.
+
+[76755-78300]
+Olu de taara kungo kɔnɔ.
+Ce sont eux qui sont allés dans la jungle.
+
+[80075-83130]
+Epi yɔrɔ yɔrɔ> a kɛra yɔrɔ min na.
+Là où s'est passé.
+
+[83202-83940]
+Uhun
+Oui
+
+[83967-85300]
+Bi n'i ye Jaara ye.
+Aujourd'hui si tu es Diarra.
+
+[85357-85590]
+Uhun
+Oui
+
+[85637-86637]
+N'i taara Segu.
+Si tu pars à Ségou.
+
+[87040-91770]
+N'i ko ko bɔn i b'a fɛ > Jaralakaw bangera wo min>  kuluwo min kɔnɔ k'u ka jira i la.
+Si tu veux qu'on te montre la grotte dans laquelle les Diarra sont nés.
+
+[91795-91960]
+Uhun
+Oui
+
+[91970-93140]
+U b'a f'i ye k'i ka taa busɛn.
+Ils vont te dire d'aller à Bousin.
+
+[94681-95970]
+Busɛn kelen-kelen min filɛ Segu.
+Boussin de Ségou.
+
+[95991-96600]
+Uhun
+Oui
+
+[96609-98480]
+N'i taara Busin u bɛ farawo jira i la.
+Si tu pars à Boussin ils vont te montrer la grotte.
+
+[98540-99540]
+A jiginna yen de.
+C'est là où elle a accouché.
+
+[99560-100560]
+Unn!
+Ounnn
+
+[100791-101791]
+Dɔnki
+Donc
+
+[103867-106380]
+Donso ninnu n'o ye Turamagan ninnu ye.
+Des chasseirs que sont les Touramagans.
+
+[106392-106760]
+Uhun
+Oui
+
+[106832-109270]
+U taara ka taa kala da.
+Ils sont allés tendre le piège.
+
+[109270-110270]
+Uhun
+Oui
+
+[110520-113410]
+Ka dabali > wara dabali, ka wara saraka. 
+D'envouter > envouter le lion, sacrifier le lion.
+
+[113620-114620]
+Wara ma foyi f'u ye.
+Le lion ne leur a rien dit.
+
+[115196-117720]
+U donna ka denw ɲini wara fɛ ka denw ta.
+Ils sont entrés demander les enfants au lion et les prendre.
+
+[117734-118560]
+Uhun
+Oui
+
+[118591-119250]
+Ka bɔ n'a ye.
+Sotir avec.
+
+[119461-121040]
+Wara tugul'u kɔ.
+Le lion les a suivis.
+
+[121067-121750]
+Uhun
+Oui
+
+[121967-123360]
+Fo kana se dugusoda la.
+Jusqu'au bord du village.
+
+[123472-124550]
+Waraw seginna ka taa kungo kɔnɔ.
+Les lions sont retounés dans la brousse.
+
+[124802-128400]
+U na na ni denw ye ka na denw lamɔ u fɛ yen.
+Ils ont amenés et éduqués les enfants chez eux.
+
+[128509-129130]
+Un!
+Oun!
+
+[129199-131020]
+ U ye mɔgɔnifin kan fɔ yen de.
+C'est là ils ont parlé le langage humain.
+
+[131970-134590]
+Anw ka so n'o ye Turamaganw fɛ yen ye.
+Chez nous les Touramagan.
+
+[134698-135150]
+            Hun!
+         Houn!
+
+[135204-136940]
+O y'a sɔrɔ sinakunya t'an ni ɲɔgɔn cɛ.
+En ce moment il n'y avait pas de cousinage entre nous.
+
+[137635-139360]
+Mɛ Sinakanya nacogo an bɛ s'a ma.
+Mais on va arriver à l'avènement du cousinage.
+
+[140739-141560]
+I y'a faamu?
+As tu compris?
+
+[141579-142010]
+Uhun
+Oui
+
+[142099-143580]
+Dɔnki o kɛlen
+Donc ceci étant fait.
+
+[143602-144602]
+Uhun
+Oui
+
+[145546-149870]
+Waraw denninnu lamɔna olu fɛ yen fo kana den ninnu kɔgɔ.
+Les enfants sont éduqués chez les lions jusqu'à ce qu'ils sont devenus grands.
+
+[151023-152610]
+K'o kɛ kom'i yɛrɛ bɛ cogo min na.
+Ils sont devenus comme toi.
+
+[152637-153400]
+Uhun
+Oui
+
+[153467-154620]
+K'u kɛ kamale ɲɛnamanw ye.
+Ils sont devenus des jolis gars.
+
+[155496-159080]
+Ɛ mɔgɔ min balola warasinji la.
+Celui qui est nouri du lait de lion.
+
+[160214-162790]
+Aa o kɔni n'i ye o ye e ba fɔ ko jinɛ don.
+Ah celui-la quand même, si tu le vois, tu vas dire que c'est un diable.
+
+[162811-163811]
+Uhun
+Oui
+
+[163903-165650]
+Bɔn o kɛlen sa.
+Cela étant fait.
+
+[166594-169160]
+Ee Turamagan ninnu k'u ma.
+Les Touramagan leur a dit.
+
+[169164-169710]
+Uhun
+Oui
+
+[169834-171340]
+Ne bɛ aw ba dɔn.
+Je connais votre mère.
+
+[173253-176220]
+Mɛ ni anw ko ko aw ba ye anw balimamuso ye.
+Si nous disons que votre mère est notre soeur.
+
+[176663-177670]
+O b'a fɔ ko nkalo don.
+Ils vont dire que c'est faux.
+
+[177693-180610]
+Ko nin den ɲuman ninnu ko an b'a fɛ k'o di an balimamuso ma.
+Que nous voulons donner ces beaux fils à notre soeur.
+
+[180610-181030]
+Uhun
+Oui
+
+[181095-181780]
+U tɛ sɔn.
+Ils ne vont pas l'accepter.
+
+[181957-183860]
+Mɛ aw yɛrɛ a ka taa ka taa aw ba ɲini.
+Allez-y chercher votre mère, vous mêmes.
+
+[184621-186050]
+U ye so di u ma k'u ka taa u ba ɲini.
+Ils leur ont donné le cheval pour aller chercher leur mère.
+
+[187793-189510]
+O de kama  a bɛ nsiiri na.
+C'est pour cela qu'on dit dans le conte.
+
+[189528-190170]
+Uhun
+Oui
+
+[190308-192600]
+Filaninw b'u ba ɲini kala dɛn-dɛn kalaba dɛn-dɛn
+Les jumaux cherchent leur mère kala dèn-dèn kalaba dèn-dèn.
+
+[192648-193648]
+Uhun
+Oui
+
+[194065-195630]
+U ye > u yalala ten.
+Ils ont > Ils se sont promenés comme ça.
+
+[195670-196670]
+Uhun
+Oui
+
+[196810-198950]
+Mɔgɔw ko nɔn ko ni ma se kuma caman na.
+Les gens disent  que ne vaut pas le coup d'en faire trop de bruits.
+
+[198970-199440]
+Uhun
+Oui
+
+[199530-201524]
+Ɛɛ ni tigi ma dɔn a la.
+Eh s'il n'y a pas connaissance.
+
+[201964-203280]
+A ye taa u di masakɛ ma.
+Allez-y les donner au roi.
+
+[203996-205140]
+Ninnu ye masakɛdenw de ye.
+Ce sont des princes.
+
+[206045-208570]
+U ye cogo, fanga min b'u la an'u bɛ cogo min na.
+Leur apparence, la force dont ils sont dotés et la manière dont ils sont.
+
+[208655-210254]
+Masakɛ denw de don, ye  taa o di masakɛ ma.
+Ce sont des princes, allez-y les donnerau roi.
+
+[210534-211534]
+U ko ko abada.
+Ils ont dit que jamais.
+
+[212503-213503]
+K'olu b'o ba ɲini.
+Qu'ils cherche leur mère.
+
+[214535-218870]
+Olu ba mana ye yɔrɔ o yɔrɔ hali n'o yera eee bugutufa kɔrɔ.
+Peu importe le lieu où ils vont retrouver leur mère, même si c'est la campagne.
+
+[218870-219210]
+Uhun
+Oui
+
+[219279-220680]
+Ko ko k'olu bɛ o de dɔn.
+Que c'est elle qui connaissent.
+
+[220715-221300]
+Uhun
+Oui
+
+[221810-224790]
+Aa u munumununa ka taa don masakɛbulon kɔnɔ.
+Ils sont allés dans le palais royal. 
+
+[226075-227058]
+Musow bɛɛ bɔra.
+Toutes les femmes sont sorties.
+
+[227058-227590]
+Uhun
+Oui
+
+[228026-230010]
+U b'i ɲinika < e y'an sɔrɔ cogo di?>
+Ils te demandent < comment tu nous as eus>
+
+[230105-231240]
+I y'an kɛ cogo di?
+Qu'est ce tu nous as faist?
+
+[232361-233750]
+An n'e faranna ɲɔgɔn na cogo di?
+Comment on s'est séparés.
+
+[233750-234210]
+Uhun
+Oui
+
+[235557-238570]
+Aa mɔgɔ tɛ se k'o jaabi n'u ba yɛrɛ tɛ o
+Ah c'est seule leur qui peut pondre à ces questions.
+
+[238570-238930]
+Uhun
+Oui
+
+[239023-240210]
+Mɛ bɛɛ bɛ ka i ta fɔ.
+Mais chacun dit pour lui.
+
+[240530-242370]
+Dɔ ko n y'aw  sɔrɔ sanke kɔrɔ.
+Certains disent <je vous accouchés sous la moustiquaire>
+
+[242390-242570]
+Uhun
+Oui
+
+[242640-243920]
+N y'aw sɔrɔ soju la.
+Je vous ai accouchés dans la chambre.
+
+[244032-246090]
+Dɔw ko a kɛra yan> bɛɛ bɛ k'i ta fɔ.
+Certains disent que ça s'est fait là> tout le monde dit pour lui.
+
+[246090-246580]
+Uhun
+Oui
+
+[246875-248590]
+U yɛrɛ wolo ba o  nana.
+Leur mère biologique même est arrivée.
+
+[248942-250920]
+O ko ko a bɛ kuma u y'o ɲɔni ka bin dugu ma.
+Quand elle a voulu parler ils l'ont acculée.
+
+[251225-252780]
+K'e bɛ se ka nin ɲɔgɔn  den  wolo wa?
+Que peux-tu donner naissance à de tel enfant?
+
+[252847-253290]
+hun!
+Houn!
+
+[253367-254860]
+Aa mɔgɔw ko ko nɔn ko a ye jɔ dɛɛ.
+Les disent non, que  patientez !.
+
+[256518-257940]
+Aw bɛɛ b'a kalama.
+Vous êtes tous ua courant.
+
+[258261-259261]
+Uhun
+Oui
+
+[259527-260518]
+Nin min filɛ nin ye>
+Celle que voici>
+
+[260518-261190]
+Uhun
+Oui
+
+[262601-264160]
+A kɔnɔman tun don waatinin dɔ la.
+Elle était enceinte à un moment donné.
+
+[264953-267360]
+Mɔgɔ si m'a ɲinika yalɔ i y'e denw bila min?
+Personne ne lui a demandé <où est ce tu as laissé tes enfants?
+
+[267510-268510]
+Uhun
+Oui
+
+[270135-272126]
+Aa dɔnki o ko k' a fana ka kuma.
+Alors, ils disent qu'elle parle aussi.
+
+[272126-272600]
+Uhun
+Oui
+
+[272749-273749]
+A nana.
+Elle est venue.
+
+[273979-275800]
+A ko ne y'aw wolo>
+Elle dit < je vous ai accouchés>
+
+[276690-277690]
+Busɛn
+A Boussin.
+
+[277747-278290]
+Uhun
+Oui
+
+[278370-280210]
+N y'aw wolo farawo kɔnɔ.
+Je vous ai accouchés dans la grotte.
+
+[280278-280730]
+Uhun
+Oui
+
+[280730-282100]
+N y'aw wolo wara tun bɛ yen.
+Je vous ai accouchés, il y avait le lion.
+
+[282100-282470]
+Uhun
+Oui
+
+[282588-286120]
+N y'aw wolo, jinɛw tun bɛ yen.
+Je vous ai accouchés, il y avait des djinns.
+
+[286170-287020]
+Uhun
+Oui
+
+[287392-290000]
+Jinɛ minnu don, bɔn mɔgɔ t'u ye.
+Ils des djinns  que personne ne peut voir.
+
+[290050-291970]
+Mɛ n'i y'a yɔrɔ ye i b'a dɔn ko jinɛman yɔrɔ don.
+Mais tu vois l'endroit, tu sauras qu'il y a des djinns.
+
+[292850-295400]
+Ko jinɛman yɔrɔ don mɛ y'aw kalifa wara ma.
+L'endroit est pour les djinns mais je vous ai confiés au lion.
+
+[295577-297770]
+N ko n'aw balola a balola wara ye.
+Je dis que si vous vivez vous le fairez pour le lion.
+
+[299382-301450]
+A wulila ka jɔ k'a bolo d'a disi kan.
+Elle s'est dressée debout et a mis la main sur la poitrine.
+
+[301501-302220]
+Uhun
+Oui
+
+[302558-304240]
+Ko wanasecari de.
+Inintelligible.
+
+[304366-305310]
+Hun!
+Houn!
+
+[305508-306508]
+Nin de fɔra nin don.
+Cest ceci qui a été dit ce jour là.
+
+[308271-309790]
+Dɔnki bɛɛ b'a kalama.
+Tout le monde est au courant .
+
+[309790-310110]
+Uhun
+Oui
+
+[310227-312070]
+A fɔra mɔgɔ fɔlɔ-fɔlɔ min ma Jaara.
+La première personne à être appeker Diarra.
+
+[312267-313267]
+O de ye Wanase ye.
+Oui
+
+[313685-314685]
+Unn!
+Ounn!
+
+[315471-318270]
+Dɔnki a y'i bolo d'a disi kan  wa na se cari.
+Donc elle a mis la main sur sa poitrine : wa na se tiari.
+
+[318416-318810]
+O kɔrɔ ye di?
+Que cela sinifie?
+
+[319426-320700]
+Wa o kɔrɔ ye ko yen.
+Wa signifie làbas.
+
+[320700-321110]
+Uhun
+Oui
+
+[321115-322115]
+Na o ye ne yɛrɛ ye.
+Na veut dire moi même.
+
+[322790-323790]
+Se o ye sɛbɛyali ye.
+Se, c'est la confirmation
+
+[325403-327450]
+Se kɔrɔ ye ko sɛbɛyali k'a sɛbɛya.
+Se signifie confirmation, de confirmer.
+
+[327928-330460]
+Mɛ bi an bɛ wolo fɔ wolo tɛ bamanankan ɲuman ye.
+Mais ont parle de Wolo, Wolo n'est bon en bamanankan.
+
+[331843-334520]
+Wolo tɛ bamanankan ɲuman ye maninkaw ko ko a moyila.
+Wolo n'est pas un bon terme en bamanankan, les malinké disent Moyi.
+
+[335137-336137]
+Moyi fana kɔrɔ ye di?
+Que signifie Moyi? 
+
+[336454-338980]
+Ko a tigiyala  o de moyi ye.
+Moyi signifie s'approprier.
+
+[341333-343850]
+Mɛ Segu ko ko a sɛbɛya la.
+Mais Ségou dit  que Sɛbɛya.
+
+[343910-346150]
+O de ye se ye dɔnki a bɛ se de ko fɔ.
+C'est ça Se, Donc ça parle de Se.
+
+[346335-347335]
+Cari.
+Tiari
+
+[347451-348451]
+Cariyiriki
+Inintelligible
+
+[348551-349551]
+Ko waraw fɛ yen.
+Que chez les lions.
+
+[349666-350760]
+Wara tɔgɔ de cari ye.
+C'est le lion qui se nomme Tiari.
+
+[350950-351820]
+Unn!
+Ounn!
+
+[352048-353048]
+Cari kɔrɔ ye di?
+Que signifie Tiari.
+
+[353378-355040]
+Ni waraba donna kuuru  kɔnɔ yan.
+Si le lion entre dans la cour ici.
+
+[355524-356524]
+Bɛɛ bɛ cari.
+Tout le monde se disperse.
+
+[356526-357526]
+Uhun
+Oui
+
+[357572-359110]
+Cari-cari bɛɛ bɛ cari.
+Tiari, tiari, tout le monde se disperse.
+
+[359583-361670]
+O cari-cari de ye waraba tɔgɔ ye.
+C'est ce Tiari-tiari qui est le nom du lion.
+
+[361774-363100]
+Pisiki o ye waraba jogo de ye.
+puisque c'est ça le comportement du lion.
+
+[363125-363930]
+Uhun
+Oui
+
+[364055-366480]
+Dɔnki o cari o de yɛlɛmana ka kɛ a jamu ye.
+C'est ce Tiari qui est devenu son nom.
+
+[367312-368910]
+Wanase o kɛra a tɔgɔ ye.
+Wanase est devenu sont prénom.
+
+[368973-369190]
+Uhun
+Oui
+
+[369220-372560]
+Dɔnki bɛɛ ko ko Wanase Cari, Wanase Cari.
+Donc tout le monde dit Wanase Tiari, Wanase Tiari;
+
+[373175-375430]
+O Wanase in a kaburu bɛ Busɛn bi.
+Il y'a aujourd'hui la tombe de Wanase à Boussin.
+
+[375935-378450]
+A wolola farawo min kɔnɔ.
+La grotte dans laquelle il est né.
+
+[378565-380580]
+A kaburu bɛ Busɛn an bɛ yɔrɔ min na bi.
+A l'heure où nous sommes sa tombe est à Boussin.
+
+[381145-382440]
+N'i taara u b'a jira e la.
+Si tu y vas ils vont te la montrer.
+
+[382915-384990]
+O de ye Wanase Cari ee Jaara ye.
+C'est lui wanase Tiari eh Diarra.
+
+[385388-387160]
+Dɔnki Jaara bonda bɛɛ bɔra ale de la.
+Toutes les familles Diarra viennent de lui.
+
+[387204-388204]
+Uhun
+Oui
+
+[388871-390450]
+Denw kɛlen k'u ba ye
+Les enfant ayant vu leur mère>
+
+[390478-390940]
+Uhun
+Oui 
+
+[391058-392640]
+O y' a sɔrɔ u ba ɲɛmanɔgɔsilen don
+Leur mère paraîssait ternie
+
+[392643-393400]
+      
+Oui 
+
+[393566-395090]
+Masakɛ ko ko nin gɛlɛyala dɛɛ
+Le roi dit que ça c'est compliqué.
+
+[396490-397490]
+Ko nin gɛlɛyala dɛɛ.
+Que ça c'est compliqué.
+
+[397584-398100]
+Uhun
+Oui
+
+[398143-399520]
+Ko jɔnniw nɔ ye nin ye ?
+Qui on fait cela?
+
+[400131-401131]
+Uhun
+Oui
+
+[401436-403200]
+Ko k'o mine ka na ka dɔ bɔ u kun dama na.
+Que de les amener pour les sanctionner.
+
+[403536-404330]
+Hun!
+Houn!
+
+[404813-407050]
+O y'a musojugu ninnu bɛɛ weele ka na.
+Ils ont amené toutes les méchantes épouses.
+
+[407141-408141]
+Uhun
+Oui 
+
+[408819-409819]
+Ko ka dɔ bɔ u kundama na.
+Que de les sanctionner.
+
+[410147-411147]
+Uhun
+Oui
+
+[411883-414666]
+U ba de tila ka deli kɛ, Jaalakaw ba.
+C'est leur mère, la mère des Diarra,  qui a fini par suppluer.
+
+[414666-415340]
+Uhun
+Oui
+
+[415376-416620]
+Ka deli kɛ k'o ka na kɛ.
+Supplier que cela n'ait pas lieu
+
+[416771-417490]
+Uhun
+Oui
+
+[417561-418561]
+K'u k'u to yen.
+Que de les laisser.
+
+[419796-420796]
+Masakɛ ka sɔrɔ k'u to yen.
+Alors le roi les a laissées.
+
+[420888-421888]
+Uhun
+Oui
+
+[422039-424500]
+O yɔrɔ bɛɛ o ye bamuso in minɛ k'a ko k'a jɛ.
+En même temps ils ont lavé proprement la mère.
+
+[424693-426450]
+Ka n'a sigi masakɛ ka >
+l'installer  >
+
+[426873-428190]
+Faamabulon kɛrɛ fɛ.
+Au près du palais royal.
+
+[429305-431500]
+K'a tɔgɔ yɛlɛmɛ k'a fɔ ma ko Kamisa.
+De la renommer Kamissa.
+
+[431807-432807]
+Hann!
+Hann!
+
+[433077-434640]
+  Anw fɛ yan Kamisa ye saba ye.
+Chez nous ici il y a trois Kamissa.
+
+[434805-435580]
+Uhun
+Oui
+
+[435655-436940]
+Ale de ye Kamisa fɔlɔ ye.
+C'est elle la première Kamissa.
+
+[437015-438460]
+Jaaralakaw ba Kamisa
+Kamissa, la mère des Diarra.
+
+[438475-439470]
+Kamisa kɔrɔ ye di?
+Que signifie Kamissa?
+
+[439470-440470]
+Uhun
+Oui
+
+[441211-442380]
+Ka ye éwenemaw ye.
+Ka signifie évènement.
+
+[442596-443860]
+Yɔrɔ dɔ la Ka bɛ kɛ >
+D'autre part Ka peut être >
+
+[444479-446260]
+Ee ee ewenema ye.
+un évèment.
+
+[446727-450120]
+sɛpurukɔ n ko e ma ko Ka yɔrɔ dɔ la a bɛ ewenema a bɛ ko kɔ fɔ.
+C'est pour cela que je t'ai dit que Ka désigne des évènements.
+
+[450831-453180]
+Mɛ Ka a bɛ jamana ko fɔ.
+Mais K a peut désigner un pays.
+
+[453388-455910]
+Mɛ n'a sera sɛbɛnnin ma a sɛbɛ cogo tɛ kelen ye.
+Mais en écriture c'est différent.
+
+[455980-456750]
+Uhun
+Oui
+
+[457085-460210]
+K a ye ewenema o ye k'a sɛbɛn Ka dikitema.
+Pour évèmement, Ka s'écrit directement.
+
+[460232-460870]
+Uhun
+Oui.
+
+[460922-463330]
+Mɛ ni jamana don a bɛ fɔ de ko Kam.
+Mais si c'est un pays ça se dit Kam.
+
+[464408-466990]
+Mɛ Kam an b'a bɛɛ yɛlɛmɛ ka kɛ Ka ye.
+Mais on transforme tout en Ka.
+
+[467010-468010]
+Uhun
+Oui
+
+[468114-468900]
+I y'a faamu?
+Tu suis?
+
+[469216-472880]
+Dɔnki a fɔra ko Ka- kalamusa.
+Donc il a été dit Ka- kalamoussa.
+
+[474090-476670]
+Dɔnki ko ko tora i ta la.
+Donc que tu as le choix.
+
+[476706-477706]
+Uhun
+Oui
+
+[478275-481222]
+Kamusa n ko e ma ko mu ye e yɛrɛ ye.
+Kamusa Je t'ai dit que Mou c'est signifie toi-même.
+
+[481222-481890]
+Uhun
+Oui
+
+[481942-485160]
+Ko jamu ko yarɔ e jɔni den ye Mu bɛ o kɔnɔ.
+Jamou signifie que tu es fils de qui? il y a Mou dedans.
+
+[485685-487340]
+Kamusa Mu bɛ o fana kɔnɔ.
+Dans Kamoussa il y a Mou également.
+
+[487496-489008]
+Dɔnki Mu ye e yɛrɛ de ye.
+Donc Mou c'est toi-même.
+
+[489008-489440]
+Uhun
+Oui
+
+[489440-490920]
+Ko ko tora i ta la.
+Que tu as le choix.
+
+[491031-492460]
+Sa kɔrɔ ye ko kotontala.
+Sa signifie avoir le choix.
+
+[492847-495710]
+N'i ye Sa mɛn kuma o kuma kɔnɔ o ye kotontala ye
+Tout mot qui contient Sa veut dire avoir le choix.
+
+[495786-497620]
+I ye ko to mɔgɔ ta la u biyɛn mɔgɔ ye ko to i ta la.
+Tu laisses le choix quelqu'un ou quelqu'un te laisse le choix.
+
+[497739-498530]
+Uhun
+Oui
+
+[498530-500090]
+Mɛ taalen ɲɛ e bɛ n hakili jigi.
+Mais en avançant tu me rappelles,
+
+[500529-502940]
+N bɛ don sa kɔnɔ sa bɛ kumanden minnu kɔnɔ n b'a bɛɛ fɔ i ye.
+Je vais développer Sa je vais te dire tous les qui comportent Sa.
+
+[503415-504415]
+Uhun
+Oui
+
+[505446-507810]
+Dɔnki muso tɔgɔ kɛra Kamusa ye.
+La femme est nommée Kamoussa.
+
+[508176-509560]
+ O de Jaaralakaw ba Kamusa ye.
+C'est elle Kamoussa, la mère des Diarra.
+
+[510894-516300]
+Dɔnki a ka sɔrɔ ka ci bila donso ninnu ma k'o ka na.
+Alors il a fait appel aux chasseurs de venir.
+
+[516521-518100]
+O nana n'o ye Turamaganw ye.
+Ils sont venus, eux les Touramagans.
+
+[519592-521490]
+O y'a sɔrɔ Tarawele fɔli da la a tɛ yen.
+A l'époque, le nom Troré n'existait pas.
+
+[521504-522000]
+Uhun
+Oui
+
+[522032-523032]
+Mɛ turamagan tun bɛ yen.
+Mais il y avait Touramagan.
+
+[523259-525410]
+Tarawele bɔra Turamagan na, Danbɛlɛ bɔra Turamagan na.
+Traoré et Dembélé sont issus de Touramagan.
+
+[525793-527540]
+Mɛ u bɛ n'a na cogo don.
+Mais chacun son avènement.
+
+[527873-529290]
+N bɛ se a bɛɛ ma.
+Je vais toucher à tout.
+
+[529476-532527]
+Ni ɛri ma ne ta n b'a bɛ kɔrɔ fɔ kelen-kelen a nacogo n b'a bɛɛ fɔ.
+Si l'heure ne me surprend pas je vais donner le sens et l'avènement de chacun.
+
+[532527-533527]
+Uhun
+Oui
+
+[533807-535760]
+A ye ci bila Jaaralakaw ma.
+Il a fait appel aux Diarra.
+
+[536074-538380]
+Ee ee ee Turamaganw ma.
+Ee ee ee aux Touramagan.
+
+[538383-539170]
+Uhun
+Oui
+
+[539188-540800]
+A ko a ye baara min kɛ a ɲɛna.
+Il que <Le travail que vous avez fait est bon>
+
+[541622-543370]
+Ne yɛrɛ ye muso furu aw ka kabila kɔnɔ.
+Moi même j'ai marié une femme de chez vous,
+
+[543415-544415]
+Uhun
+Oui
+
+[544425-546850]
+O ka tila kan nin den dakabana ninnu wolo ne ye.
+Qui a fini par donner naissance à ces admirables enfants.
+
+[547222-549040]
+Nin aw tɛ fana den ninnu tun tɛ balo.
+N'eût était vous, ces enfants ne seront pas sauvés.
+
+[549865-551690]
+Dɔnki a ko tɛ to tan.
+ça ne va s'arrêter là.
+
+[551705-552170]
+Uhun
+Oui
+
+[552170-553710]
+A bɛ don sinakunya kɔnɔ.
+Il va être intégré dans le cousinage.
+
+[553727-554727]
+Uhun
+Oui
+
+[555135-557980]
+A ka sɔrɔ ka misiw faga ka bɛɛ weele.
+Alors il a égorgé des boeufs et appelé tout le monde.
+
+[558313-559870]
+Bɛ nana i bolo da misininnu kan.
+Tout le monde est venu poser les mains sur ces boeufs.
+
+[560063-561690]
+A misi ninnu faga misi caman.
+Il a tué ces boeufs , très nombreux.
+
+[561796-562510]
+Hunn!
+Hounn!
+
+[562576-565280]
+Kabila ni dugu bɛɛ weelela ka na bɛɛ y'a sogo ɲimi.
+Tous les quartiers et village sont appelés tout le monde a  mangé la viande.
+
+[566380-569390]
+A ka sɔrɔ ka don sinakunya la ani Jaaralakaw cɛ.
+C'est ainsi que c'est intégré dans le cousinage entre les Diarra et nous.
+
+[569521-570800]
+Uhun
+Oui
+
+[571365-574560]
+Sinakunya nacogo filɛ an ni Jaarakaw cɛ sinakunya donna nin don de.
+Voici comment le cousinage est arrivé entre les Diarra et nous, c'est ce jour_la que le Cousinage est arrivé.
+
+[574560-575560]
+Uhun
+Oui
+
+[575724-576724]
+I y'a faamu?
+Tu comprends?
+
+[577246-578550]
+Sinakunya n b'a kɔrɔ f'i ye.
+Je te donne la signification du cousinage.
+
+[578958-581840]
+Si - na - kun - ya
+Si - na - kun - ya
+
+[581908-582908]
+Kumaden naani.
+Quatre morphèmes.
+
+[583972-584972]
+Si kɔrɔ ye di?
+Que signifie Si?
+
+[585758-587390]
+N'i ye si mɛn kuma o kuma kɔnɔ.
+Quand tu entends si dans tel ou tel mots.
+
+[587390-587640]
+Uhun
+Oui
+
+[587708-588708]
+A bɛ kalekan de ko fɔ.
+Il désigne le sement.
+
+[590213-592050]
+Ko kalekan de bɛ aw ni ɲɔgɔn cɛ.
+Qu'il ya le serment entre vous.
+
+[593315-594657]
+Na min b'a kan>
+Na qui est dedans>
+
+[594657-595160]
+Uhun
+Oui
+
+[595207-596207]
+Na ye jalaki ye.
+Na veut dire l' accusation
+
+[596458-598670]
+Ni jalakiko ye a dɔra fɛn o fɛn sɔrɔ>
+Si quelqu'un d'entre vous être accusé>
+
+[598673-599510]
+Uhun
+Oui
+
+[599583-601130]
+Aw ka sɔn jalaki ma
+Accepter l'accusation.
+
+[601602-605780]
+A bɛ e n' min cɛ, e fana k'a mako to pisik'a sɔnna a ka jalaki ma.
+Toi aussi tu dois pardonner puisqu'il a reconnu son tort.
+
+[605780-606624]
+Uhun
+Oui.
+

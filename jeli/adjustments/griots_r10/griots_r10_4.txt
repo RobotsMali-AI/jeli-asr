@@ -1,0 +1,555 @@
+[25-2775]
+Bi hinɛ banna.
+Il n’y a plus de pitié aujourd'hui.
+
+[2875-8900]
+NI kɛlɛ kɛra furuɲɔgɔnw ni ɲɔgɔn cɛ, a' kana fiɲɛ ci dɛ!
+S'il y a une mésentente entre les conjoints, ne cassez pas le canari.
+
+[8975-12375]
+A ' ye fiɲɛ kelen to yen.
+Laissez un canari.
+
+[12425-16300]
+I mana i ka minɛn cɛ cogo o cogo, fiɲɛ to yen.
+Dans n'importe quelle façon que tu prends tes affaires, laisse le canari.
+
+[16400-21775]
+I mana i ka minɛn ta cogo ocogo, kana so furan k'a ɲaman labɔ.
+Même si tu prends toutes tes affaires, ne balayez pas la chambre et jetez les ordures dehors.
+
+[21850-24275]
+O to yen.
+Laisse-le.
+
+[24450-26875]
+I kaminɛnw ta i ka so ɲaman to a kɔnɔ.
+Prends tes affaires et laisse les ordures dans la maison.
+
+[27000-29750]
+Kana furalan bila sokɔnɔna na k'a furan.
+Ne balaye pas la maison.
+
+[29850-32225]
+Kana bɔ n'i ka fiɲe ye ka fiɲɛ ci.
+N'emmène pas le canari dehors pour le casser.
+
+[32300-34900]
+I dusu mana bɔ cogo o cogo kana fiɲɛ ci.
+Quelle que soit ta colère, ne casse pas le canari.
+
+[35025-36875]
+Fiɲɛ ye hinɛ de ye.
+Le canari montre la pitié.
+
+[37000-38325]
+Furalan ye makari de ye.
+Le balais montre la pitié.
+
+[42250-46950]
+AN ka segin kɔrɔlen ma.
+Revenons aux anciennes pratiques.
+
+[47075-54050]
+Ne bɛ min fɔ, muso kana denw kɔɲɔbɔ ni kolon t'a la.
+Ce que je veux, c'est que les femmes ne donnent pas aux enfants leurs affaires de noces sans le mortier.
+
+[54175-57425]
+U kana denw kɔɲɔbɔ ni fiɲɛ t'a la.
+Elles doivent mettre le canari dans les affaires de la mariée.
+
+[57475-61100]
+U kana denw kɔɲɔbɔ ni furalan t'a  la.
+Elles doivent mettre le balais dans les affaires de la mariée.
+
+[61200-65350]
+U kana denw kɔɲɔbɔ ni kurun t'a la.
+Elles doivent mettre dans les affaire de leurs fille un "kurun"
+
+[65400-81925]
+Fɔlo n'i bɛ kɔɲɔbɔ, i bangebagaw bɛ gari jɛman don miseli la k'a bila i ka kɔjɔminɛn na.
+Auparavant, quand on partait en mariage, les parents de la jeune fille attachaient un filet blanc sur l'aiguille et me mettaient dans les affaires de la mariée.
+
+[82000-86200]
+Miseli kɔrɔ ye n'i taara i ka kalali kɛ.
+La signification de l'aiguille est que si tu pars, tu dois coudre.
+
+[86375-89125]
+I ka balimamaw kala.
+Tu dois coudre les frères.
+
+[90875-92225]
+I ka furu kala.
+Tu dois coudre le mariage.
+
+[92350-94175]
+I k'i cɛ n'a jɛɲɔgɔnw kala.
+Tu dois coudre ton mari et ses collaborateurs.
+
+[94275-99575]
+Den musomannnin caman bɛ taa furuso la bi, u tɛ miseli dɔn.
+Beaucoup de filles partent en mariage aujourd'hui mais ne connaissent pas l'aiguille.
+
+[105150-109600]
+Musow, an ka segin kɔrɔlen ma.
+Revenons à nos anciennes pratiques, les femmes.
+
+[109675-112550]
+AN yɛrɛ marala cogoya min na an k'an denw ke ten.
+Transmettons l'éducation qu'on a reçu à nos enfants.
+
+[112625-115775]
+Anw denw ka di an ye.
+Nous aimons nos enfants.
+
+[115900-118700]
+AN denw diyara an ye.
+Nous avons aimé nos enfants.
+
+[118800-121700]
+Anw denw diyara an ye dɛ.
+Nous avons trop aimé nos enfants.
+
+[121750-126425]
+Bi, n'i magara min ta k'i b'o bugɔ, o b'i weele fanga.
+Maintenant, quand tu touches à celui de quelqu'un, il t'appelle en justice.
+
+[126500-134075]
+Fa kelen ba kelen denw te se ka mara ɲɛ jira ɲɔgɔn na tugun.
+Les frères et sœurs de sang ne peuvent plus s'éduquer.
+
+[134175-140250]
+Fa kelen ba kelen denw bolo te don minɛn kelen kɔnɔ tugun.
+Les frères et sœurs de sang ne mangent plus dans la même tasse.
+
+[140300-145150]
+Fa kelen ba kelen denw si tɛ daga kelen na tugun.
+Les frères et sœurs de sang préparent tout pour soi-même.
+
+[145325-149225]
+Mun y'a kɛ, denw.
+C'est à cause des enfants.
+
+[149375-155000]
+N'i donna du caman kɔnɔ, i ba sɔrɔ badenmaw ka ga faralen bɛ ka bɔ ɲɔgɔn na.
+Quand tu entres dans beaucoup de familles, tu trouves que les frères ont tous leurs foyers pour cuisiner.
+
+[155100-157300]
+A sababu ye denw ni furumuso ye.
+C'est à cause de l'épouse et des enfants.
+
+[157400-160900]
+Munna an te ɲɛ musow?
+Pourquoi nous ne sommes pas bonnes les femmes ?
+
+[161000-164850]
+AN ka ɲa.
+Soyons bonnes.
+
+[164925-167650]
+A bɛ fɔ muso de ma k'i ka sabali.
+An demande à la femme le calme.
+
+[167775-171925]
+Muso tɔgɔ de ye sabalibaga.
+La femme personne patiente.
+
+[172000-174700]
+N te kuma ni muɲ ye dɛ.
+Je ne parle même pas de la résignation.
+
+[174825-182725]
+Muɲu ye fɛn min ye, n be se ka n ta sara karisa la.
+La résignation est que je peux me venger d'untel.
+
+[182825-185325]
+Karisa y' a ke n n be n ta sara.
+Untel m'a fait, je me venge.
+
+[185400-186825]
+Ne kan tɛ o ma.
+Je ne parle pas de cela.
+
+[186925-192025]
+A se bɛ e ye, e y'a to Ala kma kira kama.
+Tu as le pouvoir, mais tu es lassé à cause de Dieu et du prophète.
+
+[192125-196650]
+N be don dɔ makɔnɔ, o de ye sabali ye.
+J'attends un jour, c'est ça la patience.
+
+[196750-199750]
+An ka sabali.
+Soyons calmes.
+
+[199825-203900]
+Ni musow sabalila dɔrɔn, denw be lafiya furuyɔrɔ la.
+Quand les femmes sont calmes, les enfants seront heureux dans leur mariage.
+
+[204000-209100]
+Ni muso muɲuna dɔrɔn, denw bɛ lafiya tugan na.
+Quand les femmes se rassérènent, les enfants ne souffriront pas durant l'aventure.
+
+[209200-215175]
+Ni muso sabalila dɔrɔn, jamana in bɛ ɲɛmajɔ.
+Quand les femmes se raseront, le pays sera stable.
+
+[215400-219450]
+Anw bɛ Ala deli sabali de la.
+Nous prions Dieu pour le calme.
+
+[219550-223125]
+N be segin tuguni.
+Je reviens encore.
+
+[223225-226275]
+N bɛ na denmisɛnninw ma.
+Je viens aux enfants.
+
+[226350-231875]
+Bi, anw be wuli ka tobili ke ka denw to sunɔgɔ la.
+Aujourd'hui, on cuisine en laissant les enfants dormir.
+
+[231975-237200]
+Anw bɛ wuli ka fiw ko ka denw to sunɔgɔ la.
+On fait la lessive en laissant les enfants dormir.
+
+[237300-242425]
+An bɛ taa sugu la ka taa na san ka na tobili kɛ ka denw to sunɔgɔ.
+On part au marché acheter les condiments pour venir cuisiner, laissant les enfants dormir.
+
+[242500-246325]
+An b'a fɔ k'u bɛ sɛgɛn.
+On dit qu'ils seront épuisés.
+
+[246400-248425]
+K'u bɛ taa kalanyɔrɔ la.
+Qu'ils vont à l'école.
+
+[248550-250575]
+U bɛ sɛgɛn.
+Ils seront fatigués.
+
+[250675-253325]
+U b'u ka gafew kalan.
+Ils lisent leurs livres.
+
+[253475-258825]
+AN y'an to kalan na ka  folo.
+Nous avons pilé le mil étant à l'école.
+
+[258925-262300]
+K'an to kalan na ka tobili kɛ.
+On a cuisiné en étant à l'école.
+
+[262400-269475]
+K'an to kalan na k'an baw dɛme baaraw la.
+Nous avons aidé nos mère dans les travaux étant à l'école.
+
+[269575-271625]
+Munna anw te se k'an denw kɛ o ye?
+Pourquoi ne pouvons-nous pas faire de nos enfants pareil ?
+
+[271675-273650]
+A ye mun tiɲɛ an ye?
+Qu'est-ce que ça gâche pour nous ?
+
+[273750-275575]
+A ma foyi tiɲɛ anw ye.
+Ça n'a rien gâché pour nous.
+
+[275700-277875]
+Munna anw fana te se k'an denw bila o ɲɔgɔnna na?
+Pourquoi ne pouvons-nous pas donner ces genres de choses à nos enfants ?
+
+[277975-284050]
+Furu camaan be dabila den musonman tɛ se tobili la kama.
+Beaucoup de couples se séparent parce que la femme ne sait pas cuisiner.
+
+[289000-294475]
+E cɛjmannin yera k'e furu.
+On t'a vu étant très jeune et s'est marié avec toi.
+
+[294600-297950]
+K'e ka wuli ka mɔni tobi.
+Que te réveille pour préparer la bouillie.
+
+[298025-300375]
+Mugu bɛ tɛntɛn  cogoya min na e tɛ se.
+Tu ne sais pas comment tamiser la poudre.
+
+[300475-302175]
+E t'a ɲɛdɔn.
+Tu ne sais pas.
+
+[302275-305125]
+Mɔni be yɛlɛkɛ cogoya min na e t'a ɲɛdɔn.
+Tu ne sais pas comment préparer la bouillie.
+
+[305250-314550]
+Ni ALa ye mɔgɔ min bɛn cɛ ba ma min ka ko ka nɔgɔ, o bɛ gɛrɛ i la.
+Quand tu tombes sur une belle-mère facile, elle vient à tes côtés.
+
+[314650-320950]
+Ni min ko ne ye n ta kɛ, n tɛ se ka mɔgɔ wɛrɛ ta kɛ hali ni furu sara.
+Mais celle qui dit que j'ai fait le mien, je ne peux pas faire pour quelqu'un d'autre même si le divorce arrive.
+
+[321050-327475]
+N'a ya denkɛ lasigi, i nana muso min di yan n tɛ tobili kɛ a di a ma.
+Si elle dit à son fils, je ne vais pas cuisiner pour ta femme.
+
+[327550-329850]
+I n'i muso k'aw tagayɔrɔ ɲini.
+Cherche un endroit pour toi et ta femme.
+
+[329925-332850]
+Furu dabilala wa furu ma dabila?
+Le mariage est fini ou non ?
+
+[333000-335425]
+Musow an ka sabali.
+Soyons calme les femmes.
+
+[335550-338575]
+An k'an kɔnɔnajɛya an denw ye.
+Soyons honnêtes avec nos enfants.
+
+[342400-348875]
+N'an yan kɔnɔnajɛya an denw ye, an denw sigicogo be ɲɛ, an yɛrɛw bɛ lafiya, an cɛw bɛ lafiya.
+Quand on est honnête avec nos enfant, ils auront une bonne place, nous même aurons le repos et nos maris l'auront aussi.
+
+[348975-356825]
+E den taara furu la, e ma lafiya, e den ma lafiya, chaque une autre parole.
+Quand ton enfant part chez son mari, tu n'es pas en, ta fille ne l'es pas, et son père aussi.
+
+[356925-358925]
+Don o don kuma de b€ na fɔ a' ɲɛna.
+Chaque jour, on vous dit une nouvelle parole.
+
+[359000-360775]
+A b'i tɔɔrɔ wa a t'i tɔɔrɔ?
+Cela te dérange ou non ?
+
+[360925-362800]
+A b'i tɔrɔrɔ.
+Ça te dérange.
+
+[362925-365900]
+Don o don n den sigicogo man ɲi.
+Chaque jour, mon enfant est dans le bonheur.
+
+[366050-368325]
+Don o don n den tɔɔrɔlen don.
+Chaque jour, mon enfant souffre.
+
+[368425-370300]
+Mun y'a se den ma?
+Pourquoi est-il arrivé à l'enfant ?
+
+[370425-371550]
+I yɛrɛ ka mara.
+Ton éducation.
+
+[371675-375050]
+E ma den mara ka ɲɛ.
+Tu n'as pas bien éduqué ton enfant.
+
+[375125-379900]
+Ne segin k'o fɔ tuguni.
+Je le redis encore.
+
+[379975-389300]
+AN bɛ minɛnba minnu di an denw ma n'u bɛ taa furu la, an ka dɔ bɔ o la,  musow.
+L'immense affaire qu'on donne aux enfants en partant en mariage, diminue cela les femmes.
+
+[389425-392875]
+Minen ye jumɛn ye?
+Quelle est l'affaire ?
+
+[392975-395325]
+O ye mara de ye.
+C'est l'éducation.
+
+[395450-400625]
+Mara in de ye minɛn ye k'a di den ma.
+L'éducation est l'affaire qu'on donne à l'enfant.
+
+[400700-411225]
+Ni den marala faso kɔnɔ, hali n'a ni galama akelen de taara furuso kɔnɔ, o y'a danbe ye.
+Quand l'enfant est bien éduqué par ses parents, même si elle amène une louche seulement chez son mari, c'est sa dignité.
+
+[411300-415350]
+AN banna k'an denw mara.
+On a refusé d'éduquer nos enfants.
+
+[415425-418125]
+Anw dɛsɛra an denw  na k'u mara.
+On n'a pas pu éduquer mon enfant.
+
+[418200-422625]
+Ni min ka kɔɲɔ bɛ kɛ don min na an bɛ sanu bia a kun.
+Le jour de son mariage, on lui donne de l'or.
+
+[422750-427050]
+AN bɛ kɛsu ɲɛ tan bila a kun.
+On lui donne dix caisses.
+
+[427175-429400]
+AN bɛ kɛsu duuru bila a kun.
+On lui donne cinq caisses.
+
+[429525-441300]
+N'a taara n'o kɛsu duuru ni tan ye, n'a ma se ka daraka, tilelafana, surafana tobi k'a di a buranmuso, furu danbe banna dpi yen.
+Quand elle part avec ces 15 caisses, et qu'elle n'arrive pas à les préparer pour sa belle-mère, le mariage est valorisé.
+
+[441525-444200]
+Minɛn dawula banna depi yen.
+Les affaires ont perdu leur valeur depuis là-bas.
+
+[444300-447725]
+Dawula tɛ minɛn na.
+Une affaire n'a pas de valeur.
+
+[447875-449875]
+Dawula be furu danbe de la.
+C'est le mariage qui a de la valeur.
+
+[451975-453700]
+Dawula bɛ mara de la.
+L'éducation a de la valeur.
+
+[453850-461900]
+N'i marala, i fa bɛ lafiya, i ba bɛ lafiya, i yɛrɛ bɛ lafiya.
+Quand tu es éduqué, ton père sera en paix, ta mère sera en paix, et toi-même sera en paix.
+
+[461950-465650]
+Nin baara in bɛɛ lajɛlen ye ba ye.
+Tous ces travaux se basent sur la mère.
+
+[465725-469525]
+N tila tuguni k'a fɔ ko cɛw ka musow dɛmɛ mara la.
+Je dis encore aux hommes d'aider les femmes à éduquer.
+
+[469625-473900]
+Cɛw ka musow dɛmɛ mara la an bɛ tile min n akomi sisan.
+Que les hommes aident les femmes à éduquer.
+
+[474100-480000]
+Den tila bɛɛ bɛ siran fa ɲɛ ka tɛmɛ ba kan.
+La plupart des enfants craignent leur père plutôt que leur mère.
+
+[480200-488375]
+Den caman bɛ kojugu kɛ k'a fɔ ko n fa jɔlen be n kɔ kɔrɔ.
+Beaucoup d'enfants font des bêtises en disant que leurs pères les soutiennent.
+
+[488475-492525]
+Ni n ba ko n ma nin, n fa b'a fɔ k'a to yen.
+Quand ma mère me dit cela, mon père me dit de la laisser.
+
+[492650-499050]
+O ye den caman ja farinya bangebaga musoman ɲɛ.
+C'est ce qui a fait que beaucoup d'enfants n'ont pas peur de leurs mères.
+
+[499100-503000]
+O ye bangebaga cɛmanw ta yɔrɔ ye.
+C'est le cas des pères.
+
+[503100-508000]
+Bangebaga musoman b'a dɔn den bɛ siran fa de ɲɛ.
+La mère sait que l'enfant a peur de son père.
+
+[508100-511300]
+A ye ko kolon kɛ.
+Il a fait la bêtise.
+
+[511350-512900]
+A tɛ siran e ɲɛ.
+Il n'a pas peur de toi.
+
+[513000-516225]
+A bɛ siran fa min ɲɛ munna i t'a fɔ fa ye?
+Pourquoi ne dis-tu pas au père ?
+
+[523150-529525]
+N'i y'i denw kɔdogo, n'a kɛra tiɲɛni ye don min na e de don, pariseke fa yɛrɛ b'i sama ka bɔ a la.
+Quand caches les fait de tes enfants, si ça devient grave un jour, c'est toi seul, car le va se retirer.
+
+[529625-533725]
+Ni den tiɲɛna fa b'a fɔ k'ale ta tɛ.
+Quand l'enfant est gâté, le père dit qu'il n'est pas le sien.
+
+[533800-537350]
+A b'e de nɛni ka don a la.
+Il insulte toi avec lui.
+
+[537475-541550]
+Yanni a ka se o ma, an ka mara kɛ.
+Avant que ça n'arrive à ce niveau, faisons l'éducation.
+
+[541650-544075]
+An ka segin an danbe kɔrɔ ma.
+Revenons à notre culture.
+
+[544125-547200]
+AN ka segin ladamu kɔrɔ ma.
+Revenons à l'ancienne éducation.
+
+[547300-549650]
+An ka segin tabiya kɔrɔ ma.
+Revenons à notre culture.
+
+[549750-552475]
+mara man gɛlɛn o.
+L'éducation n'est pas difficile.
+
+[557025-560225]
+Den ye bɔgɔ kɛnɛ de ye.
+L'enfant est le banco frais.
+
+[560350-569500]
+Den fitinin be to ka mɔgɔ nɛni tulonke la.
+L'enfant insulte les gens en les amusant.
+
+[569550-570925]
+E yɛlɛla.
+Tu as ri.
+
+[571025-573900]
+I y'a diya a bolo.
+Tu l'as encouragé à le faire.
+
+[573950-575925]
+O to dɔn kojugu ye dɛ.
+Il ne saura pas que c'est quelque chose de grave.
+
+[576050-579725]
+Den fitinin ye mɔgɔ bugɔ.
+L'enfant a frappé une personne.
+
+[579825-582425]
+E m'a gosi ka bɔ a bolo.
+Tu ne lui as pas interdit de le faire.
+
+[582475-583875]
+E yɛlɛla.
+Tu as ri.
+
+[584000-586025]
+Den t'o dɔn kojugu ye dɛ.
+L'enfant ne saura pas que c'est une mauvaise chose.
+
+[586100-588475]
+Den ye tiɲɛni kɛ.
+L'enfant a fait un dégât.
+
+[588575-590600]
+E m'a gosi ka bɛ a bolo.
+Tu ne l'as pas interdit de faire.
+
+[590700-595000]
+Siɲɛ wɛrɛ den b'a kɛ, a b'a fɔ ko n delila ka nin ke ko fɛn ma bɔ la.
+L'enfant le fera une autre fois en disant qu'il a déjà fait sans problème.
+
+[595175-602350]
+Den o den mana kɔrɔbaya n'o ye, a den bɛ kɛ kojugukɛla ye.
+Tout enfant qui grandit comme ça sera un malfaiteur.

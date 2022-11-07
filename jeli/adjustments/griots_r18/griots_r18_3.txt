@@ -1,0 +1,480 @@
+[530-1250]
+I y'a famu ?
+Tu comprends ?
+
+[2480-3630]
+nbɛ min fɔ diɲa ye
+Ce que je dis au monde
+
+[4580-9510]
+N'i ya mɛ balimaya, an ka ɲɔgɔ minɛ o de ye balimaya ye Lamini
+Quand on parle de fraternité, il s'agit de l'entente.
+
+[9870-10870]
+Balimaya kadi
+C'est doux la fraternité.
+
+[11670-13290]
+N'o tɛ ne b'o fɔ mɔgɔw ye
+Je le dis aux gens.
+
+[14320-18590]
+Ne ye sununkun bɛ ye diɲa kɔnɔ, n'ma balimaya lafili sununkun  ye .
+ J'ai vu toute sorte poubelle, mais pas une où on dépose ses frères.
+
+[18840-19730]
+I y'a famu ?
+Tu comprends ?
+
+[20900-23000]
+O de kɔsɔ balimaya kadi
+C'est pourquoi la fraternité est doux
+
+[24160-26880]
+Ala ye diɲa bɛɛ di mɔgɔw ma.
+Dieu a donné tout aux hommes.
+
+[27040-38730]
+Ka sanu di mɔgɔw ma, ka wari di mɔgɔw ma, ka mobili di mɔgɔw ma, ka kɔrɔ di mɔgɔw ma, ka fa di mɔgɔw ma, ka den di mɔgɔw ma nga olu si tɛ Ala bolo
+Il leur a donné de l'or, de l'argent, des voitures, des frères, des pères, des fils, mais lui-même n'a rien de tout cela.
+
+[40100-40830]
+I y'a famu ?
+Tu comprends ?
+
+[42050-44610]
+Nga Ala ye delili kɔni kɛ a yɛrɛ ka .
+Mais il s'est quand même donné le privilège d'être adoré.
+
+[46480-47290]
+I y'a famu ?
+Tu comprends ?
+
+[49490-58990]
+N'o tɛ muso tɛ Ala bolo, aka sanu o ma, den t'a bolo, dɔgɔ t'a bolo, fa t'a bolo, ba t'a bolo.
+Dieu n'a ni femme, ni fils, ni frère, ni père, ni mère, il est pur pour cela.
+
+[59530-62740]
+Fɛn kelen min be Ala la dija kɔnɔ o de ye teri ye.
+Mais il a d'amis au monde ci-bas
+
+[63840-68020]
+Ala teri de ye Sehibani Mamadu ye [ yarasurulayi mamadu]
+Le prophète Mohammed est son ami' PSL)
+
+[69800-73570]
+O de ye Ala teri ye, fɛn bɛ dara ale de kanun kama.
+Il est l'ami de Dieu et tout fut créé par amour pour lui.
+
+[75461-76461]
+Ola nin bɔra yen,
+Ensuite,
+
+[78140-82900]
+Nbɛ nin dɔn Sumaworo kola, nbɛse ka dɔ fɔ ola.
+Je vais parler du peu que je connais sur Soumaworo.
+
+[85770-87120]
+Kuma tɛ mɔgɔ la donbɛ
+On ne parle pas tous les jours
+
+[87920-90050]
+Ne ye o de fɔ iye, ne ye kalanden de ye
+Je suis un apprenti, moi.
+
+[90810-91640]
+I y'a famu ?
+Tu comprends ?
+
+[92890-96360]
+(bon) N'i y'i ɲɛmɔgɔw buɲa, i kɔmɔgɔw b'i boɲa
+Qui respecte ses aînés, sera respecté par ses cadets.
+
+[97440-106130]
+Mandekaw de ko, mande fɛ duman dumu, o maɲi mɔgɔ ma, fɛ gooma  dumu de kaɲi mɔgɔ ma.
+Cela fait allusion à la souffrance, à la patience d'un apprenant avant d'obtenir ce dont il a besoin.
+
+[108050-109000]
+(est_ce que) I y'a famu ?
+Tu comprends ?
+
+[110760-116470]
+(Bon) N'i y'a mɛ Sumaworo, Sumaworo bɔyɔrɔ ka jan.
+Parlant de Soumaworo, cela remonte de très loin.
+
+[117580-118170]
+I y'a famu ?
+Tu comprends ?
+
+[119870-121380]
+U bɔra nabila dawuda de la
+Ils sont descendants de [nabili Daouda]
+
+[124160-124980]
+I y'a kuma famu ?
+Tu comprends ?
+
+[125540-132490]
+(Bon) o nabila Dawuda, n'i y'a mɛ numu numu, ko nɛgɛ ye numuw taye a bɛɛ bɔra nabila Dawuda de la
+Les forgerons prennent leur souses de là, c'est-à-dire cela a commencé par Daouda (David)
+
+[133870-136540]
+Nɛge jii de jiginna a kan [kayibara jin kn]
+ Incompréhension (alternance) difficulté de traduire en français.
+
+[137920-138670]
+I y'a famu ?
+Tu comprends ?
+
+[141150-146820]
+Nɛgɛ ji jiginna a min kan,  ale dencɛ fɔlɔ de ye  kanɛgɛ Fane ye
+[incompréhension
+
+[147990-148930]
+I y'a famu ?
+Tu comprends ?
+
+[152860-156110]
+Kanɛgɛ Fane  den de ye [ kankura ... ye]
+[Incompréhension]
+
+[157500-158640]
+Lamini i tolo bɛ n'na ?
+Tu m'entends Lamine ?
+
+[160280-163670]
+[ Kankura... ] den de ye balajan kante ye
+Baladian Kanté est le fils de… [Kankoura...]
+
+[164370-167800]
+Balajan kante den de ye Soorijan kante ye.
+Soridian Kanté est le fils de Baladian Kanté.
+
+[168613-177110]
+Ale de ye muso saba furu, kaya Ture, Sansɔn Ture, Nabi Ture wa u bɛɛ ye fa kelen ba kelen.
+ C'est Soridian Kanté qui a épousé Kaya Touré, Sanson Touré, Nabi Touré, trois femmes du même père et de la même mère.
+
+[177594-181070]
+Ko n'a y'o furu, a bɛ ten barikama wolo.
+On lui avait suggéré de marier ces femmes, car il aurait des enfants bénits.
+
+[182960-184830]
+A kɔ bɛ kɛ kɔ barikaman ye
+Qu'il aura une bonne descendance.
+
+[185670-186630]
+I y'a famu ?
+Tu comprends ?
+
+[188290-199540]
+(Bon) olu ye kɔ to, u ye Faran sɔrɔ, ka Farankulu sɔrɔ,  ka Kankuba Kante sɔrɔ, ka Sumaworo Kanke sɔrɔ.
+Leurs progénitures furent : Faran, Faran kourou, Kankouba Kanté et Soumaworo Kanté.
+
+[201464-205740]
+Sumaworo Kante  dɔgɔni de ye  Kankuba kante.
+Kankouba Kanté est un jeune frère de Soumaworo Kanté.
+
+[207150-208150]
+Balimaya kadi dɛ!
+Que c'est doux, la fraternité !
+
+[210390-212870]
+Diɲa bɛ bɛnna Sumaworo kante ka (histoire) ma
+Le monde entier connaît Soumaworo Kanté.
+
+[213772-217080]
+(Mais) a ba nɔrɔna de ye a dɔgɔmuso ye .
+Mais sa maman succède à sa sœur.
+
+[218240-223640]
+O dɔgɔmuso de fɛnɛ ye Fakoli wolo.
+ C'est cette dernière qui est la mère de Fakoli.
+
+[223840-225730]
+ (Mais) an bɛ baro de la n'bɛ se o kuma ma.
+Mais nous y arriverons .
+
+[226620-227490]
+I y'a famu ?
+Tu comprends ?
+
+[228670-229590]
+'Bon) ola ?
+Alors,
+
+[232083-241280]
+O Sumaworo Kante, ale tun bɛ donsoya de kɛ ka don wula kɔnɔ ode kɔsɔ n'ko Mande sigilen do donsoya de kan.
+Soumaworo kanté était un chasseur {donso} qui partait en brousse, c'est d'ailleurs pourquoi je dis que le Mandé est fondé par le donsoya{chasse}
+
+[242500-243300]
+I y'a famu ?
+Tu comprends ?
+
+[245580-248980]
+Mande sigira donso ya de kan ani jɛsiri.
+Le Mandé est fondé par courage et bravoure.
+
+[250610-262680]
+Sumaworo tun bɛ bɔ ka taa i yaala yaala yɔrɔw la , ma tɔw tun bɛ siran ka se yɔrɔ min na.
+Soumaworo aimait se promener en brousse, surtout aux lieux défendus, les lieux où tout le monde a peur de se rendre.
+
+[265376-268010]
+'Bon) ola tu dɔ de kofɔra a ye,
+Cela dit, il a entendu parler d'un lieu.
+
+[268670-274300]
+O tu'in kɔnɔ, jinɛw de be ye, fɔlifɛ suguya bɛɛ bɛ u bolo
+C'est un lieu habité par les djinns qui possèdent plusieurs instruments de musique.
+
+[275180-285950]
+O y'a sɔrɔ, jenbe tɛ yen, gitari, tɛ yen, fɔlifɛn kelen min tun be ye o tun ye tɛgɛ de ye.
+À ce moment, il n'y avait ni djembé, ni guitare, les mains étaient le seul instrument de musique.
+
+[286859-290610]
+N'i ya mɛ mande sɔlisen fɔlɔfɔlɔ, tɛgɛ de don
+Le premier instrument de musique au Mande est la main.
+
+[292404-297740]
+Mande ka tun bɛ tɛgɛ de fɔ, n'i ye tɛgɛ gosi ɲɔgɔna a bɛ manka dɔ di.
+Les habitants du Mande usent de leurs mains, quand on bat les mains ça donne un son.
+
+[298605-302750]
+Fɔlɔ, mande ka tun bɛ o de fɔ.
+C'est ce qui leur sert d'instrument de musique.
+
+[304450-309750]
+Diɲɛ kɔnɔ fɔlifɛn fɔlɔ tun ye tɛgɛ de ye, i b'a gosi ɲɔgɔna a bɛ manka dɔ bɔ.
+Le premier instrument musical au monde, ce sont les mains.
+
+[311280-315740]
+(Bon) ola fɔlifɛn fosi tun tɛ ye (mais) fɔlifɛn nunun sɔrɔla jinɛw de la.
+Ce sont les djinns qui possédaient ces instruments, mais les hommes n'en n'avaient aucun.
+
+[317375-322410]
+Lanini a tora donsoya la ka taa don tu dɔla.
+ Un jour, en train de se promener, il entra dans une brouse.
+
+[323380-325230]
+(Mai) o tu kɔnɔ, jinɛw de tun be yen
+Cette brousse était habitée par des djinns.
+
+[327190-331390]
+O don, jin;ew ka ɲɛmɔgɔ Dinbaju tun be ye.
+Ce jour-là, le chef des djinns était là.
+
+[332690-337720]
+ Jina kɛmɛ de tun bɛ Dinbaju bolo, ale y'a kɛmɛna ye.
+Ce chef avait quatre-vingt-dix neuf djinns de plus lui-même.
+
+[339550-340790]
+Munun b'a ka bila la.
+Ceux qui étaient à sa disposition.
+
+[342499-343100]
+I y'a famu ?
+Tu comprends ?
+
+[344610-354750]
+(Bon) ola (maintenant)  a donna tu kɔnɔ, Ala y'a kɛ a ye sababuw sɔrɔ yen, ka cɛyaw sɔrɔ yen, ka tɔgɔw sɔrɔ ye.
+Par la grâce de Dieu, il obtint beaucoup de privilèges suite à son insertion à cette brousse, à savoir : la popularité, la bravoure...
+
+[356011-359720]
+ N'i ya mɛ sumaworo, sumaworo, a bɛ ekɔlila o, a (isuwari) bɛ kɛ
+Tout le monde parle de Soumaworo, ça se fait dans l'histoire à l'école.
+
+[360640-361507]
+(Est_ce que) i y'a famu ?
+Est-ce que tu comprends ?
+
+[363785-369560]
+ A tora o de la, a ye bala de ye, mɔgɔw bɛ bala nin fɔ a ye o de ye
+Lors de cette promenade, il tomba sur un balafon.
+
+[369957-379440]
+O y'a sɔrɔ fɔlifen caaman be ye, jenbe be yen, bala be yen,  { dɔbɛ }, bamanin be yen.
+ Il y avait plusieurs instruments de musique tels que le djembé, le balafon, le tam-tam...
+
+[380580-385590]
+ A ko Sumaworo ma,  k'a nana bɔ tun la wa ?
+Il accueillit Souramaworo dans la brousse.
+
+[386340-387190]
+I y'a famu ?
+Tu comprends ?
+
+[387413-393720]
+ Soumaworo donnen,  a ɲɛbɛ fɔlifen caaman na ɲɔgɔn kɔrɔ, a ko k'a bɛ bala ta.
+Soumaworo voit plusieurs instruments musicaux et il décide de prendre le balafon.
+
+[394490-397570]
+Ko ni ale ye bala in ta.
+S'il prenait le balafon.
+
+[397590-401110]
+Bala in tun tɛ bala gansan ye, tallu caaman tun bɛ a la.
+Ce n'était pas un balafon ordinaire, en fait.
+
+[402630-403440]
+(Est-ce  que) i y'a famu ?
+Est-ce que tu comprends ?
+
+[405285-411260]
+A ko k'a bɛ bala de ta ka bɔ ni a ye tu kɔnɔ, jinɛw ka kin na(quoi)
+Il voulait sortir avec le balafon dans cette bourse de djinns.
+
+[412511-416190]
+(Bon) ola, jinɛ cɛ ko, ko bala tɛ ta
+Le djinn lui dit qu'il ne sortira pas avec le balafon.
+
+[417360-421610]
+jine cɛ ko, k'a bɛ jenbe di a ma.
+Le djinn lui propose le djembé.
+
+[421615-427820]
+A ye jenbe d'a ma, a nana n'o ye so k'o fɔ, o m'a diya.
+Il est rentré avec le djembé, mais cela ne lui a pas convenu.
+
+[429204-441040]
+Ka dundun d'a ma, (bon) dundu min dira a ma, a fan kelen ye cɛ golo ye fan dɔnin ye muso golo ye, jinew y'o di a ma
+ Les djinns lui ont donné un tambour dont une partie est faite par la beau d'une femme et l'autre d'un homme.
+
+[441790-445210]
+A nana a y'o fɔ, o m'a diya
+Ce tambour aussi ne lui convenait pas. 
+
+[445270-446480]
+A y'o di mɔgɔw ma.
+Il a offert ça aux gens.
+
+[447340-449660]
+Donsow be gɔnin nin fɔ
+L'instrument de musique que joue les donso.
+
+[450510-456620]
+Donso gɔnin, fo ni donsokɛ saara f'u bɛ taa'a fɔ, a y'o di Sumaworo ma
+Il donna cet instrument à Soumaworo.
+
+[457441-462460]
+(Bon) Soumaworo, a taara ni o fana ye so, o m'a diya.
+ Cela aussi ne lui convient point.
+
+[464550-468660]
+A fana y'o fɔ ka segɛn o fɔlila k'o fana di mɔgɔw ma
+Après être fatigué de le jouer, il a offert ça aussi aux gens.
+
+[468920-470280]
+I ma fɔlifɛw bɔtɔ ye wa?
+Tu vois les instruments musicaux ressortir ?
+
+[471453-474790]
+(Maintenant) a ye tamanin {meleku} d'a ma
+ Maintenant, le djinn lui donne le tamani {melekou}
+
+[477390-489240]
+(Bon) Tamamin{ meleku},  fɔlifɛn dumaba dedon, jurukelennin de do  foo { u yɛrɛ b'a fɛgɛ, n'u y'u bolo d'akan  u b'a gosi gosi tan, a bɛ menkan bɔ .
+C'est un instrument à cordes et très spécial.
+
+[490033-491740]
+Jinɛw y'o bɛ di Sumaworo Kante ma
+Les djinns ont donné tout cela à Soumaworo Kanté.
+
+[492300-499790]
+ I ɲaabɛ fɔlifɛ o fɔlifɛ na, a bɛ bɔra jinɛw de la (mais) nansaraw de y'a bɛ (modifié, modifié).
+Tous les instruments de musique que tu vois sont venus des djinns, mais ce sont les blancs qui ont modifié.
+
+[500118-500880]
+I y'a famu ?
+Tu comprends ?
+
+[501800-508380]
+ Hali n'i y'i tɛ gosi ɲɔgɔn na tan, f'a mankan bɛ bɔ, n'a diyara nansaraw ye u b'a ladege 
+Les blancs peuvent même imiter les battements des mains que nous faisons s'ils le veulent.
+
+[508500-509080]
+O ye tiɲa ye
+Réponse au griot
+
+[509100-509610]
+I y'a famu ?
+Tu comprends ?
+
+[510546-516110]
+(Bon) ola , o fɛw bɛɛ de dira Sumaworo ma a ko k'a to fɛ
+Donc Soumaworo a refusé tout ça.
+
+[516942-523710]
+Musu dɔ de bɛ yen, ni i ye muru in sɔrɔ, kunko kɔnɔ sogo tɛ yen ibɛ dɛsɛ min na 
+Alors, il y avait un couteau qui contenait le pouvoir d'abattre tout animal dans la forêt.
+
+[524150-525000]
+I y'a famu ?
+Tu comprends ?
+
+[525971-528330]
+( Mais) muru tɔgɔ ko muru pɛnpɛrɛnɲaki
+Ce couteau s'appelait [pɛnpɛrɛnjaki]
+
+[530990-532150]
+Jinɛw y'o d'ama
+Les djinns lui ont donné ça.
+
+[533120-533890]
+I y'a famu ?
+Tu comprends ?
+
+[534627-537960]
+A taara ni o ye, a ko ko ayi o m'a diya.
+Ce couteau aussi n'était pas à sa convenance.
+
+[538846-551190]
+(Bon maintenant) a nana zen, jinacɛ Dumaju  ye tama t'a ma , i be masacɛw ye u bɛ jɔlen  tan, a ye o di a ma.
+Bon maintenant, il est revenu et le djinn Doumadjou lui a donné une canne.
+
+[551870-554180]
+A tɔgɔ ko tamba maratata.
+Cette canne s'appelait [tambamaratata]
+
+[554990-556160]
+Tantamaratata
+Tambamaratata!
+
+[557150-558130]
+A y'o d'a ma
+Il lui a donné ça
+
+[559980-562800]
+A taara ni o fana ye, a ko k'a t'o fɛ.
+Cela aussi ne lui convenait pas.
+
+[564730-571160]
+(Bon ) jinacɛ tun fana ka sababu bɛɛ bɛ bala nin dela.
+Or le djinn aussi tient tous ses pouvoirs à ce balafon.
+
+[572760-573620]
+I y'a famu ?
+Tu comprends ?
+
+[576770-577810]
+ O sɔrɔla bala de la
+Le balafon est la source
+
+[579552-587550]
+ E sigilen do fɛn min kan, ne kana ko nbɛ o minɛ e la, i y'arɔ o ka gɛlɛn de, fɔ ni ne ye fɛn dɔ di e ma
+Ce n'est pas facile de prendre à quelqu'un une chose sur laquelle il repose, à moins que tu ne lui donnes quelque chose en retour.
+
+[587560-588320]
+O ye tiɲa ye
+Réponse
+
+[588590-596120]
+(Bon maintenant ) a nana bala nɔfɛ, jinacɛ ko ko bala tɛ sɔrɔ.
+Alors, il est venu pour le balafon, le djinn le lui refuse.
+
+[597470-605230]
+A ko jinacɛ ma, o don ale de tun bɛ soso masayala, o y'a sɔrɔ Sunjata na wolo
+Il était le roi du Sosso ce jour et Soundjata n'était pas encore né.
+
+[606820-607660]
+I y'a famu
+Tu comprends ?
+

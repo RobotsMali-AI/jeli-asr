@@ -1,0 +1,608 @@
+[100-3140]
+I cɛ dɔgɔnin, a bɛ se ka tulonkɛ k'i fɛ.
+Le petit frère de ton époux peut s'amuser avec toi.
+
+[4290-6340]
+I cɛ terikɛ, a bɛ se ka tulonkɛ k'i fɛ.
+L'ami de ton époux peut s'amuser avec toi.
+
+[6820-13280]
+Mɛ cɛ dɔgɔnin nimɔgɔya tulonkɛ kɔnɔ, e bɛ se ka bɛn don i cɛ n'a dɔgɔnin cɛ nimɔgɔya tulonkɛ kɔnɔ.
+Mais le petit frère de ton époux, dans la plaisanterie de frère d'époux, tu peux amener la paix entre ton époux et son petit frère.
+
+[14100-16850]
+E cɛ ni a dɔgɔkɛ man di.
+Ton époux ne s'entend pas avec son petit frère.
+
+[17120-19630]
+A ni dɔgɔkɛ tɛ sira kelen fɛ.
+Il est en conflit avec son petit frère.
+
+[20050-22440]
+E bɛ tulonkɛ min kɛ, gɛrɛɲɔgɔnna bɛ na.
+La plaisanterie que tu fais, amène du rapprochement.
+
+[23040-30650]
+N'i cɛ bɔra sisan, ni a nana, n'i ye dumini sigi, a ni dɔgɔkɛ tɛ dumuni kɛ ɲɔgɔn fɛ, n'e y'a fɔ a ɲɛ na '' ha n nimɔgɔ, ne be fe i n'i kɔrɔkɛ ka dumini kɛ''.
+Si ton mari sort et qu'il retourne, si tu poses le repas, il ne mange pas avec son petit frère, si toi tu dis '' beau frère, je veux que tu manges avec ton grand frère''.
+
+[32480-37530]
+Hali n'i ye kɛlɛkɛlaba ye, k'i ye cɛfarinba ye, n'o fɔra i ye i bɛ sabali.
+Même si tu es un grand béliqueux, un grand guerrier, si on te dit cela tu vas pardonner.
+
+[38070-39060]
+Nin min ye mɔgɔ wɛrɛ ye.
+ Celle là qui est une autre personne.
+
+[39550-45140]
+Anw minnu bɛ ba kelen fa kelen, nin nalen filɛ sisan ko aw ka dumini kɛ ɲogɔn fɛ, n'a y'i wele bi, n'i y'i ban a la, sini n'a y'i wele dun?
+Vous qui êtes même mère même père, celle là cient vous dire demanger ensemble, si elle t'appelle aujourd'hui et que tu refuses et si elle t'appelle demain encore?
+
+[46040-47040]
+E tɛ na sɔn.
+Tu vas accepter.
+
+[48020-50320]
+Ɔ, e bɛ se k'o sɔrɔ cogo di n'e ma sabali?
+Eh comment peux-tu obtenir cela sans être patiente?
+
+[51470-54550]
+E bɛ se k'o sɔrɔ cogo di, wa furu yɛrɛ kɔnɔ hali ladamu b'a kɔnɔ.
+Comment peux-tu obtenir cela, il y'a même de la bonne éducation dans le mariage.
+
+[55600-57940]
+Furu yɛrɛ kɔnɔ hali ladamu b'a kɔnɔ.
+Il y'a même de la bonne éducation dans le mariage.
+
+[58000-59090]
+Pourque i ka furu ka ɲɛ i bolo...
+Pourque ton mariage puisse réussir...
+
+[59130-61900]
+O k'a sɔrɔ ladamu koɲuman bɛ i yɛrɛ bolo i faso la.
+Cela doit trouver que tu as de la bonne éducation déjà depuis chez tes parents.
+
+[64760-66240]
+Ladamu koɲuman ye mun?
+C'est quoi la bonne éducation?
+
+[66490-67740]
+I ka se i kuma cogo la.
+C'est de savoir parler.
+
+[68110-71010]
+Ladamu koɲuman ye min ye, i ka se i finidon cogo la.
+La bonne éducation c'est d'être élégante.
+
+[71090-73510]
+Ladamu koɲuman ye min ye, i ka se i taama cogo la.
+La bonne éducation c'est de maitriser sa demarche.
+
+[74870-78210]
+I bɛ taama cogo min ani i bɛ kuma cogo min.
+Ta demarche et ta façon de parler.
+
+[78560-80170]
+O bɛɛ lajɛlen de bɛ ladamu kɔnɔ.
+Tous ceux-ci sont dans la bonne éducation.
+
+[82730-83940]
+Nin bɛɛ de bɛ ladamu kɔnɔ.
+Tous ceux-ci sont dans la bonne éducation.
+
+[84940-87220]
+Ɔ, ladamu dun, o bɛ sɔrɔ mun na?
+Eh comment obtenir la bonne éducation?
+
+[87530-95750]
+So tɛ, i ni ladamu min bɛ bɔ so ka na cɛlasigiyɔrɔ la, o ladamu kelen in, ko muso ta ye lamɔyɔrɔ saba ye.
+Ce n'est pas la maison, la bonne éducation que tu viens de chez toi avec, cette même bonne éducation, s'acquiert trois lieux pour la femme.
+
+[97010-98420]
+I fa ni ba b'i lamɔ.
+Ton père et ta mère t'éduquent.
+
+[99190-105140]
+N'i fa n'i ba y'i lamɔ, i fa n'i ba ka lamɔ kɔfɛ, i denw, i cɛ bɛ n'i lamɔ.
+Si tes parents t'éduquent, après l'éducation de tes parents, tes enfants, ton époux t'éduquera.
+
+[105770-111432]
+I cɛ ka lamɔ kɔfɛ, i bɛ na bila i denw ka hukumu kɔnɔ, u b'i lamɔ.
+Après l'éducation de ton époux, tu entrera dans l'ordre de tes enfants, ils vont t'éduquer.
+
+[111530-112690]
+U b'i lamɔ ni mun ye?
+Comment vont-ils t'éduquer?
+
+[112740-117900]
+N'i denw kɔrɔbayara, i b'a sɔrɔ e bɛ ko dɔ kɛ, a man di e den ye.
+Si tes enfants grandissent, il se peut que tu fasses quelque chose qui ne plait pas à ton enfant.
+
+[117970-120940]
+E den de b'a f'i ye ''Maa ka na nin kɛ''.
+C'est ton fils qui te dira '' Maman ne fais pas ça''.
+
+[121130-124210]
+Maa ka na taa nin yɔrɔ la, nin man di ne ye.
+Maman ne vas pas làbas, j'aime pas ça.
+
+[124450-127850]
+O de la, a bɛ fɔ ko muso ka lamɔyɔrɔ, saba don.
+C'est pour cela qu'on dit que la femme est éduquée en trois lieux.
+
+[128650-131090]
+Anw musow, anw hakili ka surun kojugu.
+Nous les femmes, nous refléchissons moins.
+
+[132590-137010]
+N'o tɛ den, a bɛ den jɔn na, a ma den dɔ la?
+Sinon, l'enfant, il vient de qui, ne vient-il pas de quelqu'un?
+
+[137780-141980]
+Den bɛ den e min na, e de bɛ ladamu ɲuman di a ma.
+Toi qui est la génitrice de l'enfant, c'est toi qui lui donne une bonne éducation.
+
+[142470-146270]
+Ni den m'i lakasi, n'e ma den lakasi, den b'i lakasi.
+Si l'enfanfant ne t'a pas fait pleurer, si tu ne fais pas pleurer l'enfant, il te le fera.
+
+[146310-151210]
+E dun ka den lakasi, den ka hɛrɛ b'o de la, a ka e lakasi ye.
+Faire pleurer l'enfant est mieux pour lui qu'il te fasse pleurer.
+
+[151240-155150]
+N'a ye lakasi, e bɛ lakasi yɔrɔ o yɔrɔ, ɲuman t'o kɔnɔ.
+S'il te fait pleurer, il n'y a rien de bon dans le cas où c'est lui qui te fait pleurer.
+
+[156500-160050]
+E bɛ lakasi yɔrɔ o yɔrɔ, ɲuman t'o kɔnɔ.
+Il n'y a rien de bon dans le cas où c'est lui qui te fait pleurer.
+
+[160290-163400]
+A dun ɲininnendon e fɛ, e de ka den lakasi.
+Il est exigé que c'est toi qui fasse pleurer l'enfant
+
+[163470-164590]
+O la kasili ye mun ye?
+En quoi le faire pleurer?
+
+[165470-170040]
+E bɛ se ka ko dɔ kɛ bi, a man di i den ye e k'a kɛ.
+Tu peux faire quelque chose aujourd'hui qui le déplait.
+
+[170940-183330]
+Mɛ bangebagaya bonya kaman, a siran kaman, den t'a to... e t'a to den k'o kɛ, hali ni den y'a dɔn k'e y'a kɛ ale la.
+Mais à cause du respect parental, de la peur, l'enfant ne... tu ne laisses pas l'enfant le faire, même l'enfant a su que tu l'as fait ça.
+
+[183850-186680]
+Den bɛ se ka siran, ani bonya kaman.
+L'enfant peut avoir peur et aussi par respect.
+
+[187527-189880]
+K'o ko to yen, nin ko in man di ne ba ye.
+Abandonner cette affaire, cela ne plait pas à ma mère.
+
+[190830-195810]
+Ɛɛ, an b'a dɛn, komi sisan, an ka denmisɛnninw, taabolo minnu b'u la...
+Eh, nous, nos enfants, le comportement qu'ils ont...
+
+[197860-202260]
+U bɛ taa so minnu kɔnɔ, u bɛ ko kuntan minnu na sisan.
+Les appartements dans les quels ils vont, les bêtises qu'ils font.
+
+[202640-208530]
+Ne m'a fɔ ko wagati ma tiɲɛ dɛ nka a belebeleba ye an debatigiw fana nɔ ye dɛ.
+Je n'ai pas dit que les temps n'ont pas changé mais la plus grande faute revient à nous les parents.
+
+[209970-213190]
+Den bɛ, hali sonyali daminɛ, a b'a daminɛ so kɔnɔ fɔlɔ de.
+L'enfant commence le vol à la maison d'abord.
+
+[213410-214790]
+A t'a daminɛ kɛnɛma o.
+Il ne le commence pas dehors.
+
+[216760-219240]
+Den bɛ sonyali daminɛ so kɔnɔ de.
+L'enfant commence le vol à la maison.
+
+[219280-222100]
+Bi n'a nana, n'a y'a ba ka tan ye oubien a fa ka tan ye, a y'a ta.
+Aujourd'hui s'il voit cinquante francs de sa mère ou de son père et qu'il le prend.
+
+[222680-229020]
+Ni fa ko ne ka wari tara yan, e min den bangebaga musoman ye, e de b'a fɔ ko ''ne denw tɛ sonyali kɛ''.
+Si le le père dit que mon argent a été volé, c'est la maman qui dira que ''mes enfants ne volent pas''.
+
+[230790-235430]
+I bɛ to o de la fo den b'a fɔ ne dalen don n ba kan, sini n'a nana, a bɛ e yɛrɛ ka mugan ta.
+C'est dans ça que l'enfant dira que ma mère me soutient, s'il vient demain, il volera tes cent francs..
+
+[235960-242430]
+E yɛrɛ b'a dɔn pɛrɛ mugan in tabaga y'ale de ye mɛ i b'i sen d'a kan ko ne ni mɔgɔw bɛ du kɔnɔ k'u kan'a mɛn ko n den bɛ sonyali kɛ.
+Toi-même, tu sais que c'est lui qui a pris les vingt francs, mais tu as mis le pied dessus pour que les gens de la maison découvrent que ton fils vole.
+
+[242920-243920]
+Ɔ, n'a taara kɛnɛma...
+Eh s'il va dehors...
+
+[244370-246620]
+Kɛnɛma mɔgɔw ta, a b'olu ka kɛmɛ ta.
+Il volera cinq cents des gens externes.
+
+[246970-249210]
+A bɛ t'o la, a bɛ dan sagon.
+C'est comme ça qu'il depassera la limite.
+
+[249610-251800]
+E yɛrɛ bolo fo nimisa bɛ na a kɔnɔ.
+C'est comme ça que tu regretteras toi-même.
+
+[252380-256438]
+Muso ye den o den wolo, n'a fɔra i ye sisan sisan ko ne denkɛ ye ni kɛ.
+tout enfant qu'une femme engendre et qu'on te dise tout de suite: ton fils a fait ça.
+
+[258810-259810]
+N tɛ fili a ma.
+Je le reconnaitrai.
+
+[260220-266480]
+Fɛn min bɛ sɔn, ni ne bɔra kɛnɛma ka na, ka n'a sɔrɔ fɛn min kɛlen don n ka so, den min y'a kɛ n b'a ta a tɔgɔ ma.
+La chose, lorsque je reviens de dehors, et que je vienne trouver que quelque s'est passé, je reconnaitrai l'auteur parmi mes enfants.
+
+[266810-270930]
+N ko karisa de bɛ sɔn ni ma ne ka so, karisa tɛ sɔn nin ma n ka so.
+Je dis '' c'est telle personne qui ose faire ça chez moi, telle autre personne n'ose pas faire ça chez moi.
+
+[270970-273370]
+Ko an dɛsɛra o de la, k'an denw jateminɛ...
+Nous avons faillit à cela, remarquer nos enfants.
+
+[273530-276170]
+An dɛsɛra o de la, k'an denw lamɔ ka ɲɛ.
+Nous avons failli à cela, bien éduquer nos enfants.
+
+[276430-278670]
+An dɛsɛra o de la, k'an denw kɛ an yɛrɛ hakilinan ye.
+Nous avons failli à cela, fairede  nos enfants comme nous le voulons
+
+[278950-283170]
+Fo n'a kɛra tiɲɛni ye an bolo wagati min na, an bɛ sɔrɔ ka na nimisa ka segin.
+Jusqu'à ce àa devienne une catastrophe c'est en ce moment qu'on regrette et essaie de revenir en arrière.
+
+[283370-286730]
+A bɛ fɔ ko o ko la ko ni n tun y'a dɔn, o y'o ko tiɲɛnen de ye.
+A toute chose qu'on dit '' si je le savais'' c'est que c'est déjà gaté.
+
+[286950-290520]
+N tun y'a dɔn, bɛ fɔ ko o ko la,  o ko de be tiɲɛ.
+A toute chose qu'on dit '' si je le savais'' c'est que cette chose se gate.
+
+[291020-292470]
+Ala ka n'a tiɲɛ an bolo.
+Que Dieu nous en préserve de cela.
+
+[292620-295070]
+An bɛ duwawu kɛ Ala k'a ɲɛ an bolo.
+Nous prions que Dieu nous l'arrange.
+
+[296490-298580]
+Ka lamɔ koɲuman di an denw ma.
+Que Dieu facilite une bonne éducation à nos enfants.
+
+[299100-301460]
+An ka se k'o kɛ an denw na.
+Que nous puissions faire cela à nos enfants.
+
+[301510-302860]
+Ka lamara koɲuman d'a ma.
+Qu'il puisse avoir une bonne éducation.
+
+[303210-305440]
+An ka se k'o kɛ an cɛw la.
+Que nous puissions faire cela à nos époux.
+
+[305610-312890]
+Ka lamara koɲuman di an ma, an ka se k'o kɛ an ka du la yaasa a ka fɔ an ma don dɔ ko karisa tun bɛ yan.
+Que Dieu nous donne la force de bien diriger notre famille pourqu'on puisse dire un jour telle personne aussi était là.
+
+[314980-316910]
+N'a fɔr'i ye ko kari tun bɛ yan.
+Lorsqu'on dit telle personne fut ici.
+
+[317190-319020]
+Karisa tun bɛ yan bɛ f'i ye fɛn fila. 
+On dit telle personne fut ici dans deux cas.
+
+[319530-322170]
+Karisa tun bɛ yan, ni ɲuman tɛ juguman de don.
+Telle personne fut là, si ce n'est pas pour du bien c'est pour du mauvais.
+
+[322200-323460]
+Ala k'an kisi a juguman ma.
+Que Dieu nous en preserve du mauvais.
+
+[324090-327660]
+Ni karisa tun bɛ so kɔnɔ, nin tun te kɛ dɛ.
+Si telle personne était ici, ceci n'allait pas se faire.
+
+[328000-330040]
+O ye tɔgɔ duman dɔ ye hali i su kɔ.
+C'est une bonne image même étant mort.
+
+[331100-335120]
+Ee, karisa den de ye nin ye, haa nin ba tun ka ɲi dɛ.
+Eh, c'est le fils d'une telle, ah sa mère était une bonne personne.
+
+[336760-342970]
+O bɛ f muso minnu ma, kunkɔrɔta de don hali i su ma, kunkɔrɔta don i den ma.
+Aux femmes qu'on dise cela, c'est une fierté pour ton defunt, pour tes enfants.
+
+[343550-348060]
+Misalinin na, ne jɛɲɔgɔn dɔ bɛ yen, a ye ɲuman kɛ n ye.
+Par exemple, une de mes camarades, elle m'a fait du bien.
+
+[348280-350180]
+A kɛra n fɛ teriya kɔnɔ.
+Elle m'a aimé dans l'amitié.
+
+[350630-356250]
+Ala nana ni saya ye, sajoona y'a minɛ, nka a denw, n ma se ka ɲinan u kɔ.
+Dieu en a décidé de la mort, elle est morte prématurement, mais je n'ai pas pu oublié ses enfants.
+
+[357170-361130]
+N kɛ o kɛ ka den in ye, n bɛ n jɛɲɔgɔn in de ye a kɔnɔ.
+A chaque que je vois l'enfant, c'est ma camarade que je vois à travers.
+
+[361490-365730]
+A kɛra n fe cogo min, a ɲɛna n ma cogo min.
+La manière dont il m'a aimé, aidé, 
+
+[366130-369910]
+N ke o kɛ ka denmisɛnnin ninnu ye, ba in de bɛ na n kɔrɔ.
+A chaque que je vois ces enfant, je pense à la mère.
+
+[370240-371470]
+Ba in de be na n ɲɛ kɔrɔ.
+C'est à la mère que je pense.
+
+[371730-373400]
+O ba ye ɲuman de kɛ dɛ.
+C'est parce que cette mère a fait du bien.
+
+[373690-376790]
+N'a y'a sɔrɔ k'u ba tun ma ɲuman kɛ, an tun bɛ jɛ o ma wa?
+Si leur maman n'avait pas fait du bien on allait pas s'entendre sur ça.
+
+[378960-383290]
+Ɲuman, a kɛbaga, e b'a kɛ mɛ a tɔnɔdunbaga t'i kelen ye dɛ.
+Le bienfaiteur, tu le fais mais ce n'est pas toi seul le bénéficiaire.
+
+[383450-385270]
+Jama de bɛ jɛ k'a tɔnɔ dun i fɛ.
+C'est tout le monde qui en bénéficie avec toi.
+
+[385750-390880]
+I den b'o la, i kabila b'o la, i jɛɲɔgɔn b'o la, sigiɲɔgɔn b'o la.
+Y compris ton enfant, ta tribu, tes camarades, tes voisins.
+
+[390960-393590]
+O de la a bɛ fɔ an ɲɛ na ko an ka ɲumanw kɛ
+C'est pour cela qu'on dit de faire du bien.
+
+[394320-401150]
+Mɔgɔ jogojugu, a bɛ fɛn min tiɲɛ i ma, i fa n'i ba, a tɛ se k'a tiɲɛ i ma.
+Ce que ton mauvais comportement t'engendre de mauvais, ton père et ta mère ne l'engendrent pas.
+
+[403270-407070]
+Mɔgɔ jogojugu bɛ min tiɲɛ i ma, i jugu tɛ se k'a tiɲɛ i ma.
+Ce que ton mauvais comportement peut t'engendrer, ton ennemi ne peut pas.
+
+[407690-412622]
+Jogo ɲuman yɛrɛ bɛ fɛn min ɲɛ i ye, i b'a dɔn i fa n'i ba de b'i ka ɲuman fɛ ka tɛmɛ bɛɛ kan.
+Ce que le bon comportement te sert, n'est-ce pas que c'est ton père et ta mère qui te désirent du bien plus que tout le monde.
+
+[413720-420040]
+N'a fɔra ko e ye diɲɛ mara masakɛ ye, ko e de bɛ diɲɛ bɛɛ san fɛ, a ka di jɔn ye fɔlɔ?
+Si on dit que c'est toi le grand souverain, et que c'est toi qui qui gouverne sur le monde, à qui cela plaît en premier?
+
+[420300-422390]
+A pere-pere bɛ sɔrɔ bangebaga musoman de fɛ.
+C'est la mère en première.
+
+[423730-426340]
+A bɛ diya bangebaga musoman de ye fɔlɔ.
+C'est à la mère que cela plait en première.
+
+[426910-430430]
+A bɛ diya bangebaga musoman de ye fɔlɔ yanni a ka se cɛman ma.
+C'est à la mère que cela plait en première avant le père.
+
+[430540-434480]
+Parce que n'a fɔra ko musosɛbɛden dɔrɔn, a bɛ muso de kofɔ.
+Parce que, lorsqu'on dit enfant de bonne femme, c'est la femme qui est pointée.
+
+[434940-438820]
+Musosɛbɛden dɔrɔn, a bɛ muso de kofɔ fɔlɔ yanni a ka se cɛ ma.
+Enfant de bonne femme, c'est la femme qui est pointée d'abort avant l'homme.
+
+[439460-443700]
+O musosɛbɛya dun te se ka sɔrɔ ni e fɔlɔ ma sɛgɛn.
+On ne peut pas être cette bonne femme sans souffrir.
+
+[443940-451053]
+O muso ɲumanya, o muso sɛbɛya, o tɛ sɔrɔ ni e ma ɲani fɔlɔ, e ma tɔɔrɔ.
+On ne peut pas être cette bonne femme sans que tu souffres, sans que tu aies mal.
+
+[451770-453870]
+Tɔɔrɔ in fɛn bɛɛ b'a kɔnɔ.
+Il y'a tout dans cette souffrance.
+
+[454470-455520]
+Tɔɔrɔ in fɛn bɛɛ b'a kɔnɔ.
+Il y'a tout dans cette souffrance.
+
+[455560-460410]
+Karisa y'a kɛ ne na n sɔnna a ma, karisa y'a fɔ ne ma n sɔnna a ma.
+Telle personne m'a fait ceci je le supporte, telle personne m'a dit cela je le supporte.
+
+[460470-463050]
+I bɛ sɔn a ma de, a ka kɛ i la.
+Tu acceptes qu'on te le fasse.
+
+[463130-465010]
+I bɛ sɔn a ma de, a ka fɔ i ma.
+Tu accptes qu'on te le dise.
+
+[465320-467650]
+N'i m'a sɔn, i tɛ don dɔ ye dɛ.
+Si tu n'acceptes pas tu ne verras pas un jour meilleur.
+
+[468940-472540]
+O don dɔ yeli, o dun b'anw musow bolo munna?
+En quoi les jours meilleurs dependent de nous les femmes?
+
+[473350-477550]
+Don dɔ yeli, a b'anw musow bolo, a bɛ sɔrɔ i yɛrɛ ka sabali cogo fe
+Ce jour meilleur est entre les mains de nous les femmes mais ça depend de notree patience.
+
+[478110-479690]
+Ala ka sabali koɲuman di an ma.
+Que dieu nous donne la patience.
+
+[480880-483020]
+Ala ka an denw lamara cogo koɲuman di an ma!
+Que Dieu nous assiste dans la bonne éducation de nos enfants!
+
+[483390-485690]
+Ala ka anw cɛ lamara koɲuman di an ma.
+Que Dieu nous facilite la gestion de nos époux!
+
+[485790-487880]
+An bɛ se ka anw cɛw diinɛ ɲinin cogo min.
+Pour qu'on puisse avoir l'approbation de nos époux
+
+[487950-489650]
+ŋ
+Pour qu'on puisse avoir l'intention de nos époux.
+
+[489660-493170]
+Cɛ bɛ bɔ kɛnɛma kasɔrɔ, tuma dɔw, hali a tɛ fɛ ka kuma.
+Souvent l'homme rentre, ne voulant même pas parler.
+
+[494080-495350]
+Mɛ jɔn b'a lakuma?
+Mais qui peut le faire parler?
+
+[495770-497550]
+Muso ɲuman min bɛ so kɔnɔ.
+La bonne femme qui est à la maison.
+
+[498460-502190]
+E de bɛ se ka kuma in ɲinin a fɛ, k'a lanisɔndiya.
+C'est toi qui peut converser avec lui, le faire plaisir.
+
+[503010-507080]
+Ko a bɛ bɔ, a bɛ taa kungo kɔnɔ, a sɛgɛlen bɛ na, a lafiyayɔrɔ ye yɔrɔ jumɛn ye.
+Il sort pour aller au champs, il revient fatigué, c'est où son lieu de repos?
+
+[508180-509310]
+A ka so tɛ wa?
+N'est-ce pas que c'est chez lui?
+
+[509440-513480]
+Ɔ, ni muso tɛ yen min bɛ lafiya ɲinin a fɛ, lafiya bɛ dɔgɔya.
+Eh, s'il n'y a pas de femme qui lui apaise le coeur, il y'aura moins de paix.
+
+[515390-516600]
+O lafiya ye mun ye?
+C'est quoi cette paix?
+
+[517100-522280]
+E min bɛ kɛ furumuso, e min ye furumuso ye, a nana...
+Toi qui devient l'épouse, toi qui est l'épouse, s'il vient...
+
+[522350-524660]
+Ha, kɔɔkɛ e ɲɛ kumunen don bi, mun b'e la?
+Ah mon cher époux, tu as le visage serré, qu'est ce qu'il ne va pas?
+
+[525300-527770]
+Dɔw b'a f'i ye fɔlɔ, bɔ n dala, fɛn tɛ n na.
+D'autres te diront, laisse moi tranquille, je n'ai rien.
+
+[528240-533150]
+I bɛ to ɲininkali fɔ a hakilina ye min ye cɔyi, e bɛn'o sɔrɔ.
+C'est en insistant que tu sauras ce qu'il a comme soucis.
+
+[533490-538320]
+Ɔ, ni e ma se ka sabali a kɔrɔ ko hakilina ɲinin, i b'o sɔrɔ wa?
+Eh si tu ne patientes pas comment sauras-tu son soucis.
+
+[539250-552070]
+O de la a bɛ fɔ an mouso ɲɛ na, k'an k'an jija, n'an furula, an ka baaraw taabolo sisan, nansarabaaraw b'an bolo, baara wɛrɛw b'an bolo, an ka baara taabolo ka na don an ka furu in na.
+C'est pour cela qu'on dit à nous les femmes, de s'atéler, dans notre foyer, nous avons nos professions maintenant, des professions administratives, d'autres professions, il ne faut pas que cela influe sur notre vie conjugale.
+
+[552150-557570]
+An ka jija an ka furu in latigɛ koɲuman na, an ka furu in kɛ ka ɲɛ
+Tachons à la réussite de notre foyer, battissons bien notre foyer.
+
+[558730-562720]
+An ka kɛ muso baarakɛlaw ye, sisan, anw ka...
+Nous sommes des femmes professionnelles, maintenant, nous...
+
+[562850-568050]
+Anw denw n'a dɔgɔnin minnu bɛ yen, a dɔw be se ka kɛ musobaarakɛlaw ye.
+Nos filles et nos soeurs qui sont là, peuvent être des femmes professionnelles.
+
+[568090-573760]
+Muso baarakɛlaw minnu don, u bɛ taa yɔrɔ wɛrɛw la, u bɛ taa dugu wɛrɛw la, komi u bɛ taa sugujɔw kɛ, u bɛna..
+Ceux sont des femmes professionnelles qui partent ailleurs, dans d'autres villages, comme dans les marchés...
+
+[573780-580230]
+Ni e nana ka bɔ sugujɔyɔrɔ la, ni sugujɔ diyaɲɛ y'a to e dɛsɛra i ka furu la, sugujɔ in bɛ mun mago je i ye.
+Si tu viens du marché et qu'à cause de ce commerce tu échoues dans ta vie conjugale, à quoi ce commerce aura servi?
+
+[582370-583670]
+Sugujɔ tɛ mago ɲɛ i ye.
+Ce commerce ne te servira à rien.
+
+[584580-590450]
+Komi cɛ dɔw bɛ yen, olu b'a fɔ i ye '' ne bɛ fɛn bɛɛ fɛ, mɛ n t'a fɛ ka se so k'a sɔrɔ i ma se so''.
+Comme il y'a des hommes qui disent '' j'aime tout sauf rentrer à la maison avant toi''.
+
+[591920-594060]
+N bɛ fɛ ka n'a sɔrɔ n muso bɛ so kɔnɔ.
+Je veux venir trouver que ma femme est à la maison.
+
+[594160-595490]
+O y'a ka hakɛ de ye.
+C'est son droit.
+
+[595700-596880]
+E de ye furumuso.
+C'est toi l'épouse.
+
+[597020-598760]
+E de ka kan ka don ale ɲɛ.
+C'est toi qui doit rentrer avant lui.
+
+[598890-600680]
+Ale ka n'a sɔrɔ e de bɛ so kɔnɔ.
+Qu'il vienne trouve que tu es à la maison.
+
+[600710-602570]
+E de ye ji dibaga ye ale ma.
+C'est toi qui doit lui servir de l'eau.
+
+[602680-606370]
+Ale ka n'a sɔrɔ e de bɛ so kɔnɔ, e de ye dumuni dibaga ye ale ma.
+Qu'il vienne trouver que tu es à la maison, c'est toi qui doit le servir à manger.
+
+[606370-608230]
+Ale ka n'a sɔrɔ e bɛ so kɔnɔ.
+Qu'il vienne trouver que tu es à la maison.
+
+[608250-611250]
+N'ale man'a sɔrɔ e bɛ so kɔnɔ, lafiya bɛ min?
+S'il ne vient pas trouver que tu es à la maison, alors, où se trouve la paix?
+

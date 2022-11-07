@@ -1,0 +1,504 @@
+[225-8300]
+N'i kɛra mus o ye, i ka muso cɛsirilen ni muso sabalilen ye.
+Quand tu es une femme, sois calme et courageuse.
+
+[8500-11950]
+Muso ka baara tuun man ca ten fɔlɔ.
+La femme n'avait pas assez de travail auparavant.
+
+[12125-15375]
+N bɛ dɔɔnin fɔ bi tile kan.
+Je dis un peu sur aujoudd'hui.
+
+[15475-19025]
+Baara bolofaraw nana,  an musow bɛ baara caman na.
+Les branches de travail ont multiplié.
+
+[19225-22200]
+N'o te fɔlɔ muso tun bɛ nakɔforo de sɛnɛ.
+Sinon la femme faisait le jardinage auparavant.
+
+[22350-29850]
+U ka nakɔ ninnu kɔnɔ i b'a sɔrɔ forotobanin, jaba su pɔmi, layi.
+Dans leurs jardins, tu trouveras, l'oignon, laye, piment.
+
+[29950-33025]
+San muumɛ kɔnɔ dɔw ta ye tigaforo ye.
+Durant toute certaines ne font que s'occuper de leur champ de l'arrachide.
+
+[33225-37100]
+Muso ka baara tun bɛnnen don o ma waati bɛɛ.
+C'était le travail de la femme tous temps.
+
+[38350-41000]
+I b'o min kɛ, i b'olu de feere.
+Tu vends ce que tu gagnes .
+
+[41075-46050]
+Dɔw bɛ dun so kɔnɔ, dɔw bɛ feere ka ke i denw ka musakaw ye.
+On mange une partie à la maison, et on vend l'autre pour les depenses de nos enfants.
+
+[46125-48350]
+I bi denw ka kɔɲɔminɛnnin sɔrɔ o la.
+Tu achètes les préparatifs du mariage de tes enfants.
+
+[50950-53600]
+Sisan anw ka kɔɲɔminɛnw cayara.
+De nos jours, les affaires de nose sont nombreuses.
+
+[55550-59700]
+An bɛ ko kɛbaliw kɛ walasa na se ka kɔɲɔminɛn ɲini an denw ye.
+On fait des choses indignes pour pouvoir les affaires de noce pour nos enfants.
+
+[59900-65625]
+E n'i den bɛ baara kɛ, a bɛ tiganin minnu ni su minnu sɔrɔ, a b'olu de feere.
+Tu travail avec ton enfant, le peu d'arrachide et chou que vous trouvez, vous les vendez.
+
+[65800-72750]
+Kɔɲɔminɛn be ta, taafe kelen wali fila, filen kelen wali fila, i b'i ka cɛlasigi k{ k'a ban n'o ye maa tɛ bɔ i kɔrɔ ma.
+Les affaires de noce étaient : un ou deux pagnes, une ou deux calebasse, et tu fais ton mariage peersonne ne sait que tu es cmme ça.
+
+[72925-75325]
+I bɛ furu cɛ ma i b'a sɔrɔ dɛbɛn kelen de bɛ yen.
+Tu de maries avec et tu ne trouve qu'une seule natta dans sa chambre.
+
+[75550-78825]
+E b'i denw bɛɛ wwolo o dɛbɛn kelen kan, k'u bɛɛ mɔgɔya o kan.
+Tu fais toute ta maternité sur ce natte et tu éduqes tes enfant sur la même natte.
+
+[78950-80600]
+N'a kɔrɔla a be falen de.
+On la change quand elle est vieille.
+
+[80675-82950]
+U nana ni payasi ye dɛbɛn kɔfɛ.
+Le paillage est venu apès la natte.
+
+[83175-85875]
+Payasi yɛrɛ tɛ yn tugun.
+Le paillage n'existe plus.
+
+[86050-89600]
+Payasi tun bɛ da sow kɔnɔ.
+On mettait le paillage dans chambres.
+
+[89775-94925]
+Sisan anw ko k'an denw tɛ furu cɛ ma dilanbaw te min ka so.
+Maintenant, on refuse de donner nos filles à quelqu'un qui n'a pas de lits de valeur dans sa maison.
+
+[95100-98350]
+Anw denw te furu cɛ ma, jabaranin tɛ min bolo.
+On ne donne pas nos fille à quelqu'un qui n'a pas de télévision.
+
+[98475-100575]
+i y'a don anw ye denmisɛnninw tiɲɛ?
+C'est nous qui avons gâté les enfants.
+
+[100875-104125]
+Denmisɛnninw tiɲɛni fanba ye anw mansaw de ye.
+La bêtise des enfant est généralement la faute de nous les parents.
+
+[104300-108350]
+Anw sɔnna fɛn min an cɛw bolo, anw ko denmisɛnninw kana sɔn o ma u cɛw bolo.
+Ce que nous avaons accepté avec nos maris, on dit à nos enfants de ne pas accepter cela.
+
+[108525-111800]
+I y'a dɔn olu tɛ taamasiyɛn ɲuman ye.
+Ceux-ci ne sont pas bon signes.
+
+[112100-122000]
+Anw minnu ka kan ka kɛ ladilikɛla ɲuman ye, ko karisa de bɛ nin du in kɔnɔ, nin du tiɲɛni da bɔra anw na dun;
+Nous qui devons être de bonnes conseillères, on peut dire, untelle est dans cette maison.
+
+[122175-125100]
+I y'a dɔn anw te a ɲuman.
+Nous ne sommes bonnes dans ce cas.
+
+[125300-134000]
+A  ɲininen don anw fɛ anw ka kɛ furumuso ɲuman ye min bɛ se ka bɛn sabati du kɔnɔ.
+Il nous est recommandé dêtre de bonnes épouses qui peuvent maintenir la paix dans la famille.
+
+[134725-138250]
+I bɛ ke so kɔnɔ i b'a sɔrɔ a te foyi di.
+Peut être l'homme ne donne rien dans la famille.
+
+[138400-140625]
+A fanga bɛɛ ye muso ye.
+La femme prend la majeure partie.
+
+[140775-143950]
+Pariseke baara wɛrɛ tun te yen lawale la.
+Il n y avait pas d'autre travail auparavant.
+
+[144200-149800]
+N taara kungo la, n ye malo, ɲɔ, walima sɔ sɛnɛ n nana n'a ye.
+Je suis parti en brousse, j'ai cultivé le mil, haricot, le riz, je les ai amené.
+
+[150000-152800]
+E be na n'o min ye o bɛ bila san balo kama.
+Ce que tu amènes sera gardeé pour l'limentation de l'année.
+
+[152950-156175]
+I b'a sɔrɔ san wɛrɛ ɲɔ bɛ bo k'a sɔrɔ dɔ ta be yen.
+Tu peux trouver que le mil de nouvel an vient trouver celui de l'année dernière.
+
+[156300-158575]
+O de .tun bɛ yen 
+C'est ce qui existait auparavant.
+
+[158750-161875]
+Nka sisan, o bɛe bɔra a la.
+Mais maintenant, tout ça c'est fini.
+
+[162000-165425]
+Musow te jama dalajɛlen fɛ tuguni.
+Les femmes ne veulent plus la grandes familles.
+
+[165550-174625]
+U yɛrɛ b'a fɔ ko n te furu karisa ma pariseke a fa n'a ba bɛ yen.
+Elles disent mêmes je ne serai pas la femme de untel parceque ses parent sont là.
+
+[174800-179175]
+Muso be dugawu de san k'a di i cɛ ma.
+La femme achète la bénédiction pour donner à son mari.
+
+[179375-182300]
+O dugawu sanni ye mun ye ka di i cɛ ma.
+Qulle est cet achat de la bénédiction?
+
+[182400-187775]
+E bɛ min ke i cɛ ba la i tɛ k'a k'i ba la munna?
+Tu ne peux pas faire à ta mère ce que tu fais à celle de ton mar pouquoi?
+
+[187925-189500]
+I ko i cɛ ye i yɛrɛ de ye.
+Ton mari est toi même.
+
+[190250-193400]
+Mɔgɔ be sɔn i yɛrɛ de ye n'i sɔnna i yɛrɛ ye i bɛ sɔn mɔgɔ wɛrɛ ye.
+On doit êtr d'accord avec soi même, quand on est d'accord avec soi, on va accepter l'autre.
+
+[193700-196575]
+N'an ma sɔn an yɛre ye dɔrɔn an te se ka sɔn mɔgɔ wɛrɛ ye.
+Quand on est pas d'accord avec soi même on ne peut pas accepter une autre personne.
+
+[196725-200725]
+O musokɔrɔba min bɛ so kɔnɔ, o y'a den lamɔ maɲumako la.
+Cette vieille qui est dans la maison a éduqué son enfant dans la difficulté.
+
+[201200-208475]
+Ka maɲumako ni kɔlɔbekolɔbɛ yaasa a denw bɛ se ka mago ɲɛ a ye.
+Elle a supporté toutes les difficultés afin que ses enfants deviennet quelqu'un.
+
+[208675-215350]
+Munna e  be na tilegan fɛ dɔrɔn k'a fɔ ko den te kɛ o sago ye.
+Pouquoi tu viens dans la journée dire que son enfant ne fait pas ce qu'elle veut.
+
+[218800-222100]
+N b'aw deli an ka sabali o la.
+Je vous en prie arrêtons de faire cela.
+
+[222250-224350]
+AN k'an buran ninnu minɛn buran ye.
+Considerons nos beaux parents comme des beaux parents.
+
+[224550-228225]
+An ka buran ninnu minɛn an ba ye, an buran ninnu minɛn an fa ye.
+Considerons les beaux parents comme notre et notre mère.
+
+[228350-239750]
+I bɛ ta ki di cɛ ma don min na, a bɛ fɔ i ye de ko i fa don, i ba don, i kɔrɔkɛ don, i ce don, i teri don.
+Le jour où on te donne en mariage, on te dit: cet homme est ton mari, ta mère, ton père, ton ami, to grand frère.
+
+[239900-246050]
+I bɛ  se ka o bɛɛ sɔrɔ i cɛ la n'a diyara i yɛrɛ ye.
+Ton mari peux représenter tout ceux-ci pour toi si toi même veux.
+
+[246225-250275]
+Ni balimaya gindo nana, i bɛ se k'o kalifa a la.
+Quand le secret de la fraternité vient, tu  peux te confier à lui.
+
+[250475-252975]
+Ni cɛya nana i be se k'o fana kalifa a la.
+Quand c'est au tour de l'époux, tu peux te confier à lui.
+
+[253125-256550]
+Ni terikɛya fana nana, tulonikayɛlɛ b'o kɔnɔ.
+Quand l'amitié vient, c'est de l'amusement.
+
+[256675-260200]
+Ni bɛn fana nana o b'o cogo kelen na.
+La paix est pareil.
+
+[260425-262100]
+E bɛ se k'a dɛmɛ k'a ka du dila.
+Tu peux l'aider à construire sa famille.
+
+[262225-268725]
+E takun ka  na n'i o ye k'a ka du dila yaasa bɛn ka sabati a kɔnɔ.
+Tu es venu pour maintenir la paix dans sa famille.
+
+[268875-273125]
+Furumuso ɲuman nana o de kama.
+Une bonne épouse vient pour cela.
+
+[273325-275150]
+I ka baara ye o de ye.
+C'est àa ton travail.
+
+[275300-280175]
+I cɛɲana cogo cogo, cɛbakɔrɔ dɔ de b'i ta don dɔ.
+Quelqu'en soit ta beauté, tu sera marié à un homme un jour.
+
+[283875-291650]
+I taara dijɛ fan o fan, farafin ni farajɛla, i b'a sɔrɔ furu de dagalen don.
+partout où tu vas dans le monde, l'Afrique ou l'Europe, tu verras que le mariage est sollicié.
+
+[291750-295125]
+Hakilimaya la, i m'a dɔn musolaka sɛgnnen  don.
+La femme est fatiguée.
+
+[295325-305150]
+Komi anw ka farafinya t'an bila an ka se ka an da don  o yɔrɔ bɛɛ la.
+Comme nous sommes africaines, cela ne nous permet pas de mieux expliquer cette chose.
+
+[305300-306725]
+Muso sɛgɛnen don.
+La femme est fatiquée.
+
+[307000-313025]
+Msuo sɛgɛn ye mun ye, an ka hakɛ bɔsilen tɛ an na dɛ an ka sɛgɛn be kɛ an ka hakɛ yɛrɛ kɔnɔ.
+Quelle est la souffrance de la femme, on est pas privée de notre droit, mais la souffrance est dans notre droit.
+
+[313175-316550]
+Sɛgɛn in be an yɛrɛ ka hakɛ de kɔnɔ.
+La souffrance vient dans notre devoir.
+
+[316925-319700]
+Ala y'an da k'an ke muso ye.
+Nous sommes né femmes.
+
+[319925-323950]
+Fɔlo n'i den fɔlɔ kɛra muso ye u b'a fɔ i ye ko furu ka di.
+Quand ton premier enfant est une fille ils disent que le mariage est bon.
+
+[324125-326575]
+Parce que muso ka ko bɛɛ ka di.
+Parcce que toutes les choses des femmes sont bonnes.
+
+[326850-331459]
+Ni denflɔlɔ kɛra cɛ ye u b'a fɔ ko ni furu in ka di nka ko gɛlɛya b'a kɔnɔ dɛ.
+Quand ton premier enfant  est un garçon on te dit que le mariage est bon mais qu'il y de difficulté.
+
+[331675-344925]
+N'i ye dɔnnibaga bila u ka dugawu kei ye denko ko Ala ka den barikama d'i ma, i be musomenin de sɔrɔ.
+Quand tu dammande à  Dieu de te donner un enfant bénit, il te donne une fille.
+
+[345125-349575]
+N'i ye Ala deli ko den di ne min bɛ du jɔ o ye den ceman ye.
+Quand tu demande à Dieu de te donner un enfant qui va construire la famille, il te donne un garçon.
+
+[349700-354925]
+Dujɔla ye den cɛman ye.
+Le garçon et l'enfant qui construit la famille.
+
+[355075-358675]
+Den di ne ma barika be den min na o bɛ musoman de kofɔ.
+DOnne moi un enfant béni, c'est une fille.
+
+[358875-362350]
+Musoman mana taa a cɛla la a bɛ fɛn ɲini ka na a faso kɔnɔ.
+La fille même étant chez son mari donne des choses à sa famille.
+
+[366100-367750]
+Musoman de be se k'o kɛ.
+La fille peut faire cela.
+
+[367975-373475]
+Cɛman bɛ muso min furu o b'a ɲini ka o n'a denw sagonnako ke u ye.
+Le garçon cherche ç faire plaisi à sa femme.
+
+[373600-375150]
+K'u diyanyeko kɛ u ye.
+Leur faire plaisir.
+
+[375350-380525]
+Musoman b'o min mine ce la, o be na o di a bangebaga ma so.
+Ce que la femme prend à l'homme, elle envoie cela dans sa famille.
+
+[383200-386200]
+Muso, an ka bɛn.
+Les femmes, faisons la paix.
+
+[386450-390250]
+Musow, an ka sabali, an ka sigi an cɛw fɛ.
+Les femmes, soyons caalme et restons avec nos maris.
+
+[390350-396825]
+An ka baro kɛ an cɛw fɛ an k'u nɛgɛn k'u hakilina ɲini.
+Causons avecnos mari, essayons à comprendre leur idée, amadouons les.
+
+[396975-401400]
+E b'a dɔn ko n ye naji tobi, ne cɛ ye naji dun bi de.
+J'ai préparé le bouillon, mon mari a beaucoup mangé.
+
+[401500-403350]
+Sini e b'o kɛ tigadɛgɛna ye i te naji tobi tugun.
+Demain tu préparen la sauce de l'arrachide.
+
+[403550-409050]
+Fɔlɔ n'an taara sugu la, an tun be jɛgɛninw san, ka sogoninw san ka na.
+Quand on partait au marché auparavant, on achetai la viande, le poisson ...
+
+[410725-414075]
+O jirannen, i b'a sɔrɔ maa wɛrɛ niyɔrɔ t'a la.
+Quand c'est cuit, peronne d'autre dans la famille le mari ne mange.
+
+[414350-418300]
+I b'a kɛ  yaasa i cɛ n'i ka fɔta ka bɛn.
+Pourque la paix reste entre toi et ton mari.
+
+[418400-423075]
+Sigikafɔ te so o so kɔnɔ bɛn t'o kɔnɔ.
+Dans une où il n'a y a pas de dialogue il n y a pas de paix dans cette famille.
+
+[423300-429300]
+Muso min ni cɛ t'a kɔnɔkuma fɔ ɲɔgɔn ye bɛn t'aw ka du kɔnɔ.
+Le mari et la femme qui ne partagent leur secret n'auront pas de paix.
+
+[429450-435100]
+Fɛn min bɛ kɔnɔ k'a fɔ ne, ni e ni ne ma bɛn, ne bɛ se k'a fɔ e ye cogo di?
+TU ne peux pas me dire ce que veut tant qu'on ne cause pas.
+
+[435300-437775]
+N'an ma sigi n bɛ se k'a fɔ i ye wa?
+Si on ne s'assoit pas je ne peux pas te dire.
+
+[437925-442000]
+Na an  ka sigi bɛ bɔ ni kuma dɔ ye, na n k'a fɔ iye te bɔ n'a ye.
+Viens on va causer peut sortir un secrt que viens me dire.
+
+[442175-445200]
+Na na ka baro ke bɛ bo ni kuma dɛ ye, na n k'a fɔ i ye te bɔ n'o ye.
+Viens causer sort un que viens je vais te dire ne peut pas.
+
+[445500-449700]
+N'a bɛ baro la, kuma dɔ bɛ se ka bɔ ni kuma ye.
+Une parole peux faire sortir une autre.
+
+[452400-455150]
+N'i ye dɔ ta , dɔwɛrɛ be bɔ.
+Quand tu prends unn, d'autre sort.
+
+[455225-458450]
+Fɛn bɛɛ b'a den wolo nka kuma b'a ba wolo. 
+Toutes choses donne naissance à leur bébé mai le parole donne naissance à sa mère.
+
+[467125-474300]
+N'i ye kuma fɔ dɔwɛrɛ bɛ bɔ.
+Quand tu commences à parler, las paroles vienennt.
+
+[474550-482475]
+I b'a sɔrɔ hali fɛrɛbɔwari te furumuso cɛ.
+On peut voir que le mari n'a même pas d'argent pour acheter de vêtement.
+
+[486300-490825]
+Fɔlɔ sangawuli tun bɛ kɛ mun kama.
+Pourquoi on portait des uniformes auparavant?
+
+[490950-494950]
+Sangawuli ninnu tun bɛ kɛ cɛ sutarali de kama.
+On portait des uniformes pour protéger les de l'humiliation.
+
+[495075-501075]
+Se dɔ bɛ e ye ka finba san nka o se tɛ ne ye.
+TOi tu as le pouvoir d'acheteer beaucoup d'habit, mais moi je n'ai pas ce pouvoir.
+
+[501200-504150]
+Se dɔ bɛ e ce ye ka nin kɛ e ye nka o se tɛ ne cɛ ye.
+Ton mari a le pouvoir de faire beacoup de choses mais le mien non.
+
+[504375-505850]
+sangawuli nakun ye o de ye.
+C'est pour cette raison que l'uniforme a été crée
+
+[508100-513725]
+Yaasa ni jama bɛ bɔ don min na, an bɛe ka kɛ fini kelen na.
+Pourqu'à lasortie de la masse, nous soyons dans la même tenue.
+
+[513975-519075]
+O la mɔgɔ t'a fɔ karisa de ye waritib karisa de ye bolokolon ye.
+Untel est riche untel est pauvre.
+
+[519250-521500]
+Sɔrɔ garijɛgɛ bɛ Ala de bolo.
+La richesse dépennd de Dieu.
+
+[525075-527925]
+Ala bɛ se ka mɔgɔ sɔn, Ala bɛ se ka mɔgɔ koli.
+Dieu peut donner à l'homme, Dieu peut nous en privé.
+
+[529475-531550]
+A be gɛlɛya i bolo.
+ça devient difficile pour toi.
+
+[531700-538975]
+Tɛlima ke a bɛ  gɛlɛya i bolo et de b'a fɔ ee, ne ba, ne y'a jira i la.
+Tellement que àa devient difficile pour toi, jusqu'à ce que tu  appelles ta mère.
+
+[544425-547525]
+Ala bɛ sɔn fana ka hinɛ i la i ba in kama.
+Dieu va t'aider a cause de ta mère.
+
+[547675-550575]
+Den musoman ka ko b'a fa de bolo.
+L'affaire de la dépend son père.
+
+[550675-553000]
+Den cɛman ka ko b'a ba bolo.
+L'affaire du garçon dépend son père.
+
+[554900-560200]
+Muso, an dusukun ka  ɲɛ an ka ke waldenw fɛ.
+Les femmes, ayons de bon coeur et aimont les enfants d'autrui.
+
+[560375-563375]
+An ka ke an yɛrɛ fɛ.
+Aimons nous même.
+
+[563550-566550]
+An dusukun ka ɲɛ an ka ke an cɛ fɛ.
+Ayon tde bon coeur pour aimer notre mari
+
+[566650-569450]
+N'i kɛra i ce fɛ, i bɛ kɛ i yɛrɛkun fɛ.
+Quand tu aimes ton mari, tu aimeras toi même.
+
+[569650-573769]
+N'i kɛra i cɛ fɛ, i bɛ kɛ i denw n'i cɛ ba fɛ.
+QUand tu aimes ton mari, tu va aimer tes enfants et la mère de ton mari.
+
+[573975-577600]
+Mɔgɔ tɛ se ka kɛ cɛ k'i t'a balimaw fɛ o.
+On ne peut pa aimer un homme et detester ses frères.
+
+[577950-582025]
+Cɛ balima minnu be so kɔnɔ olu ye e balimaw de ye.
+Les frère de l'homme qui sont dans la maison sont tes frères.
+
+[582225-585575]
+Cɛ fa minnu bɛ so kɔnɔ, olu ye e faw de ye.
+Les pères du mari sont tes pères.
+
+[585950-587475]
+E de bɛ bɛn ɲini u cɛ.
+Toi tu maintient la paix entre eux.
+
+[588800-594650]
+Cɛ n'a badnekɛ dɔ bɛ sɔrɔ so kɔnɔ u be san yirika bɔ u te kuma.
+Il peut y avoir un frère de ton mari avec qui il ne parle pas depuis plusieurs années.
+
+[594875-600175]
+Komi nimɔgɔya tulonkɛ ye laada dɔ ye anw fɛ yan farafinna.
+Comme le nimogoya est une tradition chez nous.
+

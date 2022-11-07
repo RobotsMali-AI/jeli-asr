@@ -1,0 +1,683 @@
+[111-9611]
+Kamalennin ko, ne fa aw ka bonya kɔnɔ, n b'a fɛ ka tɔgɔ da n yɛrɛ la bi.
+Kamalennin a dit à son père : Avec votre autorisation, je veux donner un nom à moi-même aujourd'hui.
+
+[9750-11305]
+Fa ko baasi tɛ.
+Le père a dit que c'est un problème.
+
+[11500-13333]
+E tɔgɔ ye di?
+Quel est ton nom ?
+
+[13499-15777]
+A ko ne tɔgɔ Fasago.
+Il a dit qu'il s'appelle Fassago.
+
+[15861-16666]
+I tɔgɔ ye di?
+Comment t'appelles-tu ?
+
+[16805-18833]
+Ne tɔgɔ ye Fasago.
+Je m'appelle Fassago.
+
+[19083-24944]
+Munna ne bɛ n tɔgɔ da Fasago, kabini ne wolola, ne ma n ba ye ka e sɔsɔ tile kelen.
+Pourquoi, je m'appelle Fasago, depuis que je suis né, je n'ai jamais vu ma mère discuter tes ordres.
+
+[25027-27722]
+Ne ma deli ka e sɔsɔ tile kelen.
+Je n'ai jamais discuté ton ordre.
+
+[27861-30083]
+AAnw bɛɛ be e sago de kɛ.
+Nous faisons tous  ce que tu veux.
+
+[30166-32444]
+O de la n ye n tɔgɔ da ko Fasago.
+C'est pourquoi, je me suis nommé Fassago.
+
+[32555-35583]
+N fa n'e ko ne ka fɛn o fɛn kɛ, ne b'o kɛ.
+Je ferai tout ce que tu me demandes de faire, père.
+
+[35750-38771]
+Ne tɔgɔ dacogo filɛ nin ye Fassago.
+Voici pourquoi je me suis nommé Fassago.
+
+[38944-40166]
+Fa nisɔndiyara.
+Le père s'est réjoui.t
+
+[40333-43416]
+A ko i ye tɔgɔ min da ka ɲi.
+Il a dit : ton nom est bon.
+
+[45500-48083]
+U tora ten u ni Fasago bɛ taa kungo kɔnɔ.
+Ils partaient en brousse avec Fassago.
+
+[48250-51472]
+U nana den filanan sɔrɔ.
+Ils ont eu le deuxième fils.
+
+[51583-55305]
+O den filanan nana kɛ cɛ ye.
+Ce deuxième enfant fut un garçon.
+
+[55416-58138]
+Dencɛ ma kɛ fila ye?
+On a deux fils maintenant.
+
+[58194-61888]
+Fasago bɛ weele o tɔgɔ la.
+On appelle Fassago par ce nom.
+
+[61999-67444]
+Dencɛ fitinin min nana, o tɔgɔ kɛra Kamalenin ye.
+Le deuxième fils venu aussi est aussi appelé Kamalennin.
+
+[67527-70555]
+Kin bɛɛ ko tugun kamalennin.
+Tout le quartier dit Kamalenni.
+
+[70694-75638]
+Anw yɛrɛ dabali banna, ninnu tɛ tɔgɔ da den na.
+Nous sommes confus, dans cette famille, on ne baptise pas l'enfant.
+
+[75777-78194]
+Min mana wolo dɔrɔn ko Kamalennin.
+Quand un enfant est né, on dit Kamalenni.
+
+[78333-80333]
+O y'anw kɛnɛmamɔgɔw ka kuma.
+Est la parole de nous qui sommes dehors.
+
+[80444-82333]
+ o tuma ninnu te tɔgɔ da u den na wa?
+Donc ces personnes ne baptisent pas leurs enfants ?
+
+[82416-87694]
+Dencɛ filanan nana t'o la, fo a tɔɲɔgɔnw y'a fɔ a y'a mɛn.
+Le second fils a entendu cela de la bouche des camarades.
+
+[87805-89555]
+A nan'a degun.
+La situation lui a dérangé.
+
+[89694-95805]
+Don dɔ la, fa ni ba sigilen bɛ baro la kalojɛ la.
+Un jour, le père et la mère causaient la lune était clair.
+
+[96027-98000]
+A ko Baba!
+Il a dit Baba !
+
+[98250-99250]
+O ko naamu!
+Il a dit oui.
+
+[99500-103611]
+Baba kuma bɛ  ne fɛ k'a fɔ i ye n'i ka yamaruya ye. 
+Avec ton autorisation, j'ai quelque chose à te dire.
+
+[103749-107416]
+Ne b'a fɛ k'i ɲininka ko dɔ la bonya ni karama kɔnɔ.
+Je veux te demander quelque chose.
+
+[107555-112666]
+N'i ye n jaabi, a ka di n ye, nka n'i ma n jaabi foyi t'a la.
+Si tu me réponds, cela me fait plaisir, mais si tu ne me réponds pas, ce n'est pas grave.
+
+[112861-116888]
+Fa ko o tɛ se ka kɛ, Kamalennin.
+Le père a dit : ça, c'est impossible, Kamaleni.
+
+[116999-119249]
+Ne y'i fa ye.
+Je suis ton père.
+
+[119305-123694]
+Ni e ko k'i be fɛn fɔ ne ye, ne b'i lamɛn de.
+Si tu dis que tu as quelque chose à me dire, je t'écoute.
+
+[123833-129416]
+A y'a minɛ a b'a da la, o ye tiɲɛ ye, nk'a b'a kɔnɔ, o ye ko wɛrɛ ye.
+Attrape-le, il l'a dit, c'est vrai ; mais c'est dans son ventre, c'est autre chose.
+
+[129583-132666]
+Min b'i kɔnɔ a fɔ n ɲɛna.
+Dis-moi ce que tu as dans ton ventre.
+
+[132833-134777]
+O y'a sɔrɔ ba sigilen don.
+La mère était assise.
+
+[134944-138750]
+Cɛ n'a muso n'a dencɛ fɔlɔ sigilen don.
+L'homme, sa femme et son fils aîné étaient assis.
+
+[138861-146861]
+A ko ne wolofuradama ni sisan cɛ, ne bɛka weele ko Kamalennin.
+Il a dit, depuis que je suis né, on m'appelle Kamaleni.
+
+[147027-149194]
+Ne tɔɲɔgɔn bɛɛ ne weele ko Kamalennin.
+Tous mes camarades disent Kamaleni.
+
+[149333-151722]
+Tɔgɔ dun bɛ ne tɔgɔn ninnu na.
+Mes camarades ont des noms.
+
+[151944-155066]
+Olu bɛɛ n'u tɔgɔ don nka ne de ye Kamalennin ye.
+Ils ont tous leurs noms, mais moi, je suis Kamaleni.
+
+[155305-161083]
+An fɛ yan farafinna, n'i cɛmanin ye si hakɛ dɔ sɔrɔ a bɛ fɔ i ma ko Kamalennin.
+Chez nous en Afrique, Quand le garçon atteint un âge, on l'appelle Kamaleni.
+
+[161277-163944]
+Ne bɛna to nin kamalenniya in na tan wa?
+Je vais rester comme Kamaleni comme ça ?
+
+[164083-166583]
+Fa ko i ye tiɲɛ fɔ.
+Le père a dit ; tu as raison.
+
+[166750-173777]
+Komi e kɔrɔkɛ sɔrɔla tuma min na o y'a sɔrɔ e tɛ.
+Quand ton grand frère venait au monde, tu n'étais pas encore né.
+
+[173972-175777]
+Anw ma tɔgɔ da i kɔrɔkɛ la.
+Nous n'avons pas baptisé ton grand frère.
+
+[176111-178305]
+I kɔrɔkɛ y'a yɛrɛ tɔgɔ da.
+Ton grand frère s'est baptisé lui-même.
+
+[178416-192666]
+Ka d'a kan aw bi denw n'anw ye tɔgɔ da aw la, n'aw kɔrɔbayara aw yɛrɛ ka kamalenyajogo ani aw bɛna min kɛ diɲɛ, a' bɛ tɔgɔ da aw yɛrɛ la.
+Parce que vous, les enfants d'aujourd'hui, quand on vous donne un nom, et que vous devenez grand, vous allez chercher un nom par vous-même.
+
+[192750-195472]
+A ka ca Ala fɛ aw bɛ weele o tɔgɔ de la.
+Vous serez appelé par ce nom.
+
+[195666-197500]
+o de la anw m'i kɔrɔke tɔgɔ da.
+C'est pourquoi on n'a pas baptisé ton grand frère.
+
+[197666-199527]
+I kɔrɔke y'a yɛrɛ tɔgɔ da.
+Ton grand frère s'est baptisé lui-même.
+
+[199638-201055]
+A ko a kɛra ten de wa Baba?
+Il a dit, c'est ainsi que c'est passé Baba ?
+
+[201194-201777]
+Awɔ
+Oui.
+
+[202083-206888]
+Baba i ka yamaruya kɔnɔ ni ne yɛrɛ bɛ se ka tɔgɔ da  n yɛrɛ la bi.
+Baba, avec ton autorisation, je peux baptiser moi-même aujourd'hui ?
+
+[209472-213305]
+Ni na fana bɛ se ka tɔgɔ da n yɛrɛ la, n bɛ tɔgɔ da.
+Si je peux me baptiser, je me baptise.
+
+[213499-215194]
+Fa ko yamaruya b'i bolo.
+Le père a dit : tu as l'autorisation.
+
+[215305-216444]
+N ye sira d'i ma.
+Je te donne l'autorisation.
+
+[216499-218361]
+Tɔgɔ da i yɛrɛ la.
+Baptise, toi-même.
+
+[218499-224305]
+A ko ne tɔgɔ ye ko Basago.
+Je m'appelle Bassago.
+
+[224361-227277]
+Ne ye n yɛrɛ tɔgɔda ko Bassago.
+Je me suis baptisé Bassago.
+
+[227388-228999]
+Ka da mun kan?
+Pourquoi ?
+
+[229166-232749]
+Ne ɲɛ yɛlɛnna ka n ba sɔrɔ e bolo.
+Avant ma naissance, tu vivais avec ma mère.
+
+[233083-243333]
+Ne ba ka bonya, karama, majigin, cɛbonya kama, ne be n tɔgɔ da ko Basago.
+À cause du respect que ma mère a pour toi, soumission qu'elle fait pour toi, je nomme Bassago.
+
+[243444-248194]
+Fɛn o fɛn ka di ne ba ye, o be diya ne Bassago ye.
+Moi Basago aime tout ce que ma mère aime.
+
+[248277-250499]
+Ne bɛ n tɔgɔ da ko Basago.
+Je me nomme Bassago.
+
+[250583-253666]
+Bamuso fana nisɔndiyara.
+La mère était heureuse.
+
+[253805-258444]
+O ko ni e ko k'i bi tɔgɔ da Basgo, o ɲɛna.
+Quand tu décides d'appeler toi-même Bassago, c'est bien.
+
+[258583-261777]
+U taara kungo kɔnɔ.
+Ils sont partis en brousse.
+
+[261944-264333]
+U bɛ sɛnɛ ke, u bɛ segin ka na so.
+Ils cultivent, ils reviennent à la maison.
+
+[264472-269472]
+Kabini kuma damine na n y'a fɔ i ye u dahirimɛ be sɛne in na.
+Depuis le début de la parole, je t'ai dit qu'ils vivent de l'agriculture.
+
+[269611-272194]
+A la nana den wɛrɛ di u ma.
+Dieu leur a donné un autre enfant.
+
+[272361-274555]
+O kɛra dence saba.
+C'est devenu trois fils.
+
+[277500-281583]
+U b'u fa ni ba bolo, u b'u lamɔ.
+Ils sont avec leurs parents, ils les éduquent.
+
+[281777-288555]
+U y'u lamɔ fo ka dencɛ sabanan se kamalenninya hakɛ ma.
+Ils les ont éduqués jusqu'à ce que le troisième fils atteigne l'âge de kamaleni.
+
+[288722-291583]
+Bɛɛ ko o fana ma ko kamalennin.
+Tout le monde appelle celui-là encore Kamaleni.
+
+[292138-303083]
+Don dɔ la u tilalen surafana to dunni la, a ko Baba ne mago b'e la.
+Un jour, après avoir mangé le dîner, il a dit, Baba, j'ai besoin de toi.
+
+[303277-305111]
+Baba ko e mago bɛ ne?
+As-tu besoin de moi ?
+
+[305250-308000]
+Ale ta fɔcogo ni tɔw ta ma ke kelen ye.
+Sa manière de faire était différente de celle des autres.
+
+[310972-312777]
+Baba ko e mago bɛ ne na?
+Baba a dit : as-tu besoin de moi ?
+
+[313000-314222]
+A ko ko awɔ.
+Il a dit : oui.
+
+[314333-316666]
+Ko e mago bɛ ne na ko mun?
+Tu as besoin de moi pourquoi ?
+
+[316805-319083]
+A ko munna aw bɛ ne weele ko Kamalennin ?
+Pourquoi vous m'appelez Kamaleni?
+
+[321888-326111]
+Ale kɛra den jamanen ye.
+C'était un fils orgueilleux.
+
+[326305-327805]
+Munna aw be n weele Kamalennn?
+Pourquoi vous m'appelez Kamaleni.
+
+[327916-330000]
+Aw de ye Kamalennin da minɛ n na so kɔnɔ.
+Vous avez commencé à m'appeler Kamaleni.
+
+[330166-332111]
+Kɛnɛmamɔgɔ bɛɛ filɛ
+Toutes les personnes dehors m'appellent Kamaleni.
+
+[334333-335916]
+Kamalenin ye mɔgɔ tɔgɔ ye wa?
+Est-ce que Kamaleni est le nom d'une personne ?
+
+[336027-337500]
+Kamalennin tɛ mɔgɔ tɔgɔ ye o.
+Kamaleni n'est pas le nom d'une personne.
+
+[337638-341416]
+I te mɔgɔ min dɔn n ko i b'o weele ko heyi walima kamalennin.
+Tu appelles quelqu'un que ne connais pas kamaleni ou Heyi.
+
+[341555-343444]
+A' bɛ ne weele munna ko kamalennin?
+Pourquoi vous m'appelez kamaleni?
+
+[343583-346250]
+Fa ko i baga jigin.
+Le père a dit calme-toi.
+
+[347805-351083]
+Anw m'a da i la ko Kamalennin.
+Nous ne t'avons pas donné le nom Kamaleni.
+
+[351305-355472]
+Anw ma tɔgɔ da i kɔrɔkɛ fila ninnu na.
+Nous n'avons pas donné un nom à tes deux grands frères.
+
+[355638-358527]
+U y'u yɛrɛ tɔgɔ da.
+Ils se sont baptisés.
+
+[358694-363583]
+Cɛman fɔlɔ y'a yɛrɛ tɔgɔ da ko Fasago.
+Le fils aîné a dit qu'il s'appelait Fasago.
+
+[363694-371138]
+Filanan y'a yɛrɛ tɔgɔ da ko Bassago.
+Le second a dit qu'il s'appelle Bassago.
+
+[371250-373833]
+Anw ma tɔgɔ da mɔgɔ si la.
+Nous n'avons baptisé personne.
+
+[374222-391277]
+An be tile min na bi, n'anw ye tɔgɔ da aw la, n'aw ma taa ke anw sago ye, a bɛ kɛ komi an ka tɔgɔ bɔ aw la.
+Actuellement, quand nous vous donnons un nom, si vous ne faites pas ce que nous voulons, nous allons regretter pourquoi on vous a donné un nom.
+
+[391444-396611]
+O de kama ne ko n muso ma an kana tɔgɔ da aw la.
+C'est pour cela que j'ai dit à ma femme de ne pas vous baptiser.
+
+[396750-401388]
+N'aw ye tɔgɔ min da aw yɛrɛ la, aw bɛ weele o la.
+Le nom que vous donnez à vous, on va vous appeler par ce nom.
+
+[401638-403361]
+O da don wa?
+C'est ça ?
+
+[404444-405444]
+A ko awɔ o don.
+Il a dit oui, c'est ça.
+
+[405638-409000]
+Wa ne ye n yɛrɛ tɔgɔ da bi Yɛrɛsago.
+Donc, je me suis baptisé aujourd'hui Yèrèssago.
+
+[409166-411111]
+Ne yɛrɛ de sago bɛ n yɛrɛ la.
+J'appartiens à moi-même.
+
+[413249-415472]
+Mɔgɔsi sago tɛ ne na yan.
+Je n'appartiens à personne ici.
+
+[415583-419888]
+Ni min ka di n ye n b'o fɔ, ni min ka n ye n b'o kɛ.
+Je dis ce que je veux, je fais ce que je veux.
+
+[420083-422055]
+Ne ka ko bɛ n yɛrɛ de bolo.
+Je m'occupe moi-même de mes affaires.
+
+[422111-424361]
+Ne yeYɛrɛsago de ye.
+Je m'appelle Yèrèssago.
+
+[424611-428888]
+Fa ko e ye Yerɛsago ye?
+Le père lui a dit : es-tu Yèrèssago?
+
+[433361-435777]
+Dencɛ saba bɛɛ n'i tɔgɔ tɛ?
+Les trois fils ont tous leurs noms ?
+
+[435944-440333]
+Fasago, Basago, Yɛrɛsago.
+Fassago, Bassago, Yèrèssago.
+
+[440472-444027]
+U n'u fa n'u ba bɛ ɲɔgɔn bolo.
+Ils sont avec leurs parents.
+
+[444222-446416]
+U bɛ taa  kungo kelen kɔnɔ.
+Ils partent dans la même brousse.
+
+[446527-447527]
+U bɛ taa sɛne kɛ yen.
+Ils vont cultiver.
+
+[453444-455861]
+An ka kuma fo k'a surunya.
+Parlons bref.
+
+[455999-462555]
+Yɛrɛsago de kera dangaden ye.
+Yèrèssago est l'enfant maudit.
+
+[462694-466999]
+Jineke dɔ nana sigida la o y'ale sɛgɛn kojugu.
+Un diable l'a trop fatigué.
+
+[467666-472305]
+A ka kɛwla foro kɔnɔ ma diya jinɛke ye.
+Ses actes dans le champ irritaient le diable.
+
+[472444-476999]
+Don dɔ la, jinɛke nana i yɛrɛ yɛlɛma ka ke waraba ye.
+Le diable s'est transformé en waraba.
+
+[477111-479749]
+Ko n be nin ka yɛrɛsagoya bɔ a la bi.
+Je vais corriger celui-là à cause de son orgueil.
+
+[480805-484388]
+fa ma se ba ma se nka ne b'a bɔ a la.
+Le père et la mère n'ont pas pu.
+
+[484527-489055]
+Jinece yi yɛrɛ yɛlɛma ka san fin fɔlɔ.
+Le diable s'est transformé.
+
+[489249-494499]
+San  finna ka san jigin ka sɔrɔ ka na i jɔ u ka bugu da la.
+Sous la pluie, il est venu s'arrêter devant leur case.
+
+[494611-498277]
+A ye foli kɛ ka don k'a b'i sigi u fɛ.
+Qu'il veut aussi entrer dans la case.
+
+[498361-499361]
+A donna k'i sigi u fɛ.
+Il est entré dedans.
+
+[499444-501888]
+Fasago ye sigiyorɔ di jinɛke ma.
+Fassago a donné la place au diable.
+
+[502027-503972]
+O y'a sɔrɔ a kɛra mɔgɔninfinsawura ye.
+Il avait la forme humaine.
+
+[504083-505194]
+O yi sigi dɔɔni
+Il s'est assis un peu.
+
+[505361-514638]
+O sigilen dɔɔni, Basago k'o ka na dɔ sigi ale sigiyɔrɔ la komi e sɛgɛnna.
+Bassago a donné sa place à Fassago après que celui-ci s'est un peu assis.
+
+[514749-518555]
+N'i nana i sigi ne sigiyɔrɔ la, ne fana ye denmisɛnnin ka tɛme e kan.
+Viens t'asseoir, je suis plus jeune que toi.
+
+[518749-520611]
+Yɛrɛsago ma wuli.
+Yèrèssago ne s'est pas levé.
+
+[520749-527250]
+Jinɛkɛ nana Yɛresago kɛ fɛn dɔ ye.
+Le diable a transformé Yèrèssago en quelque chose.
+
+[527416-529138]
+Bɛɛ dabali banna.
+Tout le monde était inquiet.
+
+[529222-533388]
+Fa nan'a dɔn ko fɛn min b'u fɛ ye jine ye.
+Le père a su qu'il avait à faire avec le diable.
+
+[533861-536305]
+A y'a muso weele.
+Il a appelé sa femme.
+
+[536416-540388]
+A k'o ni Basago ka taa so.
+Il lui a dit d'aller à la maison avec Bassago.
+
+[540527-547194]
+A y'a yɛrɛ ke yɔrɔfilɛla ye ka bɔ ni ka Fasago weele.
+Il a fait semblant de regarder quelque chose et a appelé Fasago.
+
+[547277-550822]
+Fasago tugura a fa nɔfe olu taara.
+Fassago a suivi son père, ils sont partis.
+
+[550944-551944]
+Jɔn tora yen?
+Qui est resté ?
+
+[552027-554944]
+Yɛrɛsago ni jinɛkɛ.
+Yèrèssago et le diable.
+
+[555083-558722]
+Jinɛkɛ ko a ma e m'a fɔ i tɔgɔ ye Yɛrɛsago wa?
+N'as-tu pas dit que tu t'appelles Yèrèssago.
+
+[558972-561722]
+E fa y'i weele kanɲa sba, e m'a laminɛ.
+Ton père t'a appelé trois fois, tu ne lui as pas répondu.
+
+[561888-563638]
+I b'i yɛrɛ sago de kɛ?
+Donc, tu fais ce que tu veux ?
+
+[563722-564722]
+Awɔ, ne be n yɛrɛ sago de kɛ.
+Oui, je fais ce que je veux.
+
+[564888-567333]
+I t'i senbɔ anw ka sokɔnɔko la?
+Ne te mêle pas de nos affaires familiales.
+
+[567444-569833]
+I t'anw ka sokɔnɔko dɔn i senbo a la.
+Tu ne connais pas nos affaires familiales, ne t'en mêles pas.
+
+[570000-571833]
+Ne fa de n fa ye a mun bɛ se i ma?
+Mon père, c'est mon père, qu'est-ce que tu veux ?
+
+[571944-573972]
+Jinɛcɛ ko ayi, a foyi tɛ se ne m;
+Le diable a dit non, ça ne me fait rien.
+
+[576166-580194]
+Jinɛkɛ nana i yɛrɛ yɛlɛma ka kɛ waraba ye.
+Le diable s'est déguisé en lion.
+
+[580305-583861]
+Ale ni Yɛrɛsago kelen de bɛ  bugu kɔnɔ sisan.
+Il est maintenant seul avec Yèrèssago dans la case.
+
+[584111-591166]
+Ka Yɛrɛsago mine k'a sama ka taa n'a ye fo kungo fan wɛrɛ.
+Il a attrapé Yèrèssago et l'a tiré jusqu'à un autre endroit dans la brousse.
+
+[591305-598166]
+A y'a disi far, k'a kɔ fara, ka jolifɔn bil a kɛrɛ fila bɛɛ la.
+Il a déchiré son dos, sa poitrine et mit de cicatrice sur son corps.
+
+[598277-601222]
+O bilalen o la tuma min na ko taa so.
+Après avoir fait ça, il lui a dit de rentrer à la maison.
+
+[601333-603277]
+Taa dangadenw ladi.
+Va conseiller les enfants maudits.
+
+[603388-606305]
+A ko k'a b'i kɔdon, a y'a minɛ k' je kelen bɔ. 
+En partant, il a arraché son œil.
+
+[606472-613194]
+Ni fini b'i la, i ka dangandenya tɛna dɔn nka ni n y'i ɲɛ kelen ci, i n'a dɔn k'a fɔ min don.
+Si tu portes habit mɔgow tɛn'a dɔn min don.
+
+[613305-615583]
+Mɔgɔw mana i ɲininka o la i yɛrɛ b'a ɲɛfɔ.
+Quand les gêne te demandent, tu vas t'expliquer toi-même.
+
+[615666-618194]
+Yɛrɛsago seginna ka taa dugu kɔnɔ.
+Yèrèssago est revenu au village.
+
+[618277-620833]
+Min mana a ye Yɛrɛsago e  ɲɛ kelen cilen don mun kɛra?
+Yèrèssago ton œil est cassé, qu'y a-t-il?
+
+[620944-623166]
+Ko dangadenya de y'a lase ne ma.
+C'est la malédiction.
+
+[623305-626222]
+Ne ma lamɔni mara sɔrɔ.
+Je n'ai pas l'éducation.
+
+[626416-628805]
+Jinɛ dɔ de filɛ ka nin kɛ ne na kungo kɔnɔ.
+Un diable m'a fait ça dans la brousse.
+
+[628916-630916]
+O de taamasiyɛn filɛ ne na
+Je porte ce signe comme ça.
+
+[635833-642055]
+O tuma foyi tɛ dangadenya ni marabaliya la ni nimisa te.
+Donc être maudit et mal élevé ne fait que regretter.
+
+[642222-647444]
+AN jɛ kan lamɔ n'a ka mara segin so.
+Faisant revenir notre éducation.
+
+[647750-653694]
+Ni fili yera kuma kɔnɔ,  ne ka kuma don bɛɛ fili ka da i kɔnɔta kan.
+Quand il y a une erreur dans la parole, c'est moi la fautive, tout le monde se trompe à cause de son opinion.
+
+[653888-658805]
+O tuma n bɛ Hakɛto ɲini filɛbaga ni lamɛngaw fɛ .
+Donc, je demande pardon aux auditeurs et aux spectateurs.
+
+
+
+

@@ -1,0 +1,804 @@
+[1300-2200]
+A wilila ka bɔ yen.
+Il a quitté la-bàs.
+
+[3110-5010]
+A nana ka n'i kunda yɔrɔ jumɛn kan?
+Quelle était sa prochaine destination?
+
+[5710-9910]
+A nana ka n'i kunda an fɛ faaba kɔnɔ Bamaɲare yan.  
+Sa destination fut chez nous ici Bamako, dans la capitale.
+
+[13510-14910]
+A nalen Bamakɔ,    
+Arrivé à Bamako,
+
+[17210-18310]
+A y'i sigi.
+il s'est installé.
+
+[18801-20442]
+O y'a sɔrɔ Bamakɔ ma bonya tan.
+A l'époque, Bamako n'était pas grand comme ça.
+
+[23910-25910]
+Yarɔ Bamakɔ tigi ye maa saba de ye:
+N'est ce pas que Bamako appartient à trois personnes:
+
+[26510-27310]
+Ɲare,
+Niaré,
+
+[27910-28710]
+Darawe,
+Dravé,
+
+[29010-29610]
+Ture.
+Touré.
+
+[31310-32710]
+A donna Ɲarelakaw kan,
+Il est parti chez les Niaré,
+
+[33210-34710]
+ a tar'i sara yen mɔgɔbaw la.
+s'adressant aux personnes importantes.
+
+[35400-37200]
+A ko ale de ye sanutigi Mama ye,
+Il se déclara en tant que c'est lui Mama, le propriétaire de l'or,
+
+[37310-41010]
+ale de ye waritigi Mama ye, ale de ye bonyatigi Mamaye, ale de ye karamatigi Mama ye.
+que c'est lui Mama le propriétaire de l'argent, le respecté et le respectueux.
+
+[42410-45110]
+Ɲare i bɛ mun fɛ Bamakɔ yan?
+Niaré qu'est ce que tu désires ici à Bamako?
+
+[47012-48010]
+A ko ne ka dugu,
+Il répondit que: moi mon village,
+
+[49705-50910]
+ne de y'a tutigɛ,
+c'est moi qui l'ai fondé,
+
+[51810-55010]
+n'ka min ka di n'ye, n b'a fɛ Bamakɔ ka bonya.
+mais ce que je désire, je veux que Bamako devienne grand.
+
+[56110-57200]
+Galaba Mama,
+Galaba Mama,
+
+[57405-60610]
+a ye seliji ta, a y'i jɔ seliwolo, a ye Ala wele tuguni.
+Il a fait ses ablutions, s'est positionné sur le tapis de prière pour prier à nouveau Dieu.
+
+[64900-66500]
+A ko Jamusa Ɲare ma,
+Il dit à Diamoussa Niaré, 
+
+[67910-69010]
+ni Ala sɔnna,
+si Dieu le veux,
+
+[69410-72317]
+e ka jamana in, dugu in bɛ na walangata.
+ta contrée, ton village, les gens le feront déborder.
+
+[73810-74710]
+Bamakɔ,
+Bamako,
+
+[74900-75800]
+dondɔ bɛ na,
+un jour viendra,
+
+[75900-81700]
+kin dɔw be k'ala, o kiw, a bɛ kɛ i na fɔ ni maa bɛ na taa taama mankanni na.
+il y aura des quartiers où on a l'impression d'avoir fait un petit voyage.
+
+[82573-84095]
+A fil'o tile la nin waati in na.
+C'est ce jour que nous vivons actuellement.
+
+[84371-85682]
+Ka bɔ Bamakɔ,
+Quitter à Bamako, 
+
+[87009-88795]
+komini I nan, ne yɛrɛ bɔra yɔrɔ min na,
+en commune I, là où moi même j'ai quitté,
+
+[89184-90306]
+ka na Kabaala yan,
+jusqu'ici à Kabala,
+
+[90580-91799]
+a bɛ taama mankan ni bɔ.
+ça équivaut à un moyen voyage.
+
+[95194-96440]
+Galaba Mama,
+Galaba Mama,
+
+[96855-97997]
+a y'i t'o la,
+dans tout ça,
+
+[98105-100710]
+a donna dugu maabaw kan, sabu a tun bɛ se ko caman na.
+a rencontré les personnes importantes du village, car il pouvait faire beaucoup de choses.
+
+[100810-104010]
+A ko Jamusa Ɲare ma, i bɛ se mun?, mun wɛrɛ ka di i ye?
+Il dit à Diamoussa Niaré: "qu'est ce que tu désires de plus?
+
+[105271-107110]
+A ko ne ka dugu mana bonya,
+Agrandir moi mon village,
+
+[109210-110210]
+ a ka kɛ jamana ye.
+jusqu'à une dimension du pays.
+
+[114776-118010]
+N'a kɛra jamana ye, dugu misɛnni caman ka y'a la.
+S'il prend la forme d'un pays, il faut aussi qu'il soit composé de plusieur
+
+[121186-123910]
+Galaba Mama, a y'o duwawu fɛnɛ kɛ Ala ye.
+Galaba Mama a demandé ça dans sa prière à Dieu. 
+
+[125410-126410]
+Ala y'o duwawu minɛ.
+Dieu accepta cette bénédiction.
+
+[127810-128916]
+An bɛ don min na i ko bi,
+là où nous sommes aujourd'hui,
+
+[130060-131318]
+an faso Mali,
+notre pays le Mali,
+
+[133010-134210]
+Maliba kɛra jamana ye bi.
+Le Mali est devenu un grand pays aujourd'hui.
+
+[138910-142810]
+Ala y'a kɛ jamana ye, ale Ala yɛrɛ ka mansaya n'a ka sebaaya kɔnɔ.
+Dieu dans sa puissance l'a fait un grand pays.
+
+[145310-146210]
+O kosɔn,
+C'est pourquoi,
+
+[146270-150805]
+Garaba Mama, a y'i sara Bamakɔ Ɲarelakaw fɛnɛ la.
+Garaba Mama, il s'est aussi adressé aux Niarés.
+
+[151110-153710]
+A k'ale Galaba nana a ta kama, a bɛ taa de.
+Que lui Galaba est venu pour une mission, donc il va partir.
+
+[153910-155010]
+Ale tɛmɛ tɔ don.
+Lui, il est un passager.
+
+[156010-159410]
+A bɔra Bamaɲare a nana ka n'i kunda yɔrɔ jumɛn kan?
+Il quitte Bamako, pour quelle autre destination?
+
+[160506-163110]
+A nana ka n'i kunda Narena kan.
+Il s'est dirigé vers Naréna.
+
+[163610-164510]
+Narena filɛ
+Naréna est situé,
+
+[165810-167210]
+n'i bɔra Bamakɔ,
+en quittant Bamako 
+
+[167619-168810]
+k'a kɛ inafɔ i bɛ taa Laginɛ,
+pour la Guinée
+
+[169470-170249]
+a b'o sira kan.
+c'est sur cette route.
+
+[173310-174310]
+ I y'a faamunya?
+As tu compris?
+
+[174410-177010]
+A taara ka taa, ɛ Narena fana, 
+arrivé jusqu'à Naréna,
+
+[177310-178910]
+ka Narena dugutigi ɲinin,
+il a cherché le chef du village de Naréna,
+
+[179110-180310]
+ka dugutigi yen,
+il l'a rencontré,
+
+[180410-181810]
+ka duwaw kɛ Narena ye.
+Il a fait des bénédictions pour Naréna.
+
+[182410-184810]
+O y'a sɔrɔ Narena bugutifa naani de tun bɛ Narena.
+A l'époque, il n'y avait que trois cases à Naréna.
+
+[187110-190410]
+N'ka an bɛ don min i ko bi, Narena kɛra toliso ye bi,
+Mais là où nous sommes maintenant, tout Naréna est en tôle,
+
+[190600-191510]
+k'a yɔrɔ bonya.
+et le site fut agrandi.
+
+[193781-195303]
+A ko ne sanutigi Mama,
+Il dit: "moi Mama, le propriétaire d'or,
+
+[195710-196910]
+ne waritigi Mama,
+le propriétaire d'argent,
+
+[197110-198410]
+ne bonyatigi Mama,
+le respecté,
+
+[198910-201810]
+ne de ye fuladenw ka Hamadi ye.
+moi je suis une personne spéciale parmi les autres.
+
+[205710-208010]
+N'i ko ko Hamadi fulaw cɛla,
+Quand tu dit Hamadi parmi les peulhs,
+
+[208910-211510]
+a b'inafɔ misiw faralen ɲɔgɔn kan,
+c'est comme si dans un troupeau de boeuf,
+
+[212110-213710]
+misi kelen min b'a la, 
+le seul boeuf qui,
+
+[213810-220410]
+n'i y'a ye bonya, janya, a gere, kɛnɛya, a galabu, i b'a dɔn k'a fɔ tiɲɛna nin de ye misi falen ye.
+à voir, sa tête, sa grandeur, ses cornes et sa dynamique, on sait tout de suite que ce bœuf est en très bonne santé.
+
+[222700-226000]
+Fulaw fɛ yen, n'a fɔra ko Hamadi, karisa de ye Hamadi ye,
+Chez les peuhls, quand on dit Hamadi, un tel est Hamadi,
+
+[226791-227711]
+aa,
+Ah!
+
+[228610-230210]
+i ye cɛ kunbaba tɔgɔ fɔ.
+tu as parlé du grand.
+
+[233210-234610]
+Garaba Mama,
+Garaba Mama,
+
+[235410-236410]
+a y'i t'o la,
+avec tout ça,
+
+[237915-239510]
+a nana ka taa sigi yɔrɔ jumɛn?
+il est parti s'installer où?
+
+[240610-242210]
+A ye Bonboti komɛn,
+Il a entendu parler de Bomboti,
+
+[242710-243910]
+a y'i kunda bonboti kan.
+et s'est dirigé vers la-bàs.
+
+[246900-249600]
+Ka taa se Bonboti, ka tɔgɔ sɔrɔ Bonboti,
+Il est parti à Bomboti et est devenu célèbre à Bomboti,
+
+[250210-253100]
+ka dugu sigi Bonboti yen, k'o tɔgɔda ko Bonbotibugu.
+fondé un village à Bomboti, du nom de Bombotibougou.
+
+[253610-257410]
+Ka kɔlɔn sen u ye, ka ji d'u ma, ka minaa bɔ dugu la.
+Il a creusé un puits pour le village afin de lutter contre le manque  dont le village était victime.
+
+[259210-261310]
+O kosɔn biko ma kow bila ka kɛ.
+C'est pourquoi, des choses se passent depuis fort longtemps.
+
+[261500-263211]
+Tɔgɔ Ala ka danfɛn do.
+La célébrité, c'est un fait de Dieu;
+
+[263510-265610]
+Ala ye jɔn wo jɔn dan tɔgɔtigiya kama,
+Toute personne créée par Dieu pour être célèbre,
+
+[266310-268510]
+a t'i faa n'a ma k'i ye.
+ne disparaîtra jamais sans l’être.
+
+[268910-270710]
+O kosɔn an ka mɔgɔkɔrɔbaw b'a fɔ,
+C'est pourquoi nos vieillards disent
+
+[270910-274510]
+ko Ala den min dan dugutigiya ka ma, k'a t'o faa bamunan na fiyewu.
+que: "chaque enfant né pour être chef de village, ne meurt jamais dans l'enfance.
+
+[275910-280010]
+O bɛ wolo kɔrɔtɛtigiw ɲɛna, a bɛ mɔɔ kɔrɔtɛtigiw ɲɛna.
+Il naîtra au vu et au su des détenteurs de mauvais sorts.
+
+[280718-283510]
+Kɔrɔtɛ tɛ fɛn k'ala, basi tɛ fɛn k'ala.
+Il est invulnérable à la sorcellerie et aux fétiches.
+
+[286110-289710]
+A  b'inafɔ ni Ala ye mansaya di mɔgɔ min ma, k'a b'i kɛ peresidan ye.
+C'est une personne à qui Dieu a donné la chance d'être président.
+
+[291310-292710]
+Peresidan be kɛ jamana kunna,
+Un président à la tête d'un pays,
+
+[293410-295010]
+i b' a sɔrɔ bolitigi bɛ jamana na
+peut être détesté par les féticheurs du pays,
+
+[295308-296419]
+moriw bɛ jamana na,
+par les marabouts du pays,
+
+[296610-300610]
+kɔrɔtɛtigiw bɛ yen, n'u y'a ci, a t'i jɛ, n'ka Ala bɛ don a n'o bɛɛ cɛ.
+les tireurs adroits du mauvais sort, mais Dieu le protège contre tous ceux-ci.
+
+[303401-307610]
+Fulaw fɛ yen, n'i kɛra getura ye, a bɛ f'i ma de ko Hamadi.
+ Chez les peuhls quand on devient exemplaire, on t'appelle Hamadi.
+
+[308310-309310]
+Getura ye mun ye?
+Getura est quoi?
+
+[309413-311210]
+Bamananw b'a fɔ ko fiyɛ kɛɲɛ jiri.
+Les bambara disent: "l'arbre résistant aux orages".
+
+[312510-314510]
+Yiri dɔ bɛ kungo kɔnɔ, 
+C'est un arbre de brousse,
+
+[315610-318205]
+fiɲɛ mana wili tan, a bɛ yiri tɔ bɛɛ kari,
+Au moment  où tous les arbres sont cassés où blessés,
+
+[319010-322510]
+n'ka ale, a b'ale fifan, k'a fifan, k'a fifan.
+lui il reste intact malgré la puissance du vent.
+
+[322810-323710]
+A bɛ kuru,
+Il peut se plier,
+
+[324010-325810]
+ka da, ka tila ka foni,
+se tordre, se déplier,
+
+[325910-326610]
+k'i jɔ.
+et se redresse.
+
+[326800-329800]
+Fiɲɛ mana ci, a b'i jɔ kilenw, o te foyi k'ala.
+Quelque soit la violence d'un orage, il tient toujours bon.
+
+[333400-334210]
+Fɔlɔ fɔlɔ,
+Autre fois,
+
+[334510-337910]
+bamanan furabɔlaw tun bɛ t'o yiri de ngɔmɔ bɔ,
+ce sont les tradithérapeutes bambara qui partaient  chercher l'écorce d’un tel arbre,
+
+[338800-340500]
+tu t'ala, ta t'ala,
+sans aucune formule magique,
+
+[340910-342510]
+K'a susu k'a bila u bolo yen.
+pour piller, et garder en leur possession.
+
+[342600-344110]
+Walima u b'a fura kari,
+Où bien ils coupent les feuilles,
+
+[344700-345700]
+ cɛw kuru saba,
+trois boules pour les hommes,
+
+[345810-347010]
+musow kuru naani.
+quatre boules pour les femmes.
+
+[348010-349110]
+K'a d'u ma,
+On leur donne,
+
+[350510-354500]
+ kunkolodimi, kɔnɔdimi, kɔja, kaliya.
+pour traiter les maux de tête, les maux de ventre, la grande fatigue et les douleurs aigües.
+
+[354710-356510]
+Ɛ, o y'a sɔrɔ dɔkɔtɔrɔ ko tile tɛ yen.
+A l'époque il n y'avait question d'agent de santé.
+
+[357810-361210]
+N'i y'i ko a la, k'a ji dɔni min dɔrɔn, Ala bɛ sɔn i ka bana bɛ nɔgɔya.
+Quand tu te laves avec, et le boit un peu ton état de santé va s'améliorer avec l'aide de Dieu.
+
+[363310-366110]
+Garaba Mama, a y'i sigi Bonboti
+Garaba Mama, s'est installé à Bomboli.
+
+[367010-368310]
+A tilara ka bɔ bonboti,
+Après il a quitté Bomboti,
+
+[369210-370710]
+a ye dugu dɔ komɛn,
+quand il a entendu parler d'un village,
+
+[372410-373310]
+ko Banamba.
+du nom de Banamba.
+
+[374500-377100]
+Banamba filɛ Kulikɔrɔ sira la.
+Banamba est situé sur la route de Koulikoro.
+
+[379099-380410]
+A y'i kunda Banamba kan.
+Il s'est dirigé vers Banamba.
+
+[382210-383410]
+A taara Banamba,
+Arrivé à Banamba,
+
+[384918-386210]
+Banamba dugu fana ka bon,
+La ville de Banamba est aussi grande,
+
+[386810-389310]
+sabu banamba, Kiban bɛ yen, 
+car il y'a Kiban,
+
+[389810-390810]
+Tuba bɛ yen
+il y'a Touba,
+
+[391210-392310]
+Madina Sakɔ bɛ yen,
+il y'a Madina Sako,
+
+[393310-394610]
+dugu dɔ bɛ yen ko Kaana,
+il y'a un village du nom de Kaana,
+
+[397600-398500]
+o fɛnɛ bɛ yen.
+c'est aussi la-bàs.
+
+[399110-400310]
+A dugu misɛnnin ka ca.
+Ses petits villages sont nombreux.
+
+[401510-402605]
+A y'i kunda yen kan.
+Il s'est dirigé vers la-bàs.
+
+[404105-405510]
+A kɛlen k'i kunda Banamba kan,
+Quand il s'est dirigé vers Banamba,
+
+[407010-409910]
+a taara sɔrɔ, Banamba dugu kɔnɔ, 
+il est parti trouver dans la ville de Banamba,
+
+[410710-412610]
+bɛnbaliya tun bɛ dugudenw ni ɲwan cɛ.
+une mésentente entre les habitants du village.
+
+[414910-417710]
+Garaba Mama, a y'i kuna dugutigi la kan.
+Garaba Mama est parti dans la famille du chef de village.
+
+[418411-420610]
+Banamba dugutigila ye Sɛmparala kaw de ye.
+A Banamba, la famille de la chefferie est la famille Simpara.
+
+[422210-423810]
+A y'i kunda yen kan min kɛ,
+Quand il y s'est rendu,
+
+[423810-426410]
+n'a sera yen, a ye Sɛmparaw sigi,
+à son arrivé il a réuni les Simpara,
+
+[426910-428810]
+Ko ka dugutigi, k'a se dugutigi ma.
+auprès du chef de village.
+
+[429110-431910]
+Mɔgɔbaya la, u y'a bisimila bulon de kɔnɔ.
+Pour lui faire honneur, ils l'ont accueilli dans le vestibule.
+
+[432000-433500]
+A bisimilayilen bulon kɔnɔ,
+A son accueil dans le vestibule,
+
+[436010-437210]
+dugu maabaw bɔra.
+les personnes importantes du village sont venues.
+
+[437510-439110]
+U y'a bonya k'a fana.
+elles l'ont respecté et lui ont offert des cadeaux.
+
+[440010-441410]
+K'a fana tɛ, dɔ wɛrɛ tɛ,
+K'a fana n'est rien d'autre que,
+
+[441504-442410]
+a dadiya,
+ses cadeaux,
+
+[443110-444610]
+ ka ji d'a ma, ka dumuni d'ama,
+lui donner à manger et à boire,
+
+[445510-446510]
+ka da yɔrɔ d'a ma.
+lui donner une chambre à coucher.
+
+[448210-450710]
+Tuma min na n'a jigina ka b'a ka sokɛ dafejɛ kan,
+Quand il est descendu de son cheval blanc,
+
+[450910-451710]
+a y'i sigi,
+il s'est assis,
+
+[452810-453910]
+ka dumuni kɛ,
+il a mangé,
+
+[454410-455410]
+ka ji min,
+bu de l'eau,
+
+[455600-456800]
+ka wuli k'i seli,
+il a prié
+
+[457010-458310]
+k'a lafiɲɛ bɔ dɔni.
+il s'est reposé.
+
+[458610-460110]
+A ye dugu maabaw ɲininka,
+Il a demandé aux personnalités du village,
+
+[460593-462000]
+ko mun de bɛ aw ka dugula yan?
+qu'est ce qu'il y a dans votre village ici?
+
+[463010-464010]
+ko bɛnbaliya.
+que la mésentente.
+
+[465510-468010]
+A ko Banambakaw ma, ko n bɛ duwawu k'aw ye.
+Il promit aux habitants de Banamba de leur faire des bénédictions.
+
+[469910-471010]
+Fo ka taa diɲɛ wili,
+Jusqu'à la fin du monde,
+
+[472810-475110]
+Bananba ka, u tɛ ɲwan janfa.
+Les habitants de Banamba  ne se trahissent pas.
+
+[475810-480210]
+Fo ka taa diɲɛ wili, Bananba ka, u b'u denw di ɲwan ma.
+Jusqu'à la fin du monde, les gens de Banamba se marient entre eux.
+
+[480700-482100]
+Fo ka taa diɲɛ wili,
+Jusqu'à la fin du monde,
+
+[482200-483300]
+Bananba ka, 
+les gens de Banamba,
+
+[484650-489510]
+Baden fa kelen, ba kelen, olu bɛ kɛ ɲwan furuɲwan ma ye, ka kɛ ɲwan jigi ye.
+Les frères et sœurs de lait vont être des alliés par le mariage, et l'espoir des uns des autres.
+
+[489610-491210]
+I m'a ye Bananbaka ka wari tɛ bɔ wa?
+Tu ne vois pas que la richesse de Banamba ne va pas ailleurs?
+
+[493310-494510]
+Maraka bɛ ten.
+Le Soninké est comme ça.
+
+[497416-500310]
+Siya tɔw b'a fɔ ko hinɛ b'u la, makari b'u la,
+Les autres ethnies disent aux Soninké qu'ils ont la compassion,
+
+[500410-501510]
+dɔwɛrɛ tɛ dɛ,
+c'est par ce que,
+
+[501810-503210]
+Garaba Mama ye duwawu k'u ye,
+Garaba Mama leur a fait des bénédictions,
+
+[506800-508400]
+sabu Alajɔn tun don.
+parce qu'il était un croyant.
+
+[509510-512810]
+Nabiɲuma tun tɛ, Kira tun tɛ, Alajɔn don.
+Il n'était pas un prophète, ni un saint mais il était un croyant.
+
+[514710-516910]
+Pariseke Ala tun y'a sɔn diɲɛ fɛnbɛ kemɛ kɛmɛ la.
+Parce que Dieu lui avait tout donné dans ce monde.
+
+[521318-525306]
+An bɛ fiɲɛ min sama n'an b'a bila, Ala tun y'a di Garaba Mama ma.
+L'air que nous respirons, Dieu l'avait donné à Garaba Mama.
+
+[526810-527910]
+Ka bonya d'a ma,
+Il lui avait donné la grandeur,
+
+[528000-528800]
+ka karama d'ama,
+le respect,
+
+[529700-530800]
+ka sabali d'ama,
+la douceur,
+
+[530810-531710]
+ka hakili d'ama.
+le bon esprit.
+
+[533503-536010]
+N'a ko min, ɲɛ tugun n'a yɛlɛ cɛ o bɛ kɛ,
+Tout ce qu'il demandait à Dieu était exaucer immédiatement,
+
+[537110-538710]
+Ala tun y'o dɔnniya d'ama.
+Dieu lui avait donné cette connaissance.
+
+[539610-541010]
+Mɛ gundo tun b'ani Ala cɛ,
+Mais il avait un secret avec Dieu,
+
+[543210-544610]
+kile tun b'a ni Ala cɛ
+il avait une clef pour accéder à Dieu.
+
+[545420-547210]
+N'Ala y'i dan k'i kɛ Alajɔn ye,
+Si Dieu  fait de toi un  bon croyant,
+
+[547500-548900]
+n'i ye Ala tinɛ to yen,
+si tu respecte les interdits de Dieu,
+
+[549910-551510]
+fɛn min ka d'i ye, Ala b'a k'i ye.
+Dieu exaucera tous tes vœux.
+
+[554900-560610]
+Nka min man di Ala ye, n'i y'o kɛ don min, n'i ye min sɔrɔ, o fana ye ale Ala nɔ ye.
+Mais quand tu entraves aux interdits de Dieu, il te fera aussi ce que tu détestes.
+
+[564210-565710]
+Garaba Mama, a nana bɔ yen,
+Garaba Mama, il a quitté la-bàs,
+
+[566010-567310]
+a y'i kunda Tuba kan,
+pour se rendre à Touba,
+
+[569710-571300]
+ka tila ka taa Marakaw sɔrɔ yen,
+et retrouver encore les soninkés,
+
+[572900-574410]
+u bɛ kuranɛ kalanna.
+en lecture de Coran.
+
+[575310-576610]
+A ye salamu bila,
+Il a salué,
+
+[577400-578810]
+marakaw ye salamu kanda.
+les soninkés lui ont répondu.
+
+[579510-581210]
+Tuma min na n'u ye samalu kanda,
+Quand ils lui ont répondu,
+
+[582817-584210]
+a ko ne de ye Garaba Mama ye.
+C'est moi Garaba Mama.
+
+[585300-589900]
+Sanutigi Mama ye ne de ye, waritigi Mama ye ne de ye, bonyatigi Mama ye ne de ye, tɔgɔtigi Mama ye ne de ye.
+C'est moi Mama, le propriétaire de l'or, Mama le propriétaire de l'argent, Mama le respecté, Mama le célèbre.
+
+[593010-594410]
+N bɛ n ka jamana taama la.
+Je suis en tournée nationale.
+
+[595610-596710]
+ Mission de bɛ n bolo,
+Je suis en mission,
+
+[597910-599010]
+ka diɲɛ lajɛ,
+de sillonner le monde,
+
+[599410-600510]
+fantan minnu bɛ yen,
+les personnes démunies qui y sont,
+
+[601010-602110]
+sentan minnu bɛ yen
+les pauvres qui y sont,
+
+[602310-603210]
+dugu minnu bɛ yen,
+les villages qui y sont,
+
+[603410-604410]
+ni ji tɛ yen,
+où il y'a problème d'eau,
+
+[605008-606210]
+Ala ye ne sɔn,
+Dieu m'a gratifié,
+
+[606710-608110]
+ko n ka hinɛ o duguw la.
+pour venir en aide à ces personnes et villages.
+

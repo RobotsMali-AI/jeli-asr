@@ -1,0 +1,451 @@
+[0-4985]
+(Baro)
+(causerie)
+
+[5000-11115]
+(baro)
+(causerie)
+
+[11150-17560]
+(Yɛlɛkokan)
+(rire)
+
+[17587-23701]
+(baro)
+(causerie)
+
+[23740-29029]
+(baro)
+(causerie)
+
+[29062-34060]
+(baro)
+(causerie)
+
+[34129-39310]
+(baro)
+(causerie)
+
+[39350-41670]
+(baro)
+(causerie)
+
+[41703-48144]
+Ola, ny'a fo ko u ko ko a forobaya.
+En effet, j'ai dit qu'ils ont dit de le généraliser.
+
+[48164-51343]
+Sadi, bi mɔgɔ bɛɛ mako bɛ jɔ a la
+C'est-à-dire, tous les gens d'aujourd'hui en ont besoin.
+
+[51410-57120]
+Faantan dama bɛ kɛɲɛ ala cɔgoyami na fagama fana dama bɛ kɛɲɛ a la o cogoya de la.
+C'est valable aussi bien pour le pauvre que pour le riche.
+
+[57470-60672]
+O ko ɲamakala.
+On dit l'homme de caste.
+
+[60750-64980]
+(kɔnɔn kasikan ) Bɛɛ bilala i ka baara la 
+(cri d'oiseau) Tout le monde a été mis à sa fonction.
+
+[65647-72450]
+O kɛra sa bakelen ni kɛmɛ fila ni bi saba ani wɔɔrɔ Mande a (inintelligible)
+Cela a été fait en mille deux cent trente-six au Mandé ( inintelligible)
+
+[72456-79475]
+(jɛnabɔli)
+(régulation)
+
+[79660-84755]
+(ɲɛnabɔli)
+(Régulation)
+
+[84960-89770]
+(Jɛnabɔli)
+(Régulation)
+
+[89800-90990]
+O kɛra.
+Cela est fait.
+
+[91846-96783]
+(Ɲɛnabɔli)
+(Régulation)
+
+[96919-101150]
+O kɛra san ba kelen ni kɛmɛ fila ni bi saba ani wolowula, Mande à kurukanfuga.
+Cela est fait en mille deux cent trente-sept au Mandé à Kouroukanfouga
+
+[101316-106776]
+(ɲɛnabɔli)
+(Régulage)
+
+[106802-113240]
+ (Baro)
+(Causerie)
+
+[113364-118327]
+(Ɲɛnabɔli)
+(Régulation)
+
+[121202-126132]
+N ko o ko a bɛ ka forobaya.
+Je dis qu'ils ont dit de tout généraliser.  
+
+[126538-130140]
+Jeli, numu
+Le griot, le forgeron.
+
+[130179-138270]
+Garange,  ani maabɔ  ani Sake, gusantake ani gesere.
+Le cordonnier, le griot toucouleur, le sellier, le griot soninke et le crieur public soninke
+
+[138884-146309]
+ani banbaadɔ ani labɔ nin bɛɛ ka forobaya, bɛɛ damana ka kɛɲɛ a la.
+et le griot peulh, et le "labo", tout ceci doit être généralisé et que ce soit valable à tout le monde.
+
+[146360-152843]
+An k'u weele ka fɔ ko ɲɛbaa kalaw minnu bɛ ɲɛ an man k'a kala
+On les appelle les "batons-aidants" ceux qui nous aide à co-habiter. 
+
+[153402-155272]
+Kɔnɔnkasikan.
+Un cri d'oiseau.
+
+[156499-159876]
+A ka fɔ ɲamakala, ɲamakala a daminɛna ta.
+Dire homme de caste, homme de caste c'est commencer comme ça.
+
+[162099-165935]
+Ɔ,u bonyana mɔgɔw fɛ.
+Ils ont été respectés par les gens.
+
+[166413-168822]
+N'i ye mɔgɔ bonya a b'i barakada,
+Qquand tu respectes quelqu'un, il va te remercier.
+
+[170142-173955]
+N'i ye fɛn kɛ mɔgɔ ye, a tigi b'i fo.
+Si tu fais quelque chose pour quelqu'un, il va te saluer. 
+
+[175865-182404]
+Fɛn min kɛra u ye> yarɔ n y'a f'i ko olu de bɛ taa furu ɲini?
+Ce qui est fait pour eux> n'est ce pas que je t'ai dit que c'est eux qui partent en quête de mariage ?
+
+[183630-188304]
+N'i taara mɔgɔ den ka furu ɲini mɔgɔ ye n'a y'a d'i man.
+Quand tu pars chercher la fille de quelqu'un en mariage pour quelqu'un d'autre, s'il te la donne,
+
+[188437-191461]
+Kɔɲɔ bɛ kɛ don min na e de bɛ kɛ seere ye
+le jour du mariage c'est toi qui seras le  témoin.
+
+[191832-194180]
+Gɛlɛya ni nɔgɔya min b'a kɔnɔ e de b'o dɔn.
+Tu vas savoir la difficulté et la facilité qui s'y trouvent.
+
+[196981-206960]
+Ni kɔɲɔ bɛ kɛ don min na, a ka kan i ka kɛ seere ka lakale < aa ne nin furu nin ɲini ne ye gɛlɛya in sɔrɔ akɔnɔ ne ye nin nɔgɔya in sɔrɔ a kɔnɔ.>
+Le jour du mariage, tu dois être témoin pour dire : <"Ah ! J'ai fait les démarches pour ce mariage, j'ai trouvé telle difficulté, j'ai trouvé telle facilité.>
+
+[209752-214551]
+N taara furu ɲini ninnu minnu fɛ yen mɔgɔw do minnu bɛ mɔgɔ furuɲɔgɔ bɔ.
+Ceux chez qui je suis allé faire les démarches du mariage sont des gens dignes de mariage.
+
+[215517-218958]
+Wa muso fana bɛ na mɔgɔminnu fɛ yen, olu fana bɛ mɔgɔ furuɲɔgɔ bɔ.
+Et ceux chez qui la femme va venir, eux aussi sont dignes de mariage.
+
+[219744-222908]
+ A tora ten de fo ɲamakalaw kɛra kumannikɛlaw ye.
+Cela a été ainsi jusqu'à ce que les hommes de caste deviennent des beaux parleurs. 
+
+[224693-228250]
+Ɲamakalaya a tun ma dabɔ kuman kama.
+Être homme de caste n'était pas fait pour la parole.
+
+[228950-234665]
+Ko mɔgɔ de bɛ taa jɔ ka kuman i n'a fɔ  bi an bɛ ka kauman cogom min na.
+C'est quelqu'un qui va s'arrêter et parler comme on le fait aujourd'hui.
+
+[237215-240116]
+< I fa ka ɲii ba ka ɲi>, ɲamakalaya ma dabɔ o kama.
+<Ton père est bon, ta mère est bonne>, être homme de caste n'est pas fait pour cela.
+
+[241480-245293]
+A dabɔra kalali ani kodilan de kama.
+C'était destiné à la couture et à la résolution de problème.
+
+[248278-250191]
+Ɲamakaya dabɔra o de kama.
+Être homme de caste était destiné à cela.
+
+[252094-255313]
+Minnu be a la ni olu be foli kɛ.
+Ceux qui là-dedans jouent à la musique,
+
+[256853-259963]
+Olu tun bɛ yen foli tun bɛ kabini fɔlɔ.
+ils étaient là, la musique existait depuis longtemps.
+
+[260190-265448]
+Hali bi, fɔli dama ka kan bɛɛ la, a dama ka kan hɔrɔn na cogo min a dama ka kan ɲamakala ten.
+Même aujourd'hui, la musique est valable pour tout le monde, c'est valable pour le noble comme c'est valable pour l'homme de caste.
+
+[267618-275441]
+Nga, kurukanfugadon, a sɔrɔ la minnu bɛ yennɔ n'olu tun bɛ fɔli kɛ ɲamakalaw la
+Le jour de kouroukanfouga, il se trouve que ceux  qui jouaient à la musique parmi les homme de caste,
+
+[276136-280460]
+A fɔra ka fɔ ko a dan olu ma mɔgɔ kana don olu foro kɔnɔ
+il a été dit que ça se limitait à eux, que personne d'autre n'entrait dans leur champ.
+
+[283113-287187]
+U t'a fɔ ko kurukanfuga don, ko sariya binaani ni sariya naani tara wa?
+Ne vont-ils pas dire que le jour de kouroukanfouga quarante-quatre lois ont été adoptées ?
+
+[288282-290728]
+Ni b'o sariyaw la 
+Celle-ci fait partie de ces lois.
+
+[292607-294917]
+O kɔrɔ ye mɔgɔ kana mɔgɔ ka baara kɛ.
+Cela veut dire que nul ne doit pratiquer le métier de l'autre.
+
+[295757-300580]
+Bɛɛ ka to i ta la yasa i be se ka i ta kɛcogo ye.
+Chacun reste dans le sien pour qu'on puisse voir la manière du sien.
+
+[302606-310391]
+O ɲamakala minnu bɛ fɔli kɛ olunana kanna dɔkili don a kɔrɔ dokili fana tun bɛ da kabini fɔlɔ.
+Ces hommes de caste qui jouaient de la musique, ont associé le chant, le chant également était là depuis longtemps.
+
+[311267-319399]
+Dɔnkili in  o ka kɔrɔ ni ɲamakalaya kuman ye.
+Ce chant est plus vieux que la parole de l'homme de caste.
+
+[323617-333540]
+Sadi k'a daminɛ kunu  fo kana bila bi la, donkili de tun bɛ da fɛ u cɛ ɲɔgɔw na.  
+C'est-à-dire, depuis hier jusqu'à maintenant, c'étaient des hommes qui chantaient derrière d'autres hommes.
+
+[337745-344444]
+O kɔrɔ ye  ka farinya, k'a kɛ cɛ ye k'a jira a la ka fo ko cɛ don kana kɛ fugari ye
+Cela signifie le galvaniser, le rendre homme, lui montrer qu'il est un homme, qu'il ne doit pas être lâche.
+
+[347012-348148]
+(Inintelligible)
+(inintelligible)
+
+[351423-358864]
+Nga  a mana kɛ cogo o cogo mɔgɔw mɔgɔw la, Ala bɛ olu garisɛgɛ
+Mais quoi que ce soit il y a des gens qui sont chanceux par la grâce de Dieu.
+
+[359964-362760]
+Olu tɛ tugu faantan kɔ fiyew fo setigiw;
+Ils ne suivent que des riches.
+
+[362900-364460]
+Ala yɛrɛ de bɛ olu garisɛgɛ.
+C'est même Dieu qui leur donne cette chance.
+
+[366763-368520]
+O bɛ kɛ hakilitigibaw ye.
+Ils deviennent des doués d'esprit.
+
+[368629-370202]
+O bɛ kɛ kodɔnnabaw ye.
+Ils deviennent de grands savants.
+
+[370380-372868]
+U bɛ kɛ kodilanlibaw, kodilanbagabaw
+Ils deviennet des arrangeurs, des arrangeurs de situation.
+
+[372920-375968]
+U bɛ kɛ mɔgɔw ye minnu n'u ye fɛn min  fɔ a bɛ faamu.
+Ils deviennent des gens qui disent des choses compréhensibles.
+
+[376173-380782]
+ Masakɛw de bɛ olu gɛrɛ olu yɛrɛ la  k'u u kɛrɛfɛmɔgɔ ye
+Ce sont des rois qui les appellent et font d'eux leurs proches.
+
+[380900-384562]
+< E ka to n kɛrɛ fɛ e ka n> lamɛ min bɛna kana fɔ n kɛrɛ fɛ>.
+< "Reste près de moi et écoute ce qui va y être dit"> .
+
+[384602-389106]
+I k' a lamɛ ni ɲuman b'a la i ka fo n ye ni ɲuman t'a i ka fo n ye.
+Ecoute, et dis-moi s'il y a de bonnes ou de mauvaises nouvelles.
+
+[389622-396060]
+I k'a lamɛ fana ni fili min bɛ a la n'a bɛ se ka dilan cogo min na e ka dilan
+Ecoute également s'il y a une erreur et si tu peux la réparer à ta manière.
+
+[396080-398895]
+Kuman bɛnnen do  e la n ye kuman tigiya di e man.
+Cette parole te convient, je te donne la responsabilité de la parole.
+
+[398989-401301]
+.Kuman bɛnnen do e ka tɛmɛ ne kan
+La parole te convient mieux qu'à moi.
+
+[404813-407941]
+Ni n bɛ kuman min fo, n b'a do e da.
+Si je vais dire quelque chose, je vais te le faire dire.
+
+[408081-409622]
+Fili ka ɲi e la ka tɛmɛ ne kan.
+L'erreur te convient mieux qu'à moi.
+
+[409651-414625]
+Sadi, bɛn kɛra a kan ka fo e de bɛ anw ni ɲɔgɔ cɛ ka an labɛn k'an dilan
+C'est-à-dire, il a été convenu que c'est toi qui est parmi nous, qui nous prépare et nous corrige.
+
+[415678-423620]
+O de y 'a to ni masakɛ bɛ kuman a ɲamakalakɛ de bɛ wuli>
+C'est ce qui a fait que si le roi parle, c'est son griot qui se lève,>
+
+[423650-429308]
+O bɛ wuli o b'i jɔ masakɛ b'a fɔ ye ta a b'o fɔ.
+il se lève et s'arrête : "le roi dit ceci", il le dit.
+
+[429609-434490]
+Dɔw bɛ yen masakɛ b'a fɔ ye  foli kɛ mɔgɔw ye ni n  tɔgɔ ye.
+Il y a certains, le roi leur dit, saluez des gens en mon nom.
+
+[434557-436800]
+A bɛ foli kɛ k'a ban pewu.
+Il fait toute la salutation.
+
+[437216-439450]
+Barikada min ka kan ka kɛ a bɛ o barikadaw kɛ.
+Et les remerciements qui doivent être faits.
+
+[439487-444041]
+A b 'a fɔ ayiwa ni fili min kɛra a la, masakɛ ka fili tɛ dɛɛ ne de ka fili do.
+Il dit : "Donc, s'il y a une erreur, elle vient de moi et non du roi".
+
+[444845-448898]
+O kɔrɔ ye ka masakɛ bonya safɛ ani dɔgɔya ma kan.
+Sa signification est de respecter le roi, c'est-à-dire qu'il ne mérite pas qu'on lui manque de respect.
+
+[449926-453070]
+Masakɛ ka kan ka i cogo dɔn i ka kuman na, kuman fo  cogo la.
+Le roi doit faire attention à la parole, à l'expression.
+
+[453172-457692]
+Sadi kuman bɛ mɔgɔ kɛ ka mɔgɔw kan kuman bɛ mɔgɔw fana kɛ ka ban mɔgɔ.
+C'est-à-dire, la parole fait aimer, la parole peut aussi faire nuire.
+
+[458488-462235]
+O de y' a  fɔlɔ an mɔgɔbaw olu jantora kuman na kojugu
+C'est pour cela nos ancêtres étaient méfiants à l'égard de la parole.
+
+[463270-472187]
+Kuman ma ɲi o de la u b'a fo da ma ɲi da makarako ma ɲi makun makuntutun ma ɲi sigi maɲi sigisigi ma ɲi ko da ye wara k'o b'a tigi minɛ.
+La parole n'est pas bonne, c'est pour cela qu'on dit que la bouche n'est pas bonne, se taire n'est pas bon, être muet n'est pas bon, hésiter n'est pas bon et la bouche est un lion qui attrape son propriétaire.
+
+[473732-477840]
+Kuman ye tasuman ye a tigi bɛ to la, kunko de do a tigi bɛ tunun a kɔnɔ.
+La parole c'est un feu où brûle son propriétaire, c'est une forêt où son propriétaire est égaré.
+
+[481513-488189]
+Bɛɛ kɔni b'a dɔ n'i ye muso foolotɔ kɔni bannen cɛ kayatɔ kɔni na  o kɔni o ye malobaliya ye.
+Tout le monde sait que si tu vois la femme atteinte du goitre refuser un homme atteint d'hydrocèle, c'est de l'effronterie.
+
+[489507-491131]
+Kuru bɛɛ n'a bɔfan.
+Chaque coup vise un endroit précis.
+
+[491213-498524]
+Bolokurukan kɔni cayalen jigibagatɔso kɔni na bɛɛ kɔni b'a ko fa wɛrɛ bɔlen bɛ den min n'a wolonfa tɛ kelen
+Des coups de points dans la maternité sous-entendent que l'enfant a eu deux pères différents.
+
+[501207-508140]
+O la, kodɔnaw  ye ɲamakala sigi ni nin sigicogo in ye.
+Les savants ont installé les hommes de caste de cette manière.
+
+[508245-510929]
+Bɛn kɛra a kan ni in bɛnkan in de ye.
+Ils en ont convenu par cette convention.
+
+[511550-515421]
+Fo kana bila bi la yɛlɛmanniw nana
+Jusqu'aujourd'hui, de petits changements ont été apportés.
+
+[517575-520634]
+Ɲamakala tun bɛ ngɔnni min fɔlɔ
+La guitare-harpe dont l'homme de caste jouait,
+
+[520890-522714]
+A n'u bɛ tamani min fɔ.
+Le petit tambour dont ils jouent,
+
+[522960-524954]
+A n'u bɛ jenbe min fɔ.
+Et le tam-tam qu'ils jouent,
+
+[525135-526589]
+An'u bɛ dunu min fɔ.
+Et le tambour dont ils jouent,
+
+[527236-528591]
+I na fɔ n y'a fɔ i ye cogo min na
+comme je te l'ai dit,
+
+[529078-530740]
+O dama ka k'an bɛ la
+cela est valable pour nous tous.
+
+[530799-533231]
+Sadi olu fɛnw ye kannu de ye.
+C'est-à-dire que leurs choses sont de l'amour.
+
+[534732-538480]
+Fɔli bɛ se ka kɛ e kanu fɛn , e bɛ gɔni ta i b'a fɔ
+Tu peux aimer la musique, prends la guitare-harpe et tu joues.
+
+[541818-547920]
+Nga anw  fɛ Mali la, yɛrɛwolo, min ye hɔrɔn ye, a bɛ maloya ka gɔni ta k'a fɔ.
+Mais chez nous, au Mali, le noble a honte de prendre la guitare-harpe et d'en jouer.
+
+[548021-552100]
+Mɛ i b'a sɔrɔ a bɛ jenbe fɔ , o ye fɔlifɛn dɔ de ye
+Mais tu trouves qu'il joue du tam-tam, ça aussi c'est un instrument de musique.
+
+[555345-556782]
+A bɛ jenbe fɔ
+Il joue du tam-tam !
+
+[557033-558973]
+Mɛ i b'a sɔrɔ a tɛ gɔni fɔ.
+Mais tu te rends compte qu'il ne joue pas la guitare-harpe.
+
+[561019-564917]
+Hɔrɔn bɛ gitari ta n'o ye tubabu ka fɔlifɛn.
+Le noble prend la guitare qui est un instrument de Blancs.
+
+[565030-567684]
+A b'a ta a b'a fɔ.
+Il la prend, il en joue.
+
+[568315-570158]
+Nga a bɛ jenbe fɔ.
+Mais il joue du tambour;
+
+[570608-572425]
+Aa a tɛ gɔni fɔ!
+Ah ! Il ne joue pas de la guitare-harpe.
+
+[572779-573603]
+A tɛ taman fɔ.
+Il ne joue pas du tambourin.
+
+[573803-577834]
+N'i ye tamani ye mɔgɔ o mɔgɔ la jeli do!
+Si tu vois quelqu'un porter le tambourin, c'est un griot.
+
+[580176-584807]
+O de y'a to b'a da mande dɔnkili la ka fɔ ko mande taman ni mande bala
+C'est pour cela qu'on dit dans les chansons de mandé :  <le tambourin du Mandé et le balafon du Mandé.>

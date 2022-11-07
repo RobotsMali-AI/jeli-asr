@@ -1,7 +1,7 @@
 # Jeli ASR & Dataset
 
 ## What is Jeli-ASR
-This is a multidimentional open-source package consisting of a dataset & an ASR model. The dataset consists of the transcriptions of 30 hours of griots stories and narrations, and their translations. The corresponding [audio](https://zenodo.org/record/7094702) is hosted on zenodo. The ASR model development is actively ongoing, please take a look [asr](./asr/).
+This is a multidimentional open-source package consisting of a dataset & an ASR model. The dataset consists of the transcriptions of 30 hours of griots stories and narrations, and their translations. The corresponding [audio](https://zenodo.org/record/7296317) is hosted on zenodo. The ASR model development is actively ongoing, please take a look [asr](./asr/).
 
 ## Dataset
 The Griots corpus is a speech corpus containing both audio and its accompanying transcribed text. You can find the intent, the approaches, a detailed look, and a thorough explanation of the dataset on the [Data-Card](https://docs.google.com/document/d/17cBQo7yisZuRpLP9gFul4pvQiARgrDwPLDNE980zxx4/edit?usp=sharing). It is about 28k utterances & clips (couting). There are two sub-speech dataset. Griots Narrations and Street Interviews.
@@ -25,7 +25,6 @@ Along side the griots' narrations, a smaller sample of individuals were intervie
 | Types | 62753 |
 | M/F Speaker Ratio | 23/7 |
 
-
 ## ASR - Model
 ### [Wav2Vec](./asr/wav2vec/)
 ### [Kaldi](./asr/kaldi) (Soon)
@@ -33,23 +32,24 @@ Along side the griots' narrations, a smaller sample of individuals were intervie
 <!-- ### TF - Keras Transfomer -->
 
 ## jelipkg toolkit (Jeli => Griot in Bambara)
-<code>jelipkg</code> is sub-package that serves as an entry point to the dataset. It is a python package that allows you to browse, and download the items from the dataset for your own convenience, you can download the textual data either in raw text format or json format, csv. The package can be used to download the audio in batch format or as clips (utterance) format.
+
+`jelipkg` is sub-package that serves as an entry point to the dataset. It is a python package that allows you to browse, and download the items from the dataset for your own convenience, you can download the textual data either in raw text format or json format, csv. The package can be used to download the audio in batch format or as clips (utterance) format.
 
 ### Installation
+
 - Install a revised version of [DABA](https://github.com/maslinych/daba)
 
 ```bash
-$ pip install -U https://github.com/s7d11/daba/releases/download/v0.0.1-alpha/daba-0.9.2.tar.gz
+pip install -U https://github.com/s7d11/daba/releases/download/v0.0.1-alpha/daba-0.9.2.tar.gz
 ```
 
 - Install `jelipkg`
 
 ```sh
 	
-$ pip install -U https://github.com/RobotsMali-AI/jeli-asr/releases/download/v0.0.1-alpa/jelipkg.tar.gz
+pip install -U https://github.com/RobotsMali-AI/jeli-asr/releases/download/v0.0.1-alpa/jelipkg.tar.gz
 
 ```
-
 
 ### Quickstart
 
@@ -81,6 +81,7 @@ jeli> Select a recording ID:
 ```
 
 - Choose `browsing` option
+
 ```
 jeli> Choose browsing option:
     >   Recording overview
@@ -113,7 +114,10 @@ Type one of the followings to:
 ### License
 - [MIT License](./jeli/LICENSE)
 
-### Future Functionalities
+### Future Functionalities & Work
+- Standardize EAFs
+- Disambiguate Bambara lines
+- Ajust Translations
 - Direct CLI (one command) capability
 - Multi-recording download
 
@@ -135,10 +139,27 @@ Type one of the followings to:
 ```
 
 ## Known Issues
-- griots_r24_1: Bambara missing
-- griots_r6_1: Is un-transcribed
-- griots_r8_4: Is untranscribed
-- **Translation adjustments needed in some files**
+- refers to [ISSUES](./ISSUES.md)
+
+## Contribute
+
+### Linguistics / Language
+Contribution is highly sought after from language experts and language professionals. Principally those with dual bambara-french knowledge. It is our goal to get a good quality dataset. There are three ways you can contribute to this project:
+
+- [Utterance Validation/Revision]()
+- [Bambara Adjustment]()
+- [French Adjustment]()
+
+### ASR
+Point person: **Allahsera Auguste Tapo**: `aat3261 <at> rit.edu`
+
+Reach out to the point person. If interested in collaborating or contributing to this work.
+
+### Package
+Contributions are welcomed. There are no defined guidelines. In order to keep the philosophy of the package please refers to [jeli](./jeli/TODO.md).
+
+## Contributors & Acknowlegments
+- `Coleman Donaldson` of ***[An ka taa](https://www.ankataa.com/)*** for critically reviewing the work, and pointing out some very important facts about the data.
 
 ## License
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.

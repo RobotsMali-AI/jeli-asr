@@ -1,0 +1,867 @@
+[640-2230]
+Turajawo Kulubali a jala gɛlɛyara ka taa a fɛ.
+Faradiawo Coulibaly est devenu plus téméraire.
+
+[2467-4130]
+Kɛlɛ yɛrɛ baro ka di ni kɛlɛ ye.
+La causerie sur la guerre est mieux que la guerre.
+
+[4840-6960]
+Mɔgɔ tɛ se ka kɛlɛyɔrɔ tɔgɔ sɔrɔ fewu <
+Personne ne peut jamais être célèbre à la guerre <
+
+[7340-8680]
+Parasike bali pɛrɛdi bɛ maɔgɔ faga.
+Parce que la balle perdue tue la personne.
+
+[8760-10600]
+Fɔ a ka sɔrɔ fɛn fila bɛ i la.
+Sauf si tu as deux choses.
+
+[10670-13210]
+O ka sɔrɔ i bɛ si cɛ si yɔrɔ la cɛya labɛn bɛ i la.
+Que tu aies habité avec les braves et que tu as eu une préparation de brave.
+
+[14424-15960]
+A ye labɛn sɔrɔ a ja gɛlɛyara.
+Il a eu la préparation et il est devenu téméraire.
+
+[18390-21650]
+A bɔra Tolisɔn la, a ye i kun da Jonkolonin kan.
+Il a quitté Tolicho et s'est dirigé vers Diokoloni.
+
+[22070-29320]
+A ye a sɔrɔ Masa Npekuru bɔnaw la min bɛ Jonkolonin kun na o don o tɔgɔ de ye ko Basi Kulubali.
+À l'époque, parmi les descendants de Massa Npekourou celui qui dirigeait Diokoloni s'appelait Bassi Coulibaly.
+
+[29461-30590]
+Jara !
+Diarra !
+
+[31208-31933]
+Nba.
+Salut.
+
+[32799-37160]
+Basi Kulubali ale tun bɛ Moribugu kun kan.
+Bassi Coulibaly se dirige vers Moribougou.
+
+[39547-40547]
+Farajawo Kulubali nana.
+Faradiawo Coulibaly est venu.
+
+[41880-48830]
+A ni morikɛ kɛlɛ la cogomin na a nana ka na o bɛɛ lajɛlen ɲɛfɔ Basi Kulubali ye k'a ban pewu.
+Il est venu tout expliquer à Bassi Coulibaly la raison pour laquelle il est entré en conflit avec le marabout.
+
+[49300-50930]
+Basiba ma ko kuma ɲɛna.
+Il dit à Bassiba que c'est bien dit.
+
+[50960-52420]
+A ko bisimila, ko a jara ne ye.
+Il dit bienvenu, j'en suis ravi.
+
+[52453-53453]
+Unhun.
+Oui. 
+
+[53720-56650]
+Ko ni i ye Kulubali faga, Kulubali de bɛ bɔ a kɔnɔ.
+Quand tu tues un Coulibaly, c'est un autre Coulibaly qui en ressort.
+
+[57822-60530]
+Morikɛ mun n' a filɛ ka kɛlɛ in mun wuli i nɔfɛ.
+Le marabout qui est en train de te faire la guerre.
+
+[60620-63061]
+Anw b'i dɛmɛ ka da yɛrɛwoloya kan.
+Nous allons t'aider pour la légitimité.
+
+[63095-64095]
+Unhun.
+Oui.
+
+[64084-66830]
+Anw bɛ e dɛmɛ ka da balimaya kan.
+Nous allons t'aider pour la fraternité.
+
+[66930-69040]
+An b' i dɛmɛ ka da sinjiya kan.
+Nous allons t'aider pour la parenté.
+
+[69530-71180]
+I bisimila.
+Sois la bienvenue.
+
+[72542-74700]
+Farajawo Kulubali a sigira.
+Faradiawo Coulibaly s'est assis.
+
+[76624-77420]
+O kɛra tuma min na <
+Quand cela s'est passé <
+
+[77483-78483]
+Unhun
+Oui.
+
+[78544-83100]
+Basi Kulubali a ye Ganko gosi.Jonkolonin.
+Bassi Coulibaly a frappé le grand-tam-tam à Diokoloni.
+
+[83113-84113]
+Unhun
+Oui.
+
+[85085-87560]
+Kulubaliw Kulubaliw, kɛlɛmasa, kɛlɛmasa.
+Les Coulibaly, les Coulibaly, les grands guerriers, les grands guerriers.
+
+[88070-89950]
+Cɛ kɔnɔntɔn nana fara ɲɔgɔn kan.
+Neuf hommes se sont réunis.
+
+[93986-96100]
+O cɛ kɔnɔntɔn fara le ɲɔgɔn kan <
+Ces neuf hommes une fois réunis <
+
+[102990-106090]
+Ɛɛ cɛ kɔnɔntɔn in faralen ɲɔgɔn kan Jonkolonin <
+Les trois hommes réunis à Diokoloni <
+
+[106102-107134]
+  Unhun.
+Oui.
+
+[107500-109450]
+A cɛ kɔnɔntɔn bɛ ye kɛlɛmasa ye.
+Tous les trois hommes sont des grands guerriers.
+
+[109518-110518]
+Unhun.
+Oui.
+
+[112427-117370]
+Basi Kulubali, a ye Surakajɛkɛ Kulubali a y' a na kan fɔ bamanan cɛla.
+Bassi Coulibaly a expliqué la raison de la venue de Sourakadièguè Coulibaly devant les bamanans.
+
+[117428-118428]
+Unhun.
+Oui.
+
+[120307-124590]
+O kɛra tuma min na, bamananw ko: «an ye a mɛn basitɛ.»
+Après ça, les bamanans disent :«Nous avons entendu, il n'y a pas de problème.»
+
+[124850-125860]
+«An bɛ segin.»
+«Nous allons retourner.»
+
+[126192-129330]
+«Labɛn in ka kan kɛ kɛcogo min na Jonkolonin yan an bɛna o ɲɛfɔ ɲɔgɔn ye.  »
+« Nous allons nous expliquer la manière dont la préparation va se faire ici à Diokoloni ici.»
+
+[131565-133670]
+Bamananw ye kɔseginbere da, bɛɛ taara i ka dugu la.
+Les bamanans ont pris le chemin du retour, tout mon est rentré dans son village.
+
+[133867-134867]
+Unhun.
+Oui.
+
+[134860-135670]
+U sigilen tola.
+Ils sont restés assis.
+
+[135691-136743]
+Unhun;
+Oui.
+
+[137360-142780]
+Tuma min kɛra ni u sigilen tola ten, don dɔ la Basi Kulubali sukora k' a ye <
+Au moment où ils étaient restés assis comme ça, un jour, Basi Kulubali a vu en rêve <
+
+[145224-146690]
+Bakaramasala ani kɛlɛ bɛ na.
+Bakaramassala arrive avec la guerre.
+
+[150237-154690]
+A ka sakɛcɛcɛkɔrɔba dugu jɛ o jɛ, a ka sakɛcɛ in bɛna a fo.
+Tous les matins sont vieux sellier vient le saluer.
+
+[154870-160500]
+Basi Kulubali dalen jɔ kɔnɔ, a bɛna a fɔ «Danugumaɲa mɔden ni Danugukerebe mɔden i ni sɔgɔma.» 
+Bassi Coulibaly couché dans son hamac, il vient dire : « Bonjour le petit-fils de Danougoumania et de Danougoukérébé.»
+
+[160562-161562]
+Unhun.
+Oui. 
+
+[162780-164780]
+«Kulenimari bɔnsɔn i ni sɔgɔma.»
+«Bonjour le descendant de Koulenimari.»
+
+[164831-165831]
+Unhun.
+Oui.
+
+[166230-169120]
+«Marihɛri ni Marimaladɔ Simbala ni Naani i ni sɔgɔma.»
+«Bonjour Marihèri et Marimalado Simbala Nani. »
+
+[169154-169750]
+Unhun.
+Oui.
+
+[169778-171880]
+Ɛɛ ba < «Kori hɛrɛ si la.»
+« Est-ce que vous avez passé une bonne nuit ?»
+
+[171926-172977]
+Unhun.
+Oui.
+
+[173299-175390]
+Basi Kulubali ko a fa ye ko : «Hɛrɛ si la.»
+Bassi Coulibaly a dit à son père : «J'ai passé une bonne nuit.»
+
+[175470-178730]
+«Kabini a ala ye ne da ne ni hɛrɛ ma < ne ni tɔrɔ ma deli ka si.»
+«Depuis que Dieu m'a créé, je n'ai jamais passé une mauvaise nuit.»
+
+[178797-179301]
+Hun !
+Hum!
+
+[179357-182700]
+Ni don, a nana ka na Basi fo min kɛ <
+Ce jour, quand il est venu saluer Bassi <
+
+[182730-186480]
+ Basi Kulubali ko a ma : «A ko Sagaɲagamu !»
+Bassi Coulibaly lui a dit : «Saganiagamou !»
+
+[186520-187590]
+Sagaɲagamu y' a laminɛ.
+Saganiagamou lui a répondu.
+
+[187622-192390]
+A ko  : « Sagaɲagamu ne ni hɛrɛ ma si surɔ a ko  parisike, a ko sukola k'a ye Filamorikɛ ni kɛlɛ bɛna.»
+Il dit: «Saganiagamou, je n'ai dormi en paix hier soir, parce que j'ai vu en rêve que Foulamorikè arrive en guerre.»
+
+[192431-193431]
+Unhun.
+Oui.
+
+[194560-199380]
+Basi Kulubali ko a ma, a ko :  [inaudible]
+Bassi Coulibaly lui a dit: [inaudible]
+
+[199440-202420]
+Sagaɲagamou ko a ma, a ko : «Basi Kulubali !»
+Saganiagamou lui a dit, il dit : «Bassi Coulibaly !»:
+
+[202471-203580]
+Basi Kulubali y' a laminɛ.
+Bassi Coulibaly lui a répondu.
+
+[203771-206540]
+Ɛɛ a ko : «Basi Kulubali a ko i sinɔgɔ la kojugu.»
+Il dit : «Bassi Coulibaly tu as trop dormi.»
+
+[207220-211040]
+«Bari ni mɔgɔ sinɔgɔ la ka tɛmɛ, ɛɛ suko ye wajibi de ye.»
+«Quand une personne dort trop, le rêve est obligatoire.»
+
+[211088-212504]
+Siga tɛ a la.
+Il n'y a pas de doute.
+
+[212720-213960]
+«I sinɔgɔ la ka dama tɛmɛ de.»
+«Tu as trop dormi.»
+
+[213970-214477]
+Unhun.
+Oui.
+
+[214540-216550]
+«Ni mɔgɔ sinɔgɔ la ka tɛmɛ bɛ suko o ye wajibi ye.»
+«Si tu dors trop, tu fais des rêves, c'est obligatoire.»
+
+[216580-217073]
+Unhun.
+Oui.
+
+[218008-218770]
+«Ne bɛ taa n ka so.»
+«Je rentre chez moi.»
+
+[220170-221410]
+Sagaɲagamu taara a ka so.
+Saganiagamou est rentré chez lui.
+
+[221487-222264]
+Unhun.
+Oui.
+
+[222325-226840]
+O dugujɛ, a nana, a ko : «Danugumaɲa ni Danugukerebe mɔ den i ni sɔgɔma !»
+Le lendemain, il est venu, il dit: «Le petit-fils de Danougoumania et de Danougoukerebe bonjour !»
+
+[226877-227558]
+Unhun.
+Oui.
+
+[227592-228980]
+«Filanimɔri bɔnsɔn i ni sɔgɔma!»
+«Le descendant de Filanimori bonjour !»
+
+[229002-230540]
+«Masa Npeku mɔden i ni sɔgɔma !»
+«Bonjour le petit-fils de Massa Npekou !»
+
+[230629-231154]
+Unhun.
+Oui.
+
+[231180-233720]
+«Kulubali Sikaca Samu Samusirima Sirimaca i ni sɔgɔma.»
+«Coulibaly Sikatia Samou Samousirima Sirimatia bonjour à toi !»
+
+[233750-236280]
+«Bamanankɛ mɔgɔtigi, a ko kɔni hɛrɛ sira ?»
+«Le bamanan populaire est-ce que vous avez passé une bonne nuit ?»
+
+[236351-239560]
+Aa Basi ko a ma a ko «Sagaagamu ne ni hɛrɛ ma si surɔ.»
+Bassi lui a dit : «Saganiagamou, je n'ai pas passé la nuit en paix.»
+
+[239589-243130]
+A ko: «Bari surɔ kun n sukɔ la ka a ye, Filamorikɛ ni kɛlɛ bɛ na.»
+Il dit : «Parce que hier encore, j'ai rêvé que Foulamorikè arrive en guerre.»
+
+[245090-246090]
+«Jonkolonin yan.»
+«A diokoloni ici.»
+
+[246308-247169]
+Hun !
+Hum !
+
+[248388-249090]
+«O kɛlen <»
+«Après ça <»
+
+[249110-250151]
+Unhun.
+Oui.
+
+[250763-259170]
+Sagaɲagamu ko a ma, a ko : «Basi, a ko bɛna min fɔ i ɲɛna, a ko ni ye dutigicɛkɔrɔba ye ka sunɔgɔ ka damatɛmɛ fo ka taa se suko ma i fara de. »
+Saganiamou lui a dit: «Bassi, ce que je vais te dire, si tu vois un chef de famille dormir à l'excès jusqu'à rêver, c'est qu'il est rassasié.»
+
+[259230-260130]
+«I fara kojugu de.»
+«Tu es trop rassasié.»
+
+[260223-261690]
+«Ni mɔgɔ fara kojugu sinɔgɔ bɛ caaya.»
+«Il y a trop de sommeil quand une personne mange trop.»
+
+[261700-263260]
+«Sinɔgɔ cayala sinɔgɔ ye wajibi ye.»
+«Quand il y a trop de sommeil, le rêve est obligatoire. »
+
+[263570-264330]
+  «Ne bɛ taa n ka so.»
+«Je rentre chez moi.»
+
+[266500-269120]
+Tile sabanan saa, Sagaɲagamu ye i labɛn a nana.
+Le troisième jour maintenant, Saganiagamou s'est préparé et il est venu.
+
+[270047-271140]
+A nana ka na Basi Kulubali fo.
+Il est venu saluer Bassi Coulibaly.
+
+[271194-272194]
+Unhun.
+Oui.
+
+[273973-275560]
+A ko Bassi Kulubali ma, a ko «Kulubali !»: 
+Il dit Bassi Coulibaly, il dit «Kulubali !»
+
+[275580-276102]
+Unhun.
+Oui.
+
+[276131-277500]
+«Marihɛri ni Marimaladɔ !»
+«Marihèri ni Marimalado !»
+
+[277781-284100]
+Simbala ni naani, ɲabakulu Dundunli, Masa Npeku, Dɔtɔbakɔrɔ Nbeyi, Bakɔrɔ Tenba ani Bakɔrɔ Cɔ.
+Simbala ni naani, Gnabakoulou Doundounli, Massa Npekou, Dôtôbakôrô Nbeyi, Bakôrô Tenba et Bakôrô Tio.
+
+[293443-295470]
+«Mariheru bɔla Masa Npeku la, Masa Npeku  dalen bɛ Sibinɛ. »
+«Mariheru est né de Massa Npekou, Massa Npekou est couché à Sibinè.»
+
+[295497-297070]
+«Bamanan mɔgɔ tigi kɔni i ni hɛrɛ sila ? »
+«Le bamanan populaire, est-ce que tu as dormi en paix ?»
+
+[297384-298384]
+Hun !
+Hum !
+
+[299217-303240]
+Ɛɛ Basi Kulubali ko a ma a ko : «Saɲagamu, haha a ko ne ni hɛrɛ ma si surɔ koyi.»
+Bassi Coulibaly lui a dit / «(rire) je n'ai pas dormi en paix hier soir».
+
+[303696-306320]
+Aa a  ko : «Parisike a ko surɔ tugu ne sukola. »
+Il dit: «Parce que la nuit, j'ai encore rêvé.»
+
+[306346-307250]
+«Bi ye n su saba ye.»
+«Aujourd'hui, cela me fait trois nuits.»
+
+[307320-308910]
+«N sukola ka a ye Fulamorikɛ ni kɛlɛ bɛ na.»
+«J'ai vu en rêve Foulamorikè venir en guerre.»
+
+[308976-309514]
+Unhun.
+Oui.
+
+[309530-312230]
+Aa o tuma Sagaɲagamu ko a ma, a ko : «Basi !»
+Saganiagamou lui a dit: «Bassi !»
+
+[312585-313310]
+Basi ye a laminɛ.
+Bassi lui a répondu.
+
+[313321-316340]
+Ko : «Ne mɔkɛ tugura e mɔkɛw la, ne fa tugura e faw la ne yɛrɛ tugu la e la.»
+Que: «Mon grand-père a suivi tes grands-pères, mon père a suivi tes pères, moi-même, je te suis. »
+
+[316678-320850]
+A ko: «Ni misi jɛturaba sinsa kɔnɔ n'a ko mbuu, mbuu <»
+Il dit: «Quand un gros taureau quand il dit dans la clôture [cri] <»
+
+[321043-324790]
+«N' a ye i pan ka sinsa kogo fara ka taga i ben kɔfɛ a kana a faga dɛɛ ! »
+«S'il saute, la clôture de taureau te tombe derrière, ne le tuez pas dèè !»
+
+[324813-325529]
+«Aw kana a danga» 
+ «Ne le maudissez pas!»
+
+[325573-327080]
+ «I b' a sɔrɔ a fa y' a kɛ walima a mɔkɛ.»
+«Peut-être que son père ou son grand frère l'a fait.»
+
+[327257-328257]
+Siga tɛ a la.
+Il n'y a pas de doute.
+
+[329034-333280]
+«Dononkɔrɔnin n' a ye kaman ci ɲɔgɔn n' a ko kokokoriko ka bɔ kolonsew ni ɲɔgɔn cɛ <»
+«Quand le coq se tape les ailes, quand il dit [cri] en sortant des abords du mortier <»
+
+[333425-334880]
+«N' a ye i kari ka don folo fɛ < »
+«Quand il fait irruption dans la balle du mil <»
+
+[335051-338683]
+«Ni a taara bɔ folo kɔfɛ a kana faga o don, a kana neni, a kana danga ! »
+«S'il sort derrière la balle de mil, ne le tuez pas, ne l'insultez pas, ne le maudissez pas !»
+
+[338720-341430]
+«I b' a sɔrɔ ni a fa ma a kɛ a tulomasama delila ka a kɛ ka kɔrɔ.»
+«Peut-être que si son père ne l'a pas fait, son arrière-grand-père l'a fait dans le passé.»
+
+[341433-341838]
+O ye tiɲɛ ye.
+C'est vrai.
+
+[341860-344420]
+«O tuma bɛɛ ka segin i fa ka bulonda la.»
+«Dans ce cas, chacun retourne auprès du vestibule de son père. »
+
+[344660-347870]
+«Komi nin kuma in, ne tile saba de kɛ bɛ i ɲinika a la.»
+«Comme j'ai passé trois jours à te demander sur ce propos.»
+
+[347890-349750]
+«Ni o tɛ Bamanan ne b' a dɔn e tɛ nkalon tigɛ.»
+«Sinon Bamanan, je sais que tu ne mens pas.»
+
+[349890-350890]
+«E k' a to tan !»
+«Laisses comme ça !»
+
+[350989-353670]
+«Kɛlɛko ye min ye, ne yɛrɛ bɛ taa a ɲɛɲini sini su.»
+«En ce qui concerne la question de la guerre, je vais aller moi-même, je vais enquêter sur dans la nuit de demain.»
+
+[353683-354426]
+Unhun.
+Oui.
+
+[354460-355360]
+«Ne Sagaɲagamu.»
+«Moi Saganiagamou.»
+
+[355378-355904]
+Unhun.
+Oui.
+
+[355920-357911]
+Sakkɛcɛkɔrɔbaw tun bɛ jamana in kan yan.
+Il y avait des vieux selliers dans ce pays.
+
+[357933-359220]
+U bɛ se Namafin ka yɛlɛma na.
+Ils savaient faire le changement de Namafin.
+
+[359451-362040]
+A dalilu bɛ u bolo n' u y'  a baara u bɛ yɛlɛma ka kɛ Nama ye.
+Ils ont le secret, s'ils l'appliquent ils se transforment en fétiche.
+
+[362068-362389]
+Hun !
+Hum !
+
+[362405-363680]
+I bɛ se ka kilo baafila boli su kelen.
+Tu peux parcourir deux mille kilomètres en une nuit.
+
+[363894-364894]
+Hun !
+Hum !
+
+[367038-370810]
+Su kola tuma min na, Sagaɲagamu ye i labɛn.
+Quand la nuit est tombée, Saganiagamou s'est préparé.
+
+[371988-373940]
+A y' a mɔkɛ ka minɛnw ta.
+ Il a pris les outils de son père.
+
+[374268-380330]
+A bɔla Moribugu Kuma a sela soforokun na yɔrɔ min na a ye dalilu dilan k' a ban.
+Une fois sorti de Moribougou-Kouma, quand il est arrivé aux abords des champs du village, il a préparé le secret.
+
+[380360-381720]
+A ye Nama ka kasi kɛ siɲɛ saba.
+Il a fait le cri du Nama [fétiche] trois fois.
+
+[381744-383080]
+A yɛlɛmana k' a kɛ Namafin ye.
+Il s'est transformé en Namafin.
+
+[383130-385110]
+A ye i kunda Namagusula Maasina kan. 
+Il s'est dirigé vers Namagoussoula Macina.
+
+[386205-387312]
+Hun !
+Hum !
+
+[388455-394970]
+A kundalen Maasina kan, a nana sɔrɔ Bakaramasala ni kɛlɛ dalen bɛ Kindira. 
+Une vers Macina, il a vu Bakaramassala en position de guerre à Kindira.
+
+[394990-396150]
+Walawalaba kan.
+Sur la grande clairière.
+
+[397681-398681]
+Misi fagalen do.
+La vache est tuée.
+
+[398706-399294]
+  Unhun.
+Oui.
+
+[399330-401660]
+Garibuw dalen do, Fulamorikɛ kɔlɔsi bɛ a bolo.
+Les mendiants sont couchés, Foulamorikè a le chapelet en main.
+
+[401690-402183]
+Hun !
+Hum !
+
+[402220-403780]
+A b' a la ka a bila kelen kelen.
+Il égrène un à un.
+
+[404030-405730]
+Ala ye Atifu ci a ma.
+Dieu lui a envoyé le Hatif.
+
+[405758-406169]
+Unhun.
+Oui.
+
+[406189-407640]
+Ko «bɔn, i bɛ taa Jonkolonin.» 
+Que «bon, tu vas aller à Diokoloni.»
+
+[408311-410950]
+  «Mɔgɔ saba ni sokɛ fila de bɛ tiɲɛ e ka kɛlɛ la.»
+«Trois personnes et deux chevaux vont être neutralisés dans ton conflit.»
+
+[410977-411558]
+Unhun.
+Oui.
+
+[411591-413010]
+«Ala bɛ Bamanan kɛ i sago ye.»
+«Dieu fera le Bamanan de ton bon vouloir.»
+
+[413504-414242]
+Hun !
+Hum !
+
+[414575-415575]
+Nka nin din <
+Mais ce jour <
+
+[416645-420602]
+Tuma min kɛra ni ni kɛra, Sagaɲagamu [arabe] <
+Après ça, Saganiagamou [arabe] <
+
+[420669-424410]
+A nana ka na a sɔrɔ Bakaramasala ni kɛlɛ dalen bɛ Kindira walawalaba in kan.
+Il est venu et a vu Bakaramassala en position de guerre sur la grande clairière de Kindira.
+
+[424650-426740]
+Sagaɲagamu munumunu na siɲɛ kelen.
+Saganiagamou a tourné une fois.
+
+[426785-427330]
+Unhun.
+Oui.
+
+[427375-429870]
+A ye i da fa misi fagalen furu la.
+Il s'est rempli la bouche avec l'estomac de la vache tuée.
+
+[429911-430404]
+Unhun.
+Oui.
+
+[430450-431509]
+A ye o kɛ filenkolon kɔnɔ.
+Il l'a mis dans la vieille calebasse.
+
+[431536-432073]
+  Unhun.
+Oui.
+
+[432172-434000]
+A munumunu na tun ka Namafun ka kasi kɛ.
+Il a tourné encore et a fait le cri de Namafin.
+
+[434023-434455]
+Unhun.
+Oui.
+
+[434470-436410]
+A ye i da fa furu la.
+Il s'est rempli la bouche avec l'estomac.
+
+[436685-439900]
+A ye o kɛ filen kolon kɔnɔ, furuɲaga siɲɛ saba.
+Il a mis les résidus d'estomac dans une vieille calebasse trois fois.
+
+[440101-442860]
+O y' a sɔrɔ, kɔlɔsi bɛ Bakaramasala bolo.
+En même temps, Bakaramassala avait le chapelet en main.
+
+[442919-445030]
+A sila n' a ye, a ka kɔlɔsi juru tigɛ la.
+Il a dormi avec, le fil de son chapelet est coupé.
+
+[445260-446260]
+Hun !
+Hum !
+
+[446647-447647]
+Kuyatɛ!
+Kouyaté !
+
+[448302-451050]
+A ka Maabɔkɛ bɛ yen o don ko «Jugudu Banbaadɔ.»
+Son griot toucouleur était là ce jour «Diougoudou Banbado.»
+
+[453485-455550]
+A bɛ ka a don a kukolo kɔrɔ a nɔnkɔnmalen do.
+Accoudé, il le met sous sa tête.
+
+[455605-456404]
+Hun !
+Hum !
+
+[456433-458510]
+   Morikɛ kɛrɛfɛ, morikɛ ni kɔlɔsi sigilen do.
+À côté du marabout, le marabout est assis avec le chapelet.
+
+[458567-461980]
+O yɔrɔ bɛɛ, Bakaramasala wulila o yɔrɔ bɛɛ a y' i bolo da Jugudu Bamaadɔ kan.
+En même, Baramassala s'est levé et a mis sa main sur Diougoudou Bamado.
+
+[461997-463230]
+A ko: «Jugudu, Jugudu, Jugudu.»
+Il dit : «Diougoudou, Diougoudou, Diougoudou. »
+
+[463262-464040]
+Jugudu wulila.
+Diougoudou s'est levé.
+
+[464621-467410]
+«Jugudu aa ko Jugudu ko dɔ  dɔ kɛla a ko ye n lafili dɛɛ ! »
+«Diougoudou, il s'est passé quelque chose qui m'inquiète !»
+
+[467735-468735]
+Hum !
+Hum !
+
+[469310-470820]
+Jugudu Bamaadɔ ko a ma, a ko : «O ye mun ye ?»
+Diougoudou Bamado lui a dit : « Qu'est-ce que c'est ?»
+
+[470889-471433]
+Unhun.
+Oui.
+
+[471610-474440]
+A ko: «Jugudu a ko Namafin nana ne munmunu siɲɛ.»
+Il dit : «Diougoudou, Namafin m'a tourné autour trois fois.»
+
+[474482-478590]
+«Nama kɛ o kɛ ka n munumunu a bɛ kulokan ɲɛ kelen kɛ.»
+«À chaque fois que Nama me tourne autour, il crie.»
+
+[479077-487330]
+«Nama kɛ o kɛ ka ne munumunu ni a ye kulokan ɲɛkelen kɛ a bɛ misi furu cɛ ka kɛ filenkolon kɔnɔ ka bɔ ni a ye n kɔfɛ. »
+«À chaque fois que Nama me tourne autour, quand il fait un cri, il met l'estomac de la vache dans la vieille calebasse et passe derrière moi avec.»
+
+[487422-489700]
+«Ne tola o de la, n ka kɔlɔsi juru tigɛla.»
+«Je suis resté ainsi et le fil de mon chapelet est coupé.»
+
+[490066-491066]
+Hum !
+Hum !
+
+[491773-492550]
+Ɛɛ Jara !
+Diarra !
+
+[492575-493575]
+Kuyatɛ !
+Kouyaté !
+
+[493845-496510]
+O kɛla tuma min na [arabe] 
+Quand cela s'est passé [arabe]
+
+[496535-498650]
+Jugudu Bamaadɔ ko a ma, a ko : «Bakaramasala !»
+Diougoudou Bamado lui a dit : «Bakaramassala !»
+
+[499010-500140]
+Baramasala ye a laminɛ.
+Bakaramassala lui a répondu.
+
+[500162-506580]
+A ko : «Ni i sirannen do  ko in kɔrɔ, bari e ni suraka ye aw ye san kɔnɔntɔn de kɛ ɲɔgɔn na kɛlɛ la. »
+Il dit : «Si tu as peur de cette situation parce que toi et Souraka vous vous êtes combattu pendant neuf ans.»
+
+[506590-510580]
+«Ni i sirannen do ko in kɔrɔ, an ka segin ka taa Maasina.»
+«Si tu as peur de cette situation, retournons à Macina.»
+
+[510626-513020]
+O ka fisa an nalen an yɛrɛ malo Jonkolonin.
+Cela vaut mieux que l'on vienne se faire humilier à Diokoloni.
+
+[513097-514097]
+Hum !
+Hum !
+
+[514621-515600]
+«I siran bɛ dɛɛ !»
+«Tu as peur !»
+
+[515611-518900]
+«E bɛ kungo kɔnɔ, Nama bɛ kungo kɔnɔ.»
+«Tu es dans la brousse, Namaa est dans la brousse.»
+
+[518950-521780]
+«E bɛ kungo kɔnɔ, e ko e tɛ warakasi kan mɛn. »
+«Tu es dans la brousse et tu ne veux pas entendre le cri de lion.»
+
+[521800-524010]
+«E bɛ kungo kɔnɔ e tɛ Nama kasikan mɛn.»
+«Tu es dans la brousse et tu ne veux pas écouter un cri d'hyène. »
+
+[524385-526150]
+«Ɛɛ ni i sirannen i t' a to an ka taa ?»
+«Si tu as peur, on ne va pas rentrer ?»
+
+[526165-528210]
+«Ni o tɛ ni mɔgɔ kɔni bɛ kungo kɔnɔ i na kɔnɔw ye i na waraw ye.»
+«Sans quoi, si tu es dans la brousse, tu verras quand même les oiseaux et les lions. »
+
+[528559-529559]
+ Siga t' a la.
+Il n'y a pas de doute.
+
+[529580-530455]
+Kuyatɛ !
+Kouyaté !
+
+[530585-533750]
+Jugudu Bamaadɔ, a ko  :«I kana n ka sinɔgɔ tiɲɛ ni kɔfɛ dɛɛ !»
+Diougoudou Bamado dit: «Ne dérange plus mon sommeil après ça !»
+
+[534250-535350]
+A y' i da.
+Il s'est couché.
+
+[535760-537790]
+Bakaramasala, a ye kɔlɔsi wɛrɛ ta.
+Bakaramassala, il a pris un autre chapelet.
+
+[537824-538950]
+A b' a la ka kɔlɔsi minɛ.
+Il est en train d'égrener le chapelet.
+
+[550583-552700]
+Ɛɛ n ka cɛ, bisaba dafala.
+Mon ami, les trente sont atteints.
+
+[553388-554388]
+Bisaba de don saa.
+C'est trente.
+
+[555010-555430]
+A baana.
+C'est fini.
+
+[556079-557380]
+Hɛɛ o ye ko gɛlɛn ye wa ?
+Est-ce une chose difficile ?
+
+[564960-565760]
+Hamudulilahi.
+Dieu merci.

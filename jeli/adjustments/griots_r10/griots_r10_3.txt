@@ -1,0 +1,743 @@
+[0-6888]
+Fɔlɔ furu ani sisan furu
+Le mariage d'autrefois et celui d'aujourd'hui
+
+[6888-11648]
+danfara caman b'u ni ɲɔgɔn cɛ dɛ, danfara caman b'u ni ɲɔgɔn cɛ
+il y a une très grande différence entre eux
+
+[11768-13500]
+danfara in ye mun ye?
+quelle est cette différence ?
+
+[13791-18037]
+cɛmanin ni musomanin b'i b'a la kɛnɛ ma fɔlɔ
+Tout est résolu dans la rue en amont
+
+[19391-22611]
+ka sɔrɔ kana se bagenbaw ma
+avant d'informer les parents
+
+[23053-25370]
+n'aw sera bagenbaw ma
+lorsque les parents sont avisés
+
+[25660-27833]
+n'e ko n bɛ nin de furu
+du choix de l'enfant
+
+[28286-30092]
+i fa k'i ma i ba fa dɔn wa
+ton père te demande si tu connaissais son père
+
+[30321-31740]
+e ko n t'a fa dɔn
+tu réponds non
+
+[31963-33018]
+e b'a ba dɔn wa?
+connais-tu sa mère
+
+[33130-34407]
+ayi n t'a ba dɔn
+c'est toujours non
+
+[34576-36296]
+denin yɛrɛ de diyara n ye n b'a fɛ
+je suis juste amoureux de la fille
+
+[36525-39277]
+fa t'i se k'i balo la
+le père ne pourra m'empêcher de cela
+
+[39734-41814]
+ni fa min k'a bi den bali bi
+tout père qui essaye de s'opposer à son enfant
+
+[42042-43611]
+o den bɛ taa a kun fɛ
+cet enfant s'aventure, il s'évade
+
+[44395-49370]
+fa bi sɔn parce que faw an sirana denw ɲɛ
+le père accepte puisque son autorité a failli
+
+[49583-51481]
+an sirana denw ɲɛ muna
+Pourquoi on a eu peur de nos enfants ?
+
+[51986-55074]
+denw yɛrɛ ka ko kuntanw fɛn kuntanw tali
+comme les enfants s'adonnent à tout, des médicaments
+
+[55279-57277]
+n'i ye min bala diyaye ko la
+quand tu les contrains de leur désir
+
+[57384-59074]
+o b'a fɔ min taa fɛn kunta ta
+ceci s'adonne à la drogue
+
+[59354-61148]
+faw bi sɔn
+les pères acceptent
+
+[61520-63907]
+o muso kelen bɛ ɲini k'a di ma
+on te donnera cette même femme en mariage
+
+[64365-65944]
+e t'o cogo dɔn
+tu n'en sais rien de son caractère
+
+[66496-67814]
+aw nana dun kɔnɔ
+vous vivez dans la grande famille
+
+[68052-69407]
+a furula kana du kɔnɔ
+elle vient dans la grande famille après le mariage
+
+[69486-71185]
+a k'a ti ba boyan
+elle ne respecte pas ta mère
+
+[71338-73037]
+a ti fa boyan
+ton père non plus
+
+[73617-75185]
+e bi se ka mun fɔ o la
+qu'est que tu pourrais dire
+
+[75516-76962]
+i yɛrɛ ka ɲininen don
+c'est ton choix
+
+[77534-80111]
+a bi ɲɔgɔn ku jakosa
+vous vous supporterez malgré vous
+
+[81197-84351]
+fɔlɔ denmusomanin tun bɛ ɲini a ba kama
+autrefois, la jeune fille était mariée à cause du caractère de sa mère
+
+[85036-87055]
+a ba cogo kama
+le caractère de la mère était une priorité
+
+[87346-90037]
+a' ye taa karisa den ɲinin karisalakaw fɛ in
+cherchez untel dans telle famille en mariage
+
+[90364-91962]
+a ba cogo kaɲi
+sa mère est un bon caractère
+
+[92781-96055]
+karisa den in tagamasen kaɲi
+la fille d'untel a un bon signe
+
+[96400-98407]
+karisa den nɔrɔ kaɲi
+la fille d'untel a un bon augure
+
+[98644-101018]
+a' ye taa ɲinin n den ye
+Cherchez-la pour mon enfant
+
+[101606-103796]
+u bi du lada tigi wele
+ils font appel à celui qui est chargé aux affaires sociales de la famille
+
+[104266-105851]
+a bi taa den muso ɲini
+il ira chercher la main de la jeune fille
+
+[106400-108685]
+danbe tun b'o kɔnɔ
+il y avait de la dignité en cela
+
+[109181-111037]
+hɔrɔnya tun b'o kɔnɔ
+il y a de l'honnêteté en cela
+
+[112114-115629]
+mais bi e ko k'e to kɛ
+mais aujourd'hui on a refusé cela
+
+[116412-121500]
+n sago, sago nana ni fɛn caman tiɲɛ ye
+le vouloir, la volonté a gâché beaucoup
+
+[122647-127333]
+n diyaye ko, diyayeko nana fɛn caman tiɲɛni ye
+le plaisir, le plaisir est cause de plusieurs maux
+
+[128527-131814]
+i ma ye marakaw bolo
+tu vois dans le milieu soninké
+
+[132049-134685]
+marakaw ko k'u t'u duw falen du la
+les soninkés n'ont pas vouloir le mariage interethnique
+
+[135627-137925]
+filaw ko k'u t'u ka du falen du la
+les peuls sont dans cette logique
+
+[138601-141537]
+diyɔrɔmɛw ko k'u t'u ka du falen du la
+les diawandés font pareils
+
+[141834-144870]
+kɔrɔbɔw k'u t'u ka du falen du la
+de même que les Songhay
+
+[145677-152574]
+mun ye kɛ u mako b'u daben kɔrɔ la, u mako b'u bɔ kolo la, u mako b'u tabiyara
+cela est dû au respect de leur dignité, leur ancêtre, leur coutume
+
+[153873-156574]
+marakaw ka du boyan kun ye jumɛn ye
+qu'est-ce qui fait élargir les famille soninké
+
+[156809-159074]
+cɛman fila denw bɛ di ɲɔgɔn ma
+le mariage se fait entre les enfants des frères
+
+[159560-161907]
+cɛman ni musoman den bɛ di ɲɔgɔn ma
+il existe le mariage rangé entre les enfants de même frères
+
+[162517-165092]
+musoman fila den bɛ di ɲɔgɔn ma
+les enfants des mêmes, des sœurs se marient
+
+[166245-169296]
+n'e muso min furu la tan n'e kɔɲɔmusoman don na
+la femme qui se marie dans cette condition
+
+[169619-172574]
+e bi ta ka ta kalifa musokɔrɔba kelen na
+on te confie à une vielle femme
+
+[173038-176018]
+e de b'o bolo bɔ ga la
+c'est toi qui vas la décharger de ces activités ménagères
+
+[176111-178240]
+den dɔw bɛ se ka bɛn hal'u yɛrɛ woloba ma
+certaines peuvent remplacer leur propre mère
+
+[179284-182592]
+maraka duba kɔnɔ i ba bolo bɔ ga la
+dans la grande famille soninké, tu la déchargés
+
+[182825-185333]
+kɛlɛ bɛ min? kɛlɛ tɛ yen
+où se trouve le désaccord, il n'existe pas
+
+[185780-187333]
+e bi fa ka du kɔnɔ
+toi, tu vis chez tes parents
+
+[187333-188555]
+i furulen bi fa ka du kɔnɔ
+tu es mariée dans la famille de ton père
+
+[188669-190962]
+kɛlɛ bɛ min, kɛlɛ tɛ yen
+où se trouve le problème, il n'en est pas
+
+[192792-196629]
+a laada filɛ marakaw bolo ali sini marakaw ma laada bila
+les soninkés continuent de respecter cette tradition
+
+[197622-202944]
+balimamusoden a ka gɛlɛn balimakɛ ma kosɛbɛ
+les oncles tiennent beaucoup à leurs nièces
+
+[203631-207055]
+balimamuso hali ni furu la a ka ta furu yɔrɔ wɛrɛ la
+même si la sœur se mariait ailleurs
+
+[207275-213759]
+ni Ala yi garijigɛ don den cɛw na, ka den cɛmanw sigi nɛgɛ kɔrɔ
+si Dieu t'offre des garçons, et qu'ils soient circoncis
+
+[213759-216851]
+balimakɛ de b'a kɛ
+c'est ton frère qui s'en charge
+
+[217205-223222]
+i denkɛ fɔlɔ, i denkɛ filanan balimakɛ de bina balimamuso den minɛ  
+c'est le frère de la maman qui vient chercher les enfants de sa sœur
+
+[223222-224907]
+ka ta sigi nɛgɛ kɔrɔ
+pour leur circoncire
+
+[225016-226925]
+o wagati y'a sɔrɔ
+à cette époque-là
+
+[227128-229500]
+u bi layidu saba de ta ba
+ils font trois promesses à leur nièce
+
+[230173-234796]
+layidu saba in ye jumɛn ye? sokɛ, marifa, muso
+quelles sont ces trois promesses : le cheval, le fusil et la femme
+
+[235488-240222]
+u b'a layidu saba ta balimamuso den ye
+ils prennent ces trois promesses à leur nièce
+
+[241366-246518]
+sisan an bɛ wagati min na sokɛ tile tɛ marifa tile tɛ
+maintenant, nous n'avons plus besoin de cela
+
+[246631-248851]
+ni sera muso furu ye
+quand tu atteins l'âge du mariage
+
+[250045-254166]
+i bɛnkɛw de bɛ muso ɲinin ka di ma
+ce sont tes oncles qui te chercheront une femme
+
+[254681-257277]
+ni bɛnkɛ mi ma muso di ma
+si ton oncle ne fait pas cela
+
+[257347-259759]
+ni muso dira i ma i fa so bon da la
+et les parents t'en donnent
+
+[259919-262166]
+i bɛnkɛ de b'a furu nafolo di
+c'est ton oncle qui payera la dot
+
+[263474-265388]
+o bi marakaw bolo
+cela existe chez les soninkés
+
+[265388-266981]
+marakaw ma layidu bila
+les soninkés n'ont pas changé cette pratique
+
+[267141-268666]
+u ma tabiya bila
+ils n'ont pas changé sa nature
+
+[268936-270351]
+filaw bi ten
+les peuls font pareils
+
+[270351-272537]
+u ma tabiya bila
+ils n'ont pas changé la nature
+
+[272960-276018]
+ne bi fɛ n'an sera ka segin kana kɔrɔlen ma
+je voudrais qu'on revienne aux anciennes pratiques
+
+[276018-278407]
+an bɛ lafiya
+nous serons tranquilles
+
+[278825-281166]
+an bɛ Ala deli lafiya de la
+nous implorons Dieu pour le bonheur
+
+[282016-284092]
+an ka sgin mara ma
+Qu'on repense à l'éducation
+
+[284594-287185]
+an ka segin -mara ma
+qu'on repense à l'éducation
+
+[288305-292611]
+bi den an ka segin tugu ni an ka bi den ta tugu
+il faut qu'on revienne à l'éducation
+
+[293188-297240]
+bi den yɛrɛ muso min ka kan ka jala siri
+c'est la fille d'aujourd'hui qui choisisse leur marraine
+
+[298645-301777]
+bi den ba ka jala siri baga sugati
+les filles d'aujourd'hui choisissent sa marraine
+
+[302925-305574]
+ne ba in nin cɛkaɲi dɛ
+untel est ma tante la plus belle
+
+[306334-309370]
+ne ba in nin bɛ se labɛn cogo la dɛ
+untel parmi mes tantes sait mieux faire la parure
+
+[309799-313388]
+a tɛ ne ka jala di nin ma wa
+vous ne la choisissez telle pas comme marraine
+
+[313828-316703]
+bi den b'a sugati a yɛrɛ ye
+l'enfant d'aujourd'hui choisit d'elle-même
+
+[317386-319240]
+fɔlɔ o tun tɛ ye
+cela n'existait pas autrefois
+
+[319982-324055]
+a tun bɛ ta kɔrɔ kun da du kɔnɔ
+cela se faisait par ordre d'âge dans la famille
+
+[324513-326740]
+a tun bɛ ta kɔrɔ kun da
+c'était par ordre d'âge
+
+[326935-330648]
+nin kɛra nin ta ye, nin kɛra nin ta ye
+untel a été choisi pour tel ou tel
+
+[330704-334611]
+a bi fori fo kana se du furumuso fitinin ma
+l'ordre était suivi jusqu'à la plus jeune femme du foyer
+
+[335019-336518]
+mais o tɛ in bi
+mais cela n'existe plus
+
+[337220-339185]
+bɛɛ ko kan sago kɛ
+tout le monde le fait  selon sa volonté
+
+[339728-342240]
+sagokɛ in ye ko tiɲɛ an bolo
+c'est se vouloir qui a gâché nos valeurs
+
+[342703-344277]
+mara tiɲɛ na an bol
+on a failli à l'éducation
+
+[344796-346555]
+ladamu tiɲɛ na an bol
+on a failli aux bonnes manières
+
+[348028-351425]
+anw lamɔna cogoya min na muna an tɛ se ka denw lamɔ ten
+Pourquoi nous ne pouvons éduquer nos enfants comme nous avons été éduqués ?
+
+[352549-356407]
+anw lamɔna gɛlɛya min ni tɔɔrɔ min kɔnɔ muna an tɛ se ka denw lamɔ ten
+La rigueur dans laquelle nous avons été pourquoi nous ne pouvons éduquer nos enfants dans la même rigueur
+
+[356691-360018]
+ni ko gɛlɛya ni tɔrɔ bugɔli kun tɛ o
+si je dis la rigueur, il ne s'agit pas du châtiment corporel
+
+[360663-362222]
+bugɔli kun tɛ
+non pas le châtiment corporel
+
+[362826-364333]
+bugɔli kun tɛ
+non pas cette peine
+
+[364392-367870]
+ni ye kojugu kɛ du kɔnɔ
+si tu commets une infraction dans la famille
+
+[368646-372481]
+a bi fɔ ko b'a fɔ karisa ye n'o yi fanin cinin ye
+on informa un de tes tontons en cela
+
+[373203-376092]
+n'a nana a bi tulo minɛ
+il te punira à son tour
+
+[377020-379240]
+a fɔra k'e ye nin kɛ ne kɔ bi
+j'ai été informé de ton infraction
+
+[379240-381129]
+i bi segin a ɲɔgɔn wɛrɛ kan wa
+vas-tu recommencer
+
+[381989-383574]
+e b'a fɔ ne tɛ segin a kan
+tu réponds non
+
+[386091-388518]
+ni min yɛrɛ ka farin
+ceux qui ont un tempérament chaud
+
+[389021-391537]
+o bi se ka fɔ k'a' ye nin daraka in dun ka to bi dɛ
+celui-ci ordonne de te priver le petit déjeuner du jour
+
+[393133-396351]
+ni bi daraka duna ka to siyan wɛrɛ a t'a ɲɔgɔn wɛrɛ kɛ
+s'il reste sans petit déjeuner, il ne va plus recommencer
+
+[397276-399500]
+tari a bi f'a ye nin  surafana dun ka to
+soit, il te privera du dîner du jour
+
+[400014-401685]
+n'a kɔgɔn tɔ sira
+s'il passe la nuit ayant faim
+
+[402291-403666]
+sini a t'a ɲɔgɔn kɛ
+il ne le fera plus cela
+
+[405540-408055]
+bugɔli tɛ den mara cogo ye
+la punition corporelle n'est pas la manière d'éduquer un enfant
+
+[408391-410370]
+nɛnini tɛ den mara cogo ye
+les injures non plus
+
+[410749-412462]
+den bɛ mara ni ɲɛ kun ye
+l'enfant est éduqué à travers l'attention
+
+[413744-416074]
+den bɛ mara ni hakili ye
+l'enfant est éduqué avec intelligence
+
+[416330-418148]
+den bɛ mara ni dusukun de ye
+c'est la foi qui éduque un enfant
+
+[418542-420870]
+den tɛ mara ni kumakan jugu yɛrɛ ye
+on n'éduque pas un enfant dans l'insolite
+
+[423021-425611]
+an ka segin ladamu kɔrɔlen ma
+il faut qu'on retourne aux valeurs anciennes
+
+[426414-428574]
+an ka segin tabiya kɔrɔ ma
+retournons à notre identité
+
+[431103-432944]
+an ka segin tabiya kɔrɔ ma
+retournons à notre appartenance
+
+[434216-437907]
+bi ni ko den musoma min ma ɲɔ kɛ kolon kɔnɔ i ka susu
+aujourd'hui, si tu demandes à une fille de piller
+
+[438552-439888]
+a b'a tɛgɛ yira i la
+elle te montre ses mains
+
+[440367-442018]
+eeh ma' ne tɛ se
+Eh maman, je ne peux pas
+
+[443133-445129]
+kolon kalan ne tɛ se
+le pilon, je ne peux pas
+
+[445607-447351]
+kolon tɛ bila den kun tugu
+on ne met plus de mortier dans les trousseaux
+
+[447595-449203]
+filen tɛ bila denw kun
+pas de calebasse non plus
+
+[450399-452777]
+an y'a bɛ kɛ ko wɛrɛ ye 
+nous avons changé cela à autre chose
+
+[455349-459074]
+ni susuli kɛ kan tu ma bɔ du o du kɔnɔ a tun bi fɔ ko muso tɛ yen
+le bruit de pillèrent était le symbolique de la présence de femme dans la famille
+
+[461054-463685]
+ni ɲɔ susu kan tu ma bɔ du o du kɔnɔ ko muso tɛ in
+c'est cela qui témoignait la présence de femme dans la maison
+
+[466592-468962]
+ka ɲɔ folon  bolo la
+piler le mil physiquement
+
+[469111-470314]
+ka bunte bolo la
+transformer en poudre
+
+[471053-473259]
+ka tɛntɛn ni mugu tɛmɛ ye bolo la
+ensuite le tamisé
+
+[473640-475370]
+ka kɛ to ye ka sigi
+puis le transforma en tôt
+
+[476733-478629]
+ka kɛ mɔni ye ka sigi
+le transforma en bouillie
+
+[479375-481296]
+anw lamɔna o kɔnɔ
+Nous, nous avons été éduqués en cela
+
+[481558-483814]
+anw marala o kɔnɔ
+nous avons élevé en cela
+
+[484966-487666]
+bi denw ko k'u tɛ taa ni kolon ye
+les enfants d'aujourd'hui ont refusé le mortier comme élément de mariage
+
+[487984-491074]
+baw ko k'o kolon taa kun tɛ den kun
+les mères trouvent moins utile le mortier dans le trousseau
+
+[491451-495981]
+bi denw ko k'u tɛ se mɔni yɛrɛkɛ la ko filen ta kun tɛ denw kun
+l'enfant d'aujourd'hui ont montré qu'elles ne savent faire de la bouillie donc la calebasse ne serait pas utile
+
+[498470-500685]
+nko ye furu laada de ye
+cela fait partie des valeurs du mariage
+
+[501285-503166]
+o ye furu danbe de ye
+cela témoigne la dignité du mariage
+
+[503924-506722]
+kolon bɛ du o du kɔnɔ kɔngɔ tɛ yen
+le mortier est le symbolique suffisance alimentaire
+
+[507503-511037]
+kolon b'i sigi du o du kɔnɔ kɔngɔ tɛ yen
+le mortier est très utile dans la famille
+
+[512825-514925]
+an y'a bɛ kɛ ko wɛrɛ ye
+nous avons bafoué tout cela
+
+[515204-516796]
+ka denw diyaye da an ni kan
+pour l'amour des enfants
+
+[517281-519314]
+an ka den ninnu diyaye to in
+voyons autrement cet amour
+
+[519969-522851]
+den ninnu an ka u diyaye to in
+arrêtons ce type d'amour de nos enfants
+
+[524571-526833]
+an ka tabiya kɔrɔ yira denw na
+montrons aux enfants ce qui est de nous
+
+[527402-529648]
+an ka an danbe kɔrɔ yira denw na
+montrons aux enfants notre dignité de jadis
+
+[529877-532148]
+an ka an bɔ kolo yira denw na
+montrons aux enfants notre descendance
+
+[532762-535648]
+an ka yira denw na k'an laban ye nin de ye
+ils doivent savoir leur origine et leur finalité
+
+[537896-543925]
+fɔlɔ den musomanin, cɛman ni musoman, cɛ tun tɛ sigi kurukan o
+autrefois entre la jeune fille et le jeune garçon, le garçon ne s'asseyait sur l'escargot
+
+[544450-546962]
+dumuni kɛ waati la cɛman tɛ sigi kurun kan
+il ne s'asseyait pour manger
+
+[547307-549666]
+cɛman bi sonsonri
+le garçons s'accroupit
+
+[550281-552685]
+den musoman de tun bɛ sigi kurun kan
+c'est la fille qui s'asseyait sur l'escargot
+
+[553371-555833]
+o musoman bi sigi kurun kan
+cette dernière s'essaya sur l'escargot
+
+[556032-557592]
+o de la cɛla taga mana se
+c'est pourquoi quand elle devait se marier
+
+[557659-560833]
+o kurun kelen in de bɛ bila den musoman ku k'i ka sigili kurun
+c'est ce même escargot qui était ajouté au trousseau pour qu'elle puisse s'asseoir dessus
+
+[561502-563666]
+i sigi kurun
+ta place
+
+[566424-568222]
+bi an yo dabila
+nous avons arrêté cela, aujourd'hui
+
+[568443-569703]
+an ye jumɛn bila u kun
+qu'est-ce qu'on a mis à sa place
+
+[570159-573777]
+ko min bɛ bila soba kɔnɔ ko n'u taara u bu sigi kan ka jaw filɛ
+elles ont remplacé cela par les fauteuils
+
+[575372-578166]
+kurun ye den muso danbe ye
+l'escargot est digne de la femme
+
+[578724-581111]
+kolon ye den musoman danbe ye
+le mortier en est de même
+
+[581387-583111]
+filen ye den musoman danbe ye
+la calebasse l'est aussi
+
+[583301-585500]
+ji fiyɛn ye den musoman danbe ye
+le canari fait partie des éléments de valeur de la femme
+
+[585662-587981]
+ne ɲɛ bɛ bi fiyɛn tɛ ka bila denmusomaw kuna tuguni
+je vois bien qu'aujourd'hui le trousseau est fait sans canari
+
+[589447-591796]
+fiyɛn ye hinɛ de ye
+le canari est symbole du bonheur
+
+[593507-596592]
+fiyɛn de bɛ dukɔnɔ mɔgɔw hinɛw don ɲɔgɔn na
+c'est le canari qui tisse les liens familiaux
+
+[597018-599648]
+ale de bi dudenw tin de ɲɔgɔn
+c'est elle qui maintient les liens familiaux
+
+[600412-603259]
+n'an bana ka fiyɛn bila denw kun
+si nous refusons de donner le canari aux enfants
+
+[603609-605759]
+hinɛ bɛ min
+où se trouve l'allégresse
+
+[607406-614740]
+hali i furu kɛ n'a  t'i ji soli fiyɛn na, i ka fiyɛn na ka mi i hinɛ t'a la
+même si ton mari ne boit pas l'eau de ton canari, il n'aura aucune pitié pour toi

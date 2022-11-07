@@ -1,0 +1,924 @@
+[1050-4770]
+A taara ka taa, [Sumaworo kalif  ɛh...] Makan Sunjata kalia Sumaworo la.
+﻿[Sumaworo kalif  ɛh...] autocorrection.
+
+[6140-6730]
+U sira.
+Ils ont passé la nuit.
+
+[7993-10390]
+Jaah Sumaworo kɛlen don ka jɔ dɔ de labɛn.
+Jaah Soumaourou avait  fait un filet.
+
+[10972-11540]
+I bɛ jɔ don ?
+Connais-tu un filet ?
+
+[12470-14950]
+Mɔgɔ bɛ jɔ min siri k'a d'a la k'a sɛgɛn lafiɲɛ..
+Le filet que les gens attachent pour s'y reposer.
+
+[16200-18610]
+Sumaworo ye tɔnjɔ de labɛn, tɔn jɔ. 
+Sumarourou a préparé un filet, filet.
+
+[19006-21350]
+Ale da yɔrɔ, ale sɛgɛn lafiɲɛ yɔrɔ de y'o ye.
+C'est son lit, là où il se repose.
+
+[22070-23700]
+[Mais] jɔ gansan tɛ dɛ.
+Mais, ce n'est pas un lit ordinaire.
+
+[23794-25850]
+Ni mɔgɔ o mɔgɔ sera k'a da jɔ in kɔnɔ.
+Toute personne qui arrivera se coucher sur ce lit.
+
+[26381-29470]
+O de mɔgɔ bɛ se ka kɛ sababu ye k'ale Sumaworo ka fanga tiɲɛ.
+C'est cette personne qui pourrait bafouer son pouvoir à lui Soumaoro.
+
+[30210-33860]
+Sumaworo ka jɔ in, muru bɛ jɔ in kɛrɛfɛ, muru.
+A côté ce filet de Soumaoro, il y a un couteau, un couteau.
+
+[34602-35500]
+N'i y'i da jɔ in kan.
+Si tu te couches sur ce filet.
+
+[35927-37540]
+I k'a don ka fɔ muru ye masiba fɛn ye. 
+Tu devrais savoir que le couteau est une arme.
+
+[37570-39810]
+Ni Sumaworo nana, a bɛ muru o ta k'i kunkolo tigɛ a  la. 
+Quand Soumaoro arrive, il prend ce couteau pour te trancher la tête.
+
+[40385-41880]
+Mɔgɔ t'a da Sumaworo ka jɔ kɔnɔ.
+Personne ne se couche dans le filet de Soumaoro.
+
+[43020-45190]
+Ɛh Sidiki, a gɛlɛyara dɛ.
+Eh Sidiki, c'est devenu sérieux.
+
+[46682-49100]
+Makan Sunjata n'a ba taara su kelen si la Sumaworo fɛ yen.
+Makan Soundjata et sa mère sont partis passer une nuit chez Soumaoro.
+
+[49621-50530]
+U bɛna tɛmɛ de.
+Ils sont de passage.
+
+[51260-54360]
+Makan Sunjata de ye Ala minɛ k'a da Sumaworo ka jɔ kɔnɔ.
+Makan Soundjata, par la grâce divine, s'est couché sur le filet de Soumaoro. 
+
+[56208-57430]
+Cɛkɔrɔba dow bolila.
+Des vieux ont pris la fuite.
+
+[57800-59140]
+F'u ka samara bɛ pan sanfɛ.
+Jusqu'à leur chaussure vole.
+
+[60740-61730]
+Muso dow bolila.
+Des femmes ont pris la fuite.
+
+[62200-65430]
+U kun na jalw, ah fo k'o tun'u la.
+Leur foulard de tête, jusqu'à ce qu'elles l'ont perdu.
+
+[66250-67430]
+Mɔgɔw bɛ ka kule fan bɛɛ fɛ.
+Les gens crient partout.
+
+[68010-69080]
+He bi gɛlɛyara !
+Hé, aujourd'hui est difficile !
+
+[69190-70190]
+Ha bi gɛlɛyara !
+Ha, aujourd'hui est difficile !
+
+[70666-72550]
+He bi ta in, an tɛna bɔ bi ta in la.
+He aujourd'hui, nous ne nous en sortirons pas aujourd'hui. 
+
+[73130-75511]
+ He Ala, nin kɛra cogo di sa ?
+He Dieu, Comment cela s'est produit ?
+
+[76058-76720]
+K"a kɛra cogo di ?
+Que s'est-il passé ?
+
+[76770-77290]
+Sumaworo nana.
+Soumaoro est venu.
+
+[77292-78070]
+A kɛra cogo di ?
+Que s'est-il passé ?
+
+[78580-83090]
+ɛh kamalen nin, i ka dunancɛ in kɛ, Makan Sunjata, ɔn a taar'a da i ka jɔ la.
+Eh, le jeune homme là, ton visiteur là, il s'est couché sur ton filet.
+
+[83670-87670]
+Sumaworo nana, ka na Sunjata dalen sɔrɔ a ka tɔnjɔ la.
+Soumaoro est venu trouver Soundjata est couché sur son filet.
+
+[88847-89430]
+A ko n den.
+Il dit mon enfant.
+
+[89431-89980]
+Ko han.
+Il répond oui.
+
+[90080-92750]
+Eh, e nan'i da ne ka jɔ la..
+Eh tu es venu te coucher sur mon filet.
+
+[92940-94000]
+Unhu, ne nana n da la.
+Oui,je me suis couché sur.
+
+[94060-95000]
+Eh ko jɔ tɛ de ?
+Eh c'est pas un filet ?
+
+[95021-97050]
+A labɛnen tɛ fɔyi kama fo k'i sɛgɛn lafiɲɛ.  
+Il n'est fait que pour se reposer. 
+
+[97639-98639]
+Ko jɔ gansan tɛ dɛ.
+Ce n'est pas un filet ordinaire.
+
+[99332-102120]
+Mɔgɔ o mɔgɔ n'i y'i da ne ka jɔ nin na, n b'i faga de.
+Je tuerai toute personne qui se couchera sur mon filet.
+
+[103634-105100]
+An Makan Sunjata ko n faga sa kɛ.
+Makan Soundjata dit tue moi dans ce cas.
+
+[105140-107470]
+A ko ayi, ne tɛ se k'e faga tan.
+Il dit non, je ne peux pas te tuer ainsi.
+
+[108570-109510]
+E t'a kalama.
+Tu ne sais pas.
+
+[110533-111533]
+Jo tɛ dɔnbali faga.
+Le fétiche ne tue pas un ignorant.
+
+[112200-113430]
+[Mais] a digira n na kɔsɛbɛ.
+Mais ça m'a fait trop mal.
+
+[114267-115860]
+Sabula jɔ in ni mɔgɔ min i da la.
+Parce que si une personne se couche dans ce filet.
+
+[116520-118680]
+Ah e tigi ka ko tɛ diya ne ye tugunni dɛ.
+Ah je n'aimerai plus cette personne.
+
+[119660-120780]
+Ko bɛ ne ni jɔ  in cɛ.
+Il y a quelque chose entre moi et ce filet.
+
+[121773-123230]
+A ma sɔn k'a fɔ Sunjata ye.
+Il n'a pas voulu dire à Soundjata.
+
+[123473-125540]
+Ni mɔgɔ min y'a da jɔ in la k'o b'a ka fanga tiɲɛ.
+Que la personne qui se couchera dans ce filet, détruira son pouvoir.
+
+[125750-126390]
+A m'o fɔ.
+Il ne l'a pas dit.
+
+[126890-128050]
+A y'o to a kɔnɔ.
+Il a gardé ce secret.
+
+[129520-130200]
+A kɔnin dimina.
+Il s'est quand même fâché.
+
+[130230-133870]
+A ko Sogolon, i n'i denkɛ Makan Sunjata, aw ye taa ka bɔ n ka dugu la.
+Il dit Sogolon toi et ton fils Makan Soundjata, quittez mon pays !
+
+[135138-139430]
+Sabula, a fa n'o ye farakɔrɔ Makan Konatɛ. 
+Parce que son père  Makan Konaté de farakoro.
+
+[139440-140760]
+A y'a den bɛɛ kalifa ne de la.
+Il m'a confié tous ses enfants.
+
+[141530-142660]
+Ne makan tɛ ka kalifa tiɲɛ.
+Je ne dois pas m'attaquer à ce qu'on m'a confié. 
+
+[144713-148710]
+Ne tun b'a fɛ de ne k'aw ɲininka aw bɔra manden sababu min na.
+Je voulais vous demander pour quelle raison, vous avez quitté le mandé.
+
+[149180-150670]
+[Mais] n tɛn'o si ɲɛsɔrɔ tugunni.
+Mais je ne pourrais plus faire cela.
+
+[152320-154640]
+Ni Sunjata nana kalifa ne la kɔrɔlen.
+Soundjata, qui m'a été confié auparavant.
+
+[156039-158100]
+A dun a tɛmɛna, a tɛmɛtɔ de ye nin ye.
+Il est passé, il est de passage.
+
+[158116-159580]
+A ye n ka tɔnjɔ lakari.
+Il a défait ce qu'était mon filet.
+
+[159680-160490]
+O ma bɛn n ma.
+Cela ne m'est pas convenu.
+
+[160577-161140]
+A ye taa !
+Allez-y !
+
+[161520-174110]
+U dimin'o de la, ka taa soma Jobi fɛ yen, ka t'u soronadon soma Jobi la, ka bɔ soma Jobi fɛnɛ fɛ yen, ka t'u soronadon Mɛma, Mɛma Musa Tunkara fɛ yen.
+[soronadon] sens ?
+
+[175586-177580]
+A taara Tunkaraw fɛ yen t'a soronadon.
+Elle est partie chez les Tounkara pour se réfugier.
+
+[178750-188980]
+O kɛlen tumana min, Makan Sunjata, Makan Sogolonjata, a fɔra k'ale de kan ka kɛ manden masa ye 
+Quand cela s'est produit, il a été dit que c'est Makan Soundjata, Makan Sogolonjata, qui doit devenir le roi de mandé. 
+
+[189373-190620]
+A dun taalen bɛ ɲanimaboli la
+[ɲanimaboli] sens ?
+
+[191304-192560]
+Kɔnɔnafili nana mandenka  la.
+L'inquiétude s'installa au mande.
+
+[192570-196130]
+Sumaworo kɛlen don ka manden mara, mara cogo min ka d'a yɛrɛ ye.
+Soumaoro gouverne le mandé de la manière qu'il veut.
+
+[196690-197840]
+A gɛlɛyara kɔsɛbɛ.
+C'est devenu beaucoup difficile.
+
+[198918-200900]
+Mandenka ɲanina, Mandenka tɔrɔla.
+Les habitants de mandé ont souffert, les habitant de mandé ont eu des difficultés.
+
+[202233-204610]
+[Mais].o kɛlen tumana min.
+Mais quand cela s'est produit.
+
+[204977-211890]
+Nka, a bɛ mandenka caman kunkolo la, farakɔrɔ Makan a denkɛ Masa Dankaratuma, a tɛ se ka manden mara.
+Mais, plusieurs habitants de mandé pensent, que le fils de Makan de faroro, Masa Dankaratouma est incapable de gouverner mandé.
+
+[212189-213020]
+Sunjata de bɛ se.
+C'est Sunjata qui en est capable.
+
+[215212-221310]
+Ɔ [farakɔrɔ Makan] a n'a ba Sasuma Bɛrite, olu fɛnɛ b'a don ka fɔ ni Sunjata nana, Sunjata bɛ kɛ manden masa.
+Dankaratuma au lieu de [farakɔrɔ Makan].
+
+[222293-227360]
+U fɛnɛ ye mɔgɔ bila Sumaworo kɔ, ko Sumaworo ka Sunjata yɔrɔ ɲini, ka Sunjata faga.
+Ils ont donc envoyé un messager à Soumaoro, que Soumaoro cherche et et tue Soundjata.
+
+[227770-229070]
+I y'a dɔn nin ye kabako ye.
+Tu vois que c'est surprenant.
+
+[230445-232650]
+Sumaworo tun sɔnnen don mandeka ye kojugu.
+Soumaoro avait beaucoup d'admiration pour les habitants de mandé.
+
+[234500-235550]
+Sumaworo dimina.
+Soumaoro s'est fâché.
+
+[236767-243130]
+A ko, jeliba taa fɔ Sunjata kɔrɔkɛ Dankaratuma ye.
+Il dit grand griot, va dire au frère aîné de Soundjata Dankaratouma.
+
+[243760-246300]
+Ko ne tɛ masa hakilitan ye.
+Que je ne suis pas un roi sans cervelle.
+
+[247790-249450]
+Ne tɛ masakɛ nanoma ye.
+Je ne suis pas un roi idiot.
+
+[250423-252120]
+Ne tɛ masa kodɔnbali ye.
+Je ne suis pas un roi ignorant.
+
+[253798-257900]
+Ko ne Sumaworo ko, ne n taara sɔrɔ manden, a b'a faga.
+Que moi Soumaoro, si je le trouve à mandé, je le tuerai.
+
+[258800-260390]
+A faga cogo bɛ juguya fɛnɛ dɛ.
+Il y aura une pire façon de mourir.
+
+[261010-261620]
+Ko han.
+Demande, vraiment.
+
+[261637-262190]
+Ko ɔnhɔn.
+Réponds oui.
+
+[262730-265440]
+Ko kamasɔrɔ, a bann'a balima la. 
+Parce qu'il renie son parent.
+
+[265480-269940]
+A banna Makan Sunjata la, fo ne ka Sunjata wele, ka Sunjata faga. 
+Il renie Makan Soundjata, au point de me demander à le tuer.
+
+[270560-271970]
+N'i ka wulu farinba faga.
+Si tu tue  ton grand chien méchant.
+
+[272570-273600]
+Dɔ ka wulu b'i kin.
+Le chien de quelqu'un d'autre te mordra.
+
+[274610-276300]
+Ɛh mun bɔnɛ binna manden kan.
+Eh quel malheur a frappé le mandé ?
+
+[277520-278330]
+A dimina.
+Il s'est fâché.
+
+[279970-284060]
+A diminen, a ye a ka ton ta.
+[ton sens ?
+
+[284330-288560]
+[Mais] yaan'a ka na, bonya dɔ tɛmɛ n'ani Kuyatɛ jeliw cɛ.
+Avant qu'il vienne, il s'est tissé un lien entre lui et les griots Kouyaté.
+
+[289651-296680]
+Olu bɛnbakɛ Ɲankumanduwa, o de taara ci fɔ Sumaworo ye, ko Sumaworo ka na, ka Sunjata yɔrɔ ɲini, ka Sunjata faga.
+C'est leur ancêtre Gnèkoumandoua, qui a apporté le message à Soumaoro, de chercher et tuer Soundjata.
+
+[296990-298850]
+Mandenkaw y'ale ci o de la.
+C'est pour cela que les habitants de mandé lui ont commissionné.
+
+[298989-300570]
+Nin o ye Dankaratuma.
+C'était Dankaratouma.
+
+[302160-306640]
+Nk'ale taara fɛn dɔ de sɔrɔ Sumaworo ka so kɔnɔ, Sumaworo ka cɛya bulon kɔnɔ.
+Mais, il est tombé sur quelque chose dans la maison de Soumaoro, dans sa case d'homme. 
+
+[307630-308810]
+O ye bala de ye.
+C'est le bala / balafon.
+
+[309410-310410]
+Bala bɛ fɔ de.
+Le bala se joue.
+
+[310570-311760]
+N'i y'a fɔ, a mankan ka di.
+Quand on y joue, son bruit est agréable.
+
+[312570-313570]
+Mɔgɔw bɛ dɔn kɛ.
+Les gens dansent.
+
+[313820-316900]
+A bɛ fɔ ka dɔnkili da, ka [histoire] ka tarikuw fɔ.
+On y joue en chantant, en racontant des histoires.
+
+[317430-320550]
+Unh a nana bala dalen sɔrɔ.
+Unh il est tombé sur le bala.
+
+[320780-324180]
+A y'a bolo kɛ balakisɛ la tan kin kin kin kin kin.
+Il a effleuré les touches du bala faisant kin kin kin kin kin.
+
+[324620-325490]
+A mankan ka di.
+Son bruit est agréable.
+
+[326847-334540]
+Jaa ni ye bala o fɔ, hali ni Sumùaworo bɛ kilo, hali ni Sumùaworo b ɛ ɲɛ [milion] tan bakelen na, a tulo b'a mɛ.
+Jaa quand tu joues ce bala, même si Soumourou se trouve à une dizaine de million de kilomètre, il entendra.
+
+[335684-338930]
+Kin kin kin, ni Sumaworo bɛ fo yɔrɔ jan a b'a mɛ.
+Kin kin kin, même si Soumaoro est loin, il l'entendra.
+
+[339080-340080]
+A bɛ boli ka na.
+Il revient en courant 
+
+[340155-343730]
+Sumaworo nana ko, yaani ka Sumaworo na, a ye bala fɔ.
+Soumaoro est venu, avant l'arrivée de Soumaoro, il a joué le balan.
+
+[343800-344450]
+A y'a mankan mɛ.
+Il a entendu le son.
+
+[344462-345800]
+A ko nin ye fɔlifɛn duman ye dɛ.
+Il dit, c'est un instrument de musique.
+
+[347540-348490]
+A y'a kun lawili. 
+Il a levé la tête 
+
+[349150-350200]
+A ɲɛ bɛ sɛgɛ la.
+Il aperçoit l'aigle.
+
+[351533-352310]
+A ye sɛgɛ lajɛ.
+Il a regardé l'aigle.
+
+[352420-355350]
+A ko fɔlifɛn min bɛ ne bolo nin ye, ne bɛ ka min fɔ nin ye.
+Il dit, cet instrument de musique que je tiens, que je joue.
+
+[355870-357800]
+A fɔ fɛn t'e bolo, nin bɛ fɔ cogo di ?
+Tu n'as pas l'instrument pour le jouer ? Comment ça se joue ?
+
+[358749-362450]
+Bala bɛ fɔ nin kala de ye, balafɔkala.
+Le bala se joue avec un bâton, bâton qui joue le bala.
+
+[362922-364340]
+Sɛgɛ ye balafɔkala jir'a la. 
+L'aigle lui a montré le bâton qui permet de jouer au bala.
+
+[364390-365520]
+Sɛgɛ nin tun ye jinɛ de ye.
+L'aigle là était un djinn.
+
+[365610-368950]
+Jinɛ de y'a yɛlɛma ka kɛ kɔnɔ nin ye, k'a sigi, ka Sumaworo ka bala kɔlɔsi.
+C'est un djinn, qui s'est transformé en oiseau, pour garder le bala de Soumaoro.
+
+[370046-372280]
+Sɛgɛ fɛnɛ ye balafɔkala jira.
+L'aigle aussi a montré le bâton qui permet de jouer au bala.
+
+[372539-375430]
+Ne tɛ kala nin d'i ma f'i k'i kale ne ye.
+Je ne te donnerai pas ce bâton sauf si tu me fais une promesse.
+
+[376605-377390]
+O la n bɛ kala d'i ma.
+Ainsi, je te donnerai le bâton.
+
+[377440-380720]
+Ni Sumaworo nana walas'a ka n'i faga, n b'o ɲɛf'i ye. 
+Si Soumaoro arrive, pour qu'il ne te tues pas, je te dirai quoi faire.
+
+[382035-385290]
+Ah a ko [bon], ne si o si a tɛ sɛgɛ faga 
+Ah il a donc dit, aucun de mes descendants ne tuera l'aigle.
+
+[385330-386380]
+A tɛ sɛgɛ sogo dun.
+Il ne mangera pas la viande d'aigle.
+
+[386390-388490]
+A tɛ sɛgɛ ye sɛden tali la ka f'a ma ko jaa.
+Il ne dira pas jamais en voyant l'aigle prendre un poussin.
+
+[388560-389560]
+A tɛ sɛgɛ tana tiɲe.
+Il ne dévoilera pas le tabou de l'aigle.
+
+[390000-390880]
+Ah ko diyara n ye.
+Ah cela me plait/convient.
+
+[392271-394380]
+Ne sɛgɛ ne fɛnɛ bɛ n ban e ye [inaud]
+[inaud] inachevée.
+
+[394570-396770]
+Ne bɛ n ban ka Sumaworo, ne bɛ Sumaworo kan sɔsɔ.
+Je désobéirai Soumaoro.
+
+[397010-398390]
+N bɛ balafɔkala d'i ma.
+Je te donnerai le bâton qui permet de jouer au bala.
+
+[399080-400130]
+N banna  Sumaworo ta ma.
+Je désobéis à Soumaoro.
+
+[400190-401260]
+N sɔnn'e ta ma.
+J'accepte ce que tu dis.
+
+[401548-403050]
+Sabula i k'i tɛ sɛgɛ dun.
+Parce que tu as dit que tu ne mangeras pas d'aigle.
+
+[403150-404060]
+I tɛ sɛgɛden dun.
+Tu ne mangeras pas d'oisillons d'aigle.
+
+[404120-404920]
+I t'a faga fɛnɛ.
+Tu ne le tueras pas non plus.
+
+[405111-406560]
+I t'an bali ka sɛden fɛnɛ ta.
+Tu ne nous empêcheras pas non plus de chasser le poussin.
+
+[406743-407870]
+Hɔn balafɔkala la !
+Tiens, le bâton de bala.
+
+[409458-413040]
+A y'a bolo bila bala la, ka bala fɔ
+Il a commencé à jouer au bala.
+
+[413873-416510]
+Bala mankan bɔlen, Sumaworo ni boli nana.
+Au son, du bala Soumaoro accourra.
+
+[417420-420020]
+A ko jɔn bɛ ka ne ka bala fɔ, jinɛ wa mɔgɔ ?
+Dit, qui est en train de jouer à mon bala, djinn ou homme ?
+
+[421930-422930]
+Jɔn kan de don ?
+Qui est-ce ?
+
+[423620-427810]
+A ko aah ne Ɲankumanduwa kan de don.
+Il dit aah c'est moi Gnèkoumandoua.
+
+[428467-429550]
+A ye Sumaworo lajɛ.
+Il regarda Soumaoro.
+
+[429897-431630]
+A ko [jaa tigɛ bankalisuba]
+[jaa tigɛ bankalisuba] incompris.
+
+[432234-435490]
+Sumaworo kan tɛ., [namin tɛ] ani [namin jɔkala]
+ [namin tɛ] ani [namin jɔkala] incompris.
+
+[435656-440620]
+[Jugujugu kɛkun] ani [kɛkun dandan] dɔ tigɛ dɔ la [kami] dɔ tugu dɔ la [kami]
+[Phrase incomprise]
+
+[441010-443640]
+[Kɛ] minɛ [kɛ], [kɛ]  siri [kɛ] ani [kɛ] faga [kɛ].
+[maliké] à vérifier.
+
+[444038-446720]
+Farafinna laminin mumɛ, e min sugu tɛ.
+Dans toute l'Afrique, il n'y a pas ton semblable..
+
+[447085-448420]
+Sumaworo, i Kan tɛ..
+Soumaoro, c'est pas ta voix.
+
+[448633-452400]
+A y'a bolo bila bala la, kinkinu kinkinu kinkinu kinkinu kin.
+Il commence à jouer au bala, kinkinu kinkinu kinkinu kinkinu kin.
+
+[452440-454150]
+A bɛ ka Sumaworo mabalima.
+Il a chanté la lignée de Soumaoro.
+
+[454470-455600]
+Sumaworo sewara.
+Soumaoro se réjouisse.
+
+[455847-459440]
+A ko jaa mɔgɔ matɔgɔkan bɛnnen  mɔgɔ wɛrɛ da ka tɛm'i yɛrɛ kan.
+Il dit jaa c'est plus convenable, que quelqu'un d'autre que soi chante ton nom.
+
+[460702-462340]
+Ne bɛ bala in d'e ma, e tɔgɔ ?
+Je te donne le bala, ton nom ?
+
+[462560-464010]
+A ko ne tɔgɔ Ɲankumanduwa.
+Il dit qu'il s'appelle Gnakoumadoua.
+
+[464120-465770]
+Ah mɔgɔ tɔgɔ tɛ Ɲankumduwa.
+Ah Gnakoumadoua n'est pas un nom de personne..
+
+[466050-466620]
+N b'i tɔgɔ da.
+Je te donnerai un nom.
+
+[466635-468050]
+E bɛ kɛ ne ka balafɔla de.
+Tu seras mon joueur de bala.
+
+[468573-469800]
+Bala nin fɔ sɛgɛ.
+Joue ce bala l'aigle !
+
+[470523-471670]
+Bala nin ta sɛgɛ !
+Prends ce bala l'aigle !
+
+[472860-475240]
+N b'i tɔgɔ da, bala nin fa y'e de.
+Je te nomme le père du bala.
+
+[475477-476350]
+Bala in tigi y'e de.
+Tu es le propriétaire du bala.
+
+[476369-476820]
+A ta !
+Prends le !
+
+[477327-481500]
+Balafasɛgɛ, Balafasɛgɛ Kuyate, bala fɔ n ye !
+Balafaségué, Balafaségué Kouyaté, joue moi du bala !
+
+[481830-483520]
+Wa i tɛ taala manden tugunni dɛ.
+Et tu iras plus à mandé.
+
+[483930-485290]
+Ne ni manden bɛ kɛl'i nɔfɛ.
+Je me battrai contre le mandé pour t'avoir.
+
+[485646-486640]
+Sabula, e nafa ka bon.
+Parce que tu es important.
+
+[486644-487644]
+I bɛ ne ɲɛnajɛ kojugu.
+Tu me divertis beaucoup.
+
+[489244-492330]
+Sumaworo Kantɛ, a ye manden mara nin cogo la.
+Soumaoro Kanté, il a ainsi gouverné le mandé.
+
+[493381-496700]
+Nin Ala sɔnn'a ma don dɔ nata la, anw bɛ baro kɛ Sumaworo kan.
+Si Dieu le veut la prochaine fois, nous parlerons de Soumaoro.
+
+[496718-498440]
+Sabula, Sumaworo sugu tun ma ca.
+Parce qu'il n'y avait pas beaucoup d'hommes comme Soumaourou.
+
+[499200-507700]
+Sumaworo de ye jɔnya wili ka bɔ mɔgɔw kan, ka nɛgɛ baara ɲɛ caya, ka kɛlɛkɛfɛrɛ lacaya, ka ban ka hakɛ don anw ni ɲɔgɔn cɛ.
+[ ka nɛgɛ baara ɲɛ caya] =  multiplier la façon de travailler le fer ?
+
+[508040-510020]
+Ko mɔgɔ kunba man ka bi denmisɛn kan.
+Que les adultes n'agressent pas les enfants.
+
+[510060-511830]
+K'anw ka denmisɛnw ladon ko ɲuman.
+Que nous devons prendre soin des enfants.
+
+[512011-515530]
+Ko hakili tɛ mɔgɔ min fɛ, hakilitanyabagatɔ ko ye jamana doni ye.
+Les personnes, qui n'ont pas toute leur tête, sont à la charge du pays. 
+
+[515580-516720]
+K'anw bɛɛ ka jɛ o kunko la.
+Que nous tous devons les prendre en charge.
+
+[517054-520160]
+Ko [kɛngɛbagatɔ], ko [jangolo] k'i janto [kɛngɛbagatɔ] la
+[kɛngɛbagatɔ] [jangolo] inconnu..
+
+[520510-522490]
+ [kɛngɛbagatɔ k'i janto jangololɔ la]
+[kɛngɛbagatɔ] [jangolo] inconnu..
+
+[523050-526400]
+Jamana ka don da kelen, ka bɔ da kelen, k'anw bɛɛ ka jɛ ka kan kelen fɔ.
+Ayons le même but, parlons la même langue.
+
+[526530-527530]
+I y'o faamuya ?
+As tu compris ?
+
+[527643-532500]
+Ka jamana jɔ miiriya kelen, ŋaniya kelen, taabolo kelen.
+Bâtissons le pays, un peuple, une foi, un but.
+
+[532627-535430]
+O de [wale] kɛr'an ka jamana jɔnjɔn ye.
+[wale] à vérifier, [jɔnjɔn] = devise ?
+
+[536486-538080]
+N bɛ bɔ baro la yan.
+Je sors de la conversation ici.
+
+[538454-539454]
+Kamasɔrɔ, kuma ka gɛlɛn.
+Parce que, la parole est difficile.
+
+[540140-542270]
+N ye Nakuntɛ Kantɛ ka b Narena.
+Je suis Nakounté Kanté de Naréna.
+
+[542842-545580]
+Ni n bila la mɔgɔ min na, o ka yafa n ma.
+Si j'ai vexé quelqu'un, qu'il me pardonne..
+
+[545600-546550]
+Ne ye ɲinininkɛla ye. 
+Je suis chercheur.
+
+[547241-549210]
+N tun k'i ma ko, n bɛ dɔɔnin fɔ Taraweleya kan.
+Je t'avais promis de parler un peu sur Traoré.
+
+[549575-552130]
+Ɛh nka, fɛn bɛɛ n'a tuma.
+Eh mais chaque chose a son temps.
+
+[552460-554130]
+N tɛ se ka baro bɛɛ b'i ye don kelen.
+Je ne peux pas tout te raconter en un seul jour.
+
+[554484-557150]
+Don wɛrɛ n'i nana, an bɛ ɲɔgɔn baro dɔɔnin. 
+Si tu viens un autre jour, nous causons un peu.
+
+[558688-562470]
+Tura Mankan ani Kanke jan, Muke Musa ani Muke Dantuma, ko tigɛ nɔnkɔn na Tura Mankan.
+à vérifier.
+
+[562540-563710]
+Ba  tigɛ nɔnkɔn na Tura Mankan.
+Traverse le fleuve à la nage.
+
+[563980-566070]
+E bɛbankɛ de ye cɛ gɛlɛn bɛɛ minɛ.
+C'est ton ancêtre, qui a arrêté tous les durs à cuire.
+
+[566300-567930]
+Cɛ o cɛ n'a tun  [kadɔ] ka gɛlɛn.
+Tout homme, qui était dure à combattre
+
+[567980-569280]
+I bɛnbakɛ de ser'u bɛɛ la.
+C'est ton ancêtre, qui les a tous vaincu.
+
+[570846-578090]
+Turamakan kɔni, ale de nanen ni Makan Sunjata muso, Sogolon sungurunma ye ka na di Makan Sunlata fa ma, farakɔrɔ Makan Konatɛ ma..
+C'est Touramakan, qui est venu donner la jeune femme Makan Sunjata Sogolon à Makan Konaté de farakoro, le père de Soundjata.
+
+[578840-580710]
+O kɛra kɛcogo min na, o tun ka gɛlɛn dɛ.
+La manière dont cela s'est passé était difficile.
+
+[582364-583470]
+O tun ka gɛlɛn kɔsɛbɛ.
+C'était beaucoup difficile.
+
+[583760-585080]
+N bɛ kuma ɲɔngiri yan.
+Je mets fin à la parole.
+
+[585200-594260]
+[Bon] kuma ɲɔngirinen, kuma sigilen,kuma jɔlen, kuma dalen, kuma lawililen, kuma bolilen o bɛɛ ye kuma taabolo dɔ de ye.
+A revoir
+
+[595030-596800]
+Kuma de ko, a' ye n fɔ n fɔ ko don !
+C'est la parole qui dit, sachez pourquoi vous me rapporter !
+
+[596912-598240]
+A' ye n fɔ n fɔ tuma la.
+Rapportez moi au bon moment !
+
+[598377-599670]
+A' ye n fɔ n fɔ mɔgɔ ye.
+Rapportez-moi à la bonne personne !
+
+[599841-601130]
+A' ye ne kuma kɔnɔ gɛn.
+Chassez-moi la parole tel un oiseau !
+
+[601160-601980]
+'A' ka siran n ɲɛ.
+Ayez peur de moi !
+
+[602145-603620]
+Fɛn bɛɛ b'a den wolo.
+Toute chose met au monde son enfant.
+
+[603700-604950]
+Kuma de b'a ba wolo.
+C'est la parole, qui met au monde sa mère.
+
+[605086-606190]
+N'i ko k'i ye ne kuma don.
+Si tu dis, que tu me connais moi la parole.
+
+[606230-607550]
+I bɛ kuma wɛrɛ mɛ mɔgɔ dɔ da.
+Tu entendras une autre parole de quelqu'un d'autre.
+
+[607556-609380]
+I ma deli ko mɛ [depuis] Ala k'i dan.
+Que tu n'aurais jamais entendu depuis ta naissance.
+
+[609743-611020]
+[Donc] kuma tɛ dɔnna ka ban.
+Donc, on peut jamais maitriser la parole.
+
+[611471-613300]
+Mɔgɔ kana ne minɛ n ka kuma in ma. 
+Ne me considérez pas, selon mes propos.
+
+[613312-616080]
+N b'a ɲɛɲini ka n tulomajɔ mɔgɔ bɛɛ la.
+Je fais des recherches en écoutant tout le monde.
+
+[616088-619580]
+N mana min sɔrɔ ɲininin kɔnɔ, o de ye nin ye k'a lase i ma. 
+C'est le résultat de mes recherches, que je viens de partager avec toi.
+
+[619681-621770]
+Ɔ yaani, mɔgɔ dɔ k'an ka kuma sɔsɔ
+Oh avant que quelqu'un d'autre ne conteste, mes propos.
+
+[621800-623050]
+I fɛnɛ tɛ wil'i ka ɲɛɲini !
+Fais aussi des recherches. ! 
+
+[623080-624080]
+I mana min ɲɛ sɔrɔ.
+Ce que tu trouves.
+
+[624236-626820]
+I ka jamana kunafonni o la, an ka bɔ an yɛrɛ kalama.
+Informe ton pays sur cela, qu'on sache qui nous sommes !
+
+[627013-628780]
+An ka jamana ye jogodɔn jamana de ye. 
+Notre pays est un pays de bienséance.
+
+[628867-630610]
+An ka jamana ye ɲɔgɔn lamɛ de ye.
+Notre pays est celui de l'écoute.
+
+[630644-633010]
+An bɛnbakɛw ma sɔn ka ɲɔgɔn sɔsɔ nkalon kan.
+Nos ancêtres ne se sont jamais contredits sur la base de mensonge.
+
+[633260-634920]
+A ye baara kɛ hakili ɲuman de la.
+Il a travaillé avec intelligence.
+
+[635459-643560]
+[inaud] N bɛ bɔ k'an ka jamana dencɛma, farafindencɛma, farafinna ni farajɛla,. ka foli bila bɛɛ lajɛlen ye. 
+Je salue tous les fils de notre pays, les fils africains en Afrique et aux pays blancs, salutations adressées à tout le monde.
+
+[643723-648490]
+Ni n bila la min na, o ka yafa n ma, sabula tuma ka gɛlɛn dɛ, i Tarawele.
+Si j'ai vexé quelqu'un, qu'il me pardonne, parce que la parole est difficile.
+

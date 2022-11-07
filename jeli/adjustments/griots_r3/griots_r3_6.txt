@@ -1,0 +1,707 @@
+[130-1200]
+O b'o bolo.
+Il a ça.
+
+[1410-3682]
+N'a bɛ da, a bɛ da a kun yanfan fɛ.
+Quand il se couche, il se couche vers la tête.
+
+[4324-7015]
+N'a bɛ wuli, a bɛ wuli n'a ye.
+Quand il se réveille, il se lève avec.
+
+[7859-10273]
+N'a bɛ don ɲɛgɛn kɔnɔ, a n'a bɛ don.
+Il rentre dans les toilettes avec.
+
+[11537-13695]
+N'a bɛ bɔ, a n' a bɛ bɔ.
+Quand il sort, il sort avec.
+
+[13939-16664]
+Sɛmɛ tɛ yɔrɔ janya masakɛ la fewu.
+Le roi ne s'éloigne jamais de cette hache-houe.
+
+[17226-26463]
+Ɔɔ masakɛ kelen, a bɛ muso min fana furu, o muso ka labɛn ani o fana ka masiri nin bɛɛ ye numu ka kɛta de ye.
+L'entretien et l'habillement de la femme qu'épouse le roi incombe au forgeron.
+
+[28381-29748]
+Numu jɔyɔrɔ de ye nin ye.
+C'est cela le rôle du forgeron.
+
+[30244-39906]
+A bɛ nin kɛ masakɛ ye k'a ka fanga ka sinsin a bolo, k'a ka fanga ka labɛn a bolo, k'a ka fanga ka diya a bolo. 
+Il fabrique cela pour le roi afin que son pouvoir se consolide entre ses mains, afin que son pouvoir se prépare entre ses mains, afin que son pouvoir réussisse entre ses mains.
+
+[41959-48408]
+Ɔ i bɛ numu den caman jɔ bi, n'ye fɛn caman tɔgɔ fɔ k'u ka segin ni tɔgɔ ninnu kan a ka gɛlɛn dɛ.
+Ajourd'hui, si tu arrêtes beaucoup de fils de forgeron et si tu leur demandes de répéter le nom de beaucoup de choses que j'ai nommées, c'est difficile.
+
+[49650-51289]
+A ka gɛlɛn dɛ.
+C'est bien difficile.
+
+[52610-57103]
+Ɔɔi, bi Ala y'a latigɛ ne ka dɔ lakali a la.
+Dieu a permis que j'en parle un peu aujourd'hui. 
+
+[57347-60183]
+Minnu t'a dɔn, olu k'a sidɔn.
+Pour que ceux qui ne savaient pas le sachent parfaitement.
+
+[60368-64813]
+Numuya, a kɔnɔko ka dun fo ka taa a fɔ a ka dun.
+Le métier de forgeron, ce qu'il implique est très profond plus qu'on en peut le dire.
+
+[65357-75976]
+Anw fɛ yen, numudenkamalen hali i kɛcogo ani bamananden walima fuladen walima marakaden hali aw kɛcogo tɛ kelen ye.
+Chez nous, un jeune forgeron n'a pas le même comportement qu'un jeune bamanan ou un jeune peulh ou un jeune soninké.
+
+[77210-78879]
+Ka d'a kan mun na ?
+Pourquoi cela ?
+
+[79079-80632]
+Numu ye fɛn bonyalen ye.
+Le forgeron est un être respecté.
+
+[80772-82493]
+U ko a ma ko diɲɛ den fɔlɔ.
+On l'appelle le premier enfant du monde.
+
+[82703-83940]
+Diɲɛ den fɔlɔ ye mun ye ?
+Le premier enfant du monde, qu'est-ce ?
+
+[84165-88651]
+Min sɔnna fɔlɔ fɔlɔ fɔlɔ ka baara paratike fɔlɔ fɔlɔ, ka baara kɛ fɔlɔ fɔlɔ.
+C'est lui qui a accepté en tout premier de pratiquer le tout premier travail, d'être le tout premier à travailler.
+
+[88881-91378]
+Ka bolofaraw caman bɔ baara in na.
+C'est lui qui a créé plusieurs filières dans ce travail.
+
+[91538-94263]
+Baara min bɛ mɔgɔw nafa  k'u yɛrɛw nafa.
+Un travail qui leur est utile aux autres et profite à eux-mêmes.
+
+[97410-100842]
+Ɛɛ hali u b'a fɔ kiyama jɔdon ko maritow de bɛ yen.
+Ils disent même que les marteaux seront là le jour du jugement dernier.
+
+[101150-103895]
+Ko mɛlɛkɛ ka marito k'a bɛ kɛ ka mɔgɔ gosi.
+Que l'on cognera les gens avec le marteau de l'ange.
+
+[104385-107152]
+Marito diɲɛ kɔnɔ jɔn y'a ye? A yela jɔn na ? 
+Le marteau, dans le monde, qui l'a vu ? Par qui a-t-il été vu ?
+
+[107523-108593]
+Numuw tɛ ?
+Ne sont-ce pas les forgerons ?
+
+[108904-110381]
+Anw de bɛ marito in dilan.
+C'est nous qui fabriquons ce marteau.
+
+[110681-112238]
+An b'a kɛ ka nɛgɛ gosi.
+C'est avec lui que nous battons le fer.
+
+[113089-117208]
+U b'a fo ko ko jahanama da, alijana da ko da segin segin b'a la.
+Il disent que l'entrée de l'enfer et celle du paradis comptent huit portes chacune.
+
+[117408-119849]
+Pɔritu min b'a la, numu ka dilalen don.
+La porte qui s'y trouvent sont une fabrication des forgerons.
+
+[121447-123807]
+Ɔɔ numuya ye Ala yɛrɛ ka fɛn cilen ye.
+Le métier de forgeron est une chose envoyée par Dieu lui-même.
+
+[124367-125825]
+Ka ci anw ma.
+Envoyé à nous.
+
+[127135-128812]
+Mɛ n bɛ farafinw fo.
+Mais je salue les africains.
+
+[129212-132474]
+U ye numuya in sidɔn fo ka taa fɔ u y'a sidɔn.
+Ils ont bien compris le métier de forgeron et poussé cette compréhension au bout. 
+
+[132930-145120]
+Ni i ni bamanankamalen jɛna,  n'a y'a dɔn ko karisa ye numu ye  i n'i yɔrɔ diya a b'a sigi fo ka taa saya se aw bɛɛ ma, a t'a wuli ka bɔ yen.
+Si tu collabores avec un jeune, s'il se rend compte qu'untel est un forgeron, il va te choyer et t'accorder une place prépondérante jusqu'à ce que la mort vous atteigne tous les deux, il ne s'éloignera plus..
+
+[145904-150612]
+E ka numuya in, a t'o - a t'o -a t'o gasi tiɲɛ fiyewu.
+Ce métier de forgeron qui est le tien, il n'en - il n'en - il n'en franchira jamais les interdits.
+
+[151444-158868]
+Bamanan t'a ɲɔ gosi fiyewu, ka ban, k'a dun ka ban k'a ma taa numu niyɔrɔ d'a ma a ka so.
+Le bamanan ne fera jamais le battage de son mil, ni ne le mangera jusqu'à la fin  sans apporter la part du forgeron chez lui. 
+
+[159307-160585]
+Ɔɔ o ju ye mun ye ?
+Quel est le fondement de tout cela ?
+
+[160815-163101]
+Ɲɔ bɛ dan ni min ye o ye anw ye.
+Celui qui sème le mil, c'est nous.
+
+[163191-165473]
+A bɛ tigɛ ni min ye o ye numu ye.
+Celui qui le coupe, c'est le forgeron.
+
+[165639-169107]
+A bɛ- a bɛ - a bɛ - a bɛ kɔrɔta ni min ye o ye numu ye.
+Celui qui - celui qui - celui qui le laboure, c'est le forgeron.
+
+[169171-171165]
+A bɛ donni ni min ye, o ye numu ye.
+Celui qui le transporte, c'est le forgeron.
+
+[171285-172981]
+A bɛ gosi ni min ye, o ye numu ye.
+Celui qui le bat, c'est le forgeron.
+
+[176330-181520]
+Ɔɔ ni bilakoro min tun ye kɛɲɛkɛ, a bɛ fɔ: « a ye taa numukɛ cɛkɔrɔba weele ka na».
+Si un garçonnet incirconcis était intenable on disait: «Appelle le vieux forgeron et dis-lui de venir »
+
+[181906-187724]
+Ni numudenmisɛnw taara, ni u k'u bɛ bolokoli kɛ,  ni bilakoro ye kɛɲɛkɛ a bɛ fɔ «Aw ye taa numu cɛkɔrɔba weele ka na !» 
+Quand les jeunes forgerons venaient et qu'ils voulaient faire la circoncision, si l'adolescent refusait, on disait : «Appelle le vieux forgeron et dis-lui de venir »
+
+[187984-189141]
+Ni numukɛcɛkɔrɔba nana <
+Quand le vieux forgeron arrivait 
+
+[189291-193722]
+N'a nana ka n'i sigi,  ɲɛ sula bilakoro kan, dɔw jatigɛkojugu u bɛ sugunɛ kɛ.
+Quand il venait, quand il jetait son regard sur un incirconcis, certains se pissaient dessus tant ils avaient peur. 
+
+[195090-198361]
+U ja tigɛ kojugu u bɛ sugunɛ kɛ Mukutari.
+Tellement terrifiés, ils pissaient Mouktar.
+
+[199071-203116]
+Mɔgɔ min nana a nɔ fɛ, a n'o tɛ filan ye.
+La personne qui est venue le chercher n'est pas de la même classe d'âge.
+
+[205073-206055]
+A b'a boloko.
+Il le circoncit.
+
+[207267-208310]
+K'a di a tigiw ma.
+Et il le donne à ses maîtres.
+
+[209570-213916]
+Ni u ɲigina mɔgɔ la, ka ɲigi i la pewu, bolokoli la <
+S'ils étaient écœurés par quelqu'un, à en être complètement écœurés pendant la circoncision <
+
+[214056-215022]
+O mɔgɔw bɛ yen.
+Il y a des gens ainsi.
+
+[215192-218572]
+Dɔw bɛ yen u bɛ mɛn ka boloko - u bɛ mɛn n'u ma bolo ma ko.
+Il y en a certains qui tardent à être circoncis, ils tardent avec ça et ne sont pas circoncis.
+
+[218892-220637]
+U ka furuko bɛ gɛlɛya, u ka fɛnw bɛ gɛlɛya.
+C'est difficile pour eux de se marier, leurs affaires deviennent difficiles.
+
+[220877-222901]
+Numu de bɛ se ka o ɲama lakari.
+C'est le forgeron qui peut contrer cette force occulte.
+
+[223251-224501]
+K'a tigi bolo ko.
+En circoncisant celui qui est sous son influence.
+
+[226618-227900]
+Numu de bɛ se k'o kɛ.
+C'est le forgeron qui peut faire ça.
+
+[228077-232896]
+Ni numu tɛ, n ma o ye mɔgɔ si la, ni numu tɛ.
+Je n'ai vu ça avec personne d'autre si ce n'est le forgeron.
+
+[233829-239334]
+O tuma na, n'i ko i ye fama ye o, i tɛ se ka vi, i tɛ se ka ɲɛnamaya kɛ ni numu tɛ.
+Dans ce cas que tu sois un dirigeant ou pas, tu ne peux pas vivre, tu ne peux pas vivre sans forgeron.
+
+[239504-242471]
+I faantan ye wo, i tɛ se ka ɲɛnamaya kɛ ni numu tɛ.
+Ou si tu es pauvre, tu ne peux pas vivre sans forgeron.
+
+[242591-245996]
+I ye tɔgɔtigi ye wo, i tɛ se ka ɲɛnamaya kɛ ni numu tɛ.
+Ou tu es une personne de renommée, tu ne peux pas vivre sans forgeron.
+
+[246076-249060]
+Hali bi, an bɛ boli mɔbili min na, nɛgɛ ye jɔnni ta ye ?
+Même aujourd'hui les automobiles dans lesquelles nous circulons, de qui vient le fer ?
+
+[249082-249952]
+Numu ta tɛ wa ?
+N'est pas celui du forgeron?
+
+[251402-252679]
+Wa a bɛɛ ju ye numu ye.
+Le forgeron est à la base de tout.
+
+[253924-257375]
+O tuma numuya nafa, hakɛ t'a la.
+Alors l'utilité du métier de forgeron n'est pas mesurable.
+
+[258123-260763]
+I bɛ dɔ de fɔ, ka dɔ to.
+Tu en cites certains et tu en laisses d'autres.
+
+[261599-265423]
+N'o tɛ n'i ye i da don numuya la, i b'a ta bi la fo sini sɔgɔma.
+Sinon, quand tu abordes le métier de forgeron, tu peux commencer aujourd'hui et ne finir que demain matin.
+
+[265513-266970]
+Numuya tɛ ban.
+Le métier de forgeron ne finit pas.
+
+[268559-269740]
+Bancogo tɛ a la.
+Il n'y a aucun moyen d'en finir.
+
+[271548-282656]
+N'i nana denmisɛnniya la, k'i labɛn, n'i mɔgɔkɔrɔbayala, n'u y'i bilasira, u b'i taa i bila dugu dɔ la.                                                                                                               O dugumɔgow fana ka numukɛ bɛ kɛ e ye.
+Si tu commences dès l'enfance, que tu te prépares, que tu grandis, qu'on t'oriente, que l'on t'accompagne dans un village.                                                                            Tu deviens ainsi le forgeron de ces villageois.
+
+[284946-302130]
+Ni olu ka numukɛ kɛra e ye, o dugumɔgɔw olu ka jele, u ka daba, u ka falo, u ka muru, u ka sɛmɛ, u ka wakalo, u ka - u ka tama, u ka - u ka fɛn bɛɛ.
+Si tu deviens leur forgeron,  gens de ce village : leur hache, leur houe, leur pioche, leur couteau, leur hache-houe, leur - leur lance, leur - tout leurs choses !
+
+[302325-304609]
+Olu dugu numukɛ fana ka numu bɛ kɛ e ye.
+Tu deviens ainsi le forgeron du forgeron de ce village.
+
+[304949-308044]
+O tuma na e fana bɛ i jɔ o jɔyɔrɔ la.
+Dans ce cas toi aussi tu remplis cette fonction.
+
+[308399-310719]
+I fana b'i ka numuya minɛn fa yen.
+Toi aussi tu remplis là-bas ton rôle de forgeron.
+
+[312369-313507]
+Ka tilema kɛ <
+Faire la saison sèche<
+
+[313765-315821]
+I bɛ to ka segin, i bɛ na so.
+Tu continues de revenir, tu rentres à la maison.
+
+[315975-318346]
+O tilemakɛ sen fɛ dɔw bɛ to yen.
+Au cours de cette saison sèche certains restent.
+
+[318416-319586]
+O bɛ kɛ dɔw sigiyɔrɔ ye.
+Cela devient leur lieu de résidence.
+
+[319746-325880]
+O tilemakɛ sen fɛ, dɔw bɛ kɛ duguba ye fo ka kɛ ɲɛmɔgɔ ye.
+Au cours de cette saison sèche certains deviennent des grandes villes jusqu'à être dirigeant.
+
+[327707-335320]
+O tuma na numu, mɔgɔ lakodɔlen don, diɲɛ fan tan ni naani bɛɛ lajɛlen fɛ.
+À ce moment-là, le forgeron est quelqu'un de reconnu de tous aux quatre coins du monde.
+
+[336446-337760]
+Mɔgɔ lakodɔnlen don.
+Il est quelqu'un de reconnu.
+
+[338050-341527]
+N'a y'i sen don ko o ko la, a ka ca a la fɛ Ala bɛ o ko dilan.
+Quand il s'implique dans quelque chose, quoi que ce soit, la plupart du temps Dieu y pourvoit.
+
+[341767-344072]
+Parisike, an bɛɛ ye Ala ka dafɛn ye.
+Parce que nous sommes tous des créatures de dieu.
+
+[344232-348482]
+Mɛ numu yɛrɛyɛrɛ ye fɛn ye, o ye Ala ka cilen ye.
+Mais le vrai forgeron est un envoyé de Dieu.
+
+[351452-352899]
+N'i nana<
+Quand tu viens <
+
+[353689-355329]
+Kɛlɛmasa ka labɛn na<
+Les préparatifs du chef de guerre<
+
+[356249-357731]
+Hali u tun bɛ golosamara minnu don<
+Même les chaussures en cuir qu'ils portaient.
+
+[358491-367093]
+A golosamara in i bɛ na jate fɛn o fɛn bɛ kɛ k'a kɛ, e bɛn'a sɔrɔ u bɛ muru min kɛ k'a sɛɛnɛ i bɛna a sɔrɔ muru in bɛ bɔ numu de fɛ yen.
+Cette chaussure en cuir, tu remarqueras que tout ce qui permet de la fabriquer, tu verras que le couteau qui permet d'étendre le cuir, tu verras que ce couteau vient de chez un forgeron.
+
+[368302-373597]
+U bɛ min don a la, Yanni misɛli ka kɛ k'a kɛ, biyɛn de tun bɛ kɛ k'a sɔgɔ.
+Ce qu'ils utilisaient avant d'y mettre l'aiguille, c'est une pointe avec laquelle on perçait le cuir.
+
+[373825-375136]
+Ka biyɛn kɛ k'a sɔgɔ.
+Le percer avec une grosse aiguille.
+
+[375346-378607]
+Ni biyɛn kɛla k'a sɔgɔ, juru bɛ don a la ka juru kun bɔ. 
+Quand on l'avait percé avec la grosse aiguille, on y passait le fil à coudre et on faisait ressortir l'extrémité du fil.
+
+[380237-382570]
+Biyɛn min bɛ kɛ k'a sɔgɔ o ye numu ka kɛta ye.
+La pointe qui permet de percer c'est l'oeuvre du forgeron.
+
+[382920-385389]
+Nka golo in, o ye garankew ka fan ye. 
+Mais le cuir, ça c'est le domaine des cordonniers.
+
+[386894-389530]
+So kirikɛ, garankew de b'a dilan.
+Ce sont les cordonniers qui fabriquent les selles des chevaux.
+
+[389701-390731]
+Golo in bɛ don a la.
+On met ce cuir là-dessus.
+
+[390861-395066]
+Min bɛ don so da la ko falamu, garankew de b'a dilan a bɛ don a la.
+Le bride qu'on met dans la bouche du cheval est fabriqué par les cordonniers.
+
+[395226-398110]
+Mɛ nɛgɛ min b'a la, o bɛɛ ye numu ka kɛta de ye.
+Mais le fer qui est dedans c'est l'oeuvre des forgerons.
+
+[402604-403369]
+Tɔgɔtigi <
+La personne de renommée<
+
+[403979-412258]
+E ka tɔgɔya fɔlɔ e ye kɛlɛmasa ye wo, e ye waritigi ye wo e ka ko tun tɛ laban, ka kɛ fiyewu ka sɔrɔ ni numu yɛrɛ tɛ.
+Auparavant, ta renommée première, que tu sois chef de guerre, que tu sois un riche, tu ne pouvais la mener à bout sans le forgeron lui-même.
+
+[414470-419251]
+Tarawele, ko tun tɛ kɛ fiyewu, ni numu yɛrɛ tɛ.
+Les Traoré, leurs affaires ne pouvaient s'accomplir sans le forgeron.
+
+[420188-422974]
+Ɔ numuya ye fɛn ye, fɛnba don.
+Le métier de forgeron c'est une chose, une grande chose.
+
+[423214-425544]
+An b'an dadon a yɔrɔmisɛnnin dɔw la.
+Nous allons nous concentrer sur quelques petits aspects.
+
+[427254-428734]
+Yanni ka tubabu numu na <
+Avant la venue des forgerons européens<
+
+[428834-436741]
+Yanni ka tubabu nɛgɛ na, tubabu nɛgɛ yanni k'o se anw fɛ yan anw yɛrɛw tun bɛ baara kɛ ni nɛgɛ dɔ ye ka sɔrɔ tubabu ka dilen tɛ o ye.
+Avant la venue du fer du blanc, avant sa venue chez nous ici, nous même on travaillait avec un fer qui n'était pas celui donné par le blanc.
+
+[442799-445732]
+Yanni tubabu nɛgɛ ka na, an yɛrɛw tun bɛ <
+Avant la venue du fer du blanc, nous mêmes étions <
+
+[447872-452770]
+Yanni tubabu nɛgɛ ka na, an yɛrɛw tun bɛ baara kɛ ni anw yɛrɛw ka nɛgɛ de ye.
+Avant la venue du fer des blancs, nous-mêmes nous travaillions avec notre propre fer.
+
+[459391-460780]
+Unhun, a bɛ na an ka taa a fɛ!
+ça va venir, allons-y !
+
+[495319-501319]
+Yanni tubabunumu ka na, o y'a sɔrɔ nɛgɛ bɛ an yɛrɛw bolo yan.
+Avant la venue des forgerons blancs, on avait nous-mêmes du fer ici.
+
+[502039-508970]
+An bɛ nin nɛgɛ in baara bɛɛ kɛ o nɛgɛ de ye, n'a b'a fɔ a ma ko Gɔndugunɛgɛ.
+Nous faisions tous ces travaux de fer avec ce qu'on appelle le fer de Gondougou.
+
+[510415-511343]
+Dɔw ko «gwa».
+Certains disent : «ga» (foyer) 
+
+[512074-523890]
+O gɔndugunɛgɛ numukɛ tun bɛ a labɛn ka bɔ a ka so, a n'a ka denbaya walima ka taa  ka denbaya to, ka taa o gɔnduguyɔrɔ la ka taa gɔnduguya kɛ,  ka numuya  baara kɛ.
+Ce fer de gondougou, le forgeron le préparait à la maison avec ou sans sa famille pour aller au lieu du gondougou et faire du gondougou, faire le travail de forgeron. 
+
+[524046-529100]
+Jiri, ka kabakuru kalite  dɔ tun bɛ yen k'o kabakuru ɲini ka fara ɲɔgɔn kan. 
+Il y avait là une certaine qualité de bûche de bois, on les cherchait et on les rassemblait.
+
+[529260-530297]
+O faralen ɲɔgɔn kan <
+En les rassemblant 
+
+[530477-532620]
+A bɛ sɔrɔ ka jiri dɔ bɛ yen ko kolokolo.
+Il y avait là un arbre qu'on appelle « kolokolo » (arbre pericopsis laxiflora)
+
+[533430-534779]
+Dɔw b'a fɔ a ma ko gele.
+Certains l'appellent « gele ».
+
+[535430-536629]
+Jiri kologɛlɛn do.
+C'est un bois dense et lourd. 
+
+[536859-539851]
+Kolokolo walima gele, u b'o de ɲini ka fara ɲɔgɔn kan.
+Ce « kolokolo » ou ce « gele », ils le ramassent et l'entassent.
+
+[539900-541595]
+Ko numukɛ y'a ka ga don.
+Le forgeron a installé son foyer.
+
+[543691-546909]
+Ɔɔ ga donnen, Yanni gɔndugunɛgɛ ka bɔ <
+Le foyer une fois installé, avant de retirer le fer de gondougou <
+
+[547319-548329]
+A bɛ balo cogo di ?
+Comment se nourrit-il ?
+
+[549226-553438]
+A bɛ balo mɔgɔw ka dilanni fɛnw de la.
+Il se nourrit des choses fabriquées par les gens.
+
+[553698-557037]
+Dilanni fɛn minnu bɛ se ka kɛ ka sɔrɔ nɛgɛ yɛrɛ ma don o la.
+Les choses fabriquées que l'on peut faire sans y mettre de fer.
+
+[557177-561990]
+Walima nɛgɛmisɛn min bɛ se k'a kɛ (inaudible)  gɔndugu nɛgɛmisɛn min b'a bolo a b'o kɛ ka kɛ. 
+Ou la petite ferraille qui permet de le faire (inaudible), il le fait avec le fer de gondougou qu'il a.
+
+[562175-564760]
+Muru b'o la, falo b'o la, jele b'o la.
+Parmi celles-ci, il y a les couteaux, les pioches, les haches.
+
+[564890-566996]
+Yanni ka se nɛgɛ kunbabaw ka baara ma.
+Avant d'arriver au travail des gros fers.
+
+[569046-570454]
+O tuma na numukɛ tun bɛ nin kɛ<
+Dans ce cas le forgeron faisait cela <
+
+[571066-580017]
+N'a ye ga don kalo kelen, kalo fila, kalo saba gɔndugunɛgɛ n'a bɛ bɔ don min, a bɛ ci bila jamana numuden bɛɛ ma.
+Quand il installe le foyer, un mois, deux mois, trois mois le jour où il retire le fer de gondugu, il fait appel à tous les forgerons du pays.
+
+[580177-581438]
+Numuden fɛn o fɛn b'a la aw bɛ na.
+Tous les forgerons viennent.
+
+[582905-584331]
+O b'a sɔrɔ i tɛnɛ ma tiɲɛ dɛ. 
+A condition que tu n'aies pas transgressé tes interdits.
+
+[585865-586855]
+O b'a sɔrɔ i tɛnɛ ma tiɲɛ dɛ. 
+A condition que tu n'aies pas transgressé tes interdits.
+
+[587409-588649]
+O b'a sɔrɔ i tɛnɛ ma tiɲɛ dɛ. 
+A condition que tu n'aies pas transgressé tes interdits.
+
+[589119-590520]
+E tɛnɛ tiɲɛni ye mun ye ?
+Franchir tes interdits c'est quoi ?
+
+[590736-595893]
+I fa ma min kɛ, i ba ma min kɛ, i bilasirala nin min ye o b'a sɔrɔ i m'o kelen tiɲɛ. 
+Ce que n'ont pas fait ni ton père, ni ta mère, ces choses avec lesquelles on t'a accompagné tu n'en as détruit aucune.
+
+[596023-597419]
+O b'a sɔrɔ o bɛɛ b'a cogo la.
+Il se trouve qu'elles sont toutes intactes.
+
+[598686-603928]
+N'a y'a sɔrɔ i y'o tiɲɛ, ni i ka ga bɛ bɔ don min numudenw bɛ yɛlɛ e la o don.
+Si tu les a gâchées, le jour où on tirera le fer de ton foyer les forgerons se moqueront de toi.
+
+[606129-609410]
+Ɔɔ o b'a sɔrɔ caman bɛ yen, u tɛnɛ ma tiɲɛ.
+Il se trouve qu'il y en a beaucoup qui n'ont pas transgressé leurs interdits
+
+[609699-610536]
+U bɛ siran.
+Ils ont peur.
+
+[610836-613254]
+N fa ye nin kɛ kɛlɛmasa nɔfɛ, n fa ma malo.
+Mon père a fait ça en suivant un chef de guerre, il n'a pas été humilié.
+
+[613434-614247]
+O bɛ siran <
+Il a peur <
+
+[614357-619147]
+N ba ye nin kɛ, ɛɛ-ɛɛ ne ba ye nin kɛ kɛlɛmasa nɔ fɛ, ne ba ma tɛnɛ tinɛ.
+Ma mère a fait ça en suivant un chef de guerre, elle n'a pas transgressé l'interdit.
+
+[619277-621131]
+O tuma na ne yɛrɛ man kan tɛnɛ nin tiɲɛ.
+Dans ce cas moi-même je ne dois pas transgresser cet interdit.
+
+[621331-623260]
+Ne ka kan ka tɛnɛ in to a cogo la.
+Je doit garder en l'état cet interdit.
+
+[623430-624586]
+Tɛnɛ kana tiŋɛ.
+L'interdit ne doit pas être transgressé.
+
+[625268-628760]
+A b'a cɛsiri ka tɛnɛ to a cogo la.
+Il se bat pour garder cet interdit en l'état.
+
+[629035-630137]
+U b'u ka ga bɔ.
+Ils retirent le fer de leur foyer.
+
+[630677-634638]
+Ni ga bɔra, a b'i sigi, a b'a lajɛ.
+Une fois le foyer vidé, il s'assoit et il le regarde.
+
+[635448-644084]
+Kɛlɛmasa min walima cikɛwara min, o min ka juru b'a la , o min y'a dɛmɛ walima o min kɛla  a fɛ,                                                                  A b'i sigi a b'o lajɛ.
+Le chef de guerre ou le grand cultivateur à qui il doit, qui l'a aidé ou qui l'a aimé <                                                                                               Il s'assoit et le regarde.
+
+[644256-645550]
+A bɛ olu ka numuya kɛ fɔlɔ
+Il fait leur travail de forge d'abord.
+
+[645576-648592]
+Ni olu ta bɔla a la, o tuma mɔgɔ tɔw bɛ sɔrɔ ka gɛrɛ.
+Après eux, maintenant les autres personne peuvent s'approcher.
+
+[650104-653443]
+O tuma ne tigi- ne tigi -ne tigi bi m'a bila senna dɛ.
+Alors mon maître - mon maître - mon maître, certes  ce n'est pas d'aujourd'hui que ça a commencé.
+
+[654118-655769]
+A ma daminɛ bi dɛ Mukutari!
+ça n'a pas commencé aujourd'hui Mouktar! et non !
+
+[655958-657797]
+Hɔ hɔrɔnya in tɛ se ka bɔ foyi la.
+On ne peut en rien ôter la noblesse.
+
+[658367-660929]
+Hɔrɔnya mana kɛ cogo o cogo a tɛ se ka bɔ yen.
+Peu importe comment s'exprime la noblesse, on peut pas l'enlever.
+
+[661069-664450]
+Ne ni karisa jɛnna, karisa ma ɲinɛ ne kɔ, ne yɛrɛ tɛ se ka ɲinɛ a kɔ.
+J'ai collaboré avec un tel, il m'a pas oublié et moi non plus je ne peux pas l'oublier.
+
+[664630-665691]
+Nka fitiriwaleya bɛ yen.
+Mais il y a l'ingratitude.
+
+[665861-667801]
+Dɔw bɛ yen n'i ye olu fitiriwale i bɛ segin ka na dɛ.
+Il y a certains si tu es ingrat avec eux, et que tu reviens - ah non !
+
+[669026-670016]
+Siga si tɛ a la.
+Il n'y a pas de doute.
+
+[670195-673318]
+Ɔ ko ni fitiriwaleya cayala ko kunnadali fana bɛ caya.
+Que plus il y a de l'ingratitude, plus on est humilié pour son ingratitude. 
+
+[673762-675146]
+O ye wajibinin fin ye.
+ça c'est une petite obligation noire.
+
+[675538-677927]
+O tuma na numu fitiriwale ka dɔgɔ.
+Il y a donc peu de forgerons ingrats.
+
+[678252-680807]
+Ni anw n'i jɛnna, anw de bɛ se k'a da to i la.
+Quand nous collaborons avec toi, nous pouvons faire en sorte qu'il laisse sa marque sur toi.
+
+[683054-685961]
+O tuma na ne ka kuma in a nɔgɔyara.
+Dans ce cas mon propos prend fin.
+
+[686317-689551]
+Ni ne donna min gasi la, o bɛ yafa n ma Ala ni Ala kira kama.
+Si j'ai offensé quelqu'un, qu'il me pardonne pour l'amour de Dieu et de son prophète.
+
+[689786-691828]
+N'bɛ aw fo ka aw barikada.
+Je vous remercie et je vous rends grâce.
+
+[691974-693766]
+Mɔgɔ o mɔgɔ bɛ jama in na n b'a bɛɛ lajɛnen fo. 
+Je salue toutes les personnes qui font partie de ce public.
+
+[693956-696910]
+Kɛrɛnkɛrɛnnenya la n bɛ n kɔrɔkɔkɛ fo Hamidu Sinayoko.
+Je salue particulièrement mon grand frère Hamidou Sinayoko.
+
+[697675-703105]
+Numukɛ min ni hasidi, ni dangaden tɛ, ni bakilu tɛ, mɔgɔ kɔnɔnanjugu tɛ.
+Un forgeron qui n'est pas un jaloux, ni un maudit, qui n'est pas un pingre, qui n'est pas quelqu'un de méchant.
+
+[703325-704125]
+A tere ma jugu.
+Qui n'a pas une mauvaise chance.
+
+[704385-707730]
+Ɔ Fanemusow den fo, Fa Fane, Fatigi Fane.
+Je salue l'enfant des mères Fané, de papa Fané des maîtres du nom Fané.
+
+[707961-710856]
+Numumuso min sɔnna ka tilen, k'a yɛrɛ dɔn.
+La forgeronne qui a accepté d'être droite et de se connaître elle-même.
+
+[711467-714680]
+N bɛ numukɛ in den< bɛ  numumuso in denkɛ fo n'o ye Hamidu ye.
+Je salue l'enfant de ce forgeron le fils de cette forgeronne qui est Hamidou.
+
+[714889-723979]
+Ne yɛrɛ Baba SamajaareFanemusofila den, Sitan Fane den ni Naciinin Fane den, Karamɔkɔ Samajaare den ni Garaba den, ee Bakɔroba Samajaare den ni Batukunɛ den, Zumana den<
+Moi même Baba Samdiaré le fils des deux femmes Fané, le fils de Sitan Fané et de Nantiéni Fané, le fils de Karamogo Samadiaré et de Garba, le fils de Bakoroba Samadiaré et de Batoukouné, le fils de Zoumana <
+
+[724229-725259]
+N bɛ dan nin yɔrɔ la yan.
+Je m'arrête là ici.
+
+[725369-726465]
+Hakɛto bɛ nin na salam Mahamadu.
+Je demande pardon au nom du prophète Mohamed.
+
+[726745-727859]
+Ala ka an bɛn sababa ma.
+Qu'Ala nous permette d'heureuses retrouvailles.
+
+[728002-728921]
+Mɛrisi.
+Merci.

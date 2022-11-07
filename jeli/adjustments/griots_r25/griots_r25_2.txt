@@ -1,0 +1,435 @@
+[0-4560]
+AN filɛ tile min na bi, o bɛɛ jɔra.
+De nos jours, tout ceux-ci sont terminés.
+
+[13275-19625]
+An faw bɛɛ bolo bɛ minɛn kelen na.
+Nos pères mangent la même tasse.
+
+[19850-23725]
+An baw bɛɛ bolo bɛ minɛn kelen na.
+Nos mères mangent dans la même tasse
+
+[23950-32925]
+Dumuni mana sigi, dɔgɔnin t'a bolo se dumuni kunnafɛn ma dɛ.
+Quand le repas est servi, le petit frère ne touche aux choses qui se trouvent sur le plat.
+
+[33050-35600]
+O ye fɔlɔ taabolo ye.
+C'est une méthode d'autrefois.
+
+[35825-39150]
+I t'i bolo bila dumuni kunnafenw na.
+Tu ne touches pas aux choses qui sont sur le plat.
+
+[39375-42725]
+I b' a to mɔgɔkɔrɔbaw de fɔlɔ k'a ta.
+Tu laisses les adultes d'abord les prendre.
+
+[42950-51100]
+Ni mɔgɔkɔrɔbaw y'a ta tuma min, u bɛ sɔrɔ k'a fɔ a' y'a ta.
+Quand les adultes prennent, ils disent maintenant que vous pouvez les prendre.
+
+[51200-54625]
+N'i tilara, u bɛ barika da ɲɔgɔn ye.
+Quand ils terminent, ils se remercient.
+
+[54800-58400]
+A b'a sɔrɔ an baw fana b'u ka gabuguda la.
+À ce moment-là, nos mères seront près de la cuisine.
+
+[58675-61450]
+U fana bolo b'u ka minɛn kelen na.
+Elles mangent aussi dans la même tasse.
+
+[61625-62700]
+I y'a faamuya?
+As-tu compris?
+
+[62900-71775]
+O mana kɛ, mɔgɔ min bɛ ga la, o bɛ tobili kɛ.
+Après cela, celui qui doit préparer prépare.
+
+[72050-82350]
+E bɛna ga bila tuma min na, i b'i ka barama nii sonkala ko.
+Quand tu finis de préparer, tu laves ta marmite et ta mouvette.
+
+[82675-87525]
+Mɔgɔ wɛrɛ bɛna ga ta, o fana bɛ na tobili kɛ o cogo kelen na.
+La suivante fait pareil.
+
+[87750-96275]
+Ɲɔsusuwaati mana se, ni ne bɛ ga la, ne bɛ taa ɲɔ kɛ kolon kɔnɔ.
+Quand c'est l'heure de piler le mil, moi qui suis à tour pour pile le mil.
+
+[96700-110825]
+Ni ne ye kolonkalan turu, ne dɔgɔnin ni n kɔrɔw bɛ kolonkalankan mɛn.
+Quand je commence à piler le mil, mes petites et grandes sœurs entendent le coup de pilon.
+
+[111200-114850]
+U be bɔ, u b'a e y'a daminɛ kaban wa?
+Elles sortent et disent: as-tu déjà commencé?
+
+[115200-121450]
+Ne b'a fɔ awɔ ne y'a daminɛ koyi, n'o kɛra u bɛ na ɲɔgɔn dɛmɛ.
+Quand cela arrive, elles viennent nous aider.
+
+[121575-125775]
+Ne b'a susu, nin b'a di nin, nin b'a di nin ma.
+Je pile, celle-là donne à celle-là.
+
+[126050-128900]
+AN bɛ daji kan tɛgɛ la ka kolonkalan minɛ k'a susu.
+On crache sur nos mains et prend le pilon, et pile.
+
+[137675-142000]
+AN filɛ tile min na bi, nin bɛɛ dabilara.
+Aujourd'hui, tout ça est fini.
+
+[144600-147525]
+Denmisɛnniw bɛ kɔrɔbaya o cogo la.
+Les enfants grandissent comme ça.
+
+[147675-152250]
+Lawale la, npogotigi b'a yɛrɛ mara.
+Auparavant, la demoiselle s'éduquait elle-même.
+
+[152850-159800]
+Npogotigiya waati la, an bɛ npogo de don.
+Quand on est demoiselle, on portait le cache-sexe.
+
+[164050-173400]
+I bɛ npogo in don i san duuru fo ka se i san tan ni saba ma.
+Tu portes le cache-sexe à l'âge de cinq jusqu'à 13 ans.
+
+[173600-184675]
+San 13 kɔnɔ, i mana laada ye, i bɛ taa fɔ i mansa ye.
+À 13 ans, quand tu vois ses règles, elle part expliquer à sa mère.
+
+[184825-193050]
+I bɛ taa fɔ i ba ye ko i ye fɛn dɔ ye i yɛrɛ la.
+Tu vas expliquer à ta mère que tu as vu quelque chose.
+
+[193425-195075]
+I ba bɛ don n'i ye.
+Ta mère entre avec toi.
+
+[195125-199575]
+N'a y'i laje, a b'a fɔ nin ye kalo o kalo de ye.
+Quand elle te regarde, elle dit que c'est chaque mois.
+
+[199800-202575]
+A labɛn minɛnw jira i la.
+Elle te montre les matériaux pour y préparer.
+
+[202725-203725]
+I b'a kɛ tan.
+Tu fais comme ça.
+
+[204600-207925]
+A bɛ kɛ npogo in de la.
+Ça se fait sur ce cache-sexe.
+
+[208250-212175]
+I bɛ tila ka npogo in ko.
+Tu laves le cache-sexe après.
+
+[212875-216300]
+Npogo be yɛlɛmayɛlɛma de.
+On change le cache-sexe.
+
+[217368-219825]
+I b'a  ko k'a bila.
+Tu le laves et le mets quelque part.
+
+[221575-230100]
+Kalo wɛrɛ mana se, i b'o kelen ta k'o don i la, i n y avait pas de maladie.
+Un autre mois, tu portes le même cache-sexe.
+
+[230275-237000]
+An filɛ bi tile min na, o bɛɛ yɛlɛmana.
+De nos jours, tout a changé.
+
+[237200-242125]
+A kɛra nansaaraw ta ye n'a b'a fɔ o ma ko kɔɔri.
+On utilise maintenant celui des blancs qui est le coton.
+
+[242300-245375]
+U b'o dila, i b'o de don i la.
+Ils confectionnent cela et tu le portes.
+
+[245550-250450]
+N'o tiɲɛna, i b'o bila ɲɛgɛn kɔnɔ.
+Quand c'est gâté, tu ne le jettes pas dans les toilettes.
+
+[250650-256400]
+Danfaraba de bɛ fɔlɔ mara ni bi mara cɛ.
+Il y a une très grande différence entre l'éducation d'autrefois et celle d'aujourd'hui.
+
+[256575-261975]
+Fɔlɔ mara ni bi mara tɛ kelen ye.
+L'éducation d'autrefois et celle d'aujourd'hui ne sont pas les mêmes.
+
+[265300-274175]
+So mana bin kɔnɔdimi bolo, u bɛ taa npogotigiw de nɔfɛ.
+Quand un cheval s'écroule par maux de ventre, on fait appel aux jeunes filles.
+
+[274275-277050]
+Npogotigi mugan bɛ se ka na i jɔ.
+Plus de 20 filles peuvent venir.
+
+[277225-278225]
+Ne de bɛ n pan.
+Moi, je saute.
+
+[278450-281700]
+U bru pan so kunna dɔrɔn so bɛ wuli.
+Dès qu'elles sautent au-dessus du cheval, le cheval se lève.
+
+[281950-286675]
+An file bi tile min na, mara tiɲɛna.
+De nos jours, l'éducation est gâtée.
+
+[286750-287650]
+Den bɛɛ tiɲɛna.
+Tous les enfants sont gâtés.
+
+[287825-289850]
+A ɲuman dɔgɔyara.
+Les bons sont rares.
+
+[289950-299650]
+So mana bin sisan kɔnɔdimi fɛ ko ni npogotigi ko fo npogotigi ka n'a pan a kunna, ni Ala ma jan kɛ so in be sa.
+Quand un cheval tombe aujourd'hui par maux de ventre, il faut qu'une jeune fille le sursaute, peut-être le cheval en mourra.
+
+[299850-302175]
+Npogotigi man ca bi.
+Les filles vierges sont rares aujourd'hui.
+
+[302325-304250]
+Mara tiɲɛna.
+L'éducation est gâtée.
+
+[304350-306850]
+Mara taabolo bɛɛ tiɲɛna.
+Toutes les procédures de l'éducation sont gâtées.
+
+[307000-310400]
+I y'o yɔrɔ faamuya?
+As-tu compris cette partie?
+
+[312325-315775]
+N bɛna don baro kɔnɔ hali bi.
+Je vais entrer jusqu'à présent dans la causerie.
+
+[315975-318025]
+Baro ka ca.
+Il y a beaucoup de causerie.
+
+[318300-325125]
+Npogotigi dɔ tun bɛ yennin nɔ, a y'a yɛrɛ mara a ka npogotigiya kɔnɔ.
+Il y avait une jeune fille qui a su garder sa virginité.
+
+[325375-330975]
+A nana se san tan ni duuru.
+Elle a eu 15 ans.
+
+[331100-334875]
+Cɛ dɔ nana tugu a kɔ.
+Un homme l'a courtisé.
+
+[335100-340325]
+A ni kamalen tugura ɲɔgɔn kɔ, kamalen ko k'a b'a fɛ.
+Elle et le jeune homme se sont aimés.
+
+[340525-344250]
+Npogotigi ni kamalen ye kanu kɛ.
+La jeune fille et jeune homme se sont aimés
+
+[344375-350375]
+Npogotigi nana a ye ko bana be kamalen na.
+La jeune fille a découvert que le jeune était malade.
+
+[350525-354050]
+Cɛyabana de b'a la.
+Il a l'impuissance sexuelle.
+
+[354200-355125]
+I y'a faamuya?
+Tu as compris?
+
+[359600-362925]
+Kamalen ko ko a bɛ npogotigi in fɛ.
+Le jeune homme a dit qu'il aime la jeune fille.
+
+[363175-367325]
+U nana furu kɛ u taabolo ye.
+Ils se sont mariés.
+
+[367475-370150]
+Mansaw ye furu don.
+Les parents ont accepté le mariage.
+
+[370300-373725]
+Cɛyabana bɛ cɛ la, a tɛ den sɔrɔ.
+L'homme souffre de l'impuissance sexuelle, il ne peut pas avoir d'enfant.
+
+[374025-377550]
+U bɛ ɲɔgɔn kan so kɔnɔ.
+Ils vivent ensemble dans la maison.
+
+[377675-380325]
+U ye san mugan ke so kɔnɔ.
+Ils ont passé 20 ans dans la maison.
+
+[380600-389125]
+Furu kɛlen kɔfɛ san mugan, cɛ fatura.
+Après vingt ans de mariage, l'homme est mort.
+
+[392750-400300]
+Lawale la, n'i cɛ fatura, cɛ dɔgɔke de b'i ta furu la.
+Autrefois, quand ton mari meurt, tu seras donné à son petit frère en mariage.
+
+[404900-409675]
+U ye muso di cɛ dɔgɔkɛ ma.
+Ils ont donné la femme au petit frère de son mari.
+
+[409825-412350]
+Muso in sɔnna.
+Cette femme a accepté.
+
+[412525-415500]
+U nana kɛ o taabolo ye.
+Le mariage s'est passé ainsi.
+
+[418075-428075]
+Kɔjɔso kɛlen san mugan ani cɛ fɔlɔ ka furu kɔfɛ, cɛ y'a muso sɔrɔ faden ye.
+Ils ont fait le nuire de noce après vingt ans de mariage avec le grand frère, la femme était vierge.
+
+[431600-439325]
+Dugu jɛra, furuke girinna k'a y'a muso sɔrɔ a faden ye.
+Le matin le marié s'est précipité, il veut annoncer que sa femme était vierge.
+
+[439575-441000]
+Kɔrɔ dun muso tun don.
+Alors que c'était la femme de son grand frère.
+
+[441125-446950]
+A girinna k'a be bɔ, muso y'a ka dulɔki sama.
+Il voulait sortir, la femme l'a tiré par sa chemise
+
+[447075-448075]
+I bɛ taa min ?
+Où vas-tu?
+
+[448650-453250]
+Ce ko ko n ɲagalila kojugu.
+L'homme a dit qu'il était très joyeux.
+
+[453525-459050]
+Ne ɲagalila, Ala ɲagalila, e ɲagalila.
+Je suis joyeux, Dieu est joyeux, et moi aussi.
+
+[459225-463550]
+Ne ye e kɔrɔkɛ sutura.
+J'ai protégé ton grand frère de l'humiliation.
+
+[463650-467400]
+Ne ni e kɔrɔkɛ be da ɲɔgɔn fɛ san mugan.
+J'ai couché avec ton grand frère durant vingt ans.
+
+[467475-468475]
+I kɔrɔkɛ man kɛnɛ.
+Ton grand frère est malade.
+
+[468675-476575]
+E mana girin ka taa nin ɲɛfɔ sisan, i y'i kɔrɔkɛ de lebu.
+Quand tu pars informer ça, tu vas humilier ton grand frère.
+
+[476725-479450]
+Lebu man ɲi.
+L'humiliation n'est pas une bonne chose.
+
+[479700-482975]
+AN k'a to Ala ka ɲagali e ni ne bɛɛ kɔrɔ.
+Faisons de sorte que Dieu soit content de nous.
+
+[483150-486050]
+I y'a famuya?
+As-tu compris ?
+
+[486450-487525]
+U tora o cogo la.
+Ils sont restés comme ça.
+
+[487750-491750]
+Muso nana garijɛgɛ.
+La femme est tombée enceinte.
+
+[491975-495525]
+Muso nana garijɛgɛ sɔrɔ.
+La femme est tombé enceinte.
+
+[495675-498850]
+Muso nana cɛmannin sɔrɔ.
+La femme a eu un garçon.
+
+[499000-504000]
+U ye cɛmannin weele Madu.
+Ils ont baptisé le garçon Madou.
+
+[504150-513125]
+Madu n'a tɔɲɔgɔn ye san tan ni fil sɔrɔ min ke, u ko k'u taa kurun na.
+À l'âge de 12 ans, Madou et ses camarades ont décidé d'aller au fleuve par pirogue.
+
+[513300-522400]
+A taara bada la, u mɔgɔ tan tun don, kurun firila n'u ye.
+Arrivé au fleuve, il était 10 personnes, la pirogue a coulé avec eux.
+
+[524450-529300]
+Musomin sɔnna a cɛ ye, a den b'a la.
+Le fils de la femme qui a obéi est mari est parmi eux.
+
+[529400-534125]
+Kurun firila ni Madu n'a tɔɲɔgɔnw ye, u mɔgɔ tan de tora.
+La pirogue a coulé avec Maou et ses camarades, les 10 sont morts.
+
+[534425-545075]
+Dɔ bolila biribiri ka na Madu fa n'a teriw sigilen sɔrɔ baro la.
+Quelqu'un est venu trouver le père de Maou en train de causer avec ses amis.
+
+[547500-549200]
+Ee, Madu fa!
+Eh, père de Madou!
+
+[549375-555000]
+Kuruen firi la ni Madu n'a teriw ye u mɔgɔ tan bɛɛ tora.
+La pirogue a coulé avec Madou et ses camarades, tous les 10 sont morts.
+
+[555150-563075]
+Madu fa wulila, a nana a sɔrɔ a muso bɛ na seli jɔ.
+Le père de Madou s'est levé, il est venu, sa femme commençait à prier.
+
+[563700-567250]
+A ko a muso ma ko seli jɔ.
+Il a dit à sa femme d'arrêter de prier.
+
+[567500-573250]
+Ci nana fɔ n sisan ko Madu tora.
+On vient de m'informer que Madou est mort.
+
+[573400-578050]
+Ko kurun firila ni Madu n'a tɔɲɔgɔnw ye ba la k'u bɛɛ sara.
+Que la pirogue a coulé avec Madou et ses camarades, ils sont tous morts.
+
+[581775-588850]
+O fɔlen muso ye, a ko k'ale den tɛ se ka sa.
+Après avoir entendu cette nouvelle, la femme a dit que son fils ne pouvais pas mourir.
+
+[589200-592075]
+Ne ye don dɔ de to Ala ye.
+J'ai laissé quelque chose pour Dieu.
+
+[592275-599425]
+Ne ye don min to Ala, n'ala ka jɛ ne den bɛ segin n ma.
+À cause de ce que j'ai fait pour Dieu, mon fils me reviendra.

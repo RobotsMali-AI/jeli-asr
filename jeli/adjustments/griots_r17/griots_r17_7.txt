@@ -1,0 +1,456 @@
+[0-1890]
+I bɛ to k'i lamaga dɔnin kuwa. Ɔhɔ.
+Souvent bouge un peu. Ok.
+
+[8680-10965]
+Samori sɔrɔla ka boyen o cɔgɔ ya la.
+C'est ainsi que Samory a quitté ce lieu.
+
+[11570-13400]
+K'i sin Kangaba ma.
+Se diriger vers Kangaba.
+
+[15010-17691]
+Manden Kangaba, Kurukanfuga bɛ yɔrɔ min.
+Mandé Kangaba, où se trouve Kouroukanfouga.
+
+[18660-20280]
+Lajɛ kɛra jɔrɔ min.
+Là où la réunion est faite.
+
+[21910-24095]
+A sera Kangaba kaw ma.
+Il est allé voir les gens de Kangaba.
+
+[25700-27070]
+Ka olu lasigi.
+Les réunir.
+
+[29600-33290]
+Masɔkɔnaden Daga o tun be yen.
+Masɔkɔna=nom propre de personne.
+
+[37380-38570]
+Daga tun be yen.
+Daga était là.
+
+[41250-42710]
+Daga sigi kaba,
+La place de Daga,
+
+[43540-45520]
+Samori sigi kaba,
+La place de Samori,
+
+[48900-50530]
+O bɛɛ bɛ Kangaba de.
+Ils sont tous à Kagaba.
+
+[55470-57380]
+A tara se Kangaba kaw ma. 
+Il est allé chez les habitants de Kangaba.
+
+[59020-60499]
+K'a nalen dɔn Kangaba,
+Qu'il est venu à Kangaba,
+
+[61330-62805]
+anin Sariyan dɔ nalen dɔn.
+il est venu avec un règlement.
+
+[63350-65640]
+Ka b'a fɛ ko fɔ Kangaba kaw ye.
+Qu'il veut dire cela aux habitants de Kangaba.
+
+[70980-73130]
+O y'a sɔrɔ Kaaba Manbi fɛnɛ tun be yen.
+Manbi=Mambi= Nom propre de personne.Kaaba= c'est une autre appellation de Kangaba (nom propre de lieu).
+
+[77030-78560]
+A tara se yen.
+Il est arrivé là-bas.
+
+[79170-81555]
+Ka ci fɔ Kaaba Manbi ye.
+Dire le message à Mambi de Kaaba.
+
+[83240-85398]
+U sigilen bɛ lajɛ kɛnɛ kan.
+Ils s'étaient réunis pour la rencontre.
+
+[87340-89006]
+Ka kuma fɔlɔ min fɔ;
+Le premier propos qu'il a tenu ;
+
+[91350-94192]
+Ka b'a fɛ ko Mandenkaw ka dulɔmin dabila.
+Qu'il veut que les habitants de Mandé cessent de boire.
+
+[98880-100668]
+A nana nin o sariya ye.
+Il a apporter ce règlement.
+
+[104020-109266]
+Eee !, Samori ko ka b'a fɛ ko k'a o de dabila Manden yan.
+Eh ! Samoy a dit qu'il s'arrête au Mandé, ici.
+
+[110100-111480]
+Kuma filanan :
+Le deuxième propos :
+
+[112292-119111]
+Jɛli munnu b'aw bolo yan, aw ka Kuyate Jɛli munnu baw bolo yan, Soso-Bala bɛ munnu bolo ka b'a fɛ a n'olu ka taga.
+Les griots que vous avez, les griots kouyaté que vous avez ici, ceux qui ont Soso-Bala, qu'il veut partir avec ceux-ci.
+
+[120180-120920]
+Eee !
+Interjection d'étonnement.
+
+[123560-125670]
+Daga wulila mununnan ma ye.
+Ce qui se trouve entre parenthèses est la traduction littérale.
+
+[126550-130086]
+Ka b'a fɛ ko k'a jaabi o kuma la.
+Qu'il a une réponse à ce propos.
+
+[134130-135430]
+O kelen,
+Quand cela s'est passé,
+
+[137410-139992]
+U ye Daga bila,
+Ils ont envoyé Daga,
+
+[140030-145054]
+Daga ko ko nkɔrɔw n'aw diɲɛ na ,n'a ma ɲɛ aw tɛna se ka Samori jaabi, nne b'a jaabi.
+Daga a dit : mes grands frères si vous ne pouvez pas répondre Samory, je vais lui répondre.
+
+[149010-150920]
+Ko aw ye nka dulɔbɔrɔ di yan !
+Apportez-moi mon sac vin !
+
+[152390-154180]
+Nka dɔ min k'a jaabi.
+Je vais en boire et lui répondre.
+
+[154230-157160]
+Eee, Samori ko Daga ma :
+Eh, Samory a dit à Daga:
+
+[160260-162941]
+Ko kuma yɛrɛ bannen jaabi la .
+Que la réponse est déjà donnée.
+
+[165440-167230]
+A ko Samori,
+Il a dit Samory,
+
+[168920-170760]
+Nbɛ min f'i ɲɛna :
+Ce que je vais te dire :
+
+[171950-173960]
+Anw ye mandenkaw de ye.
+Nous sommes des gens du mandé.
+
+[174700-177110]
+Anw t'an ka ko bila mɔgɔ ye.
+Nous ne renonçons pas à nos habitudes pour quelqu'un.
+
+[180630-182977]
+Masɔkɔna den Daga Talɔgɔ ma sisi ma.
+Daga le fils de Masokona, l'intrépide.(Le bois avec du feu et la fumée).
+
+[185590-189522]
+A ko nkɔrɔw n'aw ma se ka jaabi nne b'a jaabi.
+Il a dit : mes grands frères, si vous ne pouvez pas lui répondre, moi, je vais lui répondre.
+
+[190710-193490]
+An faw y'i min de ka an baw furu.
+Nos pères ont bu pour se marier avec nos mères.
+
+[194710-197000]
+E bɛ se ka na o dabila tilegan fɛ ?
+Toi, tu peux venir arrêter cela en plein jour ?
+
+[197750-200952]
+An ka jeli munnu bɛ yan kuyate jeli olu fɛnɛ tɛ di !
+Nos griots qui sont là, les griots kouyaté ne te seront pas donnés !
+
+[203670-207006]
+Samori dimin ko jugu de bɔra yen, ko ka Kaaba tɔjɛn, ko ye cɛso ye.
+C'est étant fâché que Samory ait quitté Kaaba, que c'est un village des vrais hommes.
+
+[208640-212163]
+A sisan an fɛ manden de ye mande ye.
+Même aujourd'hui, chez nous, c'est le même mandé.
+
+[214730-217030]
+Minimini kɔlɔn de b'an fɛ manden y'an.
+minimini: j'ignore son sens.
+
+[218550-221101]
+Ɲɛfijen tɛ bin a kɔnɔ fɔ ɲɛma.
+L'aveugle ne tombe pas dedans, mais plutôt en le voyant.
+
+[223510-226383]
+Waragataba fuga y'an fɛ mande ne y'an.
+Waragataba=Nom propre
+
+[226490-228933]
+Nin dikisɛ mi ban kɔngo bi ban.
+Si les abeilles ne t'épuisent pas, la famine t'épuisera.
+
+[232410-235450]
+Kurukanfuga b'an fɛ mande yan.
+Kouroukanfouga est ici au mandé, chez nous.
+
+[237320-242292]
+Nin i kɛra mansacɛ ye i bɛ t'i sigi o gabaw de kan; ka sɔrɔ kana sigi i ka palɛ la.
+Palɛ=palais=emprunt au français
+
+[242450-244300]
+O y'an fɛ mande yan.
+Cela se fait chez nous, nous au mandé.
+
+[249730-251428]
+O fɔra manden de ma:
+C'est mandé qu'on a appelé :
+
+[254090-258501]
+ko manden be lobolaba ko manden tɛ firi.
+Que mandé trébuche, mais mandé ne tombe point.
+
+[260720-262160]
+Ko mande o be Mali kɔnɔ .
+C'est mandé, au Mali, ici.
+
+[262200-265894]
+Dili mun manakɛ manden na, a dili  bɛ Mali ni Lagine de la.
+Si mandé à des racines, ses racines sont au Mali et en Guinée.
+
+[269870-272879]
+Samori tariku de tun ye nin ye ka fɔ diɲɛ kɔnɔ mɔgɔ ye.
+C'était l'histoire de Samory pour dire au monde.
+
+[273590-276830]
+Nin Ala ka jɛn ye n'an bɛnna ɲɔgɔn na wɛrɛ ma,
+Si, nous avons d'autres occasions, par la grâce de Dieu,
+
+[277980-280744]
+Min be Samori kola nbo fɔ njatigiw ye.
+Je vais vous raconter ce qui reste de l'histoire de Samory.
+
+[282990-285353]
+Aw tulo garijigɛ de tunye nin ye k'o fɔ.
+C'était votre chance, ce qui est dit.
+
+[287880-293410]
+Ka dɔn ne yɛrɛ  mun ye nko fɔ dijɛn kɔnɔ ye, ne yɛrɛ fɛn jumɛn ye.
+Savoir qui je suis par le monde, qui je suis.
+
+[293630-295674]
+Nbe fɛ k'ode tugun ni na.
+C'est ce que je veux ajouter à ceci.
+
+[297450-299193]
+Nne ye kuyate de ye.
+Moi, je suis Kouyaté.
+
+[299610-301789]
+Alasane Kuyate.
+Alassane Kouyaté.
+
+[301810-304414]
+Kuyate o ye fɛnba de ye an fɛ manden yan.
+Kouyaté est très important chez nous au Mandé.
+
+[306330-310600]
+Nin bɛ kɔ ko jeli, jeliya yɛrɛ fɛnba de ye an fɛ manden yan.
+Que tout le monde appelle griot ; Être griot, ici au mandé est impératif, chez nous.
+
+[315540-317731]
+Jeli de bɛ furubaw togoma la.
+C'est le griot qui fait les démarches des mariages grandioses.
+
+[318920-321677]
+Jeli de bɛ furubaw tɛ togoma la.
+C'est le griot qui fait les démarches des mariages grandioses.
+
+[323910-325905]
+Jeli de bɛ kɛlɛw ban.
+C'est le griot qui met fin aux différends.
+
+[328600-330716]
+Jeli de bɛ sinjiya dilan.
+C'est le griot qui réunit les personnes de même lait maternel.
+
+[332140-335269]
+Jeliw de bɛ balemaya dilan na.
+C'est le griot qui amène la solidarité entre les gens.
+
+[337750-347217]
+Ka dɔn an mɔcɛ Bala-Faseke, anin Makan-Sunjata,anin Sumaworo,u mu tulɔnkɛ jeliko la manden jan.
+Reconnaître que nos grand-pères Balla, Fasséké, Mankansoudjata, Soumaoro, n'ont pas négligé le rôle des griots au mandé, ici.
+
+[349870-352774]
+Kɛlɛ be wuli fɔlɔfɔlɔ an fɛ manden jan,
+Jadis, la guerre commença ici au mandé,
+
+[353550-355250]
+Jeli tɛ to kɛlɛ la
+Le griot ne meurt pas en guerre.
+
+[355480-358018]
+Jeli be Komi Jurunalisi
+ Komi Jurunalisi: comme un journaliste= emprunt.
+
+[360060-361840]
+Jeliya ye fɛn ba ye de.
+Le métier de griot est très intéressant.
+
+[363410-365275]
+Kuyate jeliw be yen.
+Il y a des griots kouyaté.
+
+[365450-366970]
+jabte jeliw be yen.
+Il y a des griots Diabaté.
+
+[367890-371380]
+Fɔlɔfɔlɔ an fɛ manden mansa be n'a ka jeli de tun do.
+Jadis, au mandé, tous les rois avaient son griot.
+
+[374170-376980]
+I be ka nin datugun sisan o.
+Tu peux fermer ça maintenant.
+
+[377540-379350]
+O kɔrɔfɔ kanma,
+À cause de ça,
+
+[382990-391030]
+Ka dɔn,njatigiw tulo garijigɛ tun ye min ye u ka manden jeli fɛ o de tun ye nin ye.
+C'est ce que j'avais à vous dire, mes hôtes.
+
+[393350-400580]
+Mɔgɔ munu fɛnɛ ye nbila baara nin na , nka foli b'u ye ka bɔ yan ka ta fɔ faragela.
+Je remercie ceux qui m'ont chargé de faire ce travail, ici en Afrique jusqu'en Europe.
+
+[402220-406932]
+An ka kameramani munnu be k'an filime diɲɛ k'an ye, nka fɔli b'u ye.
+Je remercie nos caméramans qui nous permettent de nous voir, par le monde.
+
+[407990-412556]
+An faw ko ko ninfisiwale bɔra dɔnna ko kunnadali bɛ jala bila a kan.
+Nos ancêtres disaient que : quand l'ingratitude sort pour danser, celui qui doit le rappeler jettera un foulard sur lui.
+
+[416570-420397]
+Ka dɔn jeliya ye fɛnba ye de.
+Savoir que le métier de griot est important.
+
+[423080-428120]
+Jeliya nin fara la fɔ Bala-Faseke la.
+Le métier de griot a commencé depuis Balla-Fasséké.
+
+[430400-435237]
+Ka bɔ Bala-Faseke la ka ta se fɔ Sulagata ma, jeliya bɔra fɔ ye.
+Sulagata= Soulagata= nom propre de personne.
+
+[439420-442120]
+A be fɔ nne de ma Kuyate !
+C'est moi qu'on appelle Kouyaté !
+
+[442150-444710]
+ Ntɛna dɔnna o tariku bɛ la bi ko b'o fɔ.
+Je ne vais pas raconter toute cette histoire aujourd'hui.
+
+[444710-446734]
+Dɔnwɛrɛ nin Ala y'an bɛn a ma nba fɔ.
+Si Dieu nous montre l'occasion, je le dirai un autre jour.
+
+[447040-454861]
+Mɛ a fɔ nne ma ko kuyate a bɔra Sumaworo de la.
+Mɛ=mais =emprunt.
+
+[454930-456365]
+Sumaworo de y'a fɔ.
+C'est Soumaoro qui l'a dit.
+
+[458950-460360]
+Mɛ a fɔra kanɲɛ fila de la.
+Mais ça a été dit deux fois.
+
+[460390-461951]
+Mɛ Sumaworo fɔlɔ de y'a fɔ.
+C'est Soumaoro qui l'a dit en premier.
+
+[464660-469300]
+Kuyate, a fɔ Kuyate, a faralen Sumaworo de la.
+Kouyaté, dit Kouyaté, c'est à cause de Soumaoro.
+
+[470090-471771]
+Sumaworo de y'a fɔ manden.
+C'est Soumaoro qui l'a dit au mandé.
+
+[476200-477920]
+Nin ko ko ntɛna a bɛ fɔla,
+Si je dis que je ne vais pas tout dire,
+
+[479420-483624]
+Manden Kuma bɛfɔ de bɛ mɔgɔ mangoya.
+Celui qui ose tout dire se fait des ennemis au mandé.
+
+[486640-489420]
+Mɛ nin Ala ka diɲɛ ye an bɛ bɛn a ma.
+Mais s'il plaît à Dieu, on verra.
+
+[489470-492356]
+Mɛ a fɔ ko Kuyate, Sumaworo...
+Mais dire Kouyaté,Soumaoro...
+
+[493970-497223]
+N'an ko Sumaworo o kɔw ma ko Kantew.
+Kante=Kanté=Nom propre de personne=nom de famille.
+
+[497310-499390]
+Anin Bala-Faseke bɛnna ko dɔ de la.
+Il est convenu à un accord avec Balla-Fasséké.
+
+[499440-502850]
+A fɛnɛ ko ola ko ko y'an tɛ han !
+C'est ainsi qu'il a dit : qu'il y a quelque chose entre nous hein !
+
+[503000-504500]
+Ko y'an tɛ.
+Il y a quelque chose entre nous.
+
+[505110-506810]
+A bɛ fɔ o ma ko ko y'an tɛ
+Quelque chose entre nous =pacte dans ce cas.
+
+[506840-508730]
+Nin ye ne Alasane Kuytate nakan ye.
+C'est ainsi que moi, Allassane Kouyaté, j'entre/j'arrive.
+
+[509090-511010]
+Haketo b'ala salala Mamadu.
+salala Mamadu= vient de l'arabe et signifie paix et salut sur le prophète Mahomet. Qui est un au revoir dans ce contexte.
+
+[511800-514333]
+Ndɔnna min gasila o kan to denmisenya ye.
+Celui que j'ai offensé, qu'il me pardonne, car je ne suis qu'un enfant.
+
+[514420-516730]
+An ye denmisennin fitinin ye fɔlɔ an ma se fɔlɔ.
+Nous sommes de jeunes âges, nous ne sommes pas grands d'abord.
+
+[517420-519383]
+Oke
+Ok
+
+[519530-522990]
+O ɲɛna nin y'o bannen ye.
+Cela est bien ça, c'est fini.
+

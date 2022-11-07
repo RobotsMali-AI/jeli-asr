@@ -1,0 +1,657 @@
+[139-4418]
+Silamakan ko maaw ka segin k'ale kɛlɛɲɔgɔn bɛ na.
+Silamakan lui a dit de repartir, que son adversaire était en chemin.
+
+[4581-6860]
+A y'o fɔ a ka maaw ye.
+Il a dit cela à ces gens.
+
+[13558-20720]
+Aladelisarabara tun bɛ Nkilntinkɔlɔntɔ bolo, n'a ye di ma min ma, n'i ye sara min k'a segin a ma a be se i la.
+Nkilintinkolonto avait une pipe, quand il te donne celle-là, si tu fume le tabac et retourner lui la pipe, il te vaincra.
+
+[20860-24534]
+A ye sirabara in bo k'a di Alafa Silamakan Dikɔ ma.
+Il a donné la pipe a Alpha Silamakan Dicko.
+
+[24744-25534]
+O tɛ sara min.
+Il ne fume pas la pipe.
+
+[25674-27279]
+O ye sirabara filɛ k'a bila a kun.
+Il a regardé la pipe et l'a mis dans son sac.
+
+[27488-31488]
+A ko fulakɛ i ye kɛle tigɛ n na sa dɛ.
+A ko tu m'as provoqué maintenant, peul.
+
+[31674-33627]
+Fo ka se kɛlɛ saba ma.
+Jusqu'à trois fois.
+
+[33767-35976]
+I nana aladeli bila an ka kɔlɔn kɔnɔ.
+Tu es venu mettre les gris-gris dans mon puits.
+
+[36023-37139]
+O y'a danmakɛlɛ ye.
+C'est un problème en soi.
+
+[37232-38837]
+I ye n denmuso ta, o y'a danmakɛlɛ ye.
+Tu as pris ma fille, c'est un problème en soi.
+
+[38883-42139]
+N ye n ka sirabara d'i ma, i ma sɔn k' min, i m'a segin ma, i ye kɛlɛtigɛ n na dɛ.
+Je t'ai donné ma pipe, tu n'as pas fumé, tu ne me la pas retourné.
+
+[42232-43441]
+O tuma an tɛ kɛlɛ?
+Faisons donc la guerre.
+
+[43581-49418]
+A ko maa bɛ maa ka sirabara minɛ k'a segin a ma n'o y'a sɔrɔ i b{ siran a ɲɛ.
+Il a dit à Nkilntikolonto qu’on retourne quelqu'un sa pipe quand on a peur de lui, moi je n'ai pas peur de toi.
+
+[49534-50767]
+Unhun.
+OK.
+
+[50930-54232]
+U eye kɛlɛ daminɛ.
+Ils ont commencé à se battre.
+
+[54302-62186]
+A ma sɔn k'a ka aladelinkorongo bɔ nkilintinkolonto kama.
+Il n'a pas sorti son cobra magique pour Nkilintikolonto.
+
+[62325-65976]
+A y'a ka Aladeligaran ɲɔ kelen kɛ Nkilintikolonto la.
+Il a donné coup de son fouet magique à Nkilintikolonto.
+
+[66186-69023]
+Nkilintikolonto kulela dewu!
+Nkilintikolonto a crié.
+
+[69069-74023]
+A ko fulakɛ, maa be maa faa k'a sɔrɔ i ma diɲɛ tijɛ.
+Il a dit le peul, on tue une personne sans pour autant détruire le monde.
+
+[74162-77651]
+A ko kana ni ɲɛ fila ke n la n bɛ n fagacogo fɔ i ye.
+Ne me frappes pas deux fois avec ce fouet, je te dirai comment me tuer.
+
+[80279-85395]
+Alifa Silamakan Dikɔye Nkilintikolonto kunkolo tigɛ, k'a denmuso ta, ka n'a di faama Daaa ma
+Alpha Silamakan Dicko a coupé la tête de Nkilinti kolonto et pris sa fille, pour les apporter au roi Da.
+
+[85488-95000]
+Waati min na a nana Nkilinti kolonto kunkolo di faama Daa ma, a ko alhamdulilayi fulake e ye maa sɛbɛ ye.
+Quand il a apporté la tête de Nkilinti kolonto, Da a dit, Dieu merci. Tu es une bonne personne.
+
+[95186-97883]
+Dɔ bɔra juguw la.
+Nos ennemis, diminués.
+
+[97976-100651]
+Belebeleba bɔra juguw la bi sa.
+Un grand a été retiré des ennemis aujourd'hui.
+
+[100767-103790]
+Faama Dah nana mun miiri?
+Qu'est ce que le roi Da a pensé?
+
+[103976-112209]
+K'a minɛ bintɔntile, ale faw tile, ka na se ale yɛrɛ tile ma, daga min bɛ Segu da la jɔn bɛna o ta ka bɔ a da la?
+Depuis le règne de Biton, jusqu'aux règnes de ses pères, jusqu'à son règne, Ségou fait face à des problèmes, qui va résoudre ces problèmes.
+
+[112418-113767]
+O ye daga jumɛn ye?
+C'est quel problème.
+
+[113906-116325]
+U b'o weele ko Bilisi.
+Ils l'appellent Bilissi.
+
+[116418-118767]
+Bilisi daga de tun bɛ segukaw da la.
+Bilissi était un problème pour les segoviens.
+
+[118906-123162]
+K'a minɛ bitɔntile la fo ka na se ale yɛrɛ Da tile ma.
+Depuis le règne de Biton, jusqu'à celui de Da lui même.
+
+[123325-130790]
+Bilisi daga de bɛ segukaw da la kabini Biton ma na fan, ka Biton na fanga na, Ka Ŋolo na, ka na se f'ale faama dah ma.
+Avant le règne de Biton, pendant son règne, le règne de Ngolo, jusqu'à celui de Dah, Bilissi perturbe les segoviens.
+
+[130930-132744]
+O ma se ka wuli ka bɔ seggukaw da la.
+Ce problème n'a pas pu être résolu.
+
+[133000-137093]
+Kabini Sanabuwa tile.
+Depuis le temps de Sanaboua.
+
+[137232-139209]
+A ko belebele bɔra juguw la.
+Il a dit que les ennemis ont réduit en quantité.
+
+[139395-145023]
+A ye segu dɔnnibaw weele k'u fara jɔgɔn kan.
+Il a réuni les devins de Ségou.
+
+[145116-148744]
+A ko a ye don  a k'a lajɛ.
+Il dit entrez et regardez.
+
+[148906-150604]
+Aw de ko a' ni Ala ka di.
+Il dit, vous dites que vous êtes proche de Dieu.
+
+[150767-153767]
+Fɛn min bɛna kɛ Bilisi sababu ye a' k'o fo n ye.
+Dites moi la chose qui pourra vaincre Bilissi.
+
+[153930-158279]
+Dɔnnibaaw donna, u bɔra.
+Les devins sont entrés et sortis.
+
+[158395-159511]
+Olu ko faama!
+Ils ont dit roi!
+
+[159651-161209]
+An kɔni y'a ye.
+Nous avons quand même vu.
+
+[161325-164488]
+Bakari tɔgɔ de de be na ke Bilisi sababu ye yan.
+Quelqu'un nommé Bakari vaincra Bilisi.
+
+[164627-168395]
+Nka bakarri tɔgɔ in be kɔrɔn na wa, a be tilebin wa, Ala m'o dɔnni jira an na.
+La personne Bakari est au nord, ou à l'ouest, Dieu ne nous a pas donné cette connaissance.
+
+[168465-173162]
+A ko a' ye don tuguni a' k'o sababu ɲini.
+Il a dit: rentrez encore et cherchez cela.
+
+[173255-177069]
+U donna k'a lajɛ tuguni.
+Ils sont entrés pour chercher à nouveau.
+
+[177186-183395]
+U y'a ye k'a bɛ Segu ni tilebin cɛ.
+Ils ont vu qu'il se trouve à l'ouest de Ségou.
+
+[187162-189837]
+Dɔw ko Bilisi ye Jɔkɔrɔmɛ.
+Certains disent que Bilisi est Jakorama.
+
+[189930-191162]
+Jɔkɔrɔmɛ tɛ.
+Il n'est pas Jakorama.
+
+[191279-193465]
+Dɔw ko bamanan don.
+Certains disent qu'il est bambara.
+
+[193534-194720]
+Fula don.
+Il est peul.
+
+[194837-197604]
+A kunditɔgɔ ye Amadu, a jamu ye Jalo.
+Il s'appelle Amadou et son nom est Diallo.
+
+[202930-209395]
+Bilisi ye adamaden fɛnmayɛlɛma ye.
+Bilisi est un humain, transformé.
+
+[209465-214348]
+A wololen kɔfɛ, a bolo kala jɛra ka na dan nɔnkɔnkuru la.
+Après sa naissance, son bras est devenu blanc jusqu'au coude.
+
+[214395-216720]
+K'a sen fila je ka na dan kunberekuru la.
+Son pied est devenu blanc jusqu'aux genoux.
+
+[216860-218744]
+K'a kunkolo bonya.
+Sa tête est devenue grosse.
+
+[218906-221046]
+A bangebaa siranna a ɲɛ.
+Ses parents ont eu peur de lui.
+
+[221116-221953]
+Olu taara a fili.
+Ils sont allés le jeter.
+
+[226627-231418]
+Fati Woyigalo ko fulaw aw fara den na f'aw bɛ taa a fil ne ma den sɔrɔ ne nin ta.
+Fati Woyigalo a diti aux peuls, vous n'avez plus besoin d'enfant je vais prendre celui là.
+
+[231488-240255]
+O Fati woyigalo de ye Amadu ta k'a lamo fo ka na kele wuli.
+Fati woyigalo a adopté Amadou ju'quà l'arrivée de la guerre.
+
+[242023-247395]
+Tɔnkɛlɛ wulilen, fulaw carinna ka taa Jɛnɛ.
+Lorsque la guerre a commencé, les peuls se sont dispersés et sont allés à Djenné.
+
+[247558-250116]
+Jakoramaw carinna ka taa Jɛnɛ.
+Les Djakoramas sont partis à Djenné.
+
+[250255-254767]
+Fati woyigalo taatɔ ni Amadu taara ɲɔgɔn n'o ye Bilisi ye.
+Fati Woyigalo est partie avec Amadou, qui est Bilisi.
+
+[254883-257441]
+Fo ka n'a kɔrɔbaya.
+Jusqu'à ce qu'il grandisse.
+
+[257790-262232]
+Bilisi fa ye jɔnni ye.
+Qui est le père de Bilisi?
+
+[262441-263837]
+O ye Npaana ye.
+C'st Npaana.
+
+[263906-266744]
+O Npaana fa ye ye Jajɛ ye.
+Diadjè est le père de Npaana.
+
+[266744-268465]
+Jajɛ fa ye Makan ye.
+Makan est le père de Diadjè.
+
+[268627-270488]
+O Makan bɛ bɔ Kosala.
+Makan vient de Kossala.
+
+[270697-275883]
+E t'a mɛn dɔnkili la ko Kasala Makan ye Dagemuso furu?
+Ne l'entends-tu pas dans les chansons que Kossala Makan a épousé une femme Dague?
+
+[276116-283186]
+Kosala Makan jan ye donso ye, fula don a ka farin.
+Kossala Makan était un chasseur peul et un brave chasseur.
+
+[283325-286441]
+Dugu do tun bɛ ye ko Dɛnɛnkura.
+Il y avait un village qui s'appelle Dènèkoura.
+
+[286604-288976]
+A wulila a bɛ taa dɛnɛnkura dɔgɔ de la.
+Il partait au marché de Dènèkura.
+
+[289162-293162]
+A taato taara i sara a fa la ko Baba n b' FƐ KA Taa dɛnɛnkura dɔgɔ la bi.
+En partant, il a dit à son père qu'il veut aller au marché de Dènèkoura.
+
+[293279-295093]
+Fa ye dugawu kɛ a ye k'a n'u fo.
+Le père lui a donné sa bénédiction.
+
+[299465-304790]
+N'a tun be taa sugu la, a tun bɛ taa bɛɛ kɔfɛ.
+Il partait au marché après tout le monde.
+
+[304930-309116]
+A ye sira minɛ a bɛ taa, a sera sir tilancɛ la tuma min, sogomuso ye sira tigɛ. a ɲɛ
+Arrivé au milieu du trajet, une animal femelle a traversé la route devant lui.
+
+[309604-314139]
+A y'i jɔ k'a ka dɔgɔtaafiniw bo ka kuntaafiniw don.
+Il s'est arrêté et porté ses habits de travail.
+
+[314279-316837]
+Kuntaafiniw donnen ko a sɔrɔla ka sogow nɔ n.
+Après avoir porté les vêtements de travail, il a poursuivi l'animal.
+
+[319674-323255]
+Ka n'a bo sogosennɔya la, ka n'a kɛ maa senno ye.
+Les traces du pied de l'animal est transformé en celles de l'être humain.
+
+[323441-328302]
+A y'a nɔ bɔ fa nan'a sɔrɔ a y'i yɛlɛma tu kɔrɔ k'i kɛ sunguru je pororo ye.
+Il est venu trouvé qu'elle s'est déguisée en une jeune femme blanche très belle.
+
+[328372-331604]
+A bɛka i labɛn a ka finiw , a bɛna taa Dɛnɛnkura dɔgɔ la.
+Elle aussi se prépare pour aller au marché de Dènèkoura.
+
+[331720-337023]
+Kosaaala Makan fana  y'i jo k'a jateminɛ.
+Kossala Makan l'a suivi.
+
+[337790-341558]
+Ni muso in ye dɔɔnin ke, a yɛrɛ be dɔɔnin kɛ nɔfɛ.
+Quand cette femme fait un peu, il fait aussi un peu.
+
+[341813-343279]
+F'u nana se Dɛnɛnkura sugu la.
+Ils sont arrivés au marché de Dènèkoura.
+
+[343372-347604]
+U selen Dɛnɛnkura suru la, muso donna sugu kɔnɔ, ale taara a ka barokɛyɔrɔ la.
+Arrivés au marché, la femme est entrée dans le marché Makan est parti à son grin.
+
+[347790-348837]
+A taara i min.
+Il est parti boire.
+
+[348906-351418]
+A falen kɔ min na, a nana sugu la.
+Après avoir bu, il est venu au marché.
+
+[352162-354232]
+Muso in mɛnna ni baara in na.
+Cela faisait longtemps que cette femme fait ce travail.
+[354348-356767]
+N'a nana sugu la, a b'a fɔ maa ye k'ale tɔgɔ ye ko Naajɛ.
+Quand elle arrive au marché, elle dit aux gens qu'elle s'appelle Nadiè.
+[357162-361930]
+Kosaala Makan jan tilalen ko a ka min na, a nana.
+Makan est venu après avoir fini de boire.
+[362116-363953]
+A nan sorɔ Naajɛ sigilen don.
+Il est venu trouver Nadiè assise.
+[364093-367930]
+A ka sannifɛn, nkɔyɔ, jaba, kiritakiritafɛn.
+Ses marchandises étaient comme des oignons et des conneries.
+[368093-369976]
+A ko Naaje i ni dɔgɔ.
+Il a salué Nadiè.
+[370116-372604]
+Naajɛ y'a kun kɔrɔta k'a filɛ k'e bɛ ne dɔn wa,
+Nadiè l'a regardé et dit, me connais-tu ?
+[372744-373953]
+A ko ne b'i dɔn.
+Il a dit qu'il la connait.
+[374000-376162]
+A ko i ye n dɔn min?
+Elle a dit où est-ce que tu me connais ?
+[376302-378558]
+A ko n y'i dɔn tutudo ani wolɔdo.
+Il a dit je te connais dans la brousse.
+
+[378720-381441]
+Naaje ko e bɛ ne dɔn dɛrɛ.
+Nadiè a dit tu me connais.
+[382651-385441]
+N kɔnɔ n ka dɔgɔ jɔ ni n dɔgɔ jɔ an na taa.
+Attends-moi, on iras après la foire.
+
+[385744-390046]
+O kɛra min kɛ Kosaala makan jan seginna ka taa a ka barokɛyɔrɔ la.
+Makan est retourné à son grin.
+[390116-390813]
+Wula selen a nana.
+Il est venu le soir.
+
+[390906-391767]
+A ko taatuma ma se wa Naajɛ?
+Il dit, n'est-il pas l'heure Nadiè?
+[391883-392581]
+A ko taatuma sera.
+Elle a di t qu'il est l'heure.
+
+[392906-394465]
+Naajɛ wulila a nɔfɛ.
+Nadiè l'a suivi.
+
+[394697-395465]
+U ye sira minɛ.
+Ils ont pris la route.
+
+[395604-401465]
+U surunyana dugu la tuma min na, Naaje ko Maka, e ye ne sogolama ye, i ye n mɔgɔlama ye.
+A proximité du village, Nadiè a dit Makan, tu m'as vu en tan qu'animal et humain.
+[401581-404651]
+Ne dun bɛna taa i nɔfɛ so, n bɛ taa kɛ i muso ye.
+Je pars avec toi pour devenir ta femme.
+
+[404767-406325]
+N ta fe maaw ka n sugu dɔn.
+Je ne veux pas que les hommes me reconnaissent.
+
+[406418-409372]
+A ko n'i m'a kɛ k'a tiɲɛ ni Ala sɔnn'a ma n t'i sugu fo mɔgɔw ye.
+Il a dit si tu ne fais pas quelque chose de mal, je ne dévoilerai pas ton secret aux gens ;
+
+[409558-411860]
+A nana se a faso la.
+Il est venu dans la famille.
+
+[411953-414325]
+A ko Baa, n ye muso sɔrɔ sugu la.
+Il dit à son père, j'ai trouvé une femme au marché.
+
+[414534-417162]
+A fo ko ko muso ye jɔnni den ye.
+Son père lui a demandé qui sont les parents de la femme ?
+
+[417255-420000]
+A ko ne hakili la e be buranmuso ɲini, n t'a dɔn e bɛ fa ni ɲini.
+Il a dit je pense que tu veux une belle fille, mais ne sais pas que tu cherches un père et une mère.
+
+[420209-421790]
+A nana a ba yɔrɔ la.
+Il est venu chez sa mère.
+
+[421953-424976]
+A ko Mama n ye muso sɔrɔ Dɛnɛnkura dɔgɔ la bi.
+Il a dit qu'il a eu une femme au marché de Dènèkoura.
+
+[425162-428255]
+Ba ko ko Makan muso ye jɔnni den ye?
+La mère lui a demandé : qui sont les parents de la femme ?
+
+[428395-431162]
+A ko ne hakili la e bɛ buranmuso ɲini n ta dɔn e be fa ni ba ɲini.
+Il a dit je pense que tu veux une belle fille, mais ne sais pas que tu cherches un père et une mère.
+
+
+[431325-433651]
+A taara se a teriw ma.
+Il est parti voir ses amis.
+
+[433837-436186]
+A ko a teriw ma ko n ye muso sɔrɔ Dɛnɛnkura bi.
+Il a dit à ses amis, qu'il a eu une femme à Dènèkoura.
+
+[436302-437534]
+Olu ko a ma k'o cogo ɲɛna.
+Eux, ils lui disent que c'est bien.
+
+[437651-438581]
+Ko muso ye jɔnni den ye.
+Qui sont les parents de la femme ?
+
+[438697-443744]
+A ko ne hakili la aw bɛ jɛɲɔgɔnmus ɲini ne t' a don aw be ba ni fa ɲini.
+Il a dit je pense que tu veux une femme pour un ami, mais ne sais pas que vous cherchez un père et une mère.
+
+[443790-448418]
+Donsokalanden minnu b'a bolo, a sera olu fana ma k'a  ɲɛfɔ olu ɲɛ na.
+Il l'a expliqué à ses élèves.
+
+[448511-450023]
+Olu ko ni cogo ɲɛna an karamɔgɔ.
+Ils disent que c'est bien maître.
+
+[450116-452232]
+Anw ba ye jɔnni den ye?
+Qui sont les parents de notre mère ?
+
+[452325-455581]
+A ko ne hakili la aw be karamɔgɔ muso ɲini n t'a aw dɔn aw be ni ba ɲini.
+Il a dit je pense que vous voulez une femme pour le maître, mais je ne savais pas que vous cherchez un père et une mère.
+
+[456046-465151]
+Saka Ndao, kabini kunungo, ni hamaden ye fɛn do ye maaninfin n'u m'o jɛ ɲini u te lafiya.
+Chaka Ndao, depuis hier, quand les êtres humains voient quelque chose s'ils n'enquêtent pas sur cette chose, ils ne seront pas à l'aise.
+
+[466720-470325]
+Fo Naaje nana kɔnɔje kelen ke Makan ye.
+Nadiè a donné un enfant à Makan.
+
+[470488-475116]
+U sɔrɔla k'a ka donsokalandenw weele k'olu su.
+Ils ont monté ses élèves chasseurs contre lui.
+
+[475372-477837]
+Ko nin bɛ se ka kɛ cogo di?
+Comment cela peut-il se faire ?
+
+[477930-482465]
+Aw karamɔgɔ ka na ni muso maa tɛ muso min bɔdugu, ma t'a cogoya dɔn.
+Votre maître est venu avec une femme dont personne ne sait rien d'elle.
+
+[482558-483837]
+O bɛ se ka kɛ cogo jumɛn na?
+Comment cela peut-il arrivé ?
+
+[483953-487232]
+Aw minnu y'a ka kalanden n'a jɛɲɔgɔnw aw ma sɔrɔ k'o dɔn.
+Vous êtes ses élèves et collaborateurs, n'avez pas su ça.
+
+[487418-490418]
+K'olu su k'u bila Makan na.
+Ils les ont montés contre Makan.
+
+[490534-492744]
+U nana donsusumu dɔgɔda.
+Ils ont organisé la fête des chasseurs.
+
+[492837-500915]
+U nana ka na Makan su fi la ka nkɔnifɔcɛ tan ni duuru su k'u bila a la.
+Ils ont donné de l'alcool à Makan et engagé 15 chanteurs de Donsonkoni pour flatter Makan.
+
+[501116-504813]
+O ce tan ni duuru bɛ Makan su.
+Ces 15 hommes l'ont rendu ivre.
+
+[504906-508186]
+Makan sulen ye marifa ta ka n'a juru turu kɛnɛ.
+Etant ivre, Makan a emmené le fusil au milieu.
+
+[508348-511232]
+Naaje sigilen ko kan'a fo deMakan.
+Nadiè a dit, il ne faut pas dire Makan.
+
+[511372-513697]
+A ko kan'a fo i wolodenw kama Makan.
+Ne dis pas à cause de tes enfants.
+
+[513837-516093]
+Makan nana i sigi.
+Makan est venu s'asseoir.
+
+[516186-519511]
+U tilala k'a su tuguni.
+Ils lui ont encore donné à boire et flatter.
+
+[519651-521837]
+Makan wulila a ye marifa ta ka n'a ju turu kɛnɛ na.
+Makan est venu avec le fusil au milieu de la place.
+
+[521953-523953]
+Naajɛ ko Makan kan'a fo dɛ.
+Nadiè a dit ne dis pas Makan.
+
+[524139-525930]
+A kɛ furu jigi kama Makan kan'a fo.
+Ne le dis pas à cause du mariage.
+
+[526069-528325]
+Makan tilara ka na i sigi.
+Makan est revenu s'asseoir.
+
+[528395-531441]
+U tilara k'a su di la tuguni, nkɔnifɔw tilara k'a su.
+Ils lui ont encore donné de l'alcool et donsonkoni, en le louant.
+
+[531604-534860]
+Siɲɛ sabanan, Makan ye marifa turu kɛnɛ ko n b'a fɔ.
+La troisième fois Makan est venu avec le fusil, il a dit : je vais le dire.
+
+[535023-539651]
+Jɔnni ni ne ka kan fulala?
+Qui est à mon niveau, en tant que peul?
+[539767-541418]
+Jɔn ni ne ka kan donso la?
+Qui est à mon niveau, en tant que chasseur ?
+[541558-543255]
+Naaje sigilen file Dagɛmuso don.
+Nadiè est une femme Daguè.
+
+[543348-545465]
+Ne y'a sɔrɔ tutudo ani wɔlɔdo.
+Je l'ai eu dans la brousse.
+
+[545581-549627]
+U ko Makan i ɲɔgɔn tɛ.
+Ils ont dit : Makan tu es incomparables.
+
+[549720-550744]
+Min b'a kɔnɔ o sidɔnna sa o.
+On a découvert son secret.
+
+[550860-552534]
+U tun b'a fɛ ka min ɲini u y'o dɔn.
+Ils ont eu ce qu'ils cherchaient.
+
+[552651-555627]
+U b'a fe ka muso in ka cogoya dɔn.
+Ils voulaient connaître la situation de cette femme.
+
+[555697-560325]
+Makan ye ni fo min kɛ, u ye tɛgɛrɛ fɔ a yek o Makan i ɲɔgɔn tɛ.
+Après avoir dit ça, ils ont dit : Makan tu es incomparable.
+
+[560465-567302]
+Makan ye den min sɔrɔ Naaje fɛ a y'o tɔgɔ da ko Maama Kanutɛ.
+Makan Baptisé l'enfant qu'il a eu avec Nadiè que Maama Kanouté.
+
+[569651-573604]
+Maama kanutɛ ye Makan Ncinin wolo.
+Maama Kanouté est la mère de Makan Ncinin.
+
+[573860-574930]
+I tulo be n kan na wa?
+Tu m'entends ?
+
+[577767-581767]
+Makan Ncinin ye jɔnni wolo?
+Makan Ncinin a donné naissance à qui ?
+
+[582209-585116]
+Bilisi de bɔra o la.
+Elle a donné naissance à Bilisi.
+
+[585488-588837]
+Bilisi tɔgɔ yɛrɛ ye Amadu ye.
+Le vrai nom de Bilissi est Amadou.
+
+[592488-603744]
+Waati min na ni Jakoramamuso taara n'a ye Jɛnɛ, ni Jakoramaw y'a ye ko ni ye nakantigi ye.
+Quand Fati Woyigalo est partie avec lui à DJéné, il a grandi, les Djakoramas ont vu que c'est un enfant célèbre.
+
+[603930-608930]
+U binna k'a kɔniya.
+Ils ont commencé à lui faire du mal.
+
+[609116-610790]
+A ye Fati Woyigalo weele.
+Il a appelé Fati Woyigalo.
+
+[610953-614255]
+A ko n'ta fɛ k'i ka ɲuman tiɲɛ.
+Il a dit : je ne veux pas gâcher ton bienfait.

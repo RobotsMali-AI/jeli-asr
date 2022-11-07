@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-21T10:06:16+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-10-31T14:43:36-05:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///C:/Users/KADER/Desktop/Robotsmali Elan/griots_r24_1.wav"
-            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../Robotsmali Elan/griots_r24_1.wav"/>
+            MEDIA_URL="file:///home/seb/projects/gclean/transcriptions/griots_r24/griots_r24_1.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../gclean/transcriptions/griots_r24/griots_r24_1.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f69e2df4-a215-4b59-905c-5aeff152550c</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">450</PROPERTY>
     </HEADER>
@@ -524,9 +524,9 @@
         <TIME_SLOT TIME_SLOT_ID="ts512" TIME_VALUE="558055"/>
         <TIME_SLOT TIME_SLOT_ID="ts513" TIME_VALUE="561666"/>
         <TIME_SLOT TIME_SLOT_ID="ts514" TIME_VALUE="561666"/>
-        <TIME_SLOT TIME_SLOT_ID="ts515" TIME_VALUE="563388"/>
+        <TIME_SLOT TIME_SLOT_ID="ts515" TIME_VALUE="561930"/>
         <TIME_SLOT TIME_SLOT_ID="ts516" TIME_VALUE="563388"/>
-        <TIME_SLOT TIME_SLOT_ID="ts517" TIME_VALUE="572416"/>
+        <TIME_SLOT TIME_SLOT_ID="ts517" TIME_VALUE="570960"/>
         <TIME_SLOT TIME_SLOT_ID="ts518" TIME_VALUE="572416"/>
         <TIME_SLOT TIME_SLOT_ID="ts519" TIME_VALUE="572583"/>
         <TIME_SLOT TIME_SLOT_ID="ts520" TIME_VALUE="572583"/>
@@ -620,79 +620,79 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
                 TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>A' ni ,ɲantuman ne lamɛnnibagaw ani n filɛbagaw.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
                 TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N ka foli bɛ se bɛɛ lajɛlen ma kabini Farafinna fɔ Farajɛla.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
                 TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N bɛɛ lajɛlen fo kabini u sigiyɔrɔ la.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
                 TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ne bɛ na n yɛrɛ fɔ aw ɲɛ na.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
                 TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ne tɔgɔ de ye Ayisata Wali Kaloga.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
                 TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ne faso ye Barawuli ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
                 TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Nka an bɛ yɔrɔ min na bi, ne sigilen bɛ Mali faaba kɔnɔ n'o ye Bamakɔ ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
                 TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N ka kin ye Yirimajɔ ye, Komini wɔɔrɔnan na.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
                 TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ne sigilen bɛ yen nɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
                 TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Fasiya, ne ye maraka de ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
                 TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ne fa maraka, ne ba maraka.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
                 TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Donc, ne bɛ marakaya de dɔn.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
                 TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Siya ka ca an ka jamana kɔnɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -704,799 +704,799 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
                 TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts63">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ne ye maraka de ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
                 TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts67">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N fa ye maraka ye, n ba ye maraka.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
                 TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts71">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N furula maraka ma, marakadenw de bɛ n bolo.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
                 TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts75">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ne yɛrɛ b'o ko n yɛlɛmako wolowula bɛɛ ye maraka ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
                 TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts79">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ne bɛ fɛ ka baro min fɔ aw ye bi, n filɛbaga ni n lamɛnbagaw, baro in bɛ ne ni aw bɛɛ de kan.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
                 TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts83">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Anw diɲɛlaban bidenw, baro in b'an bɛɛ de kan.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
                 TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts87">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>An bɛɛ bɛ se k'an ka tɔmɔta tɔmɔ a kɔnɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
                 TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts91">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Nka a tɛ kɛ k'a fɔ ko ne bɛ ka min fɔ k'a bɛɛ ye tiɲɛ ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
                 TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts95">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Mɔgɔ, i bɛ fili ka da i kɔnɔnata de kan.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
                 TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts99">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>I y'a lamɛn cogo min na, i fana b'a fɔ ten.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
                 TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts103">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>An mɔkɛ tun b'a ɲɛfɔ an ye cogo min ne fana bɛ fɛ k'o de ɲɛfɔ filɛbagaw ani n lamɛnbagaw ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
                 TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts107">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ɛ, ne ka baro in bɛ mun de kan, ladilikan de fana don.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
                 TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts111">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>A bɛ mun de kan,  a bɛ lamɔ de kan.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
                 TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts115">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Fɔlɔfɔlɔ lamɔ ani sisan lamɔ, ne y'a ye danfaraba de b'u ni ɲɔgɔn cɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
                 TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Lamɔ, dɔw b'a fɔ ko mara.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
                 TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts121">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>A bɛɛ ye kelen ye an fɛ yan Farafinna.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
                 TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts125">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N'i ko mara, i ko lamɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
                 TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts129">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Sisan lamɔ ani fɔlɔfɔlɔ lamɔ, ni  ma fili ne filɛbagaw ani ne lajɛbagaw, danfara donna u ni ɲɔgɔn dɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
                 TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts133">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Fɔlɔfɔlɔ lamɔ tun bɛ kɛ cogo di ?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
                 TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts137">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Lamɔ tun bɛ daminɛ duw de kɔnɔna na n'o ye an faw ka du konɔna ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
                 TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts141">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>I b'a sɔrɔ dutigike be du kɔnɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
                 TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts145">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>A balolen don, an'a muso be yen, an'a denw bɛ yen, an'a mɔdenw bɛ yen.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
                 TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts149">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>An ka farafinna duw tun ye du belebeleba kelen de ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
                 TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts153">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Bɛɛ bɛ kɛ du kɔnɔ, i n'i ka denbaya.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
                 TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts157">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N'a kɛra duba kɔnɔ, dutigikɛ n'o de ye gatigikɛ ye, mara bɛ di o de ma, lamɔ bɛ di o de ma.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
                 TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts161">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>O de b'a bɛɛ ɲɛnabɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
                 TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts165">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>A k'an k'a denw mara, a k'an k'a muso mara, a k'an k'a mɔdenw mara.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
                 TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts169">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N'i y'o mara kɛ, Ala bɛ na n'a ka na ye, si tɛ to yɔrɔ kelen.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
                 TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts173">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>I b'a sɔrɔ o dutigi cɛkɔrɔba, o bɛ na ntaya.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
                 TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts177">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N'o nana ntaya, mara bɛ taa di jɔn ma?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
                 TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts181">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N'o ye laɔ ye, du dencɛ fɔlɔ, cɛkɔkɔrɔba dencɛ fɔlɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
                 TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts185">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Lamɔ bɛna di o de ma.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
                 TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts189">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>O de bɛna du mara tuguni.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
                 TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts193">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>O bɛna jɔn ni jɔn mara?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
                 TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts197">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>A bɛna a dɔgɔkɛw mara, a bɛna a dɔgɔkɛmusow mara, a bɛna a dɔgɔkɛden mara, a bɛna a yɛrɛ den mara, a bɛna lamɔniden mara.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
                 TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts201">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Fɛn o fɛn bɛ du kɔnɔ n'an b'a fɔ a ma ko hadamaden, a ka mara be se o bɛɛ ma.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
                 TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts205">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ale de b'olu bɛɛ kɔlɔsi.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
                 TIME_SLOT_REF1="ts207" TIME_SLOT_REF2="ts209">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ale de bɛ lamɔ d'u ma.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
                 TIME_SLOT_REF1="ts211" TIME_SLOT_REF2="ts213">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>A ka ca Ala fɛ, Ale ye lamɔ min sɔrɔ a fa n'a b'aw fɛ, ale fana b'o lamɔ kelen de yira a fana ka dudenw na.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
                 TIME_SLOT_REF1="ts215" TIME_SLOT_REF2="ts217">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Lamɔ be ke o cogo kɔnɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
                 TIME_SLOT_REF1="ts219" TIME_SLOT_REF2="ts221">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Nin ye n fakɔrɔba den ye, o tun te yen o wagati.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
                 TIME_SLOT_REF1="ts223" TIME_SLOT_REF2="ts225">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Nin ye ne dɔgɔkɛ den ye, o tun tɛ yen o wagati.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
                 TIME_SLOT_REF1="ts227" TIME_SLOT_REF2="ts229">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Bɛɛ lajɛlen tun ye kulu kelen de ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
                 TIME_SLOT_REF1="ts231" TIME_SLOT_REF2="ts233">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N'i ko ko du, kulu kelen pe de tun don, fila tɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
                 TIME_SLOT_REF1="ts235" TIME_SLOT_REF2="ts237">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Aw bɛ ɲɔgɔn lamɛn balimaya la.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
                 TIME_SLOT_REF1="ts239" TIME_SLOT_REF2="ts241">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Aw bɛ ɲɔgɔn lamɛn sinjiya la, aw bɛ ɲɔgɔn lamɛn kabila kɔnɔna na.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
                 TIME_SLOT_REF1="ts243" TIME_SLOT_REF2="ts245">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>O dutigi cɛkɔrɔba n'o de ye du dence fɔlɔ ye sisan, i b'a sɔrɔ ale de bɛna ko caman ɲɛnabɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
                 TIME_SLOT_REF1="ts247" TIME_SLOT_REF2="ts249">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ni fɛn o fɛn nana, a kɛra hɛre o, a kɛra hɛrɛ tana ye o, a bɛ fɔ ale de fɔlɔ ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
                 TIME_SLOT_REF1="ts251" TIME_SLOT_REF2="ts253">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N'a fɔra ale fɔlɔ, ale fana bɛ sɔrɔ k'a lase a dɔgɔkɛw ma.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
                 TIME_SLOT_REF1="ts255" TIME_SLOT_REF2="ts257">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Dɔgɔkɛw fana b'a lajɛ muso min ye muso bɛɛ la kɔrɔbalen ye, u fana b'o... u b'o wele k'a bonya da o kɔrɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
                 TIME_SLOT_REF1="ts259" TIME_SLOT_REF2="ts261">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>O fana b'a lase muso tɔw ma.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
                 TIME_SLOT_REF1="ts263" TIME_SLOT_REF2="ts265">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N'a sera musow ma, ni denw ta b'a la, a bɛ ɲɛfɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
                 TIME_SLOT_REF1="ts267" TIME_SLOT_REF2="ts269">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ni denw ta t'a la fana, a bɛ dan mɔgɔ kɔrɔbaw ni ɲɔgɔn cɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
                 TIME_SLOT_REF1="ts271" TIME_SLOT_REF2="ts273">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Mara tun bɛ daminɛ ten de, lamɔ tun bɛ kɛ ten tɔ de fɔlɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
                 TIME_SLOT_REF1="ts275" TIME_SLOT_REF2="ts277">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>I b'a sɔrɔ dututigike, i b'a sɔrɔ nansarabaarakela don...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
                 TIME_SLOT_REF1="ts279" TIME_SLOT_REF2="ts281">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Mɛ ale dɔgɔnin tɔw, i b'a sɔrɔ Ala m'omu kɛ nansarabaarakɛla ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
                 TIME_SLOT_REF1="ts283" TIME_SLOT_REF2="ts285">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Bɛɛ bɛ dɔ kɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
                 TIME_SLOT_REF1="ts287" TIME_SLOT_REF2="ts289">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Anw marakaw fe yen jago de ka ca anw fe yen.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
                 TIME_SLOT_REF1="ts291" TIME_SLOT_REF2="ts293">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Anw bɛ jago de kɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
                 TIME_SLOT_REF1="ts295" TIME_SLOT_REF2="ts297">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Nansarabaara, an b'o fana kɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
                 TIME_SLOT_REF1="ts299" TIME_SLOT_REF2="ts301">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Bololabaara misɛnninw, an b'o fana kɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
                 TIME_SLOT_REF1="ts303" TIME_SLOT_REF2="ts305">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ala ye maraka da, anw bɛ wari de ɲinin kabini denmisɛnniya la.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
                 TIME_SLOT_REF1="ts307" TIME_SLOT_REF2="ts309">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Cɛman, kabini i bɛ san wolonwula sɔrɔ i bɛ don wari ɲinin na.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
                 TIME_SLOT_REF1="ts311" TIME_SLOT_REF2="ts313">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>I faw b'a jira i la, ni feerekɛyɔrɔ bɛ min fa bolo, i b'a sɔrɔ o b'a den cɛman tugun a kɔ, a bɛ taa n'a ye o feerekɛyɔrɔ k'a ɲɛ jira a la.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
                 TIME_SLOT_REF1="ts315" TIME_SLOT_REF2="ts317">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Minnu ye musomanw ye, anw minnu ye den musomanw ye, anw be to so kɔnɔ, anw bɛ to baw ka lamɔ kɔnɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
                 TIME_SLOT_REF1="ts319" TIME_SLOT_REF2="ts321">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Olu de b'an fana dege musoya gundo la.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
                 TIME_SLOT_REF1="ts323" TIME_SLOT_REF2="ts325">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Musoya gundo ka ca.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
                 TIME_SLOT_REF1="ts327" TIME_SLOT_REF2="ts329">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>I bɛ dege fɛn caman na i ba fɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
                 TIME_SLOT_REF1="ts331" TIME_SLOT_REF2="ts333">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>I bɛ se ka dege tobili la, komi i bɛ se k'i dege finiko la, u be se k'i dege yɔrɔ furan na, u bɛ se k'i dege...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
                 TIME_SLOT_REF1="ts335" TIME_SLOT_REF2="ts337">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ni dunan donna du kɔnɔ de musoman de bɛ dunan bisimila.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
                 TIME_SLOT_REF1="ts339" TIME_SLOT_REF2="ts341">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N'a ye dunan bisimila, den musoman de bɛ ji soli ka na bonya ke dunan ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
                 TIME_SLOT_REF1="ts343" TIME_SLOT_REF2="ts345">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>I baw b'u dogo i la.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
                 TIME_SLOT_REF1="ts347" TIME_SLOT_REF2="ts349">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ni so don, i bɛ dege dɔgɔ ɲinin na, a be komi i bɛ dege, i ka taa si ɲinin.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
                 TIME_SLOT_REF1="ts351" TIME_SLOT_REF2="ts353">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>A' bɛɛ si ɲininyɔrɔ la an'aw baw.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
                 TIME_SLOT_REF1="ts355" TIME_SLOT_REF2="ts357">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>O b'a' sɔrɔ i bɛ si san joli la.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91"
                 TIME_SLOT_REF1="ts359" TIME_SLOT_REF2="ts361">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>K'a daminɛ san naani ka taa se san duuru, san wɔɔrɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
                 TIME_SLOT_REF1="ts363" TIME_SLOT_REF2="ts365">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>I bɛ tugu i ba musomanw kɔ, a bɛ taa kungo kɔnɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
                 TIME_SLOT_REF1="ts367" TIME_SLOT_REF2="ts369">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Dɔgɔ bɛ ɲinin, i b'a da i kun.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
                 TIME_SLOT_REF1="ts371" TIME_SLOT_REF2="ts373">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>I bɛ si ɲinin, i bɛ na ni si ye so.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
                 TIME_SLOT_REF1="ts375" TIME_SLOT_REF2="ts377">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N'i nana ni si ye so, si k'an ka kɛ cogo min na, a k'an ka da dibi kan cogo min na, i ba musoman de  b'o jira i la.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
                 TIME_SLOT_REF1="ts379" TIME_SLOT_REF2="ts381">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>n'a dara dibi la, a tulu k'an ka bɔ don min na, i bɛ wele, i be na.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
                 TIME_SLOT_REF1="ts383" TIME_SLOT_REF2="ts385">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>U b'i lasigi, u b'o ɲɛ jira i la.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98"
                 TIME_SLOT_REF1="ts387" TIME_SLOT_REF2="ts389">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>O tun ye musomanw ta ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99"
                 TIME_SLOT_REF1="ts391" TIME_SLOT_REF2="ts393">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Cɛmanw tun ta caman ye jago ani ka taa baara misɛnnniw dege.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100"
                 TIME_SLOT_REF1="ts395" TIME_SLOT_REF2="ts397">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Anw bɛ lamɔ ten de.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
                 TIME_SLOT_REF1="ts399" TIME_SLOT_REF2="ts401">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Nka an ka dubaw kɔnɔ daga kelen de tun bɛ sigi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
                 TIME_SLOT_REF1="ts403" TIME_SLOT_REF2="ts405">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Kɛrɛfɛ tobili tun t'a la.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103"
                 TIME_SLOT_REF1="ts407" TIME_SLOT_REF2="ts409">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ayi, o tun tɛ kɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104"
                 TIME_SLOT_REF1="ts411" TIME_SLOT_REF2="ts413">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Marakaduba kɔnɔ, i b'a sɔrɔ daga kelen de bɛ yen.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a345"
                 TIME_SLOT_REF1="ts415" TIME_SLOT_REF2="ts417">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Daga in bonya cogo o cogo, bɛɛ dahirimɛ bɛ daga in kɔnɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106"
                 TIME_SLOT_REF1="ts419" TIME_SLOT_REF2="ts421">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Musow, aw be a bɔɲɔgɔn kɔrɔ, tobili bɔ ɲɔgɔn kɔrɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107"
                 TIME_SLOT_REF1="ts423" TIME_SLOT_REF2="ts425">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Dɔw ka laada ye, tile fila-fila ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108"
                 TIME_SLOT_REF1="ts427" TIME_SLOT_REF2="ts429">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Dɔw fana ka laada ye tile kelen-kelen.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109"
                 TIME_SLOT_REF1="ts431" TIME_SLOT_REF2="ts433">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Komi dɔw fana ka laada ye tile saba-saba ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110"
                 TIME_SLOT_REF1="ts435" TIME_SLOT_REF2="ts437">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Muso bɛ tobili bɔ ɲɔgɔn kɔrɔ ten de.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111"
                 TIME_SLOT_REF1="ts439" TIME_SLOT_REF2="ts441">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>U bɛ taa tobili kɛ k'a di duden bɛɛ lajɛlen ma.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a112"
                 TIME_SLOT_REF1="ts443" TIME_SLOT_REF2="ts445">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Yanni tobili ka kɛ dun, dɔ de bɛ taa ɲinin ka na n'a ye o.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a113"
                 TIME_SLOT_REF1="ts447" TIME_SLOT_REF2="ts449">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Dutigikɛ an'a dɔgɔninw, bɛnkan de b'u ni ɲɔgɔn cɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a114"
                 TIME_SLOT_REF1="ts451" TIME_SLOT_REF2="ts453">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Kalo mana sa, n'e ye min sɔrɔ e ka na n'o ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a115"
                 TIME_SLOT_REF1="ts455" TIME_SLOT_REF2="ts457">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Anw de be fa la an be ba la.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a116"
                 TIME_SLOT_REF1="ts459" TIME_SLOT_REF2="ts461">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N'e ye min sɔrɔ i bɛ na n'o ye, ni dɔ in fana min sɔrɔ o bɛ na n'o ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a117"
                 TIME_SLOT_REF1="ts463" TIME_SLOT_REF2="ts465">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>A bɛɛ bɛ fara ɲɔgɔn kan a bɛ di dutigicɛ ma n'o d ye du denkɛfɔlɔ ye.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a118"
                 TIME_SLOT_REF1="ts467" TIME_SLOT_REF2="ts469">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Mara b'ale de bolo, lamɔ...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a119"
                 TIME_SLOT_REF1="ts471" TIME_SLOT_REF2="ts473">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>A ka ca Ala fɛ, wariko fɛn o fɛn mana na so kɔnɔ, a da bɛ jira ale de la.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a120"
                 TIME_SLOT_REF1="ts475" TIME_SLOT_REF2="ts477">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Dutigikɛ n'o ye bɛɛ kɔrɔkɛ ye, ni malo k'an ka san, ale de bɛ taa malo san.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121"
                 TIME_SLOT_REF1="ts479" TIME_SLOT_REF2="ts481">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ni ɲɔ k'an ka san, ale de bɛ taa ɲɔ san.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a122"
                 TIME_SLOT_REF1="ts483" TIME_SLOT_REF2="ts485">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ni ji k'an ka sara, ale de bɛ ji wari sara.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a123"
                 TIME_SLOT_REF1="ts487" TIME_SLOT_REF2="ts489">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ni kuran wari k'an sara, ale de b'a sara.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a124"
                 TIME_SLOT_REF1="ts491" TIME_SLOT_REF2="ts493">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Du, a fanba bɛɛ lajɛlen b'ale de bolo.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a125"
                 TIME_SLOT_REF1="ts495" TIME_SLOT_REF2="ts497">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Balimakɛ ninnu bɛ nafoloɲinin u bɛn'a d'a ma tilenenya kɔnɔ, bonya kɔnɔ, laadiriya kɔnɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a126"
                 TIME_SLOT_REF1="ts499" TIME_SLOT_REF2="ts501">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Sinji min n'u y'a min, o tin kosɔn, u kana fara ka bɔ ɲɔgɔn na.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a127"
                 TIME_SLOT_REF1="ts503" TIME_SLOT_REF2="ts505">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ale de bɛn'a bɛɛ kɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a128"
                 TIME_SLOT_REF1="ts507" TIME_SLOT_REF2="ts509">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Bɛɛ n'i hakilina don dɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a129"
                 TIME_SLOT_REF1="ts511" TIME_SLOT_REF2="ts513">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Mɔgɔ o mɔgɔ n'i bɛ ji min a bɛ se ka kɛ don dɔ i bɛ fili.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a130"
                 TIME_SLOT_REF1="ts515" TIME_SLOT_REF2="ts517">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Ni kɔrɔkɛ nana fili don min, a k'an ka baara kɛ cogo min na, du k'an ka kɛ cogo min, n'a nana fili...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a132"
                 TIME_SLOT_REF1="ts519" TIME_SLOT_REF2="ts521">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>U b'a lasigi balimaya kɔnɔ, tin kɔnɔ, makari kɔnɔ, bonya kɔnɔ, majigin kɔnɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a133"
                 TIME_SLOT_REF1="ts523" TIME_SLOT_REF2="ts525">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>K'u kɔrɔkɛ wele k'a jira a la '' an kɔrɔ, e fana ye nin ke bi, nin tun man ka kɛ nin kɛcogo la''.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a134"
                 TIME_SLOT_REF1="ts527" TIME_SLOT_REF2="ts529">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>I filila.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a135"
                 TIME_SLOT_REF1="ts531" TIME_SLOT_REF2="ts533">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>N'a ka fili jirala a la, mara tun bɛ cogo min, ale yɛrɛ b'a dɔn ale filila, a fana b'a fɔ a dɔgɔninw ye, tiɲɛna ne filila.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a136"
                 TIME_SLOT_REF1="ts535" TIME_SLOT_REF2="ts537">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>A ɲɔgɔn wɛrɛ tɛ kɛ bilen.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a137"
                 TIME_SLOT_REF1="ts539" TIME_SLOT_REF2="ts541">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Kɛlɛ tun man ca dubaw kɔnɔ dɛ bari u lamɔna ten tɔ de.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a138"
                 TIME_SLOT_REF1="ts543" TIME_SLOT_REF2="ts545">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>U fa n'u baw b'a jira u la ko aw de ye sin kelen min, a' ye ɲɔgɔn minɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a139"
                 TIME_SLOT_REF1="ts547" TIME_SLOT_REF2="ts549">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Fo saya aw kana fara ka bɔ ɲɔgɔn na.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a140"
                 TIME_SLOT_REF1="ts551" TIME_SLOT_REF2="ts553">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Baara bɛ kɛ ten de.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a141"
                 TIME_SLOT_REF1="ts555" TIME_SLOT_REF2="ts557">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Kɔrɔkɛman, n'ale ko dɔgɔnin ka min kɛ, a t'a sɔsɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a142"
                 TIME_SLOT_REF1="ts559" TIME_SLOT_REF2="ts561">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>An bɛ mara ten de.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a143"
                 TIME_SLOT_REF1="ts563" TIME_SLOT_REF2="ts565">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Anw minnu ye den ye, an b'a sɔrɔ an baw bɛ siran an faw ɲɛ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a144"
                 TIME_SLOT_REF1="ts567" TIME_SLOT_REF2="ts569">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>U bɛ siran u ɲɛ ka da mun kan, furu bonya, furu barika ɲininni.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a145"
                 TIME_SLOT_REF1="ts571" TIME_SLOT_REF2="ts573">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>U b'u bonya, u b'u karama.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a146"
                 TIME_SLOT_REF1="ts575" TIME_SLOT_REF2="ts577">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>K'a jira k'a fɔ ko muso de ye dugumafɛn ye, muso de k'an ka sabali walasa du ka jɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a147"
                 TIME_SLOT_REF1="ts579" TIME_SLOT_REF2="ts581">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Anw bɛ mɔ o kɔnɔ.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a148"
                 TIME_SLOT_REF1="ts583" TIME_SLOT_REF2="ts585">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Anw baw, anw faw de b'u mara.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a149"
                 TIME_SLOT_REF1="ts587" TIME_SLOT_REF2="ts589">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>Anw minnu ye dɔgɔmusow ye, ni kɔrɔkɛ b'an na, anw kɔrɔkew fana b'an mara.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1538,13 +1538,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a158"
                 TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>Je salue tout le depuis leur résidence.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Je salue tout le depuis de là où ils se trouvent.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a161"
                 TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE>Je vais me presenter à vous.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Je vais me présenter à vous.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1652,7 +1652,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a197"
                 TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts92">
-                <ANNOTATION_VALUE>Mais tout ce que je dis n'est pas vrai.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Maisce n'est comme si tout ce que je dis est pas vrai.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1670,7 +1670,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a201"
                 TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts104">
-                <ANNOTATION_VALUE>Je veuw raconter à mes auditeurs et spectateurs ce que nos grands pères nous disaient.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Je veux raconter à mes auditeurs et spectateurs ce que nos grands pères nous disaient.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1718,7 +1718,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a218"
                 TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts138">
-                <ANNOTATION_VALUE>L'éducation commenc=çait dans la famille.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>L'éducation commençait dans la famille.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1754,7 +1754,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a234"
                 TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts162">
-                <ANNOTATION_VALUE>Celui là résout tout.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>C'est lui qui résou tout.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2036,7 +2036,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a325"
                 TIME_SLOT_REF1="ts348" TIME_SLOT_REF2="ts350">
-                <ANNOTATION_VALUE>Quand c'est la maison tu vas chercher du bois.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Si c'est le village tu vas chercher du bois.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2054,7 +2054,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a330"
                 TIME_SLOT_REF1="ts360" TIME_SLOT_REF2="ts362">
-                <ANNOTATION_VALUE>A partir de 4 à 6 ans.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A partir de 4, 5 à 6 ans.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2072,13 +2072,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a340"
                 TIME_SLOT_REF1="ts372" TIME_SLOT_REF2="ts374">
-                <ANNOTATION_VALUE>Tu mènes les noix de karité à la maison.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Tu amènes les noix de karité à la maison.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a341"
                 TIME_SLOT_REF1="ts376" TIME_SLOT_REF2="ts378">
-                <ANNOTATION_VALUE>Quand tuamènes les nooix de karité, tes mères t'pprrennet ce qu'on doit faire avec.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Quand tu amènes les nooix de karité, tes mères t'pprrennet ce qu'on doit faire avec.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2114,7 +2114,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a356"
                 TIME_SLOT_REF1="ts400" TIME_SLOT_REF2="ts402">
-                <ANNOTATION_VALUE>Il n y avait qu'une seule marmite pour préparer.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Mais dans nos grandes familles il n y avait qu'une seule marmite pour préparer.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2132,7 +2132,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a359"
                 TIME_SLOT_REF1="ts412" TIME_SLOT_REF2="ts414">
-                <ANNOTATION_VALUE>dans une grande famille soninké, i y a seulement un endroit pour préparer.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Dans une grande famille soninké, i y a seulement un endroit pour préparer.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2144,13 +2144,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a361"
                 TIME_SLOT_REF1="ts420" TIME_SLOT_REF2="ts422">
-                <ANNOTATION_VALUE>Les femmes se succèdent pour préparer.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Les femmes, vous préparez à tour de rôle.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a364"
                 TIME_SLOT_REF1="ts424" TIME_SLOT_REF2="ts426">
-                <ANNOTATION_VALUE>Chez certiaines personnes, la traditionest deux par femmes.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Chez certaines personnes, la tradition est deux jours par femmes.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2168,7 +2168,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a371"
                 TIME_SLOT_REF1="ts436" TIME_SLOT_REF2="ts438">
-                <ANNOTATION_VALUE>Les femmes se succèden comme ça pour préparer.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Les femmes se succèdent comme ça pour préparer.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2198,13 +2198,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a381"
                 TIME_SLOT_REF1="ts456" TIME_SLOT_REF2="ts458">
-                <ANNOTATION_VALUE>Nous de même mère et père.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Nous sommes de mêmes mère et père.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a382"
                 TIME_SLOT_REF1="ts460" TIME_SLOT_REF2="ts462">
-                <ANNOTATION_VALUE>Tu maènes ce que tu as, l'autre amène ce qu'il a.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Tu amènes ce que tu as, l'autre amène ce qu'il a.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2288,7 +2288,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a410"
                 TIME_SLOT_REF1="ts516" TIME_SLOT_REF2="ts518">
-                <ANNOTATION_VALUE>Si le grand fère venait à se tomper de la gestion de la famille.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Si le grand fère venait à se tomper de la gestion de la famille, s'il venait à se tromper.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2312,13 +2312,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a421"
                 TIME_SLOT_REF1="ts532" TIME_SLOT_REF2="ts534">
-                <ANNOTATION_VALUE>Quand on lui dit son erreur, il l'admet.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Quand on lui dit son erreur, la manière l'éducation, lui-même sait qu 'il s'est trompé, il l'admettra devant ses petits frères.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a422"
                 TIME_SLOT_REF1="ts536" TIME_SLOT_REF2="ts538">
-                <ANNOTATION_VALUE>ça ne se erpétera plus.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ça ne se tépétera plus.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2330,13 +2330,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a424"
                 TIME_SLOT_REF1="ts544" TIME_SLOT_REF2="ts546">
-                <ANNOTATION_VALUE>Leurs parent leur montrent, vous avez taité le même sein, don soyez unis.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Leurs parents leur montrent, vous avez taité le même sein, don soyez unis.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a434"
                 TIME_SLOT_REF1="ts548" TIME_SLOT_REF2="ts550">
-                <ANNOTATION_VALUE>Ne vous écarte jamais jusqu'à la mort.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ne vous séparez jamais jusqu'à la mort.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2396,7 +2396,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a447"
                 TIME_SLOT_REF1="ts588" TIME_SLOT_REF2="ts590">
-                <ANNOTATION_VALUE>Nous les soeur, nos grand frère nous dirigent aussi.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Nous les soeurs, nos grand frère nous dirigent aussi.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

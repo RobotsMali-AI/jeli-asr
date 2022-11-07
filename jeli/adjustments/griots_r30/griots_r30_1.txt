@@ -1,0 +1,855 @@
+[15150-16830]
+Ne tɔgɔ ye Usumani Kuyate.
+Je me nomme Ousmane Kouyaté.
+
+[18719-20490]
+N bange na dugu min na o ye Segu ye.
+Je suis né à Ségou.
+
+[21490-22700]
+Segu dugu jumɛ?
+Quel village de Ségou?
+
+[23750-24840]
+Suba?
+Souba.
+
+[25960-27530]
+Suba bɛ marakafo min fɛ
+Souba fait partie d'une commune
+
+[28390-29330]
+o ye farakɔ ye.
+Qu'on appelle Farako.
+
+[30200-31740]
+N sigirɔ bɛlen bɛ Bamakɔ yan.
+J'habite à Bamako ici.
+
+[33850-34440]
+Ɲamakoro 
+Ɲamakoro.
+
+[36307-38130]
+N bɛ aw bɛɛ lajɛlen fo.
+Je remercie tout le monde.
+
+[39360-40420]
+dan tɛ foli min na.
+Beaucoup de salutations
+
+[41440-43230]
+Anw fɛ Mali la y'an
+Chez nous au Mali ici
+
+[44170-45250]
+Segu jamana kan
+dans la localité de Ségou
+
+[46400-47260]
+ Bozo bɛ yan
+Il y a des Bozo ici.
+
+[48500-49370]
+Kɔrɔbɔrɔ bɛ yan;
+Il y a des Sonrhais
+
+[50310-51080]
+Miyanka bɛ yan.
+Il y a des Mianka.
+
+[51910-52790]
+Kadɔ bɛ yan.
+Il y a des Dogons.
+
+[53500-54210]
+Bɔbɔ bɛ yan.
+Il y a des Bwas.
+
+[54830-56700]
+Nin bɛɛ lajɛlen nana ka na sigi.
+Tous ceux-ci sont venus s'installer…
+
+[58860-60210]
+Ka sigiw kɛ kelen ye.
+Vivre ensemble.
+
+[61110-62500]
+N'u kan ka taa sira min fɛ>>
+Voir le chemin qu'ils vont entreprendre>>
+
+[63080-64410]
+Bɛɛ bɛ taa o taa sira fɛ.
+Tout le monde va dans ce sens.
+
+[65670-66640]
+O tɛmɛnen kɔ ka bɔ yen>>
+Après cela>>
+
+[67500-68370]
+Anw fɛ yan Segu
+Chez nous ici à Ségou
+
+[69840-70970]
+siya o siya bɛ ye
+toutes les ethnies présentes
+
+[71720-73450]
+a bɛɛ n'a ka ɲɛnajɛ kɛ fɛn do.
+Ont leur instrument de divertissement.
+
+[74910-76180]
+Dɔw ta ye dunun ye
+D'autres utilisent le tam-tam,
+
+[78470-79650]
+dɔw ta ye bala ya
+d'autres, c'est le balafon,
+
+[80660-81660]
+dɔw ta ye tamani ye.
+d'autres utilisent le tamani.
+
+[82590-83680]
+Dɔw ta ye ngoni ye.
+Certains utilisent la guitare-harpe.
+
+[84860-86380]
+A bɛɛ n'a ka ɲɛnajɛ kɛ fɛn do.
+Chacun a son instrument de divertissement.
+
+[88030-88920]
+Wa Segu
+À Ségou
+
+[90640-92060]
+sɛnɛkɛla b{a ka sɛnɛkɛ
+le cultivateur fait sa culture,
+
+[93320-94630]
+mɔnikɛla b'a ka mɔni kɛ
+le pêcheur fait sa pêche,
+
+[95540-97440]
+bagan marala b'a ka bagan mara
+l'éleveur fait son élevage.
+
+[98580-100610]
+jagokɛla b'a ka jago kɛ
+Le commerçant fait son commerce.
+
+[102670-105130]
+Mali sigilen bɛ nin taacogo de kan.
+C'est comme ça que le Mali fonctionne.
+
+[108150-110020]
+Mali sigilen bɛ o taacogo kan cogo min na>>
+Ce modèle de fonctionnement du Mali>>
+
+[112910-113730]
+Mali kɔnɔ
+Au Mali
+
+[115540-119530]
+yamakalaw olu de bɛ ko ɲɛnabɔ.
+Ce sont des griots qui règlent les affaires.
+
+[120690-123740]
+O y'an ka Mali danbɛ ye o y'an taabolo ye.
+C'est la dignité malienne, c'est notre tradition.
+
+[124630-129240]
+N bɛ aw fo aw dankasegin aw n'anw bɛ ku.
+Je vous salue, nous sommes ensemble.
+
+[130330-131540]
+N'i y'a mɛn foli>>
+En parlant de la salutation>>
+
+[132460-133890]
+Cɛ k'a don k'a fɔ ne ye cɛ ye.
+L'homme doit pouvoir assumer ses responsabilités
+
+[134570-135690]
+Foli de b'a kɛ
+C'est grâce à la salutation
+
+[136290-138960]
+Muso k'a don k'a fɔ ne muso ye.
+La femme doit assumer ça responsabilé.
+
+[139560-140740]
+Foli de b'a kɛ
+C'est à cause de la salutation.
+
+[141190-142920]
+N'i taa maa sigilen sɔrɔ jiri kɔrɔ
+Si tu vois quelqu'un sous l'arbre,
+
+[144020-145260]
+i ka kan k'a fɔ de 
+tu dois dire
+
+[145960-146590]
+i ni yan
+salut
+
+[147150-148120]
+Min sigilen do
+Celui qui est assis
+
+[148660-150420]
+o ka kan k'a fɔ k'o e ni tile.
+Il doit dire bonjour.
+
+[154010-155460]
+O ka kan k'a fɔ e ni tile.
+Il doit te dire bonjour.
+
+[185910-186780]
+Foli bɛ yan.
+Je vous salue.
+
+[187570-189290]
+N'i taara mɔgɔ sigilen sɔrɔ jiri kɔrɔ
+Si tu trouves quelqu'un sous l'arbre
+
+[190890-192520]
+i b'a fɔ ko e ni yan.
+Tu dis salut.
+
+[193730-195290]
+O kuma na min sigilen do,
+Maintenant celui qui est assis,
+
+[196210-197710]
+o de b'a fɔ tɛmɛnsena ma
+c'est lui qui dit au passager
+
+[198310-199390]
+ ko i ni tile.
+Bonjour.
+
+[200240-201020]
+Foli ma ban.
+La salutation n'est pas terminée.
+
+[201490-202920]
+E ka kan ka foli kɔmasegin.
+Tu dois renvoyer la salutation.
+
+[203460-204650]
+N'i ye foli kɔmasegin,
+Si tu envoies la salutation,
+
+[205260-206920]
+o kɔrɔ de ye ko i k'a dɔn>>
+cela signifie que tu reconnais>>
+
+[207560-208850]
+I k'a dɔn ko ne bɛ tile la.
+Tu reconnais que je suis sous le soleil.
+
+[210900-212340]
+K'a dɔn k'a fɔ cɛ ye cɛ ye,
+Pour savoir que cet homme est un vrai homme,
+
+[214710-215530]
+foli de b'a kɛ.
+c'est grâce à la salutation.
+
+[216220-218270]
+A bɛ se ka fɔ cɛ ma waati bɛɛ
+On peut dire à l'homme à tout moment
+
+[218790-219460]
+ ko i ni ce.
+Salut.
+
+[219940-221210]
+Parike cɛ de bɛ baara la.
+Parce que c'est l'homme qui travaille.
+
+[221680-223360]
+A bɛ se ka fɔ muso fana ma waati bɛɛ
+On peut dire à la femme à tout moment
+
+[224140-226560]
+ko i ni ɲaatuma.
+Bonjour ou bonsoir.
+
+[228000-229160]
+I ni ɲaatuma.
+Bonjour ou bonsoir.
+
+[230530-233300]
+Nse bɛ ye i ni ɲaatuma bɛ yen.
+Il y a le salut et le bonjour ou bonsoir.
+
+[233410-238290]
+Ni den wulila sɔgɔmada fɛ a bɛ taa fa fo a b'a fɔ i ni ɲaatuma.
+Si l'enfant se réveille le matin, il va saluer son père en disant bonjour.
+
+[238460-240610]
+Fa b'i kanto a b'a fɔ ko hɛrɛ sila wa?
+Le père répond en disant: comment s'est passée la nuit?
+
+[241290-244790]
+Hɛrɛ sila in, fa bɛ se k'o fɔ den de ma.
+Le père peut dire à l'enfant, la nuit s'est passée comment?
+
+[244990-247310]
+Nka den tɛ se k'a fɔ fa ma ko hɛrɛ sila.
+Mais l'enfant ne peut dire à son père comment s'est passée la nuit?
+
+[247510-249670]
+O tɛ anw ka jamana taabolo, Mali danbe, ye.
+La dignité est, la tradition malienne n'admet pas cela.
+
+[250640-259410]
+ O tuma ni fa y'i ɲininkan ko hɛrɛ sili wa i bɛ sɔrɔ ka, hami b'i la i ni tɔɔrɔ min sila i ni degu min sila i bɛ sɔrɔ k'o fɔ fa ye.
+Si le père te demande, est-ce que ça va? Tu vas dire maintenant tes soucis, tes problèmes et tes préoccupations à ton père.
+
+[261100-262000]
+N'i yo fɔ fa ye
+Si tu dis ça au père
+
+[262610-264400]
+ni min ka kan ka dilan o dilan cogo la
+ceux qui doivent être résolus,
+
+[264890-266430]
+fa b'o dilan o dilan cogo la.
+Le père va les résoudre.
+
+[267330-268380]
+ Anw fɛ Mali kɔnɔ ya
+Chez nous au Mali
+
+[269850-270830]
+sinagunya bɛ yan
+il y a le cousinage à plaisanterie
+
+[272000-276290]
+Kanimɛya bɛ yan bɛnkɛya bɛ yan
+Il y a des cousins croisés et le statut d'oncle maternel.
+
+[276570-277410]
+Kanimɛya
+Le cousinage crisé
+
+[279460-280610]
+Ni nin ɲinina ka dɔn>>
+Si l'on cherche à connaître son importance, >>
+
+[281240-283440]
+Mali kɔnɔ yan kɛlɛ tɛ yen.
+Au Mali, il n'y aura pas de conflit.
+
+[284530-285840]
+Sinankunya ye mu ye,
+Le cousinage à plaisanterie qu'est-ce que c'est?
+
+[287340-288500]
+E ni mɔgɔ ni mɔgɔ,
+Entre deux personnes,
+
+[289250-290520]
+a kɛra sinankunma ye
+si vous êtes des cousins
+
+[291200-291850]
+kɛlɛ tɛ yen.
+Il n'y a pas de conflit.
+
+[292660-293460]
+Kanimɛya>>
+Le cousinage croisé>>
+
+[293960-296600]
+Kanimɛya kɔrɔ ye ko n matigi
+Le cousinage croisé veut dire mon maître.
+
+[296940-297780]
+Ne ma tigi.
+Mon maitre
+
+[298300-301480]
+K'a ni maaya o de ye ne matigi ye.
+Merci pour votre bonté qui signifie mon maître.
+
+[302210-306100]
+I bɛnkɛ den o de y'i matigi ye ale de bɛna i kani.
+Le fils de ton oncle est considéré comme ton maître, c'est lui qui peut te gérer.
+
+[306920-309650]
+Ale de bɛna e kani a bɛ f'o ma ko kanimɛya.
+C'est lui qui peut te réclamer quelque chose, c'est ça qu'on appelle cousinage croisé.
+
+[310660-312020]
+Sinankunya fana bɛ yen.
+Il y a aussi le cousinage à plaisanterie.
+
+[313300-314460]
+Sinankunya bɛ yen
+Il y a le cousinage à plaisanterie.
+
+[315170-319400]
+Sinan minnu ka sinanya kura ɲɔngɔn na a bɛ f'o ma ko sinankunya.
+Les rivaux qui se sont entendus, c'est ça qu'on appelle le cousinage.
+
+[320680-322490]
+ N'o tɛ dɔw ta ma ku ɲɔgɔn o.
+Sinon d'autres ne se sont pas supportés
+
+[322690-325240]
+Sinanmusoma fila bɛ yen olu ka sinanya ma ku ɲɔgɔn na.
+Il y a des coépouses, elles ne sont pas des cousines de plaisanterie
+
+[325530-329390]
+O tuma na minnu ta kura ɲɔgɔn na a bɛ f'o ma ko sinankunya.
+Donc ceux qui se sont supportés, c'est ça qu'on appelle les cousins de plaisanterie.
+
+[331140-332200]
+Anw fɛ Mali kɔnɔ yan>>
+Chez nous, ici au Mali.>>
+
+[333620-335350]
+O ye anw ka jamana taabolo ye.
+C'est ça notre tradition.
+
+[336020-341580]
+O tuma na o la sa ni n bɔr'o kɔnɔ n bɛ na bɛnkɛya kɔnɔ.
+Donc maintenant après cela, je viens au statut d'oncle maternel
+
+[342630-343370]
+Bɛnkɛya>>
+Le statut d'oncle maternel>>
+
+[344630-346340]
+Bɛn kɛra faya min kan.
+Une paternité reconnue d'office.
+
+[347140-348650]
+A bɛ f'o ma ko bɛnkɛ.
+C'est ça qu'on appelle un oncle.
+
+[348760-350230]
+Bɛn kɛra faya min kan.
+Une paternité reconnue d'office.
+
+[350500-354360]
+N'o tɛ maa min ma e wolo n'i y'e fa kɛlen ye o ye bɛnkan dɔ de do.
+Sinon quelqu'un qui ne t'a pas procréé s'il est considéré comme ton père, cela relève d'un accord préalable
+
+[354870-357710]
+A bɛ f'o ma ko bɛnkɛya faya bɛnkan.
+C'est ça le statut d'oncle maternel, la paternité lui est accordée
+
+[357830-360850]
+O de ye bɛnkɛya ye anw fɛ Mali kɔnɔ ya.
+C'est ça le statut d'oncle maternel chez nous au Mali.
+
+[362060-362660]
+Ola>>
+Donc>>
+
+[363580-364380]
+Segu>>
+Segou>>
+
+[365500-366560]
+Segu ye naani ye,
+Il y a quatre Ségou,
+
+[367480-368840]
+Marakadugu ye kɔnɔntɔn ye.
+Il y a neuf villages de Maraka.
+
+[369270-370910]
+Do dugu ye dugu tan ni fila ye.
+Il y a douze villages Do
+
+[371310-373880]
+Kuku ni Nbɛba, Wɛlɛnkana
+Koukou et Nbɛba, Wɛlɛnkana
+
+[374300-375100]
+ani Weta
+et Weta
+
+[375870-376970]
+Segu ye naani ye.
+Il y a quatre Ségou
+
+[377560-380220]
+Segu bakɔ bɛ yen Segu baɲɛ yen.
+Il y a la rive gauche de Ségou et la rive droite de Ségou.
+
+[380820-381900]
+Segu bakɔ.
+La rive gauche Ségou
+
+[382440-383440]
+ani Segu baɲɛ.   
+Et la rive droite de Ségou.
+
+[383810-385740]
+Farakɔ jama Farakɔ marakafo>>
+La commune Farako>>
+
+[386320-389670]
+Dugu bi wɔɔrɔ ani dugu wɔɔrɔ ani wɛrɛ wolonwula
+Soixante-six villages et sept hameaux
+
+[390290-392200]
+o bɛ Farako marakafo kɔnɔ.
+se trouvent dans la commune de Farako
+
+[392720-401530]
+ O dugu bi wɔɔrɔ in ani dugu wɔɔrɔ ani wɛrɛ wolonwula in fulakɛ dɔ de bɔra Segu ani joni nana ɲɔgɔn fɛ Segu ka na sigi Segu?
+Dans ces soixantes six villages et sept hameaux, un peul est venu de Segu
+
+[401650-403720]
+O b'a fɔ o ma ko Biton Kulubali
+On l'appelle Biton Coulibaly.
+
+[404680-408080]
+Biton Kulubali maa fa donso
+Biton Coulibaly, le chasseur généreux.
+
+[408760-410280]
+Maa fa donso tɛ
+Ce n'est pas un chasseur qui tuait les gens.
+
+[410960-416340]
+Maa fa donso ale tun bɛ sogo de, marifa ta a bɛ taa kungo kɔnɔ.
+Un chasseur qui nourrissait les gens à travers la chasse, il partait chassé dans la brousse.
+
+[416540-418860]
+A bɛ sogow-a bɛ sogow bon.
+Il fusillait les gibiers.
+
+[419390-420190]
+A bɛ sogow faga.
+Il tuait les gibiers.
+
+[420570-421540]
+N'a ye sogo faga
+S'il tuait le gibier,
+
+[421910-423780]
+a bɛ nan'a ye kan'a fara ɲɔgɔn kan.
+il venait les entasser dans un endroit.
+
+[424130-428050]
+Ka dumini tobi ka mɔgɔw wele u bɛ na jɛ k'a dun.
+Il préparait les plats et invitait les gens à manger.
+
+[428170-433100]
+Ni mɔgɔw jɛra k'a du kɔnɔbara bɛ fa o kama o b'a fɔ Bitɔn Kulibali maa fa donso.
+Les gens mangeaient ensemble et ils étaient tous rassasiés, c'est pourquoi on l'appelait chasseur nourricier.
+
+[433910-436880]
+Donso kɛ min bɛ maaw kɔnɔbara fa o donso.
+Il s'agit du chasseur qui donne à manger aux gens.
+
+[437700-438920]
+O Bitɔn Kulibali
+Ce Biton Coulibaly
+
+[439500-441610]
+ani Canaba de nana ɲɔgɔn fɛ.
+Et Tyanaba qui sont venus ensemble.
+
+[442160-443290]
+Ka na sigi Segu.
+Venir s'installer à Ségou.
+
+[444040-448040]
+N'i bɔra Segu i bɛ ba tigɛ ka na Kala.
+Si tu quittes Ségou, tu traverses le fleuve pour venir à Kala.
+
+[448430-457530]
+Ka bɔ Kala ka n'anw bisimila Farakɔ ka bɔ Farakɔ ka na Bayo n'i bɔra Bayo i bɛ na Sirabilen.
+Si tu quittes à Kala, tu arrives à Farako, de Farako, tu vas à Bayo, de Bayo, tu viens à Sirabilen.
+
+[458050-460810]
+Ka bɔ Sirabilen kana Kamalen.
+De Sirabilen, tu viens à Kamalé
+
+[461370-469500]
+Ka bɔ Kamalen ka na Samafila la, Samamarakala n'i bɔra Samamaraka la i bɛ sɔrɔ kana bisimila minɛ Samafila la.
+De Kamalen, on vient à Samafila, Samamarakala, si tu quittes là-bas, tu termines maintenant à Samafila.
+
+[470980-472230]
+A ni fulakɛ in nana ɲɔgɔn fɛ.
+Il est venu avec cet homme peul.
+
+[472770-473980]
+Fulakɛ in tɔgɔ tun ye di?
+Ce peul s'appelait comment?
+
+[474900-476330]
+U b'a fɔ a ko Canaba.
+Ils l'appelaient Tianaba.
+
+[476810-477690]
+Canaba Jalo.
+Tianaba Dialllo.
+
+[478700-480410]
+Fulakɛ in tɔgɔ de tun ye ko Canaba Jalo.
+Cet homme peul se nommait Tianaba Diallo.
+
+[480980-481640]
+ Filanin do.
+C'est un jumeau.
+
+[482350-483480]
+U filanin fila.
+Les deux jumeaux.
+
+[484830-485860]
+U ba y'u sɔrɔ>>
+Ils sont nés>>
+
+[486710-487960]
+U nana ka na sigi
+Ils sont venus s'installer
+
+[488530-489300]
+Samamarakala
+À Samamarakala.
+
+[489880-495540]
+O don Samamarakala,  a ni dugu min ɲɛ sinnen bɛ ɲɔgɔn ma o ye Masala ye.
+À cette époque, Samamarakala faisait face à Massala.
+
+[496040-497490]
+Bitɔn Kulibali de ye bulon jɔ
+C'est Biton Coulibaly qui construit le vestibule
+
+[498920-500070]
+Samafilala
+à Samafilala
+
+[500390-502810]
+Ka taa bulon kelen jɔ Marakaa.
+Il est allé construire un vestibule à Marakala.
+
+[503480-507710]
+A ye kamalenkɔrɔw de jɔjɔ-jɔjɔ ka sɔrɔ ka bɔgɔ nɔɔni.
+Avant de délayer le banco, il a fait aligner les gros gaillards.
+
+[508140-513940]
+Ka bɔgɔ nɔɔni, k'a nɔɔni, ka bin k'a la, ka malobu k'a la ka sɔrɔ k'a mɔ. 
+Délayer le banco, le délayer, le mélanger avec le foin et le mettre en boule.
+
+[514060-517520]
+K'a kɛ kulukutu-kulukutu ye k'a mɔ ka sɔrɔ k'a kɛ kulukutu-kulukutu ye.
+Le mettre en boule.
+
+[517580-526480]
+Ka sɔrɔ k'a di kamalenw ma k'a di kamalenw ma, ni nin y'a di e ma e b'a minɛ e b'a di nin ma ni nin y'a minɛ e b'a minɛ e b'a di nin ma fɔ ka taa ba tigɛ. 
+Il l'a donné maintenant aux jeunes hommes afin de le transporter à l'autre rive.
+
+[526570-527650]
+Ka sɔrɔ ka taa bulon jɔ
+Pour aller maintenant construire le vestibule.
+
+[527830-532550]
+O bulon in tɔgɔ a bɛ f'o ma ko sifinso ani mɔɔbaso.
+Ce vestibule s'appelle la maison des jeunes et des vieux.
+
+[533100-534100]
+O bɛ Segu.
+Cela existe à Ségou.
+
+[535080-536810]
+Sifinso ani mɔɔbaso.
+La maison des jeunes et la maison des vieux.
+
+[537240-537810]
+O bɛ Segou
+On trouve ça Ségou.
+
+[538110-543200]
+A ni fulakɛ min nana ɲɔgɔn fɛ, fulakɛ in nana bisimila minɛ dugu min na o b'a f'o ma ko Jomolo.
+L'homme peul qui l'accompagnait s'est installé dans un village qu'on appelle Jomolo.
+
+[544160-548480]
+A bɔra Jomolo ka sɔrɔ ka ba tigɛ kana sigi Samafarotina.
+Il a quitté Jomolo en traversant le fleuve pour venir s'installer à Samafarotina.
+
+[549850-550810]
+Samafaro
+Samafaro
+
+[551930-553410]
+Faaro ye jilafɛn ye.
+Le génie des eaux est un animal aquatique.
+
+[553910-556320]
+A bɛ anw fɛ Segu Samamarakala.
+Il existe chez nous à Ségou, à Samamarakala.
+
+[557000-558560]
+A nana Farotina.
+Il est venu à Farotina.
+
+[558990-560350]
+A ye bisimila minɛ ye minkɛ>>
+Une fois, installé là-bas>>
+
+[560820-563840]
+Fula bɛ bagan gɛn de kɛ, a bɛ bagan mara de kɛ.
+Le peul garde les troupeaux, il fait l'élevage.
+
+[564360-565770]
+A ni bamanan nana ka na sigi.
+Il s'est installé aux côtés des bambara.
+
+[565940-572240]
+A ko ne ye bagangɛnna ne ni aw bɛ sigi la ne ka baganw kana na aw ka forow cɛn.
+Il dit que je suis berger, nous sommes des voisins, j'ai peur que mes animaux ne fassent pas des dégâts dans vos champs.
+
+[572660-577060]
+A bɛ sigiyɔrɔ dɔ di yan n bɛ n tori dɔɔni n bɛ taa ka taa n sigi.
+Donnez un endroit, je vais m'installer là-bas pour m'éloigner un peu.
+
+[577280-579470]
+Dugu tɔgɔ kɛra ko Dooni.
+Le village a pris le nom de Dooni.
+
+[580860-582310]
+O de ye Dooni ya.
+C'est ça qui est Dooni.
+
+[582810-583690]
+Canaba
+Tianaba
+
+[584120-585370]
+a n'a filani tɔɲɔgɔn tun do.
+Il était avec son frère jumeau.
+
+[585900-586930]
+Filanin tɔɲɔgɔn tɔgɔ ye
+Le frère jumeau s'appelle
+
+[587200-587820]
+ko jibiru
+Djibril.
+
+[589280-590580]
+O nana ka na sigi o cogo la.
+Ils sont installés comme ça.
+
+[591390-592390]
+A filanin tɔɲɔgɔn in >>
+Son frère jumeau>>
+
+[592810-593670]
+K'a daminɛ yan
+De là
+
+[594560-595560]
+ka se a kunkolo ma
+jusqu'à sa tête
+
+[596140-597140]
+o ye hadamaden ye
+À la forme d'un être humain.
+
+[597440-598440]
+K'a damin'a sen na
+De son pied
+
+[598980-601530]
+ka na fɔ duguma o ye sa ye.
+jusqu'en bas à la forme d'un serpent
+
+[601770-603430]
+A bɛ, a tolen bɛ tu nin kɔnɔ yen. 
+Il est dans cette touffe là-bas.
+
+[604100-605230]
+Filani tɔɲɔgɔn de ko a ma
+Son frère jumeau qui lui a dit
+
+[605770-606750]
+ko Canaba 
+Tianaba
+
+[607430-612880]
+i kana muso furu muso min ye fulabilen ye n'a kɛlen bɛ k'a nu sɔgɔ ka nɛgɛ don a la.
+Ne marie pas une femme peule qui a des boucles dans le nez.
+
+[613140-614440]
+I kan'o muso furu.
+Ne marie ce genre de femme.
+
+[614650-615770]
+N'i y'o muso furu
+Si tu maries ce genre de femme
+
+[616130-617130]
+i ni ne bɛ cɛn.
+tu auras affaire à moi
+
+[617930-619050]
+A tora a  bɛ kungo kɔnɔ ye.
+Il est resté dans la brousse là-bas.
+
+[619650-620400]
+A tora ka taa.
+Il partait.
+
+[620830-621540]
+ka to ka taa
+Il partait
+
+[622010-622620]
+ka to ka taa
+il partait
+
+[623040-623640]
+ka to ka taa
+il partait
+
+[624080-624980]
+A bɛ dumini tobi
+Il prépare le repas
+
+[625380-626260]
+Ni tilafana mɔna.
+Si le repas est prêt
+
+[626700-627540]
+a bɛ tilelafana ta. 
+il prend le repas
+
+[628020-628960]
+A bɛ taa ka taa di
+Il part le donner
+
+[629410-630280]
+a filani tɔɲɔgɔn ma.
+À son frère jumeau
+
+[630630-631260]
+tu kɔnɔ yen
+Dans la brousse là-bas.
+
+[631620-632310]
+A bɛ na so
+Il retourne à la maison.
+
+[632620-634040]
+Surafana mana mɔ
+Si le dîner est prêt
+
+[634560-644280]
+a bɛ sura fana ta a bɛ taa d'a ma kungo kɔnɔ yen a filani ɲɔgɔn do, ni daraka mɔna a bɛ daraka ta ka taa d'a ma a filani ɲɔgɔn in ma kunga kɔnɔ yen
+Il prend le dîner, il va le donner à son frère jumeau dans la brousse, si le petit déjeuner est prêt, il le prend, il va le donner à son frère jumeau dans la brousse.

@@ -1,0 +1,667 @@
+[600-2073]
+A ko Segu cɛ de banna.
+Il dit qu'il n'y a plus d'hommes à Ségou.
+
+[2980-4135]
+A ko n kanukɛ sara.
+Il dit que mon homme préféré est mort.
+
+[4923-5961]
+N furukɛ sara.
+Mon mari est décédé.
+
+[6780-8091]
+ N kɔnɔfɔɲɔɔn sara.
+Mon confident est décédé.
+
+[8228-9312]
+Cɛ tɛ Segu tugu.
+Il n'y a plus d'hommes à Ségou.
+
+[10566-12438]
+Aa, nin nana fɔ denkɛ in ye.
+Ah, cela a été dit à son fils.
+
+[15110-16110]
+U nan'a fɔ a ye.
+Ils lui ont dit.
+
+[16598-18610]
+Da ko, ye t'a fɔ a ye.
+Da dit : aller lui dire.
+
+[19294-20160]
+Ko ne ko k'a ka na.
+Que je lui dit de venir.
+
+[21608-23663]
+A seginna a ka kumakan in kan.
+Il a repris ses dires.
+
+[24496-29409]
+Siɲɛ sabanan, Da yɛrɛ  de n'a ka faamaya wulila ka Segu ba tigɛ.
+A la troisième fois, Da , malgré tout son pouvoir à traverser le fleuve de Ségou.
+
+[29791-30956]
+Ka taa Farakɔ.
+Pour aller à Farako.
+
+[31108-32597]
+Ka taa Tiɲɛtigiba Dantɛ nɔfɛ.
+D'aller voir Tientiguiba Danté.
+
+[32744-35181]
+Ko ba Dantɛ , n na n'i nɔfɛ.
+Il dit, père Danté, je suis venu te voir.
+
+[35760-38030]
+I tɛ ka taa n lajɛ kun min na , i k'o fɔ n ye. 
+Il faut me dire la raison de ton refus d'aller me rendre visite.
+
+[39260-40587]
+A ko i fa tun ye cɛ de ye.
+Il dit, ton père était un homme.
+
+[41600-42590]
+Cɛ ŋana tun don.
+C'était un brave homme.
+
+[43871-47788]
+Farafinna, bɛɛ lajɛlen ye Mɔzɔn ko mɛn.
+Partout en Afrique on a entendra parler de Mɔnzɔn.
+
+[51227-52110]
+A nin m'a sɔsɔ.
+Son âme ne l'a jamais trahie.
+
+[52742-53683]
+A ko i ye tiɲɛ fɔ.
+Il dit, t'as dit la vérité.
+
+[54511-60036]
+Ko mɛ ne fa tun ye cɛfarin ye, nka fɔnisere tɛ.
+Mon père était un brave mais il n'était pas altruiste.
+
+[61227-63560]
+Denkɛ yɛrɛ b'a fɛ ka jɔyɔrɔ jira, a fa ka jelikɛ la.
+Il faut montrer son autorité au Djeli, griot de son père.  
+
+[64105-66829]
+A ko ne fa tun ye cɛfarin ye n ka fɔnisere tun tɛ.
+Il dit, mon père était un brave , ce n'était pas un altruiste.
+
+[67551-72390]
+ A ko, ka daminɛ Farakɔ yan ka taa bila Kulukɔrɔ Tulomajɔ.
+Il dit , à commencer par Farako jusqu'à Tulomajɔ de Koulikoro.
+
+[72734-79386]
+N'i bɔra Bamakɔ yan, n'i temɛna Moribabugu kan, Ciɲɛnfala bɛ yen ,  n'i tɛmɛna Ciɲɛnfala, Tulomajɔ bɛ yen.
+Si tu quittes Bamako, puis Moribabugu, il y a Tienfala, si tu dépasses Tienfala, il y a Tulomadjo.
+
+[80689-86192]
+A ko ka daminɛ Farakɔ yan ka t'a bila Tulomajɔ n'o ye Kulukɔrɔ mara ye, Jaraw ta don.
+Il dit, à commencer par Farako jusqu'à Tulomadjo qui est de la région de Koulikoro appartient au Diarra.
+
+[87718-88740]
+Kulukɔrɔ ye Jaraw de ta ye.
+Koulikoro appartient au Diarra.
+
+[90118-96779]
+Ni a ye n diya, ni kuma diyara n da , ne b'a fɔ Bamakɔ bɛ Jaraw de ka dugukolo sanfɛ. 
+Si je pouvais me le permettre, je dirais que Bamako est sur la terre des Diarra.
+
+[98821-101159]
+Kuma man di, a kɔrɔ de ka di.
+Ce n'est pas la parole qui est douce, c'est son sens.
+
+[101490-102131]
+Togola!
+Togola!
+
+[103417-104678]
+Kuma man di, a kɔrɔ de ka di.
+Ce n'est pas la parole qui est douce, c'est son sens qui l'est.
+
+[105129-106928]
+N m'a f'i ye ko n bɛ n dɔnforo kɔnɔ?
+Ne t'ai-je pas dit que je suis sur un terrain que je maîtrise?
+
+[108315-110372]
+A lakali cogo, o tɛ ne kɔnɔ gan.
+Je n'ai aucune gêne à la rencontrer.
+
+[111355-116340]
+O tuma na, Tiɲɛtigiba Dantɛ, a ye barika da.
+Tientiguiba Danté a ainsi remercié.
+
+[117300-118724]
+A terikɛ denkɛ ye.
+Au fils de son ami.
+
+[119694-121461]
+A kɛra, a terikɛ den don.
+C'est le fils de son ami.
+
+[121749-123086]
+A tila la ka kɛ a jatigi ye.
+Il est devenu son jatigui, noble,hôte.
+
+[123626-125338]
+Parisike a si tun ka kɔrɔba dɔɔnin.
+Car il était un peu âgé.
+
+[126586-129394]
+O tuma na, a ko porobilɛmu t'a la, n jiɲɛna n'a ye. 
+ Il dit, il n'y a pas de problème, je l'ai entendu.
+
+[131205-135777]
+A barika,  Jiri Jara mɔden ni Jiriba Jara mɔden, Sankun Jara ani  Wayitadunu.
+Merci, le petit-fils de Jiri Diarra , de Jiriba Diarra, Sankun Diarra et Wayitadunu.
+
+[136868-140170]
+  Jara cɛman bɛ kolobaw kari, musoman bɛ kolobaw susu.
+Le Diarra mâle casse les os, la femelle les suce.
+
+[141232-143431]
+Jarasubaw, u bɛ Jara la o.
+Il y a les Diarrassouba parmi les Diarra.
+
+[144052-146300]
+Awɔ o bɛ Jara la, nkalon t'o la.
+Oui, il y a cela parmi les Diarra, sans aucun doute.
+
+[146645-149448]
+A ko o tuma na, n jiɲɛna n'a ye.
+Il dit alors, je suis d'accord.
+
+[150237-151438]
+A ko i bɛ sira diyan.
+Il dit, accorde-moi la route.
+
+[151740-152674]
+Ne ye jeli de ye.
+Je suis un Djeli, griot.
+
+[153526-157755]
+O  y'a sɔrɔ, o Tiɲɛtigiba Dantɛ, a yɛrɛ ka dugu sigilenw bɛ yen.
+Il se trouve qu'il y a des villages fondé par ce Tientiguiba Danté.
+
+[158606-162018]
+A yɛrɛ ka dugu sigilenw b'anw ka jamana kan ye, Segu jamana kan ye.
+Il a des villages fondés par lui-même chez nous à Ségou.
+
+[162721-165221]
+O dɔ, o ye Mimana ye.
+Mimana est l'un d'entre eux.
+
+[165687-168515]
+A tɔgɔ tɛ Mimana, a tɔgɔ ye Mindangan de ye.
+Son nom n'est pas Mimana, c'est Mindangan.
+
+[169084-170621]
+A tun bɛ taa donso yaala la.
+Il partait à la chasse.
+
+[170963-174257]
+Sogow bɛ taa min dankan min na n'a tun bɛ sogo faga ye.
+Là où les bêtes s'abreuvent.
+
+[174618-175719]
+O ye Mimana ye.
+C'est Mimana.
+
+[176415-177349]
+ O bɛ Segu jamana kan.
+C'est sur le territoire de Ségou.
+
+[178043-182910]
+Ɔ o tuma na jeliw bɛ koori yɔrɔ min na n'a y'o dugu sigi, o ye Jelibugu ye.
+Alors là où les griots se rencontrent , s'il installe ce village, c'est Djelibougou.
+
+[183828-185458]
+O ye Tiɲɛtigiba Dantɛ ka dugu sigilenw ye.
+Ce sont des villages fondés par Tientiguiba Danté.
+
+[185939-187364]
+A ka dugu sigilenw ka ca.
+Ses villages fondés sont nombreux.
+
+[188034-192080]
+N'an ko k'an b'a bɛɛ fɔ yan waati b'an ta an tigɛ ma.
+Vouloir tout dire ici, nous serons pris par le temps.
+
+[193438-195986]
+O kosɔn a ko i bɛ siran di yan.
+Pour cela, il dit, autorise-moi.
+
+[196939-202431]
+ N bɛ taa Dikalimansa, n bɛ taa ale den dɔ ɲini, a bɛna Farakɔ mansaya kɛ.
+J'irai prendre un des fils de Dikalimansa pour en faire un roi à Farakɔ.
+
+[202812-203717]
+A bɛna yen mara.
+Il va diriger là-bas.
+
+[204181-207723]
+A  taara, Dikalimansa , o y'a denkɛ d'a ma.
+Il est parti, Dikalimansa lui a donné son fils.
+
+[208299-210642]
+A denkɛ fɔlɔ bɛ yen a m'o di.
+Son aîné est là, il n'a pas présenté celui-ci.
+
+[210813-212154]
+A denkɛ filanan bɛ yen a m'o di.
+Le cadet est là, il n'a pas présenté celui-ci.
+
+[212393-213799]
+ Sabanan, o de ye Seribajan ye.
+Le junior c'est c'est Seribadjan.
+
+[214778-215370]
+Taarawele don.
+C'est un Traoré.
+
+[215974-218563]
+A nana n'o ye, ka n'o sigi Segu Farakɔ.
+Il est venu l'installer à Ségou Farako.
+
+[219681-220504]
+Ba kɔfɛ.
+Derrière le fleuve.
+
+[221419-224880]
+ A nana k'o sigi yen , o ka kɛ dugu in marabaga ye.
+Il est venu l'installer là-bas pour diriger ce village.
+
+[225515-227700]
+Jeli tɛ dugu mara.
+Un Djeli , griot ne peut pas gérer un village.
+
+[229191-233052]
+O tuma , Kulukɔrɔ Tulomajɔ, Cɛnfa Taarawele tun bɛ Cɛnfala.
+Alors , Tulomajɔ de Koulikoro, Tienfa Traoré était à Tienfala.
+
+[234892-238494]
+Cɛnfa Taarawele, o tuma na o denmuso dɔ de tun bɛ yen.
+Tienfa Traoré avait  une fille à l'époque.
+
+[238758-242631]
+Ko Ɲa Taarawele, a y'o de ɲini  ko di Seribajan ma.
+Elle s'appelait Nia, c'est elle , qu'il a donné en mariage à Seribadjan.
+
+[247140-248720]
+An da bɛna se o ma.
+Nous allons en parler.
+
+[249475-250788]
+ A ye cɛŋana-cɛŋana minnu wolo.
+Les braves hommes qu'il a eu.
+
+[251630-252540]
+N da bɛna se olu ma.
+ Je vais parler de ça.
+
+[253132-255323]
+Ɔ , o tuma na , o dɔ ye Farakɔ Buwatu ye.
+Farako Buwatu est l'un d'entre eux.
+
+[256109-259707]
+ Buwatu Taarawele, o ye cɛ min ye o sidɔnna.
+On de quel genre d'homme Buwatu Traoré est.
+
+[259959-264094]
+Farakɔ dugukolo sanfɛ, Farafinna binaku kan, Buwatu Taarawele, o dɔnna.
+Sur la terre de Farako, à l'échelle africaine, Buwatu Traoré est connu.
+
+[264538-266819]
+Ɔ ne m'a f'i ye ko den dɔ b'a ba don furu la wa?
+Ne t'ai-je pas dit qu'il y a des enfants qui donnent leur maman en mariage?
+
+[267984-273164]
+Ɲa Taarawele furula kun min na, ko min b'a sogola, o ye den sɛbɛ ye.
+Nia Traoré a été épousée car elle porte en lui un enfant sérieux.
+
+[273942-276472]
+ N'o wolola, diɲɛmaa b'o lakodɔn.
+Le monde entier le connaîtra après sa naissance.
+
+[278074-281199]
+Farakɔ Buwatu, o bɔnna ye Sirakɔrɔ Nɛgɛtana.
+Sirakoro Megetana est issu  de Farakoro Buwatu.
+
+[282034-282727]
+Taarawelelakaw don.
+Ce sont des Traoré.
+
+[285580-286751]
+Ka Tabakɔrɔ fara o kan.
+En plus, Tabakoro.
+
+[287074-288098]
+U bɛ mansaya kunna yen.
+Ils règnent là-bas.
+
+[288386-290070]
+U nana sira min fɛ ne b'o dɔn.
+Je connais le chemin par lequel ils sont passés.
+
+[291562-293022]
+N bɛ n jatigiw bɛɛ lajɛlen fo.
+Je salue tous mes jatigui, nobles, hôtes.
+
+[293481-296030]
+Sirakɔrɔ Nɛgɛtana , a n'a lamini bɛɛ la.
+A Sirakoro Meguetana et environ.
+
+[296379-298899]
+Bamakɔ, Farafinna ani Farajɛla.
+A Bamako, en Afrique et en Europe.
+
+[299833-305673]
+ An bɛ Ciɲɛtigiba Dantɛ, jɛ min donna ani Damɔzɔn cɛ, n ma ɲina an b'o yɔrɔ de la.
+Nous sommes là où Tientigiba Danté et Da Monzon se sont réunis, je n'ai pas oublié.
+
+[306538-309292]
+O tuma na, a nana Da nɔfɛ.
+Il est alors venu avec Da.
+
+[309981-311019]
+A b'a bilasira.
+Il le conseille.
+
+[311839-313973]
+ Kɔmi a yɛrɛ tun ye laturudala ye, laturumansa  don.
+Comme lui-même était un géomancien, un maître géomancien.
+
+[314510-315631]
+A b'o ɲɛdɔn kɔsɛbɛ.
+Il est doué pour ça.
+
+[315972-319426]
+ Ɔ ni minnu ka kan ka kɛ Segu fanga ko la, a b'o kɛ.
+Alors ce qui doit être fait dans  la gestion du pouvoir de Ségou, il le fait.
+
+[320450-323260]
+ O Da Mɔzɔn, a ye maraw kɛ.
+Ce Da Monzon, a vraiment dirigé.
+
+[323921-328960]
+K'a daminɛ Segu ka t'a bila Kurusabanankɔrɔ , fo Laginɛ.
+A commencer par Ségou jusqu'à Kurusabanankɔrɔ, en Guinée Conakry.
+
+[329556-332981]
+Da Mɔzɔn, ɔ ni Laginɛ fɔra, Bamakɔ be yɔrɔ jumɛn?
+Alors quand on dit la Guinée Conakry, où se trouve Bamako?
+
+[333296-338713]
+Bamakɔ de ka surun Segu la wa walima Laginɛ de ka surun a la?
+C'est Bamako qui est proche de Ségou ou c'est la Guinée qui l'est?
+
+[340057-341004]
+Bamako de ka surun a la.
+C'est Bamako qui est de plus près.
+
+[341172-342777]
+O tuma na a ye minɛni kɛ nin bɛɛ la.
+Alors tous ceux-là ont été conquis par Da.
+
+[343741-344855]
+Kuma ye maa min kɔnɔgan.
+Celui à qui la parole est confuse.
+
+[345765-348966]
+Don min na , Manden bɛ taa Samaɲana Basi nɔfɛ.
+Au moment où Mandé est parti chercher le Bassi de Samaniana.
+
+[349984-351954]
+A ka na don Maninka ni Segu cɛ.
+Qui'il vienne s'installer entre les malinkés et le Ségou.
+
+[352580-359750]
+ O don, o Da Mɔzɔn in  ale de kɛra sababu ye ka o Samaɲana Basi , k'a faga.
+C'est ce Da Monzon qui a finalement été le bourreau de Samaniana Bassi.
+
+[360688-364628]
+O b'a jira k'a fɔ, a ko boli yɛlɛnna nin dugukolo nin bɛɛ kan.
+Cela prouve qu'il a régné sur toutes ses terres.
+
+[365331-368280]
+O tuma na , o Da Mɔzɔn, ɔ a ye maraw kɛ.
+Ce Da Monzon a régné.
+
+[368913-371488]
+K'a minɛ mini, ka t'a bila fo Wediya.
+De commencer par où jusqu'à  Wediya.
+
+[372533-373800]
+ N'o ye Burukina jamana ye.
+Qui est au Burkina Faso.
+
+[376286-378428]
+Ka taa fo Senegali jamanaw kan.
+Jusqu'au Sénégal.
+
+[379857-383515]
+O tuma na, a ka mara bonyana, a ka mara kanhɔnyana.
+Son règne s'est propagé.
+
+[386555-388679]
+Ale ba o de tun ye Bajɔni ye.
+Sa mère était Badjoni.
+
+[390290-391726]
+U b'a fɔ a ma ko Bajɔni den.
+On le nommait, le fils de Badjoni.
+
+[392558-393648]
+Misikantigɛdingɛ.
+Le trou qui retient le sang du bœuf égorgé.
+
+[394308-397014]
+Ɔ ko a tɛ senbaw tunu.
+Qu'il ne couvre pas les grands pieds.
+
+[397628-399276]
+Nka a bɛ ninkɛnɛ caman karaba.
+Mais il a causé la mort de plusieurs.
+
+[399679-401895]
+Ɛɛ, faama Da tun ye mansa ye dɛ!
+Eh! Le roi Da était vraiment roi!
+
+[403277-404627]
+N'a ko i tɛ si , i tɛ si.
+S'il dit que tu vas mourir , tu mourras.
+
+[405077-408363]
+A ma ni da fosi kan dugukolo kan k'a ma kɛ.
+Il a réalisé tout ce qu'il a entrepris.
+
+[409462-410257]
+Faama Da!
+Le roi Da!
+
+[410920-415710]
+O don , Bajoni tun  bɛ waso musow la, ni kumakan saba ye.
+Ce jour-là, Bajoni se moquait des femmes avec trois choses.
+
+[416229-421185]
+Ko Ala ye fɛ dɔ k'ale ye kabini diɲɛ danna, fo bi , a m'o kɛ mɔgɔwɛrɛ ye.
+Que Dieu lui a fait quelque choses que d'autres n'ont pas.
+
+[422741-425812]
+N'u y'a ɲinika, a b'a fɔ k'ale Bajɔni bɛ waso.
+Quand on lui demande, elle dit que se vante.
+
+[426456-429535]
+Sabula munna, ale wolola k'a sɔrɔ a fa ye faama ye.
+Je suis né trouvé mon père roi.
+
+[430637-433015]
+K'ale fa k'o tun ye mansa ye.
+Que son père est roi.
+
+[433242-436046]
+A fɔr'ale ma , ale wolo k'a sɔrɔ a bɛ ka fɔ ale ma ko faama den.
+Qu'elle est née trouvé qu'on appelle fille du roi.
+
+[437747-442040]
+A nana furu Mɔzɔn ma, kɛlɛ Mɔzɔn ma, o ye faama ye.
+Elle est mariée à Monzon  qui est roi.
+
+[442297-444127]
+A fɔra ale Bajɔni ma ko faama muso.
+Elle Bajɔni est appelé la femme du roi.
+
+[446155-448261]
+A nana faama wolo,n'o ye Da ye.
+Elle a donné naissance à un roi qui est Da.
+
+[448357-451482]
+K'a tilala k'a fɔ ale  Bajɔni ma ko faama ba.
+Elle est encore appelée la mère du roi.
+
+[452145-456757]
+Ala ye nin kumakan saba, ale ye o kalifa ale Bajɔ de  ma , a m'a kɛ muso wɛrɛ ye.
+Dieu a accordé ces trois choses, langages, à Badjo à elle seule.
+
+[457468-458641]
+Walayi ni muso ɲɛna , i bɛ waso.
+Quand la femme est bonne , elle se vante.
+
+[460070-461797]
+ Ni muso ɲɛna , i bɛ waso.
+Quand la femme est bonne, elle se vante.
+
+[462480-464889]
+Munna, n nana nin bɛɛ fɔ?
+Pourquoi ai-je dit tout ceci?
+
+[465851-467198]
+ Jala kunaya ye jalaju de ye.
+L'amertume du caïlcédrat est son tronc.
+
+[468536-471371]
+Tamaro timiya ye tamaro ju de ye.
+Le délice de la datte vient du dattier.
+
+[472518-474884]
+Togola, bɔ hadamaden yɛrɛ ye bɔkolo de ye.
+Togola, l'homme c'est sa  descendance.
+
+[476049-477303]
+Hadamaden y'i bɔkolo ye.
+L'homme , c'est la descendance.
+
+[477837-480126]
+O tuma na, an bɛ wele bila.
+Alors nous lançons un appel.
+
+[481493-484876]
+Farafinna ni Farajɛla, an ka segin an danbekɔrɔw ma.
+L'Afrique et l'Europe, revenons à nos anciennes valeurs.
+
+[486189-488762]
+Nafa bɛ o de la, wa o de bɛ laban.
+C'est ce qui est bénéfique et durable.
+
+[490023-493341]
+Hali an filɛ kɛnɛ min kan nin ye, mun don, danbe ɲɛdɔnni tɛ.
+Et même cette assise, ce n'est rien d'autre que connaître les anciennes valeurs.
+
+[493955-495061]
+Kunu tun bɛ cogo di?
+C'était comment hier?
+
+[496543-500213]
+An bɛ bi cogo min na, n'an seginna an kɔ, an bɛ degun min na , an bɛ bɔ a kɔnɔ.
+Ce que nous vivons aujourd'hui, quand on fait une rétrospection, nous allons sortir de cette situation.
+
+[501393-503469]
+O tuma na, an bɛ  Ala fo.
+Dans ce cas, nous remercions Dieu.
+
+[503899-504770]
+Ka Ala barika da.
+Remercier Dieu.
+
+[505213-509226]
+O faama Da, a ka kɛlɛ laban, o de kɛra Kɔn ye.
+La dernière bataille du roi Da, était celle de Kon.
+
+[510368-513443]
+Kɔnkɛlɛ, a ka kɛlɛ laban kɛr'o ye.
+La bataille de Kon a été sa dernière bataille.
+
+[514007-515327]
+A ma to kɛlɛ la dɛ!
+Il n'est aucunement tombé sur le champ de guerre!
+
+[515855-516615]
+A ma to kɛlɛ la.
+Il n'est pas tombé sur le champ de guerre!
+
+[517195-521442]
+Faama Da, a sara min, Daakolondugu.
+Le roi Da est décédé où, à Daakolondugu.
+
+[522111-526937]
+O Daakolondugu, o de bɛ ɛɛ Mali ni Kɔnɔwari fɔrɔtiyɛri la.
+Ce Daakolondugu est à la frontière Mali-Côte d'Ivoire.
+
+[527530-529972]
+Ferekese fanfɛ, Daakolondugu bɛ yen.
+Daakolondugu est vers Ferkesse.
+
+[530475-537184]
+Ɔɔ, a dɔnbaaw b'a dɔn ka fɔ ko n bɛ ka min fɔ, ko tan don, hakan tiɲɛ don.
+Les connaisseurs savent de quoi je parle, que c'est de la vérité, sans bavure.
+
+[538095-540938]
+A sara kɔnɔdimi de y'a minɛ, a bɔtɔ kɛlɛ la.
+Il est décédé à cause d'un mot de ventre quittant la guerre.
+
+[541351-542166]
+Faama Da!
+Le  roi Da!
+
+[542576-546716]
+Ɔ  a su nana cogo min na, Segu jamana kan, anw b'o dɔn.
+Nous, nous savons comment sa dépouille mortelle est arrivée  à Ségou.
+
+[547649-558068]
+ Ɔ, o tuma na, n'i y'a ye n ko tariku la n tɛ maga yɔrɔ wɛrɛ la ni Jaraw tɛ Segu dugukolo sanfɛ  parisike Segu tariku ye lɛkɛsɛ ye .
+Alors si tu vois que j'ai dit ne pas vouloir parler d'autres histoires que celles des Diarra sur le sol de Ségou, c'est parce que l'histoire  de Ségou est authentique.
+
+[560473-566485]
+A fɔr'i diɲɛ yɔrɔ o yɔrɔ , ko ko o ko  kɛra Segu jamana ka, i bɛ t'i jɔ a yɔrɔ la, i b'a y'i ɲɛna.
+Tout ce qu'on vous dira sur Ségou est vérifiable dans l'espace.
+
+[567025-567963]
+Ɔ hɔn, a bɛ jira.
+Oui , on peut les montrer.
+
+[568163-572481]
+K'a dɔn k'a fɔ tiɲɛ yɛrɛ de la, karisa tɔgɔ fɔra, a kaburu filɛ.
+Pour connaître réellement que telle personne est citée, voilà sa tombe.
+
+[572873-574294]
+A bɔnaw filɛ.
+Voilà ses descendances.
+
+[574783-579168]
+N'i tariku fɔra ko karisa ye karisa ye, a bɔnaw ma ye, o kuma ka ca dɛ.
+Narrer l'histoire qu'un tel est un tel sans voir des descendants, c'est paradoxe ça.
+
+[580393-583974]
+O tuma na, o ye tiɲɛ min ye, o jɛngɛlen don.
+C'est alors une vérité tordue.
+
+[584206-589389]
+O tuma na, Segu tariku , Mali kɔnɔ yan, o ye tariku sahalen de ye.
+Alors, l'histoire de Ségou , est  sans bavure au Mali.
+
+[589480-591543]
+N'a lakila, sɔsɔli t'a la.
+Si c'est conté, il n'y a pas de démenti là-dessus...

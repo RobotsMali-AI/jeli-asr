@@ -1,0 +1,708 @@
+[2131-3221]
+Wagaduu
+Wagadugu
+
+[3221-6220]
+Kɔnɔnafili nana Wagaduukaw la.
+Les habitants de Wagadougou sont dans l'inquiétude.
+
+[6562-9657]
+Ko Warabanbamanan , a murutilen don anw ma.
+Que Warabanbamanan est révolté contre nous.
+
+[10158-11798]
+Kaɲaka mara t'an ta ye tugu.
+La région de de Kagnaka n'est plus à nous.
+
+[12905-14592]
+Mɛ yanni a ka nin kɛ, i b'a dɔn a ye min kɛ?
+Mais avant de faire cela , sais-tu ce qu'il a fait?
+
+[15595-17636]
+A bɛnbakɛ ye kɛlɛbolo min labɛn.
+L'armée que ses anêtres ont mise en place.
+
+[18123-20300]
+O kɛlɛbolo dɔw tun bɛ taa se ba kelen.
+Certaines de ces troupes avaient un effectif de mille combattants.
+
+[20714-22287]
+Dɔw ka kɛlɛbolo tun ye maa ba fila.
+Certaines avaient deux mille.
+
+[22695-24278]
+Dɔw ta tun ye maa ba saba.
+Pour d'autres, c'était trois mille combattants.
+
+[24604-26678]
+Ale nan'a ta labɛn ka caya n'o bɛɛ ye.
+Il a mieux structuré la sienne que les autres. 
+
+[27534-28577]
+K'i labɛn kɛlɛ kama.
+Pour se préparer à la guerre.
+
+[29181-34195]
+Ka a ka jamana kɔnɔ, ka dɔw wajibiya kɛlɛ degeli dɔrɔn na.
+Dans son pays , il a obligé certains à n'apprendre que la guerre.
+
+[34876-36086]
+K'o kɛ kɛlɛbolobaw ye.
+De faire de cela une grande armée.
+
+[36618-42760]
+Ka dɔw fana wajibiya, sɛnɛkɛcogoya la, suman bɛ sɔrɔ cogo di, dumuni ka kɛ; dunkafa ka sabati.
+Il a obligé certains d'autres à ne s'intéresser qu'à l'agriculture pour assurer l'auto suffisance alimentaire.
+
+[43310-44973]
+Ah Warabanbamanan tun ye cɛ ye dɛ!
+Ah, Warabanbamanan était un vrai hommme.
+
+[46054-50560]
+A benbakɛw ye yiri fana ɲɛɲini cogo min na, walasa yiri ka se ka mɔgɔw furakɛ.
+Ses ancêtres avaient égalemennt fait des recherches sur les arbres qui soignent et guerissent les Hommes.
+
+[50882-53277]
+A y'i jija ka barikaba don o la.
+Il s'est battu pour renforcer cela.
+
+[54384-58667]
+O kɛlen tuma min, a ka mara bɔra Wagaduu bolo a ta kɛr'a yɛrɛ ye.
+Après cela, il n'était plus sous les règnes de Wagadugu.
+
+[59726-65440]
+A ta kɛlen a yɛrɛ ye tuma min.
+Quand il est devenu indépendant.
+
+[65698-67364]
+A ka fanga seginna ale ma .
+Son pouvoir est revenu à lui-même.
+
+[67585-70521]
+O Warabanbamanan, cɛfarin tun don.
+Ce Warabanbamanan était un vrai homme.
+
+[70790-73365]
+Ale de nana Makanjatadɔgɔman bange.
+C'est lui qui a donné naissance à Makandjatadogoman.
+
+[73772-77552]
+O Makanjatadɔgɔman,o fana farinyana fo k'a dannatɛmɛ.
+Ce Mankandjatadogoman est lui aussi  devenu plus sévère.
+
+[78248-79615]
+O kɛra cɛfarinba ye.
+Il a été un grand guerrier.
+
+[80820-82585]
+I b'a dɔn o fana o ye mun kɛ.
+Sais-tu également ce qu'il a fait?
+
+[83148-91445]
+Ji bɛ lankana cogo minna, fɛn minnu bɛ ji kɔnɔ i n'a fɔ jɛgɛ, i n'a fɔ banbaw, i n'a fɔ maliw, ji kɔnɔfɛnw ka ca.
+Comment protéger l'eau, et les espèces qui y vivent comme les poissons, les hippopotames, et bien d'autres.
+
+[92092-96817]
+Olu maracogo ɲuman, ko an kana dankari nin bɛɛ la ka nin bɛɛ kɛ fɛn fagata ye.
+La bonne méthode était de les sécuriser,  en préservant leurs vies.
+
+[96990-98450]
+Dɔw b'a la, a bɛ mɔgɔ ɲɛnajɛ.
+ Il y en a qui nous amusent.
+
+[98520-100226]
+Dɔw bɛ kɛ fura ye.
+D'autres soignent.
+
+[100500-101383]
+U  makoɲɛ tɛ ban.
+Nous en avons toujours besoin.
+
+[102786-104249]
+A nana kungokolo lakana.
+Il est venu protéger la forêt.
+
+[104706-106708]
+Maa kana tasuma don  kungo kɔnɔ. 
+Que personne ne met du feu à la brousse.
+
+[107026-108700]
+Ni ale ka yamaruya tɛ.
+Si ce n'est pas avec son autorisation.
+
+[109132-110888]
+Sabula, tasuma donni kungo kɔnɔ.
+Car le fait de mettre du feu à la brousse.
+
+[111268-117841]
+A bɛ kɛ sababu ye ka yiriden misɛnnin dɔw ka jiriya ban, olu tɛ kɛ yiri kunba ye tugu, olu bɛ sa
+Cela peut facilement éliminer ses arbustes: ils ne vont plus grandir, ils vont mourir.
+
+[118040-123120]
+A bɛ kɛ sababu ye ka yirikunbaba dɔw fan kɛlen jeni, olu bɛ tila ka sa.
+Cela peut carboniser un pan des grands arbres, ils vont finalement tous mourir.
+
+[124021-131134]
+Tasauma bilali kungo kɔnɔ, a bɛ kɛ sababu ye dantanfɛnmisɛnnin dɔw bɛ ye , olu bɛ taa u ɲaga da yirisurumannin  dɔw bolo la.
+Le feu de brousse, ça peut être un danger pour les petites espèces qui font leurs nids sur des petits arbres.
+
+[131651-136028]
+Dantanfɛnmisɛnmanin dɔw bɛ ye, olu bɛ taa u denw bila yɔrɔ dɔw la.
+Il y a des petites espèces qui déposent leurs petits dans la nature.
+
+[136305-137636]
+Tasuma bɛna ninnu jeni.
+Le feu va brûler celles-là.
+
+[138272-140410]
+ Dɔke, tasumabila kɔlɔlɔ ka bon kɔsɛbɛ.
+Les conséquence du feu de brousse sont énormes.
+
+[141458-149309]
+A ko, ale ka jamana kɔnɔ, maa o maa n'i ye tasuma bila k'asɔrɔ ale ma yamaruya d'i ma,k'ale bɛ ta bila o tigi la.
+Il dit que toute personne qui va prendre le plaisir de mettre du feu à la brousse sans son autorisation, qu'il mettra du feu à cette personne.
+
+[150082-155561]
+Sidiki, Warabanbaman ye mɔgɔw bali ka tasuma don ɛɛ Kaɲaka kungokolo fanbɛɛ lajɛlen na.
+Sidiki, Warabanbamanan a empêché les gens de mettre du feu à toute la brousse de Kagnaka.
+
+[156382-159700]
+Aa, o waati la, cɛya kɛ man di dɛ!
+Aah, à l'époque, ce n'était pas facile de s'affirmer un vrai homme.
+
+[159902-165615]
+N'i ma kɛ cɛbakɔrɔ yɛrɛ ye, n'i ye nin waleya ta k'i b'a kɛ, mɔgɔw bɛ mɔgɔw la, u b'i ka fanga tiɲɛ.
+Si tu n'est pas un homme valable, prendre une telle décision et l'exécuter, car il y a toujours des gens prêts à vous défier.
+
+[166470-170387]
+Nka Ala nan'a kɛ, a ye ninnu waleya.
+Mais , Dieu faisant bien les choses, il a su les mettre en pratique.
+
+[171973-174512]
+Ɛɛ, o ye Warababamanan denkɛ de ye!
+Ee, c'est le fils de Warababamanan!
+
+[176381-179257]
+A nana gɛlɛya, k'a gɛlɛya k'a gɛlɛya.
+C'est devenu de plus en plus difficile.
+
+[180399-182592]
+Aa, an b'a dilan cogo di sisan?
+Ah, comment resoudre maintenant?
+
+[183724-184884]
+Ale y'a ka waati kɛ.
+Lui, il a fait son temps.
+
+[185098-186585]
+F'a ka waati nana ban.
+Jusqu'à la fin de son règne.
+
+[187573-189843]
+O de bɛnna Sumaworo Kantɛ fa bange.
+C'est lui qui va donner naissance au père de Soumaoro Kanté
+
+[190768-193274]
+Sumaworo Kantɛ fa fana, a ye ko caman kɛ.
+Le père de Soumaoro Kanté a aussi marqué l'histoire.
+
+[194474-195870]
+Mɛ n da tɛna se o bɛɛ ma bi.
+Mais je ne parlerai pas de tout cela aujourd'hui.
+
+[196346-197611]
+Nin yɔrɔ jumɛn ka gɛlɛn kɔsɛbɛ?
+Quelle est la partie difficile dans cette histoire?
+
+[198421-200042]
+N'o tɛ ka se ka faamuya mɔgɔw fɛ.
+Que les gens n'arrivent pas à comprendre.
+
+[200542-202360]
+N b'a fɛ k'o de baro jija ne ni e cɛ.
+Je voudrais parler de cela entre  toi et moi.
+
+[202590-204809]
+Sabula, hali e bɛnbakɛ ani ne bɛnbakɛ.
+Car même nos ancêtres.
+
+[205189-206809]
+U jɛra ka ko dɔ dilan ɲɔgɔnfɛ.
+Ils ont fait des choses ensemble.
+
+[208189-210753]
+Sumaworo Kantɛ n'a fa tɔgɔle ko Bankalifode 
+Le père de Sumaoro s'appelle Bankalifodé.
+
+[211921-213198]
+Dɔw b'a fɔ a ma, Makanjatadɔgɔman.
+Certains l'appellent Makandjatadogoman.
+
+[213929-215333]
+O ye Sumaworo Kantɛ wolofa de ye.
+C'est le père géniteur de Sumaoro Kanté
+
+[216071-218228]
+Cɛfarin tun don, cɛgɛlɛn tun don.
+C'était un homme sévère et brave
+
+[218436-219719]
+A tun bɛ ko dilan Sidiki.
+Sidiki, c'etait un bâtisseur.
+
+[221110-223815]
+Nka waati bɛɛ n'a ko don.
+Mais chaque temps a ses réalités.
+
+[224027-225130]
+A fana ye tɔgɔ ɲini.
+Il a , lui aussi, cherché la célébrité.
+
+[225420-226693]
+A ye jamana in lasabati.
+Il a prospéré ce pays.
+
+[226823-227986]
+N'o ye Kaɲaka mara ye.
+Qui est la région de Kagnaga.
+
+[228986-231140]
+Kaɲaka mara kelen in na, Sumaworo bangelen tuma min.
+La naissance de Sumaoro dans le même Kaɲaka
+
+[231625-233156]
+A han, baara sɔrɔla yen.
+Ah oui, c'est là où le bât a blessé. 
+
+[233995-235309]
+Sumaworo y'a ye.
+Sumaoro a vu.
+
+[235695-240379]
+An y'an yɛrɛta ka bɔ Wagadugu bolo, mɛ hali fɔlɔ, jɛɲɔgɔnya dɔw b'an ni ɲɔgɔn cɛ.
+Nous avons pris notre indépendance à Wagadugu, mais jusqu'à maintenant, nous continuons à nouer certaines rélations avec lui.
+
+[241084-245015]
+Ale lamininen don ni jamana minnu ye, i n'a fɔ Manden mara.
+Les pays par lesquels, il est entouré, comme la région de Mandé.
+
+[246348-248297]
+An b'a fɔ marabolo dɔ ma ko kurufa mara.
+On appelle une contrée , la région de Kurufa.
+
+[248752-251059]
+O ye kaɲaka ni a lamini jamanaw ye.
+C'est le pays de Kaɲaka et ses voisins.
+
+[251638-253131]
+Sumaworo ye hakili jumɛn sɔrɔ.
+Quelle idée Sumaoro a eue?
+
+[253697-259387]
+Hali fɔlɔ, nin bɛɛ lajɛlen de bɛ ka fɛn dɔ fara ɲɔgɔn kan ko disɔngɔ ka taa o di Wagadugu faamaw ma.
+Malgré tout , ces gens-là regroupent toujours quelque chose qu'on appelle le prix du miel, pour les rois de Wagadugu.
+
+[261037-262358]
+A ko ne bɛna kuma mɔgɔw fɛ.
+Il dit, je vais parler aux gens.
+
+[263232-265647]
+Sidiki, a ko n bɛna mɔgɔw lahakilimaya.
+Sidiki, il dit, je vais éveiller la conscience des gens.
+
+[265844-267217]
+Ka hakili dɔ di mɔgɔw ma.
+Conscientiser les gens.
+
+[267937-268997]
+O kɛra hakili jumɛn ye?
+Cela était quoi?
+
+[270110-271475]
+A ko Mandenkaw ma.
+Il dit aux habitants du Manden.
+
+[272100-276268]
+Aw de bɛ ka fɛn bɔ aw yɛrɛ bolo ka taa o di Wagadugukaw ma.
+Vous vous privez de vos biens pour aller les donner à Wagadugu.
+
+[278014-279593]
+Ah, ko o ye  disɔngɔ ye kɛ. 
+Ah , que c'est le prix du miel.
+
+[280048-284926]
+A sera sa marakafanga in, an ka nin wuli k'a bɔ an kan;
+Il est temps qu'on se débarrase du joug de Wagadugu.
+
+[285720-293191]
+An b'a wuli k'a bɔ an kan ni mun ye, an ka fɛn labɛn fɛn min labɛncogo bɛ cɛ ɲɛ ni tɔnɔ b'a la, nafa b'a la.
+Comment s'en débarasser, mettons en place des choses qu'on peut bénéficier .
+
+[293496-295367]
+A makoɲɛ bɛ se an bɔnaw ma.
+Nos descendants en bénéficieront.
+
+[296375-297434]
+A ko o ye mun ye?
+Il dit ,c'est quoi?
+
+[298807-300681]
+An bɛ ka Wagadugu ka sariya labato.
+Nous appliquons les lois de Wagadugu.
+
+[301785-304172]
+Hali ni Wagadugu ye fɛn fɔ n'a ni kɛli man kan.
+Même si Wagadugu dit quelque chose qui n'est pas faisable.
+
+[304469-305565]
+Anw b'o de bato.
+Nous appliquons cela.
+
+[306082-315570]
+A ko aw k'a lajɛ, san wolonfila o san wolonfila, dugu kɔnɔ, npogotigi min cɛ ka ɲi ni npogonin bɛɛ ye an b'o labɛn ni ko kɛ kɔmi kɔɲɔmuso 
+Voyons, tous les sept ans, dans le village, la fille qui est plus belle que toutes les filles du village est préparée comme une nouvelle mariée.
+
+[316080-317662]
+Ka t'o di jinɛ sa ma.
+D'aller la donner à un djinn serpent.
+
+[318150-321506]
+Wagadugu dajinɛ ma, walasa an ka jamana ka taa ɲɛ.
+Aux esprits protecteurs de Wagadugu, pour que notre pays avance.
+
+[322615-324648]
+Ɛseke nin ye kunkolomako ye?
+Est-ce normal?
+
+[325979-328780]
+I bunahadamaden ɲɔgɔn, ka dankari o ka ɲɛnamaya la.
+Öter la vie de son semblable.
+
+[329105-333094]
+E ma taa o di fɛn fosi ma fo n'o kɛra sa ye. 
+Ce n'est donner à aucune autre chose qu'un serpent.
+
+[333623-336249]
+An ka nin wuli sa ka bɔ an kunna, nin tɛ kɛwale ɲuman ye.
+Abrogéons cette loi, ce n'est pas bon.
+
+[337468-340523]
+A nana kuma k'aa ka jamana maaw la faamuya.
+Il est venu éveiller ces concitoyens.
+
+[341514-344096]
+INAUDIBLE
+INAUDIBLE
+
+[344570-349333]
+A ko Mandenkaw ma sa, Wagadugu sariya min b'aw kunna, an ka wuli.
+Il a dit au mandenka de se débarrasser de la loi de Wagadugu.
+
+[350808-352340]
+An ta ka kɛ an yɛrɛ ye.
+Soyons indépendants.
+
+[352812-354248]
+An k'a kɛ jamanaba kelen ye.
+Pour être un grand pays.
+
+[354930-356245]
+An ka se ka ɲɔgɔn nafa.
+Qu'on soit utiles les uns aux autres.
+
+[357308-359221]
+A y'o fɔ Kaɲaka mara bɛɛ lajɛlen na.
+Il a dit cela à toute la région de Kagnaka.
+
+[360200-361730]
+N bɛ kumala Kaɲaka min ma.
+Le Kagnaka dont je parle.
+
+[362678-365944]
+Kaɲakan de tɔgɔ nana  yɛlɛma ni k'a kɛ Kolonkan ye.
+Ce Kagnakan est devenu Kolonkan.
+
+[366821-369597]
+Kolonkan in Kolonkani bɔra o de la.
+Ce Kolonkan a donné existence à Kolonkani.
+
+[370230-374571]
+O Kolonkanin in dɛ, Bɛlɛdugu jamana mirindi de don.
+Ce Kolonkanin est de la région de Bélédugu.
+
+[374814-376022]
+Bɛlɛdugujamana in de ko don.
+Il s'agit de la région de Bélédugu.
+
+[376544-377770]
+O Bɛlɛdugu jamana dɛ!
+Cette région Bélédugu.
+
+[378001-379310]
+Kolokanin bɛ o de kɔnɔ.
+Kolokani est de cette région.
+
+[379922-383894]
+Bɛlɛdugu in, n kanbɛ Soso de ma, Soso fana bɛ Bɛlɛdugu de kɔnɔ.
+Ce Bélédugu, je parle de Sosso, Sosso aussi est dans le Bélédugu.
+
+[384903-391097]
+N'i b'a fɛ ka Bɛlɛdugu yɔrɔ in fan lɔn, Sumaworo ka fanga tun bɛ marada yɔrɔ da minnu na, Sumaworo yɛrɛ tun cogolen bɛ yɔrɔ min Sidiki 
+Si tu veux connaître là où  Sumaoro était basé.
+
+[391634-395832]
+N'i taara Kulukɔrɔba, n'i sera Kulukoro,  Sumaworo ka dagaw bɛ yen.
+Si tu pars vers Koulikoroba, une fois à Koulikoro, les camps de Sumaoro sont là-bas.
+
+[396591-398793]
+N'i tɛmɛ n'o la ka taa Soso, ka taa Soso.
+Si tu dépasses  cela pour partir à Sosso  - partir à Sosso.
+
+[399163-403368]
+I bɛ Sumaworo ka makoɲɛminɛnw sɔrɔ ye, i b'a dɔn k'a fɔ ko Sumaworo tun bɛ yen, cɛbakɔrɔ tun don dɛ.
+Tu trouveras les affaires de Sumaoro là-bas, tu sauras que Sumaoro y existait, c'était un vrai homme.
+
+[404330-408411]
+A ye jamana,a lamini jamana mansakɛw fara ɲɔgɔn kan.
+Il a réuni les rois des alantours.
+
+[408635-410813]
+A ko a ye na, an ka bɛn.
+Venez qu'on fasse la paix.
+
+[411797-413092]
+ An k'an bolo di ɲɔgɔn ma.
+Qu'on se donne la main.
+
+[413961-418170]
+N'an y'an bolo di ɲɔgɔn ma, an bɛna fanga belebeba sɔrɔ ka se ka ko dilan.
+Quand on se donne la main, on pourra faire quelque chose d'intéressant.
+
+[420473-423538]
+I b'a dɔn mansakɛ ninnu bɛɛ lajɛlen Sumaworo ye mun fɔ.
+Sais-tu ce que Sumaoro a dit après avoir réuni tous ces rois?
+
+[424370-426145]
+A ko nin tɛ baasi ye.
+Il dit, ceci n'est pas un souci.
+
+[427643-430606]
+Ne Sumaworo, ne kan tɛ dɛ!
+Moi Sumaoro, ce n'est pas moi qui le dis hien!
+
+[431613-435375]
+An bɛɛ lajɛlen, an bɛɛ, an bɛ na kan min fɔ.
+Ce que nous allons tous dire, ce que nous allons dire.
+
+[436156-438743]
+An bɛɛ , bɛɛ ka jɔ i ka kuma kɔrɔ.
+Nous tous , que chacun soit fidèle à ce qu'il va prononcer.
+
+[439065-444180]
+An bɛɛ ka  jɛ ka kumakan dɔ ta , k'o kɛ ka sariya kura dɔ lawaleya.
+Nous allons prendre ensenble une charte, d'en faire une  une nouvelle loi.
+
+[444861-446373]
+Ka marakafanga wuli ka bɔ an kun na.
+Pour nous débarrasser du règne sarakolé.
+
+[446581-448489]
+An ta kɛra an yɛrɛ ye, an bɛ siran mun ye?
+Nous sommes indépendants, qu'avons-nous peur?
+
+[450724-457889]
+Ne Sumaworo kan  tɛ, mɔgɔ kelen-kelen, mansa kelen-kelen bɛɛ bɛ kuma.
+Moi  Sumaoro, les propos ne sont pas de moi, tout le monde doit parler un à un, tous les rois prendront la paroles un à un. 
+
+[458055-458955]
+Bɛɛ b'i hakilina fɔ.
+Chacun va exprimer sa pensée.
+
+[459336-461123]
+O la, ne Sumaworo kan tɛ o ye dɛ!
+Cela n'est alors pas des paroles venant de moi.
+
+[461380-463382]
+An bɛɛ lajɛlen mana bɛn kan min ma.
+Ce dont nous nous allons se mettre d'accord.
+
+[463831-468840]
+An b'o fɔ jamana kɔnɔdenw ye k'a fɔ an y'an bolo di ɲɔgɔn ma, an bɛ jamana baara ni o sariya ye.
+Nous allons dire au peuple que nous nous sommes mis d'accord pour diriger le pays ainsi.
+
+[470506-471877]
+O sariya olu talen.
+Ces décisiopns prises.
+
+[472085-473165]
+Bɛɛ y'i hakina di.
+Chacun s'est exprimé.
+
+[474202-478179]
+Ciden bɛna  ci lase wagati min , Sumaworo fɔlɔ ye kuma ta .
+Avant que l'annonceur ait pris la parole, Sumaoro en a pris.
+
+[479061-482985]
+A ko wa an ka jamana in , an bɛna jamana kura min sigi.
+Il dit, alors , le nouveau pays que nous allons mettre en place.
+
+[484606-486429]
+Ni o ye Soso jamana ye.
+Qui est le pays Sosso.
+
+[487001-488539]
+ Ni o ye Kaɲaka jamana ye.
+Qui est le pays de Kagnaka.
+
+[489261-491393]
+An bolo tɛgɛlen bi ka bɔ Wagadugu bolo.
+Nous n'avons plus aucun lien avec Wagadugu.
+
+[492223-494050]
+Ne Sumaworo kan tɛ.
+Ce ne sont pas des propos à moi.
+
+[495212-496275]
+Jɛkulu le kan.
+C'est l'assemblée qui parle.
+
+[496838-502112]
+Ma fɛn o fɛn filɛ nin ye, bɛɛ n'i ka dugu, bɛɛ bɛ ka kuma i ka dugu tɔgɔ de la, wa an bɛɛ lajɛlen de kan don.
+Tous ces rois ont leur royaume, chacun parle au non de son peuple, et c'est l'idée collective.
+
+[502749-503946]
+Ne Sumaworo kan tɛ dɛ!
+Moi Sumaoro, les propos ne sont pas de moi.
+
+[504389-505835]
+Ne kelen tɛ k'a fɔ dɛ!
+Ce n'est pas moi seul qui parle.
+
+[506087-507406]
+Bɛɛ lajɛlen ka kuma de don.
+C'est la parole de l'assemblée.
+
+[507566-508555]
+Ne Sumaoro kan tɛ.
+Ce n'est pas la parole de moi Sumaoro.
+
+[509171-510946]
+O de kɛra jamu ye an bɛnba la.
+C'est ce qui a été le nom de notre ancêtre.
+
+[511404-512815]
+I b'a dɔn kantɛ yɛrɛ kɔrɔ min ye wa?
+Sais-tu ce que signifie Kanté?
+
+[513502-515768]
+Mɔgɔ min kɛra hakilima ye ka mɔgɔw fara ɲɔgɔn kan
+Celui qui a eu l'idée de rassembler les gens.
+
+[516248-519041]
+U bɛɛ ka jɛ ka  kan kelen ta ka don da kelen ka bɔ da kelen.
+Qu'ils se mettent tous d'accord pour  traivailler ensemble.
+
+[519598-520830]
+Kantɛ bɛ bɛn de jira.
+Kanté signifie la paix.
+
+[521726-525931]
+Sabula e kelen ma kɛ kuma in kɔkɔrɔdonbaga ye , i ni mɔgɔw de jɛra a la.
+Car tu n'as pas été le seul à soutenir ces propos, tu l'as fait avec des gens.
+
+[526842-528788]
+O de la a fɔra ko Sumaworo Kantɛ.
+C'est pourquoi on l'appelle Sumaoro Kanté
+
+[529631-531514]
+Ko ne Sumaworo Kantɛ, jɔnni kan don.
+Dire moi Sumaoro Kanté, qui l'a dit?
+
+[531674-532893]
+Ne ni n jɛɲɔgɔnw de kan don.
+C'est le propos de mes compagnons et moi.
+
+[533858-538150]
+Dɔnke u nana da Sumaworo la ko Sumaworo Kantɛ - ko Sumaworo Kantɛ.
+Ils ont alors appélé Sumaoro, Sumaoro Kanté -  Sumaoro Kanté.
+
+[539077-541300]
+Sumaworo nana fɔ n kɔ, a ko n'aw siranna
+Sumaoro a encore dit, si jamais la peur vous prend.
+
+[542065-544107]
+Sabula an bɛɛ ye bɛnkan dɔ de ta.
+Car nous avons pris un engagement.
+
+[544819-545758]
+Mɛ n'aw siranna!
+Mais si la peur vous prend.
+
+[546378-547625]
+Ne Sumaworo, ne tɛ siran.
+Moi Sumaoro, je n'ai pas peur.
+
+[548498-549640]
+Ne ye cɛ de ye ne tɛ siran.
+Je suis un homme, je n'ai pas peur.
+
+[551032-554164]
+N'aw siranna ni Wagadugu y'a ka kɛlɛwuli kana anw kama.
+Si la peur vous prend parce que Wagadugu peut nous livrer la guerre.
+
+[554804-558362]
+N'aw ko ko aw m'a fɔ k'an bɛnmakan tɛ.
+Si vous dites que vous ne l'avez pas dit , que ce n'est pas ce que nous nous sommes convenus
+
+[558712-559882]
+Ne Sumaworo kan don.
+Moi, Sumaoro, je l'ai dit.
+
+[560394-561877]
+Sumaworo i kan ten?
+Sumaoro, tu as dit cela?
+
+[562297-565790]
+I kantigi, o fila lajɛlen n kɔn k'a fɔ Sumaworo ma ko Kantigi.
+Tu honores la parole donnée, c'est deux rajouté est né de Kantigi, on a appelé ainsi Sumaoro.
+
+[567645-568622]
+A nalen mɛntenan.
+Il est maintenant venu. 
+
+[569482-574573]
+O kɛra tumana min , fanga bɔra Wagadugu bolo pewu-pewu.
+Après cela le pouvoir a définitvement quitté Wagadugu.
+
+[575122-576373]
+Sumaworo nan'i sigi Soso.
+Sumaoro est venu s'installer à Ssso.
+
+[577846-583933]
+Jamana misɛnninw mansaw bɛɛ fana ko sa Sumaworo, an ɲɛ bɛ e de ɲɛ la e de ye an kuntigi ye.
+Les rois des petites provinces ont alors dit, Sumaoro, nous ne voyons que toi, c'est toi notre chef.
+
+[584358-587329]
+Ni maa min bɛ  ka ko kɛ a ka sigida la n'a kɛcogo man ɲi.
+Si quelqu'un fait quelque chose de mauvais dans son environnement.
+
+[587848-588839]
+E de bɛ wuli ka kuma.
+C'est toi qui dois agir.
+
+[589550-595481]
+Sumaworo ni ma kuma n'a tiɲɛna,an tun bɛ siran min ɲɛ, aa , a bɛ juguya ka tɛmɛ o kan.
+Si tu n'agis pas, si ça se détoriore, ce dont on a eu peur arrivera, on peut s'attendre au pire.
+
+[596968-598055]
+I ye nin faamu?
+As-tu compris?
+
+[598268-600110]
+Sumaworo ko a ko n kun b'o kɔrɔ.
+Sumaoro dit, je vais prendre la responsabilité.
+
+[600469-601549]
+Wa n sɔnna o ma.
+Et je suis d'accord.
+

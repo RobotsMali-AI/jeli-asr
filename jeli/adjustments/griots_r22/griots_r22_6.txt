@@ -1,0 +1,888 @@
+[480-1120]
+A y'a>>
+Il a>>
+
+[2300-5910]
+A ye Na weele ka Na ɲininka n'o ye masakɛ denmuso ye.
+Il a appelé Na, la fille du roi, pour lui demander.
+
+[5980-6670]
+Unhun.
+Oui.
+
+[7170-10220]
+A ko-ko Na jinɛ bɔra ne ye sɔgɔmada in na.
+Il dit que Na j'ai rencontré le génie bienfaisant ce matin.
+
+[11720-13500]
+Jinɛkɛ kili saba de b'a bolo.
+Le génie a trois œufs.
+
+[14010-16530]
+Ko kili kelen o ye nafolo ye.
+Qu'un œuf symbolise la richesse.
+
+[16730-18340]
+Kili kelen k'o ye den ye.
+Un œuf symbolise l'enfant.
+
+[18570-20890]
+Kili kelen k'o ye sabali ye.
+Qu'un œuf symbolise la patience.
+
+[21050-22660]
+Na ne tun ka jumɛn ta?
+Mère, je dois choisir laquelle?
+
+[23120-25350]
+N'i dun ye kelen ta e t'a fila tala bilen dɛ?
+Si tu en choisis un, tu ne prends les deux autres hein?
+
+[25410-25940]
+Unhun.
+Oui.
+
+[26000-28330]
+Na ko ne sɔnna i la ka bɛ sabari de ma dɛ.
+Na dit: je t'ai accepté à cause de la patience hein.
+
+[29410-34990]
+Ni den kɛra i bolo bi, ni sabari-n'i ma sabari i ka jamatigiya ye fu de ye.
+Si tu as un enfant aujourd'hui, si tu n'es pas patient, ta popularité ne sert à rien.
+
+[36940-37520]
+Unhun.
+Oui.
+
+[37610-42800]
+I mana kɛ nafolobatigi ye n'i ma sabarijɔn ye i ka nafolo bɛ cɛn e ma.
+Si tu es un richard, si tu n'es pas un homme de patience, tu vas perdre ta fortune.
+
+[42960-46740]
+Ni ma sabali kiri ta ne ka furu ma bɔ, ne sɔnna e la ka bɛn sabali ma.
+Si tu ne choisis pas l'œuf de la patience, mon mariage n'aura pas lieu, je t'ai accepté à cause de la patience.
+
+[48920-50410]
+Masakɛ walen e sigi.
+Le roi est allé s'asseoir.
+
+[51030-53230]
+A ko jinɛkɛ ma a ko n bɛ sabali kili ta.
+Il dit au génie que je vais prendre l'œuf de patience.
+
+[53930-55630]
+Ko eee e tɛ nafolo kili fɛ?
+Que euh! Tu n'aime pas l'oeuf de la fortune,
+
+[55680-57310]
+Aaa n bɛ n wasadon sabali kili la.
+Ah je vais me contenter avec l'œuf de la patience.
+
+[57960-59140]
+E tɛ den kili fɛ?
+Tu n'aime pas l'œuf de l'enfant?
+
+[59380-60930]
+N bɛ n wasadon sabali kili la.
+Je me contente avec l'œuf de la patience.
+
+[61090-61940]
+Unhun.
+Oui.
+
+[62630-65480]
+Masakɛ ye sabali kili ta k'a bɛ taa so.
+Le roi a pris l'œuf de la patience, qu'il va à la maison.
+
+[66810-68370]
+Den kili pɛrɛnn'a yɛrɛ ma.
+L'œuf de l'enfant s'est éclaté.
+
+[68500-69500]
+Ko masakɛ>>
+Que le roi>>
+
+[69600-70810]
+Eee jinɛkɛ ma>>
+Euh au génie>>
+
+[71030-76480]
+Nin min watɔ filɛ nin ye>>  n'e ye ne to i bolo yan e bɛ na ne di jɔn de ma?
+Celui qui vient de partir comme ça>> si tu me gardes ici, tu me donneras à qui?
+
+[76540-77130]
+Unhun.
+Oui.
+
+[77340-78970]
+A ye sabari kili min ta>>
+L'oeuf de la patience qu'il a pris>>
+
+[79510-82510]
+N'i ma sabari i ka jamatigiya tɛ bɔ.
+Si tu ne te patientes pas, ne sera pas populaire.
+
+[82790-83250]
+Unhun.
+Oui.
+
+[83280-84770]
+Ne watɔ sabari kili kɔ.
+Je vais suivre l'œuf de patience.
+
+[84820-85820]
+Ne tɛ tola yan.
+Je ne reste pas ici.
+
+[85880-86390]
+Unhun.
+Oui.
+
+[86650-88730]
+Den kili watɔ nafolo kili y'i pɛrɛn.
+Dès le départ de l'œuf de l'enfant, l'œuf de la richesse s'est éclaté.
+
+[89480-96800]
+N'i kɛra nafolotigi-n'i kɛra nafolotigiba ye ka kɛ jamatigi ye, ni sabari t'a kan a ma bɔ.
+Si tu deviens très riche et populaire, s'il n'y a pas de patience c'est voué à l'échec.
+
+[97180-101980]
+E mana ne to yan sisan, ni sabari, ni nin wara ka ne to, jɔn de bɛ na ne ta?
+Si tu me gardes ici maintenant sans la patience, qui va s'occuper de moi?
+
+[102050-102510]
+Unhun.
+Oui.
+
+[102680-105040]
+N'i kɛra nafolotigi ye ka kafa ka yaada a ma bɔ.
+Si tu es riche et arrogant, c'est voué à l'échec.
+
+[105620-106980]
+Ne watɔ sabari kili de kɔ.
+Je vais suivre l'œuf de patience.
+
+[107550-109630]
+Masakɛ kɛra fɛn ye nin cogo la.
+C'est comme ça que le roi est devenu quelqu'un.
+
+[110180-112900]
+Sabari kili tal'a fɛ, a sababu ye Na de ye.
+Grâce à Na, l'oeuf de la pénitence a été choisi par lui
+
+[113690-115510]
+Pasike an musow maɲi.
+Parce que nous les femmes ne sommes pas bonnes.
+
+[115770-118920]
+N'Ala ye cɛ min sɔn musoɲuma na Ala ye jinɛ bɔ e ye.
+Si Dieu te donne une bonne femmes, c'est une grande chance pour toi.
+
+[119170-119810]
+Unhun.
+Oui.
+
+[119950-122610]
+Ko musoɲuma ka sɔrɔ i fɛ o ka fusa ni jinɛbɔnye ye.
+Que mieux vaut avoir une bonne femme que de rencontrer un génie bienfaisant.
+
+[122700-124860]
+Musoɲuma mana bɔ i ye, jinɛ de bɔra i ye o ye.
+Si tu as une bonne femme, c'est comme si tu as rencontré un génie bienfaisant.
+
+[125040-126710]
+Jinɛbɔnye yɛ ka ca.
+Il y a plusieurs façons de rencontrer le génie bienfaisant.
+
+[126890-130780]
+O yɔrɔ kama ko musow de ka sabali ka muɲu ka sabali.
+C'est pourquoi les femmes doivent être patientes.
+
+[131160-134440]
+Muso ka bonkɔnɔkumaba>> i jija e ka kumaɲuma fɔ e cɛye.
+La femme qui parle trop>> il faut tout faire pour prêcher la bonne parole à ton mari.
+
+[135760-138160]
+I ka balimaya labɛn kuma fɔ e cɛ ye.
+Il faut dire à ton mari les propos qui consolident la fraternité.
+
+[138510-140740]
+Ka sinjiya dilanni kuma fɔ e cɛ ye.
+Dire à ton mari les propos qui consolident la parenté.
+
+[140870-142760]
+I kana kɛ du farabaga ye.
+Ne sois pas l'initiatrice de la séparation de membres de famille.
+
+[145010-146870]
+Na ka kuma kama>>
+Grâce aux propos de Na>>
+
+[147480-149980]
+Na sɔnna masakɛ la ka bɛn sabari ma.
+Na a accepté le roi à cause de la patience.
+
+[150390-152490]
+Aaa minnu ye nafolo ni den kɔ>>
+Ah ceux qui veulent l'argent et le l'enfant>>
+
+[152670-153320]
+Unhun.
+Oui.
+
+[153800-157420]
+Olu de tun bɛna masakɛ lafili eee cɛkɔrɔba sabalilenba lafili.
+Ce sont eux qui voulaient induire le roi en erreur euh induire le vieux très patient en erreur.
+
+[158070-160560]
+Na sɔnn'a la ka bɛn sabari min ma>>
+Na l'a accepté à cause de la patience>>
+
+[160810-162120]
+Sabari de tɔnɔ ka bon.
+C'est la patience qui est bénéfique.
+
+[162220-162820]
+Unhun.
+Oui.
+
+[162890-166060]
+N'i kɛra jamatigi ye n'i ma sabari ja bɛ waraka i ma.
+Si tu es populaire, si tu n'es pas patient, les gens vont abandonner.
+
+[166740-171980]
+N'i kɛra dentigi eee nafolotigigi ye n'i kafara ka yaada a tɛ laban.
+Si tu as des enfants euh un riche si tu deviens arrogant, c'est voué à l'échec.
+
+[172270-172950]
+Unhun.
+Oui.
+
+[173010-174790]
+Ola Ala ka sabali di an bɛɛ lajɛlen ma.
+Donc que Dieu nous donne tous la patience.
+
+[175350-177410]
+Musoya ye fɛnba de ye.
+Ëtre femme, c'est une grande chose.
+
+[178770-179460]
+I y'a faamu ya?
+Tu as compris?
+
+[179550-179960]
+Unhun.
+Oui.
+
+[179990-181360]
+Musoya tɛ fɛndennin ye.
+Etre femme, n'est pas fortuit.
+
+[182450-183210]
+Eee!>>
+Euh!>>
+
+[184460-185660]
+N'i kɛra muso ye ka ban>>
+Si tu deviens une femme seulement>>
+
+[186100-188320]
+Muso de bɛ masakɛ bange.
+C'est la femme qui met au monde le roi.
+
+[189030-189590]
+Masarenw>>
+Les Massarés>>
+
+[189630-192690]
+Muso de bɛ lonina bange.
+La femme qui met au monde un savant.
+
+[193210-194820]
+Muso de bɛ waliju bange.
+La femme qui met au monde un saint.
+
+[195040-197120]
+Muso de bɛ somakɛba bange.
+La femme qui met au monde un grand maître féticheur.
+
+[200700-203710]
+I bɛ perezidan caman ye an kun na a bɛɛ bɔra muso la.
+Tous les président  qui nous gouvernent sont tous mis au monde par la femme.
+
+[203800-205140]
+O tɛ kɛ ten dɛ!
+Ce n'est pas un fait hasard hein!
+
+[205730-211380]
+Fo aaa ayi ba sɔnna ko dɔ de ma a ka sɔrɔ ka fɔ ko karisa-karisa.
+Il faut que leur maman accepte un nombre de choses pour qu'on puisse parler d'un tel, d'un tel.
+
+[215380-219880]
+I ba mana sɔn muɲu ni sabali ma a bɛ fɔ den de ma ko karisa-karisa.
+Si ta maman accepte d'être patiente, c'est l'enfant qui sera célèbre.
+
+[220240-220940]
+Unhun.
+Oui.
+
+[220980-222230]
+A tɛ fɔ den ma abada>>
+On dit jamais à l'enfant>>
+
+[222280-223630]
+Den tɛ weele fa tɔgɔ la.
+L'enfant n'est pas désigné par le prénom de son père.
+
+[223740-224960]
+A bɛ fɔ de k'a ba.
+On dit que c'est sa mère.
+
+[225180-229550]
+I ye den cɛmanin fo k'i ni sɔgɔma ko ne ba.
+Si tu salues un garçon, il dit: c'est grâce à ma mère.
+
+[230120-231860]
+Nba kɔrɔ ye ne ba de ye o.
+Nba signifie ma mère.
+
+[232020-232710]
+Unhun.
+Oui.
+
+[234810-238130]
+I ni wura ne ba, i ni tile ne ba, i ni su ne ba.
+Bon après midi ma mère, bonjour ma mère, bonsoir ma mère.
+
+[239520-241220]
+Den ka fɛn bɛɛ ye muso de ye.
+Le destin de l'enfant c'est entre les mains de la femme.
+
+[242200-243310]
+Cɛ ta ka dɔgɔ a la.
+L'homme n'a pas assez de rôle à jouer le concernant.
+
+[245860-248550]
+Musow bi-o musow bi a ka ca.
+Ces genre de femme sont nombreuse aujourd'hui.
+
+[250500-253670]
+Hali ni u ni cɛ tusera ɲɔgɔn na sɔgɔ-sɔgɔnin fitinin>>
+Même une simple dispute entre ton mari et toi>>
+
+[254310-256450]
+A kana-a kana porobilɛmu kan caya yɛrɛ.
+Même s'il n'y a pas assez de problème>>
+
+[256490-258250]
+U biɲɛ o k'a fɔ dɔrɔn ko nin diyan>>
+Ou bien qu'il dit seulement donne moi une telle chose>>
+
+[258740-261450]
+Cɛ k'a fɔ ko nin tɛ yen, cɛ ni hɛrɛ farala.
+Si l'homme dit qu'il n'a pas une telle chose, il sera plus en paix.
+
+[262080-263080]
+A bɛ lɔ i kɔ ma o.
+Ta progéniture souffrira.
+
+[264370-267180]
+Kɛ kɛlɛkɛlaba ye i ka na kɛ kɔnɔjuguba ye.
+Soit une grande belliqueuse mais ne sois pas très méchante.
+
+[267890-268890]
+O kɔrɔ ye mun ye?
+Que signifie cela?
+
+[269020-273740]
+Muso ka a ka kɛlɛ kɛ a da la jɛlenya kɔnɔ dusukunsanuya kɔnɔ.
+Que la femme fasse ses querelles à travers les disputes dans le respect.
+
+[274550-276420]
+Ka kɛ mɔgɔ tile ni ye. 
+Qu'elle soit correcte.
+
+[276750-279240]
+Bɛɛ ka fɔ ko karisa ye kɛlɛkɛla ye foyi t'a kɔ.
+Que tout le monde dise qu'une telle personne aime trop les querelles.
+
+[279760-281060]
+O de kaɲi.
+C'est ça qui est bon.
+
+[281340-282850]
+Karisa tɛ ko minɛ k'a bila.
+Une telle personne ne lâche rien.
+
+[282930-286900]
+Hum karisa tun tɛ kumana mɛ ni tusera karisa la baara bi bolo dɛ.
+Hum! une telle personne n'est pas bavarde, mais si tu la touches tu aura affaire avec lui.
+
+[287390-288810]
+A t'a minɛ k'a bila.
+Il ne lâche rien.
+
+[289090-291680]
+Muso o muso t'a minɛ k'a bila a bɛɛ denw ye dulɔ minna ye. 
+Toute femme qui ne lâche rien, tous ses enfants sont des ivrognes.
+
+[291920-293950]
+A bɛ denw ye kogotala bi.
+Leurs enfants sont tous des grimpeurs de murs(voleurs).
+
+[294380-296350]
+A bɛɛ denw ye saraka delila.
+Leurs enfants sont tous des mendiants.
+
+[296750-298340]
+E ta minɛ k'a bila.
+Tu ne recules devant rien.
+
+[299000-301100]
+E tɛ juru kun yogo i n'i cɛ cɛ.
+Tu ne t'entends pas avec ton mari.
+
+[302530-303360]
+Ayi.
+Non.
+
+[303830-305820]
+A bɛ lɔ i kɔ de ma.
+Ce sont tes descendants qui vont en tirer les conséquences.
+
+[306280-307280]
+Unhun.
+Oui.
+
+[307550-309620]
+Hali fɔlɔ-fɔlɔ masakɛ-masakɛ>>
+Même auparavant le roi>>
+
+[309770-311580]
+E ma ye ko Sogolonjata wa?
+Tu ne vois pas qu'on dit Sogolondjata?
+
+[311840-315950]
+E y'a mɛn ko Makan Kɔnfata ka Jata wa?
+Tu as une fois entendu qu'on dit Djata de Makan Konfata?
+
+[316270-317690]
+A ba tɔgɔ de b'a kan.
+C'est le prénom de sa mère qu'il a pris.
+
+[318410-320390]
+Sogolon ye fɛn dɔ de laminɛ o.
+Sogolon a supporté un certain nombre de choses.
+
+[320550-321200]
+Unhun.
+Oui.
+
+[321350-325570]
+N'a ma fɛn dɔ laminɛn esike a bɛ fɔ ko Sogolonjata wa?
+Si elle n'avait pas supporté quelque chose, est-ce qu'on allait parler de Sogolondjata?
+
+[325660-326220]
+un-un.
+Non.
+
+[328780-330310]
+A tɛ fɔ ko Sogolonjata o.
+On n'allait pas parler de Sogolondjata.
+
+[330410-330990]
+Unhun.
+Oui.
+
+[333800-337440]
+Hali bi n y'o de fɔ n tɛ se ka fara n jatigiw la.
+C'est ce que dit à présent, je ne peux pas abandonner mes hôtes.
+
+[337490-339450]
+N b'u fo tuzuru.
+Je les salue toujours.
+
+[339800-343270]
+Eee pasike an bɛ Masarenw de bolo.
+Euh parce que nous sommes à la dispositions des Massarés.
+
+[343480-344900]
+A ye olu de bolo.
+Nous les appartenons.
+
+[345270-348020]
+Mɔgɔ o mɔgɔ ma n'a sɔrɔ i b'an sɔrɔ Masarenw de fɛ.
+Toute personne qui a besoin de nous doit passer par les Massarés.
+
+[348110-348840]
+Unhun.
+Oui.
+
+[350460-352360]
+Sunjata Keyita.
+Soundjata Keita.
+
+[355390-357790]
+Depi fɔlɔ-fɔlɔ lawale la.
+Depuis la nuit des temps.
+
+[358070-361050]
+Masarenw bɛɛ bɔra Masajalamurudanda de la. 
+Tous les Massarés viennent de Massadjalamouroudanda.
+
+[361910-364520]
+Masarenw benbakɛ Masajalamurudanda.
+L'ancêtre des Massarés est Massadjalamouroudanda.
+
+[364940-366550]
+O den de ye Jalika di.
+C'est son fils qui est Djalika.
+
+[366780-368960]
+Jalika den de ye Arabasi di.
+Le fils de Djalika est Arabassi
+
+[371180-376450]
+ Arabasi den de ye Lawalo di.
+Le fils de Arabassi est Lawalo.
+
+[376730-379370]
+Lawalo ta de ye Damanikalabi
+Lawalo a donné naissance à Damanikalabi
+
+[379540-380070]
+Unhun.
+Oui.
+
+[380120-382840]
+Damanikalabi o den de ye Latalikalabi di.
+Le fils de Damanikalabi est Latalikalabi.
+
+[383350-385570]
+Latalikalabi den ye Layilatulikalabi.
+Le fils de Latalikalabi est Layilatouloukalaba.
+
+[387060-394290]
+Layilatulukalabi o ta de ye Kalatibonba, Kalatidɔgɔma ani Tubinawali.
+Layilatouloukalabi a donné naissance à, Kalatibonba, Kalatidogoma et Tubinawai.
+
+[396800-398910]
+O de wolola Mamakanu na.
+C'est lui qui a donné naissance à Mamadoukanou.
+
+[402830-406830]
+Mamadukanu o de den ye Masajuruni ye.
+Le fils de Mamadoukanou est Massadjourouni.
+
+[407710-411430]
+Juruni den de yen ko Mamadi di.
+Le fils de Djourouni est Mamadi.
+
+[411520-412160]
+Unhun.
+Oui.
+
+[412200-414330]
+O Mamadi ta o de ye Masasigajata di.
+Celui de Mamadi est Massasigadjata.
+
+[415790-418010]
+Sigajata den de ye Ɲanimasa Mamuru di.
+Le fils de Sigadjata tes Gnanimassa Mamourou.
+
+[418620-419390]
+Unhun.
+Oui.
+
+[421310-426840]
+Ɲanimasa Mamuru o de ka denkɛ cɛ naani sɔrɔ.
+Gnanimassa Mamourou a eu quatre garçons.
+
+[426960-432430]
+Ko Kanusinbu, Kaniɲɔgɔnsinbu, Kabalasinbu an Lawalesinbu.
+Qu'il s'agit de Kanousimbou, Kanignogosimbou, Kabalasimbou et Lawalesimbou.
+
+[432510-433150]
+Unhun.
+Oui.
+
+[433240-440060]
+Lawalesinbu o de ye masa-o de ye Masaren boda la dɔgɔmani ye.
+La famille de Lawalesimbou est la plus petite parmi la famille d'origine des  Massarés.
+
+[440280-442680]
+Ni a bɛ fɔ oyi ma bi ko keyita.
+On les appelle Keita aujourd'hui.
+
+[443320-444770]
+O de ye Lawalesinbu ye.
+C'est lui Lawalesimbou.
+
+[445890-447820]
+O de ye Sunjata si ye.
+C'est lui le descendant de Soundjata.
+
+[450450-452010]
+O bɛɛ ba tɔgɔ de b'a kan.
+Ils ont tous pris le prénom de leur maman.
+
+[452380-454330]
+O kama muso ni sabali de ka kan.
+C'est pourquoi la femme doit se calmer.
+
+[455320-457190]
+Muso ka ka kan ka muɲu ka sabali.
+La femme doit être patiente.
+
+[459670-463060]
+Fɔlɔ-fɔlɔ masakɛ be yen bɛɛ ba tɔgɔ de b'i kan.
+Auparavant le roi prenait le prénom de sa mère.
+
+[463110-463710]
+Unhun.
+Oui.
+
+[463970-464970]
+N'i ma sabali>>
+Si tu ne te patientes pas>>
+
+[467590-472610]
+N'i ma sabali i tɛ nafa sɔrɔ foyi-foyi la diɲɛ kɔnɔ.
+Si tu ne te patientes pas, tu n'auras rien dans la vie.
+
+[474580-480330]
+A bɛ ke i n'a fɔ i walen mɔgɔyi bilasira, cɛlasigi.
+C'est comme si tu accompagnais les autres dans le foyer.
+
+[480680-490240]
+Ni e ma sabali ka muɲu i ya cɛlasigi  de bɛ kɛ sisan i n'a fɔ eee bokɛla-bokɛla walen ɲɛgɛn kɔnɔ foyi ma bɔ e bolo tasalen kɔ.
+Si tu ne te patientes pas, tu n'auras jamais la paix dans ton foyer.
+
+[490970-492780]
+E ta bɛ kɛ mɔgɔbilasira de di.
+Tu vas seulement accompagner les autres.
+
+[494560-499200]
+Ka diɲɛ kɛ sɛgɛn na ka tɔrɔkɔ-tɔrɔkɔ bɛɛ kɛ o laban e ma foyi sɔrɔ.
+Vivre en souffrance dans la vie mais à la fin tu es sorti bredouille.
+
+[500000-500840]
+Foyi.
+Rien.
+
+[502270-503320]
+Foyi mun ni.
+Rin du tout.
+
+[503800-506210]
+Muso dɔ bɛ yen o bɛ tɔɔrɔ kosɛbɛ.
+Il y a des femmes qui souffrent beaucoup.
+
+[506660-512300]
+Pasike Ala ka lajarabili ye eee muso ka tɔɔrɔya de ye furu kɔnɔ.
+La souffrance de la femme dans le foyer est une épreuve de Dieu.
+
+[512790-515630]
+Tɔɔrɔya ye mun ye?  Dɔw bɛ yen o cɛ ka sira foyi tɛ o la.
+La souffrance c'est quoi? Il y a certaines dont leur mari s'en fout d'elles.
+
+[516080-518870]
+Nasɔgɔ tɛ d'i ma den ka bezuwɛ tɛ d'i ma.
+On ne te donne pas la popote, on ne donne pas les besoins de l'enfant.
+
+[519270-520270]
+Foyi de tɛ di e ma.
+On ne te donne rien.
+
+[520710-522430]
+O ye Ala ka lajarabili de ye.
+C'est des épreuves de Dieu.
+
+[522500-526570]
+K'i peze k'i lajɛ n'a sɔrɔ n'a bɛ kun i fɛ
+T'éprouver voir si tu peux supporter.
+
+[528820-532410]
+Cɛ ka tɔɔrɔya ma kun muso o muso la a bɛ lɔ i kɔ de ma.
+Toute femme qui ne supporte pas les caprices de son mari, ta progéniture suffrira.
+
+[532550-533970]
+Ne yɛrɛ ye muso de ye.
+Moi même je suis une femme.
+
+[534030-534670]
+Unhun.
+Oui.
+
+[543210-544380]
+Ne yɛrɛ ye muso de ye.
+Moi même je suis une femme.
+
+[545030-546030]
+Ola>>
+Donc>>
+
+[547130-555750]
+Ala ye dakuruyan fila min kɛ n nɛnkun garijigɛ ye k'o lase aw ma o de tu ye nin ye.
+Grâce à Dieu, ce sont ces quelques propos que j'ai pus vous annoncer.
+
+[556330-560360]
+Eee n bɛ foli kɛ sanni wagati wɛrɛ cɛ.
+Euh je formule mes salutations en attendant.
+
+[560510-561930]
+Ne tɔgɔ de ye Awa Kuyate.
+Je m'appelle Awa Kouyaté.
+
+[562030-562630]
+Unhun.
+Oui.
+
+[562830-563910]
+Ka bɔ Kɛyoroba.
+Je suis de Kegnoroba.
+
+[564780-567370]
+Ne fa tɔgɔ Mamadi Kuyate.
+Mon père s'appelle Mamadi Kouyaté.
+
+[568760-570790]
+Mɛ n fa ka ca o ye sɔrɔ n fa ye.
+Mais beaucoup de père, il a l'âge de mon père.
+
+[570920-572660]
+N ba tɔgɔ Dusuba Dunbiya.
+Ma mère s'appelle Doussouba Doumbia.
+
+[572740-573650]
+Unhun.
+Oui.
+
+[573770-577490]
+Eee n kɔrɔw bɛ yen n bɛ folikɛ bi-bi n na.
+Euh mes aînés sont là-bas, je leur lance mes salutations.
+
+[577820-582020]
+N kɔrɔkɛba o min ye du kun na bi o ye Jɔgɔ Kuyate ye.
+Mon grand-frère aîné qui gère aujourd'hui la famille s'appelle Jogo Kouyaté.
+
+[582530-583610]
+Jeli Jɔgɔ Kouyaté.
+Le griot Jogo Kouyaté.
+
+[583710-584230]
+Unhun.
+Oui.
+
+[584780-592060]
+N mɔkɛ o ye Mamuruba Kuyate, Ferekebanjugu Kuyate ani Mamurubadɔgɔmanin Kuyate.
+Mes grand-pères sont: Mamourouba Kouyaté, Férékébandjougou Kouyaté et Mamouroudogomani Kouyaté.
+
+[592170-593070]
+Unhun.
+Oui.
+
+[593620-597130]
+Eee ani Kenjabala Kuyate.
+Euh y compris Kendjaballa Kouyaté.
+
+[597410-598980]
+Ne fa ka ca.
+J'ai beaucoup de pères.
+
+[599370-602860]
+N bɛ folikɛ n ka bondaw bɛɛ lajɛlen ye.
+Je salue toutes mes familles d'origine.
+
+[603210-607110]
+Ka folikɛ n cɛlasigiyɔrɔ ye n'o ye Narena ye.
+Je salue la famille de mon conjoint à Naréla.
+
+[607220-607690]
+Unhun.
+Oui.
+
+[608240-610730]
+N bɛ n burankɛ fo n'o Mɔrɔ Kante ye.
+Je salue mon beau-père qui s'appelle Moro Kanté.
+
+[610820-611820]
+Ɲagalen Mɔrɔ.
+Moro de Gnagalé.
+
+[611860-612440]
+UNhun.
+Oui.
+
+[612640-615250]
+N bɛ n buranmuso fo n'o ye Numutɛnɛ Bagayɔgɔ ye.
+Je salue ma belle-mère qui s'appelle Noumouténé Bagayogo.
+
+[615710-618080]
+An bɛ olu ka barika de kɔnɔ bi.
+Nous sommes là grâce à leur baraka.
+
+[619030-625760]
+N'i y'a mɛn a bɛ fɔ hali Nakutɛ, Numusa, muwali u ba te sɔnnɔ.
+Si tu vois qu'on parle de Nakuté, Noumoussa, Mouali, c'est parce que leur maman est bonne.
+
+[625860-626530]
+Unhun.
+Oui.
+
+[626620-633400]
+Hali ne yɛrɛ Awa Kuyate n nɛkun ye dakuruɲɛ fila min sɔrɔ ka fɔ a bɛɛ barika ye n ba barika de ye.
+Même moi Awa Kouyaté a tenu ces propos aujourd'hui grâce à la baraka de ma mère.
+
+[633470-634150]
+Unhun.
+Oui.
+
+[634180-636390]
+Pasike ni n ba ma ɲɛ n tɛ se ka kuma.
+Parce que si ma mère n'est pas bonne, je ne peux pas parler.
+
+[637880-640290]
+Mɔgɔ b'i ba fo yɛrɛwoloya de la.
+On salue sa mère grâce à la légitimité.
+
+[640820-644750]
+Eee i ba sɔnna k'i k'i fa den ye.
+Euh ta mère a accepté que tu sois un enfant légitime de ton père.
+
+[645090-646940]
+I bɛ barika bila i ba ye.
+Tu dois remercier ta mère.
+
+[647010-647500]
+Unhun.
+Oui.
+
+[647750-651980]
+N'a tun ye ne ba diya, a bɛ i to Kuyatela a bɛ n kɛ kulubali ye yen.
+Si ma mère voulait, elle pouvait m'avoir illégalement, je deviendrais un Coulibaly.
+
+[652040-654150]
+A b'i to Kuyatela a bɛ kɛ Kɔnɛ di.
+Étant dans la famille Kouyaté, elle m'aurait illégalement, je deviendrais un Koné.
+
+[654390-658630]
+N bɛ kuma min na nin ye Ala ni n ba Dusuba Dunbiya.
+Les propos que je tienne, c'est grâce à ma mère Doussonba Dombia.
+
+[658710-660630]
+Koromamuso n bɛ barika bil'a ye.
+Je remercie la femme Koroma.
+
+[662810-669840]
+N bɛ barika bila n kɔrɔw ye ani n dɔgɔw ani n furuyɔrɔ ye ani baarakɛɲɔgɔn bɛɛ lajɛlen ye.
+Je remercie mes aînés, mes petit-frères, mon foyer et tous mes collaborateurs.
+
+[669980-674170]
+Wɛrɛma ni n donna min gasi la a bɛ yafa n ma kuma ka gɛlɛ.
+Vraiment si j'ai vexé quelqu'un dans mes propos, pardonnez-moi, la parole est compliquée.
+
+[674340-675340]
+Unhun.
+Oui.
+

@@ -1,0 +1,939 @@
+[910-2905]
+Dutigiw de fɔlɔ ye lamɔ tiɲɛ.
+Ce sont les chefs de famille qui ont détruit en premier l'éducation.
+
+[3480-5194]
+N'ye a fɔ i ye kuma daminɛ kɔnɔ.
+Je te l'ai dit à l'entame du propos.
+
+[5524-8536]
+N'ko du tun bɛ, mara tun bɛ daminɛ du de kɔnɔ.
+Je dis la famille était, l'éducation commençait dans la famille.
+
+[8736-11938]
+Nka sisan mara tiɲɛni daminɛ na duw de fana kɔnɔ. 
+Mais maintenant, la détérioration de l'éducation a aussi commencé dans les familles.
+
+[12578-14044]
+Ka da mun kelen kan ?
+Pour quelle raison ?
+
+[14274-17698]
+Dutigiw bɛ bɔ kabini sɔgɔma fo su fɛ.
+Les chefs de famille sortent le matin jusqu'à la nuit.
+
+[17948-20042]
+E t'a dɔn e muso bɛ balo cogomi 
+Tu ne sais pas comment ta femme vit.
+
+[20532-22321]
+E t'a dɔn e muso bɛ balo cogomi.
+Tu ne sais pas comment vit ton enfant.
+
+[22651-24157]
+E bɛ na su dugutila.
+Tu viens tard la nuit.
+
+[24497-25737]
+E bɛ don k'i da.
+Tu rentres te coucher.
+
+[26017-27925]
+E ye a sɔrɔ e ka denbaya ye dumuni kɛ.
+Tu as trouvé que ta famille a mangé.
+
+[28125-30642]
+U y'a sɔrɔ cogomi na e tɛ o dɔn.
+La façon dont ils l'ont eu, tu ne le sais pas.
+
+[30816-31954]
+E tɛ o ɲɛɲini.
+Tu ne fais pas de recherche.
+
+[32504-33903]
+E ma i ka mara tiɲɛ ?
+Tu n'as pas détruit l'éducation de chez toi.
+
+[34559-37305]
+. E dutigikɛ, e de fɔlɔ ye mara tiɲɛ.
+Toi, le chef de famille, tu es le premier à détériorer l'éducation
+
+[37825-39027]
+A daminɛ na yen.
+Ça a commencé là-bas.
+
+[39277-41878]
+Ayiwa sisan nɔn mun bɛ na n'a tiɲɛni ye ?
+Maintenant qu'est-ce qui amène sa détérioration ?
+
+[42056-45663]
+Anw bangebaga musomanw, an bɛ an denmusow ye.
+Nous les mères, nous voyons nos filles.
+
+[46203-48058]
+An bɛ fɛn dagɛlɛnw ye u bolo.
+Nous les voyons avec des objets de luxe.
+
+[48303-49928]
+ U bɛ fini dagɛlɛnw san.
+Elles achètent des habits de luxe.
+
+[50078-51739]
+U bɛ samaradagɛlɛnw san.
+Elles achètent des chaussures de luxe.
+
+[51919-54289]
+U bɛ masirimafɛndagɛlɛnw san.
+Elles achètent des ornements de luxe.
+
+[54538-56150]
+U, an bɛ a ye u bolo.
+Nous les voyons avec.
+
+[56436-57577]
+An tɛ u ɲinika.
+Nous ne leur demandons pas.
+
+[57827-59017]
+« I y'a bɔ min ? »
+« Tu l'as eu où ? »
+
+[59219-60823]
+Aw mara tiɲɛ ?
+N'avez-vous pas détruit l'éducation ?
+
+[60955-66767]
+N'i ma se ka jɔ i den ka ɛ-ɛ-ɛ kow kɔrɔ, a kungo kɔrɔ <
+Si tu n'as pas pu subvenir aux besoins de ton enfant <
+
+[67147-69148]
+Den bɛ taa ɲini cogo fasɔn wɛrɛ la woo.
+L'enfant va chercher d'une autre manière.
+
+[69741-72930]
+Den taalen a ɲini cogo fasɔn wɛrɛ la, n'a nana <
+L'enfant en allant chercher d'une autre façon, quand il arrive <
+
+[73273-74358]
+E ma a ɲinika.
+Toi, tu ne lui as pas demandé.
+
+[74730-79498]
+Ɔɔ o de b'a to sini ni sinikɛnɛ tugu a bɛ bɔ a bɛ taa a ɲɔgɔn wɛrɛ ǩɛ. 
+C'est pourquoi il sort demain ou après pour aller faire la même.
+
+[79858-81128]
+O ye musomanw ta ye.
+ça, c'est pour les filles.
+
+[81468-82814]
+Den cɛmanw dun ?
+Et les garçons ?
+
+[83284-85033]
+Oluw ta ka jugu ni a bɛ ye woo.
+Pour eux, c'est encore pire que tout.
+
+[85403-86954]
+O juguyara ni a bɛ ye.
+C'est devenu pire que tout.
+
+[87230-88446]
+Bari muna ?
+Pourquoi ?
+
+[88916-92011]
+Oluw ta kɛlen bɛ « an bɛ taga minfɛn juguw de ta.»
+Pour eux, c'est : « Nous allons prendre des stupéfiants. »
+
+[92713-94085]
+U bɛ sirajuguw ta.
+Ils empruntent les mauvais chemins.
+
+[94766-96395]
+Furakisɛ kuntanw bɛ ta.
+Les mauvais comprimés sont pris.
+
+[96695-98126]
+Hakili bɛ ɲagami.
+Perdent l'esprit.
+
+[98376-99766]
+Hakili bɛna mun ye ?
+Que voit l'esprit ?
+
+[100046-101001]
+Nafolo.
+La fortune.
+
+[101181-101965]
+Wari.
+L'argent.
+
+[102925-104352]
+An ka wari ɲini.
+ Cherchons l'argent.
+
+[105264-106859]
+U kɛlen bɛ de sisan <
+Ils sont devenus maintenant <
+
+[107669-111028]
+U taa mɔgɔw ka  bolofɛn ntaraki u bolo.
+Ils arrachent les biens des personnes de leurs mains.
+
+[111634-114281]
+Kolokan, ɲɛnɛmatali.
+De force, une prise de force.
+
+[114561-115576]
+I su tɛ dɛɛ !
+Ce n'est pas de ta mort !
+
+[115896-117156]
+I tɛ sunɔgɔla dɛɛ !
+Tu ne dors pas !
+
+[117506-118796]
+I bɛ i ka bolifɛn kan.
+Tu es sur ton véhicule.
+
+[119096-124660]
+Den cɛmanw bɛ marifa de jɔ i la sisan, k'i ka bolifɛn minɛ i la.
+Les garçons te braquent maintenant le fusil pour t'arracher ton véhicule.
+
+[125509-129104]
+Saki nafoloman min mana kɛ i bolo, k'a minɛ i la.
+T'arracher le sac en argent que tu as.
+
+[129334-132065]
+Su t'a la bilen, tile t'a la bilen.
+Il n'y a plus question de nuit, il n'y a plus question de jour.
+
+[132645-134140]
+Mara tiɲɛna muna ?
+Pourquoi l'éducation est détériorée ?
+
+[134176-135296]
+Nafolo.
+La fortune.
+
+[135336-137097]
+Nafolo ye mara tiɲɛ.
+La fortune a détruit l'éducation.
+
+[137442-139076]
+E denkɛ  bɛ don sokɔnɔ.
+Ton garçon rentre à la maison.
+
+[139316-140490]
+E ɲɛ bɛ a la.
+Tu le vois.
+
+[140780-145430]
+Samara min b'a sen na, bolifɛn min b'a bolo e ma a di a ma.
+La chaussure qu'il a au pied, le véhicule qu'il a tu ne lui as pas donné ça.
+
+[145590-148232]
+Fini min b'a la, e m'a san a ye.
+L'habit qu'il a, tu ne lui as pas acheté ça.
+
+[148368-149902]
+E ka sɔrɔ tɛ o bɔ.
+Ton gain ne vaut pas ça.
+
+[150142-151366]
+E ma a ɲinika .
+Tu ne lui as pas demandé.
+
+[151726-155054]
+O tɛ o dabila dɛɛ ne filɛbaga ni ne lamɛnbagaw. 
+Lui ne va pas arrêter ça de mes spectateurs et auditeurs.
+
+[155361-156700]
+O de bɛ dɔ fara a kan.
+C'est ce qui en rajoute.
+
+[157210-158708]
+Lamɔ tiɲɛna yen.
+L'éducation est détruite à ce niveau.
+
+[158918-161264]
+Lamɔ nana tiɲɛ yɔrɔ jumɛn tugu ?
+L'éducation est encore détruite à quel niveau ?
+
+[161670-164217]
+Ee, a tiɲɛ cayala kojugu.
+Elle est détruite à plusieurs niveaux.
+
+[164633-166908]
+An tun bɛ an denw bila ka taa kalanyɔrɔ.
+Nous envoyons nos enfants à l'école.
+
+[167603-169572]
+Karamɔgɔw yɛrɛ ye lamɔtiɲɛ.
+Les enseignants ont eux-mêmes détruit l'éducation.
+
+[170361-172642]
+Oluw yɛrɛ de ka tiɲɛli juguyala n'a bɛɛ.
+Eux, ils ont fait plus de destruction que tous.
+
+[172704-173434]
+Hum !
+Hum !
+
+[173479-175246]
+Karamɔgɔw ye lamɔ tiɲɛ cogodi ?
+Comment les enseignants ont-ils détruit l'éducation ?
+
+[175466-179985]
+N' filɛbaga ni lamɛnbagaw, oluw yɛrɛ de bɛ jarabi den musomannin na.
+Mes spectateurs et auditeurs, ce sont eux qui tombent amoureux des filles.
+
+[181597-182879]
+U b'u ɲini.
+Ils couchent avec elles.
+
+[183419-185179]
+Aw ka hakɛ to kuma fɔ cogola.
+Excusez la manière de dire.
+
+[185587-187202]
+ U bɛ cɛnimusoya de kɛ u fɛ.
+Ils font des rapports sexuels avec eux.
+
+[187891-189641]
+Ka sɔrɔ ka jɔyɔrɔ di u ma.
+Avant de leur moyenne.
+
+[190406-192027]
+Denmusoninw tɛ kalan na bilen.
+Les filles n'étudient plus.
+
+[192426-193500]
+. U bɛ jɔyɔrɔ di u ma.
+Ils leur donnent la moyenne
+
+[193516-196743]
+Ni i sɔnna i ka karamɔgɔ la, jɔyɔrɔba bɛ di i ma.
+Si tu acceptes ton professeur, on te donne une bonne moyenne.
+
+[197148-198103]
+A bɛ e ɲini.
+Il couche avec toi.
+
+[198323-200931]
+N'a ye i ɲini ka cɛnimusoya kɛ ni i ye <
+Quand il couche avec toi, en te faisant le rapport sexuel <
+
+[201111-203037]
+Aw bɛ yafa n'maa, kuma n'a fɔcogo de do.
+Excusez-moi, c'est la manière de dire.
+
+[203307-204876]
+Ni n'ma fɔ a tɛ faamu.
+Si je ne le dis pas, ça ne va pas être compris.
+
+[205286-210980]
+Ni cɛnimusoya tɛmɛna i n'i ka karamɔgɔ cɛ walima i ni ka kalanden cɛ mara bɛ min bilen ?
+Où est l'éducation s'il se passe un rapport sexuel entre toi et ton professeur ou entre toi et ton élève ? 
+
+[211300-212630]
+Mara tɛ yen bilen woo.
+Il n'y a plus d'éducation encore.
+
+[212830-214063]
+Lamɔ tɛ yen bilen woo.
+Il n'y a plus d'éducation.
+
+[214468-217089]
+E min bɛ kan ka a lamɔ e yɛrɛ y'a tiɲɛ.
+Toi qui dois l'éduquer, tu l'as détruite.
+
+[217339-224274]
+A ka ca ala fɛ n'an bangebagaw ni an kunnajara, karamɔgɔ ninnu b'a fɔ ko oluw ta ye den ye.
+Plaît à Dieu si nous les parents si on a de la chance ces enseignants vont dire que ce sont leurs enfants.
+
+[224773-227692]
+Tuma dɔ la karamɔgɔ ninnuw b'a fɔ ko oluw ta tɛ den in ye.
+Souvent ces professeurs disent que ce n'est pas leur enfant.
+
+[228608-232154]
+Den bɛna a n'a ba,  a bɛna kɛ a somɔgɔw de kungo ye.
+L'enfant et sa mère, ça devient un problème des membres de sa famille.
+
+[232738-237940]
+Den cɛman ninnuw, n'u taara mɔgɔ bolofɛn ntaraki <
+Ces garçons, quand ils arrachent les biens des personnes <
+
+[238566-239657]
+U b'a kɛ su fɛ.
+Ils le font pendant la nuit.
+
+[239999-241308]
+U b'a kɛ tile fɛ.
+Ils le font durant la journée.
+
+[241530-247350]
+Buna hadama < hadamaden nin k'a bɔ sisan a bɛ komi sɛ an denkɛw bolo.
+Ôté la vie humaine, c'est comme ôter la vie d'un poulet pour nos fils.
+
+[248069-251104]
+Ni min minɛna, o bɛ taa yɔrɔ jumɛn ?
+Si on arrête un, où va-t-il ?
+
+[251254-252654]
+I bɛ taa kaso la.
+Tu vas en prison.
+
+[253099-254319]
+  E fa ma kaso kɛ.
+Ton père n'a pas fait de prison.
+
+[255199-257942]
+E wolola k'a sɔrɔ aw ka dukɔnɔmɔgɔ ma kaso kɛ.
+Tu es né sans qu'aucun membre de votre famille ne fasse la prison.
+
+[258092-260446]
+E ye lamɔ tiɲɛ wa e ma lamɔ tiɲɛ ?
+Tu as détruit l'éducation ou non ?
+
+[260672-261937]
+Lamɔ tiɲɛ na.
+L'éducation est détruite.
+
+[262767-263972]
+Denw y'a tiɲɛ.
+Les enfants l'ont détruite.
+
+[264122-266635]
+Nata de nana ni lamɔ ninnuw bɛɛ tiɲɛni ye.
+C'est la cupidité qui a conduit à la destruction de toutes ces éducations.
+
+[266785-270721]
+Ne kɔni bɛ min fɔ an bɛɛ ka fara ɲɔgɔn kan.
+Ce que je dis, c'est qu'on se met ensemble.
+
+[271321-279290]
+A kɛra mori ye woo, a kɛra soma ye woo, a kɛra doso ye woo, a kɛra fɛn o fɛn ye.
+Que ça soit un marabout, que ça soit un féticheur, que ça soit un chasseur, quoi que ce soit.
+
+[279330-282419]
+An bɛɛ de ye afiriki den ye.
+Nous sommes tous des enfants d'Afrique.
+
+[282692-284086]
+An ka an bolo di ɲɔgɔn ma.
+Donnons-nous la main.
+
+[284374-286224]
+An ka kumakan kelen sabati.
+Parlons tous de la même voix.
+
+[286837-288376]
+An ka lamɔ di an denw ma.
+Donnons l'éducation à nos enfants.
+
+[288817-290349]
+Ni an denw ye lamɔ sɔrɔ <
+Si nos enfants ont l'éducation <
+
+[290559-295158]
+Hali an filɛ min kɔnɔ, mɔgɔfagaba in, dɔ b'i bɔ a la.
+Même ces tueries, dans lesquelles nous, nous trouvons, vont diminuer.
+
+[296024-298418]
+  Denwoloba in, dɔ bɛ bɔ a la.
+Ces nombreuses naissances, ça va diminuer.
+
+[298748-301895]
+Den musomanninw filɛ kɛɛ ne filɛbaga ni lamɛnbaga.
+Regardez les filles, mes spectateurs et les auditeurs.
+
+[302191-308090]
+U bɛ fini dɔ don k'u bɛ taa kalanyɔrɔ la masaw ɲɛna.
+Elles portent certains habits devant les parents qu'elles vont à l'école.
+
+[308844-313400]
+I b'a sɔrɔ npalan min bɛ bila u kɛrɛ la ni u b'u ka kalan kɛ minɛw bila o kɔnɔ<
+Tu verras le sac qu'elle porte où elles mettent leurs fournitures <
+
+[313750-317667]
+I b'a sɔrɔ u ye u ka diɲɛdenya fini dɔ ta k'o bila o kɔnɔ.
+Tu verras qu'elles sont là-dans l'un de leur habit de libertinage.
+
+[317967-321700]
+Mansa cɛman tɛ a kalaman, mansa musoman tɛ a kalama.
+Le père n'est pas au courant, la mère n'est pas au courant.
+
+[321820-325907]
+E ye fini min ye a la ni ye sisan, e b'a fɔ k'a bɛ ka taa kalan yɔrɔ la.
+Les habits avec lesquels tu l'as vue, tu te dis qu'elle va à l'école.
+
+[326037-327759]
+Ko nin ye fini suturalen ye.
+Que c'est un habit correct.
+
+[328329-337002]
+Nka a mana bɔ k'a yɛlɛma dɔrɔn, du kelen du fila n'a y'a kɔ filɛ k'a ɲɛfilɛ a ɲɛ t'a dɔnbaga la <
+Mais quand elle tourne après une ou deux familles, quand elle regarde derrière et qu'elle ne voit pas de connaissance <
+
+[337404-340986]
+A kan ka taa ni fini min ye kalanyɔrɔ a bɛ o bɔ.
+Les habits avec lesquels elle doit aller à l'école, elles les enlèvent.
+
+[342085-345520]
+A ka dijɲɛdenfini, i b'a sɔrɔ o b'a ka npalan kɔnɔ.
+Tu verras qu'elle a ses habits de libertinage dans son sac.
+
+[345942-347703]
+A bɛ o ta k'o don a la.
+Elle se les met.
+
+[348493-351820]
+Anw minnuw t'a ɲɛdɔn, ni anw bɛ bɔlɔn kɔnɔ <
+Nous qui ne le sait pas et qui somment dans la rue <
+
+[352240-354064]
+Anw bɛ tila k'a fa ni a ba ɲini.
+Nous cherchons après son père et sa mère.
+
+[354546-357852]
+Ne ko woo, ni bɔra u ka so woo a fa n'a ba tun tɛ yen aa ?
+Je dis quand celle-là quittait leur maison, son père et sa mère n'étaient ils pas présents ?
+
+[358162-361254]
+Ne filɛbaga ni n' lamɛnbagaw, a kuma bɛ fɔ waa a tɛ fɔ ?
+Mes spectateurs et auditeurs, ça se dit ou pas ?
+
+[361502-362971]
+Ko nin ttɛ den maralen ye.
+Celui- là n'est pas un enfant éduqué.
+
+[363266-364230]
+Nin ma lamɔ.
+Celui-là n'est pas éduqué.
+
+[364520-369505]
+Nin bɔra ni nin fini min ye e yɛrɛ ni ala cɛ nin fini ye nin kan ka bɔ ni fini min ye.
+Les habits avec lesquels celle-là est sortie, tu jures par Dieu qu'elle doit sortir avec ces habits ?
+
+[369995-372402]
+I fa ni i ba nenni na fufalaki.
+Ton père et ta mère ont été insultés gratuitement.
+
+[372722-373412]
+A t'a dɔn.
+Elle ne le sait pas.
+
+[373482-374587]
+A bɛ ka kɛ mun kama ?
+Pourquoi ça se fait ?
+
+[374677-375790]
+Nafolo.
+La fortune.
+
+[376124-377015]
+Wari.
+L'argent.
+
+[377272-380002]
+N'a le ye p fini don ale tɛ taa kalanyɔrɔ bilen woo.
+Quand elle porte ces habits, elle ne va plus à l'école.
+
+[380432-381693]
+Ale bɛ taa don de.
+Elle va rentrer.
+
+[382024-388140]
+A kan ka don kuntigi kuntigi minnuw kan: jagokɛlaba ninnuw, suguba kɔnɔna ninnuw.
+Elle doit rentrer chez les chefs : les grands commerçants, dans les grands marchés.
+
+[388330-390816]
+An ni anw denw de bɛ bɛn u bɛ yala la.
+On rencontre nos enfants qui se promènent.
+
+[391088-398540]
+N'i ye i den dɔ ye ko ni bɔra so kɔnɔ ni nin fini ye, ka tila k'a ye bɔlɔn kɔnɔ i b'a fɔ ko n'ye den min wolo k'o tɛ.
+Quand tu vois un de tes enfants dire qu'il est sorti avec cet habit et après quand tu le vois dans la rue, tu te dis que ce n'est pas l'enfant que j'ai mis au monde.
+
+[398654-399444]
+Jaati.
+Oui.
+
+[399502-400676]
+Lamɔ ma tiɲɛ ?
+L'éducation n'est-elle pas détruite ?
+
+[401055-402156]
+A tiɲɛ na.
+Elle est détruite.
+
+[402914-407816]
+Den cɛman ninnuw, n'u bɛ taa ka taa u ka manamanako ninnuw kɛ <
+Les garçons quand ils vont faire leurs bêtises <
+
+[408033-409991]
+  I b'a s sɔrɔ dulɔki fila-fila b'u bolo.
+Tu verras qu'ils ont deux chemises chacun.
+
+[410503-412500]
+U bɛ fɛn dɔ ta k'o don u ɲɛ la.
+Ils prennent quelque chose qu'ils mettent sur le visage.
+
+[412545-414065]
+Ko : «N' kana dɔn.»
+Que : « L'on ne me reconnaisse pas. »
+
+[414541-416202]
+U b'u ɲɛda datugu.
+Ils masquent leur visage.
+
+[416622-417993]
+Ka dulɔkibolojanw don.
+Mettre les chemises manches longues.
+
+[418532-419886]
+Ka samara wɛrɛw don.
+Portent d'autres chaussures.
+
+[420307-421860]
+Ka marifa mɔgɔ la.
+Tire à fusil sur les personnes.
+
+[422233-424872]
+K'i faga, k'i bolofɛn ta.
+Te tuent et récupèrent ton bien.
+
+[425387-429687]
+Ni u tila la o la tuma min na, u bɛ fugulan in sama k'a bɔ u ɲɛ la.
+Quand ils finissent avec ça, ils retirent cette cagoule de leur visage.
+
+[429936-433037]
+I ye i ɲɛda de dogo, mɛ i ma i tɔgɔ dogo dɛɛ.
+Tu t'es caché le visage, mais tu n'as pas caché ton nom.
+
+[433426-434796]
+I ma i danbe dogo dɛɛ.
+Tu n'as pas caché ta dignité.
+
+[435246-436649]
+I ma i fa dogo dɛɛ.
+Tu n'as pas caché ton père
+
+[436890-438408]
+Ni i minɛna a la don min na dun ?
+Le jour où te prend ?
+
+[438650-441307]
+I ɲɛda in mana ye, i fa tɔgɔ de bɛ fo i ma.
+C'est le nom de père qu'on te donne quand on voit ton visage.
+
+[441605-443025]
+I ba tɔgɔ de bɛ fo i ma.
+C'est le nom de ta mère qu'on te donne.
+
+[443080-444797]
+Ko a ma a den lamɔ.
+Qu'elle n'a pas éduqué son enfant.
+
+[445403-447305]
+Fa ni ba bɛ neni tuguni.
+Le père et la mère sont encore insultés.
+
+[447410-448595]
+Mun y'a kɛ ?
+Qu'est-ce qui a fait ça ?
+
+[448745-450080]
+Lamɔ tiɲɛ na.
+L'éducation est détruite.
+
+[450485-452165]
+N'bɛna misali dɔ di aw ma.
+Je vais vous donner un exemple.
+
+[452475-453908]
+Ni o ye baronin dɔ ye.
+Qu'est une petite causerie.
+
+[454048-456802]
+N'bɛ a fɔ aw ɲɛna kuma lasuruɲa la.
+Je vais vous le dire en termes simples.
+
+[457151-458988]
+Nin kɛra cɛkɔrɔba dɔ ye.
+C'était un vieux.
+
+[459368-463027]
+Nin cɛkɔrɔba in ala y'a le garijɛgɛ muso la.
+Ce vieux a eu la chance d'avoir une femme.
+
+[463493-465071]
+Muso min sabali len do.
+Une femme soumise.
+
+[465615-467125]
+Muso min muɲu nen do.
+Une femme patiente.
+
+[467383-469083]
+Muso min bɛ cɛlasigi fɛ.
+Une femme qui aime le foyer conjugal.
+
+[469746-472044]
+Cɛkɔrɔba in, muso nana bɛ a ma a y'a furu.
+Ce vieux est tombé sur cette femme.
+
+[472415-473772]
+A y'a furu.
+Il l'a mariée.
+
+[474062-476231]
+U bɛ to ka taa ɲɔgɔn fɛ kungo kɔnɔ.
+Ils vont ensemble dans la brousse.
+
+[476725-478285]
+U bɛ taa u ka sɛnɛ kɛ.
+Ils vont faire leur culture.
+
+[479477-481320]
+U dahirimɛ bɛ sɛnɛ in de la.
+Ils ont leur nourriture dans cette agriculture.
+
+[481721-484430]
+U bɛ taa sɛnɛkɛ, u bɛ segin ɲɔgɔn fɛ.
+Ils cultivent et retournent ensemble.
+
+[484978-493234]
+Mɛ i b'a sɔrɔ an fɛ yen so, muso hali ni i ni cɛ bɛ sɛnɛ kɛ ɲɔgɔn fɛ, i b'a sɔrɔ i bɛ tigaforonin dɔ kɛ kɛrɛfɛ.
+Tu verras que chez nous même si la femme cultive avec son mari, elle fait petit champ d'arachide à côté.
+
+[493698-495996]
+Walima i bɛ kabaforonin dɔ kɛ kɛrɛfɛ.
+Ou tu fais un petit champ de maïs à côté.
+
+[496161-498473]
+Walima i bɛ ganforonin dɔ kɛ kɛrɛfɛ.
+Ou tu fais un petit champ de gombo à côté.
+
+[498894-504190]
+Ka lajɛ ni saminya baana ni i yɛrɛ mana  o tigɛ, ni n'ye o feere<
+Quand l'hivernage prend fin, quand je fais la récolte et je les vends <
+
+[504360-508555]
+N'bɛ se ka nafan dɔ sɔrɔ n'yɛrɛ ye  ka n'denw ladon.
+Je peux avoir des bénéfices pour entretenir mes enfants.
+
+[508906-512464]
+Ka da a kan cɛw tɛ muso dɛmɛn den ladon na, den fɛɛrɛbɔ ninnuw.
+Parce que les hommes n'aident pas les femmes dans l'entretien des enfants, leur habillement.
+
+[512916-514211]
+Cɛw  ka koba tɛ o ye.
+Ce n'est pas une préoccupation des hommes.
+
+[514376-517436]
+Musow de bɛ o sɛnɛninw kɛ k'u yɛrɛ dɛmɛ.
+Ce sont les femmes qui font ces petites cultures pour se dépanner .
+
+[517696-521182]
+Furumuso ɲalen ale ma ni si kɛ.
+La bonne femme n'a rien fait de tout ça.
+
+[521842-523676]
+Ale tugula a cɛ kɔ.
+Elle a suivi son mari.
+
+[524279-525646]
+Ka cɛ dɛmɛn sɛnɛ na.
+Elle a aidé son mari à cultiver.
+
+[526286-527346]
+U y'u ka sɛnɛ kɛ ɲɔgɔn fɛ.
+Ils ont fait leur culture ensemble.
+
+[527816-530546]
+Ni fitiri se la u bɛ na so.
+Quand arrive la prière du crépuscule, ils rentrent à la maison.
+
+[530801-533703]
+Ala y'u to o la, ka u dɛmɛ.
+Dieu les a aidés ainsi.
+
+[533891-535809]
+A nana u sɔn denkɛ fɔlɔ la.
+Il leur a donné un premier garçon.
+
+[536899-538474]
+Muso jiginna, den kɛra cɛ ye.
+La femme a accouché d'un garçon.
+
+[539381-542093]
+Den nana kɛ cɛ ye, den bɛ u bolo.
+L'enfant est devenu adulte avec eux.
+
+[542473-543652]
+U bɛ ka den in lamɔ.
+Ils sont en train d'éduquer cet enfant.
+
+[543782-547528]
+Ne filɛbaga ani ne lamɛnbagaw, ka ɲɔgɔn ladi de ye diɲɛlatigɛ ye.
+Mes spectateurs et auditeurs se conseillent mutuellement est le fonctionnement du monde.
+
+[547668-549614]
+Ne fana y'a mɛn n'mɔkɛ da.
+Je l'ai aussi appris avec mon grand-père.
+
+[549754-550775]
+A y'a fɔ n'ye.
+Il me l'a dit.
+
+[550945-556014]
+N'fana b'a fɔ dɔ fana ka se ka ta ne kɔ k'a kɛ k'a yɛrɛ waju.
+Moi aussi, je le dis pour que quelqu'un puisse se conseiller avec.
+
+[556155-556925]
+Unhun.
+Oui.
+
+[556963-562130]
+Sisan nɔ den in nana kɔrɔbaya u bolo, fo den in nana se san tanniwɔɔrɔ.
+Maintenant, l'enfant grandit dans le leur jusqu'à atteindre seize ans.
+
+[562541-564377]
+A kamalenkɔrɔ mala b'u bolo.
+Ils ont le gaillard.
+
+[564879-566257]
+Tɔgɔ tɛ den na.
+L'enfant n'a pas de nom.
+
+[566877-570427]
+Nin den bɔra kɛnɛman, u bɛ den weele ko «Kamalennin».
+Quand l'enfant sort, on l'appelle «Kamalennin».
+
+[571005-572742]
+Den tɔgɔ nana kɛ Kamalennin ye.
+Le nom de l'enfant est devenu Kamalennin.
+
+[573062-575000]
+Kamalennin, Kamalennin.
+Kamalennin, Kamalennin.
+
+[575370-578770]
+Aa don dɔ la de, u bɔra foro la u nana.
+Un jour, ils sont revenus du champ.
+
+[579231-581739]
+Denkɛ n'ye a fa n'a ba lasigi.
+Le fils a réuni son père et sa mère.
+
+[582249-587147]
+Ko «Ma ni Buwa, ne bɛ fɛ ka ko dɔ suda aw la.»
+Que : « Maman et Papa, je veux vous prévenir de quelque chose. »
+
+[587398-589330]
+«A bɛ kɛ aw ka yamaruya kɔnɔ dɛɛ!» 
+« Ça va se faire avec votre autorisation ! »
+
+[589507-590556]
+«Ani boɲa kɔnɔ.»
+« Et dans le respect. »
+
+[590856-595034]
+«Ni aw ye sira di yan, kuma dɔ bɛ n'fɛ n'bɛ fɛ ka o fɔ aw ɲɛna.»
+« Si vous m'offrez l'occasion, j'aimerais vous dire quelque chose. »
+
+[595404-597910]
+«N'a bɛ jaabi di yan a bɛ ja n'ye.»
+« Ça me ferait plaisir si vous me donniez une réponse. »
+
+[598020-600823]
+«Ni aw ma jaabi fana di yan, foyi tɛ a la.» 
+« Ce n'est pas grave si même si vous ne me donnez pas de réponse. »
+
+[601332-604326]
+Fa ko «N'den, i ye anw bonya.»
+« Tu nous as respectés. »
+
+[604476-606474]
+«An fana ye sira di i ma, kuma !»
+« Nous aussi, nous l'autorisons, parlés !. »
+
+[606664-613676]
+A ko : «Ne fa, ne  wolofuradama ni bi cɛ ni ne bɔra kɛnɛma ko «Kamalennin »»
+Il dit : « Mon père, depuis ma naissance jusqu'à aujourd'hui, quand je sors dehors, on dit «Kamalennin» »
+
+[613815-616621]
+«Ni ne don na so kɔnɔ ko «Kamalennin»»
+Quand je rentre à la maison, on dit «Kamalennin»
+
+[616679-618959]
+«Ne tɔɲɔgɔnw ko «Kamalennin»»
+« Mes camarades disent «Kamalennin»»
+
+[619159-621066]
+«Diɲɛ bɛɛ bɛ ne wele la ko «Kamalennin»»
+« Tout le monde entier m'appelle «Kamalennin» »
+
+[621284-627547]
+A fɔ ne sɔrɔ furadama aw fɛ, o ni bi cɛ aw ma se ka hali dɛgɛnin susu ?
+Dire que depuis ma naissance jusqu'à aujourd'hui, vous n'avez pas pu piller un petit brouet ?
+
+[627877-629955]
+«Ka mɔgɔw weele ka tɔgɔ da ne na ?»
+« Appeler les gens pour donner un nom ? »
+
+[630577-632242]
+«Ne tɔgɔ kɛra «Kamalennin ye ?»»
+« Mon nom est devenu «Kamalennin ? »»
+
+[632827-636061]
+A fa ko denkɛ ma : «Aa n'den i ye tiɲɛ fɔ.»
+Il dit à son fils : «Ah mon fils, tu as dit vrai. »
+
+[636086-636886]
+Unhun.
+Oui.
+
+[636901-638197]
+«Kuma la tiɲɛ tɛ ban.»
+«La vérité n'est pas à sens unique. »
+
+[638781-643942]
+«Ko nka e bɛ sɔrɔ wagati min, ko ne ni i ba hakili ma o ye ko an kan ka tɔgɔda i la.»
+« Moi et ta mère n'avons pas vu qu'on devrait te donner un nom au moment de ta naissance. »
+
+[643992-644962]
+Unhun.
+Oui.
+
+[645010-647025]
+«Ko mɛ aw yɛrɛ bidenw <»
+« Vous même les enfants d'aujourd'hui < »
+
+[647605-651676]
+«N'i ye tɔgɔda i den na a yɛrɛ bɛ taa kɛwale min kɛ<»
+« Si tu donnes un nom à ton enfant, l'acte qu'il va poser < »
+
+[651704-652154]
+Unhun.
+Oui.
+
+[652186-655502]
+«A yɛrɛ ka kamalenya tɔgɔ a bɛ o de da a la.»
+« Il se donne son propre surnom. »
+
+[655658-658724]
+«Ni a ye o da a la diɲɛ bɛɛ b'a weele ni o de ye.»
+« S'il nomme ainsi, le monde entier le nomme avec ça. »
+
+[658906-660677]
+«O de la an ma tɔgɔda i la.»
+« C'est pourquoi nous ne t'avons pas donné de nom. »
+
+
+
+

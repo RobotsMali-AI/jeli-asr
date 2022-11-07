@@ -51,7 +51,6 @@ class DisplayUtils(object):
         self.display_recording_overview(annots)
 
 
-
 class JeliTimeStamp(object):
     """ """
 
@@ -83,7 +82,7 @@ class JeliTimeStamp(object):
 class DateTimeUtils(object):
     """ TODO: Do later"""
     pass
-        
+
 class JeliLogger(object):
     """ TODO: Do later"""
     pass

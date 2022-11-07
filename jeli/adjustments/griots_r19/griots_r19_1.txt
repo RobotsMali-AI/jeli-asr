@@ -1,0 +1,588 @@
+[4280-8140]
+Eee an b'Ala fo k'a barida.
+Euh, nous saluons et remercions Dieu !
+
+[9420-11330]
+Ne tɔgɔ ye Nagnini Koné
+Je m'appelle Nagnini Koné.
+
+[12260-15920]
+Ne bɛ bɔ Falikɛ Diarra.
+Je viens dans le village de Falikɛ Diarra.
+
+[16840-18620]
+Juma Falikɛ 
+Falikɛ de DJouma.
+
+[18840-20360]
+A fa ye Kasiri ye.
+Son est Kassiri.
+
+[20980-26310]
+Ne ka sigida bɛnnen bɛ sigida filanan ma, Bamakɔ Ɲarela.
+J'habite à Ɲaréla dans la commune deux de Bamako.
+
+[27580-29980]
+Ne bɛ Ala fo k'a barida.
+Je salue et remercie Dieu.
+
+[31250-32940]
+Fɔlɔ bamananya>>
+Autrefois, le mode de vie traditionnelle>>
+
+[33820-35420]
+Laada kɔrɔlen>>
+L'ancienne coutume>>
+
+[36380-37950]
+Fɔlɔ bamananya de tun bɛ ye.
+Auparavant, nous vivions dans le mode vie traditionnelle.
+
+[38840-45030]
+Bamanan bɛ boli sɔn u bɛ komo bɔ, o y'a sɔrɔ silamɛya tɛ yen.
+Le bambara adorait féticher et utilisaient le komo avant l'avènement de l'islam.
+
+[45450-51530]
+O y'a sɔrɔ hɔrɔnya ani yɛrɛwoloya ani danbetigiya o de tun bɛ yen.
+En ce moment, il y avait l'honnêteté, la légitimité et la dignité.
+
+[52730-60740]
+N'i kɛra bamananden k'a kɛ yɛrɛwolo ye ka kɛ hɔrɔn ye, i ti maa janfa.
+Un bambara légitime et honnête ne trahit personne.
+
+[62910-71250]
+Fɔlɔ anw bamananw, laada kɔrɔlen na, anw baw tun bɛ kɔɔri de san o b'a d'an man.
+Chez nous, les bamabara auparavant, nos mamans nous achetaient du coton.
+
+[71680-77150]
+An musomaniw gurupu bɛ fara ɲɔgɔn kan, an bɛ dalajɛ ka taa musokɔrɔba kelen ka so.
+Nous les filles se réunissaient chez une seule vieille mère.
+
+[77510-82790]
+Musokɔrɔba in so, n'an b'a kono an bɛ se ka kɛ npogotigui bi saba, bi naani.
+Nous pouvons aller jusqu'à trente ou quarante personnes chez la vieille dame.
+
+[84370-89480]
+Bɛɛ ba bɛ kɔɔri san ka d'i ma i bɛ na a b'a sigi su fɛ a bɛ kɔɔri kolo bɔ.
+Chaque maman achète du coton pour sa fille, tu viens la nuit, vous allez égrener le coton.
+
+[89910-94930]
+N'a ye kɔɔri kolo bɔ karida bɛ di aw ma a bɛ kɔɔri siyen.
+Si vous finissez l'égrenage, on vous le cade, vous allez filer le coton.
+
+[95490-98310]
+N'a ya siyen a b'a kɛ fɛrɛ kɔnɔ ka sigi.
+Si vous le tissez, vous le mettez dans une corbeille.
+
+[98600-103480]
+I bɛ jɛnɛ ta k'i sigi kalajɛ i b'o fosi ka meleke.
+Tu prends le fuseau et t'asseoir pour l’enrouler.
+
+[103800-106140]
+N'i y'a meleke i bɛ kɔɔri parata.
+Si tu l’enroules, tu files le coton.
+
+[106330-108780]
+Npogotigi bi saba bɛɛ bɛ kɔri parata.
+Toutes les trente filles filent le coton.
+
+[108930-111790]
+Dɔ ta ye falen ye dɔ ta ye gese ye.
+Certaines font de fils
+
+[112000-115020]
+N'an y'o falen n'o gese parata k'o ban>>
+si l'on termine d'enrouler ces fils>>
+
+[117100-122960]
+Fonɛnɛ mana se o bɛ bɛn an ka cɛmaniw ka lada ɲɛnajɛ dɔ ma.
+Le début de la saison froide coïncide avec l'une de nos rites traditionnels des garçons.
+
+[123280-125110]
+Dugu cɛbalen bɛɛ bɛ wele.
+On appelle tous les initiés du village.
+
+[125460-132040]
+Bamananw bɛ tabale gosi ka dugu n'a lamini bɛɛ wele k'an bɛn'a ka cɛmaniw sigi nɛgɛ kɔrɔ bi.
+Les bambara tapent le grand tambour pour inviter les villages environnants à assister aux cérémonies de circoncision de leurs garçons.
+
+[133170-135840]
+N'an nana an bɛ taa an bɛ si ka ɲɛnajɛ kɛ fɛrɛ la.
+Nous partons fêté à la place publique pendant toute la nuit
+
+[136250-137820]
+An b'an ka lada donkiliw da.
+Nous chantons nos chansons traditionnelles.
+
+[138030-139130]
+An bɛ ton kɛ.
+Nous dansons.
+
+[139330-141710]
+An nisondiyalen bɛɛ kɔntannen.
+Nous sommes toutes égayés et contentes
+
+[141980-144440]
+Bɛɛ b'a fɔ ko n den bɛna don cɛya la bi.
+Tout le monde dira que son garçon aura la qualité d'homme aujourd'hui.
+
+[144700-151030]
+O y'a sɔrɔ cɛw bɛ san mugan, san tan ni duuru i b'o sɔrɔ k'a sɔrɔ i ma sigi nɛgɛ kɔrɔ.
+Durant cette période, les garçons pouvaient atteindre quinze à vingt ans sans être circoncis.
+
+[151520-157630]
+N'o bolokoli nana kɛ an sera jɛ kɛnɛ kan numu bolokoli kɛ sɔgɔmada fɛ fajiri fɛ bɛɛ bɛ taa kɛnɛ kɔnɔ.
+Après cette circoncision de purification par les forgerons, tout le monde se retrouve à la place publique à l'aube.
+
+[157980-164240]
+Cɛw bɛ taa, gɛrɛ nin cɛmaniw ye musow bɛ to kɔfɛ u bɛ dunun fɔ u bɛ dɔnkili da npogotiginiw bɛɛ bɛ dɔn kɛ.
+Les hommes accompagnent les garçons, les femmes les suivent avec le tam-tam, le chant, les filles dansent.
+
+[164890-173510]
+Nin min den nana ni numuw y'a sigi nɛgɛ kɔrɔ bɛnkɛ b'i jɔlen to kɔfɛ ko ni ye n balimakɛ den ye ni ye n balimamuso den ye
+Les oncles  viennent suivre les cérémonies de circoncision des fils de leur frère ou de leur sœur.
+
+[174210-175970]
+A sigira nɛgɛ kɔrɔ bi.
+Il est circoncis aujourd'hui.
+
+[177010-185840]
+A y'a fɔ numuw ɲɛna, a k'a fɔ tontigiw ɲɛna k'a  fɔ bamanan ɲɛna ko ne ko n ye badenmuso den sɔn muso.
+Il faut informer les forgerons, aux nobles et au bambara que je donne une femme au fils de ma sœur.
+
+[187890-189320]
+Muso bɛ d'a ma.
+On lui donne une femme.
+
+[189960-194680]
+ Kɔɔri min paratara u bɛ taa di gesedala ma gesedala b'a tɔntɔn.
+Ils vont donner le coton filé au tisserand pour le tissage.
+
+[195300-204430]
+N'a y'a tɔntɔn k'a bɔ k'a bila, u bɛ, muso dir'o min ma n'o farala cɛw kan o ka kusabi o bɛ bɔ o la.
+Après avoir fini de tisser, on confectionne le petit boubou du nouveau marié.
+
+[205800-213200]
+Kalo saba kalo naani an npogotigi minnu dalajɛlen do n'an bɛ si musokɔrɔba ka so u bɛ na k'an fara ɲɔgɔn kan.
+Ils vont nous réunir, les filles, qui ont passé trois à quatre mois ensemble chez la vieille.
+
+[213470-218100]
+O bɛ se ka kɛ garanke ye a bɛ se ka kɛ jɔn ye a bɛ se ka kɛ jeli ye.
+Celui-là peut être un cordonnier, il peut être esclave, il peut être un griot.
+
+[218310-219970]
+ N'an nana n'an farala ɲɔgɔn kan>>
+Si nous-nous réunissons>>
+
+[220200-224650]
+Su mana ko fiyɛn dɔ b'a bolo dalilu b'a bolo fiyɛn.
+Elle a une jarre sacrée qu'elle utilisait la nuit.
+
+[225580-227790]
+A bɛ musomaniw fara ɲɔgɔn kan.
+Elle réunit toutes les filles.
+
+[227980-232890]
+A bɛ na n'an ye n'a nana a b'a bɛ jɔ a bɛ b'a ko ji in na kelen-kelen. 
+Elle vient avec nous, tout le monde va se laver dans cette eau un à un.
+
+[233130-237800]
+O y'a sɔrɔ npogotigi tɛ duloki don, npogotigi tɛ taafe siri.
+En ce moment, les filles ne portaient ni culotte ni pagne.
+
+[240340-243980]
+Baya juru tan, tan ni fila o b'a sir'i la. 
+On t'attache dix à douze ceintures de perles.
+
+[245230-246700]
+I bɛ tile bɛɛ ban n'o ye.
+Tu fais toute la journée avec celles-ci
+
+[247090-249670]
+I bɛ taa tɔn mantɔn kogo kɔnɔ n'o lɛnpɛ de ye.
+Tu vas accompagner les autres dans la brousse avec ce cache-sexe.
+
+[250300-251540]
+I tɛ kulisi don.
+Tu ne portes pas de culotte
+
+[252260-254030]
+I bɛ ji ta n'o lɛnpɛ de ye.
+C'est avec ce cache-sexe que va transporter l'eau.
+
+[254750-260540]
+ N'i fana bɛ na fara musow kan sisan o bɛ na musow ka lada kɛ.
+Pour que tu puisses devenir comme les autres femmes, ils font faire les rites traditionnels des femmes.
+
+[260960-263820]
+U bɛ jamana fara ɲɔgɔn kan ka tabale gosi.
+Ils tapent le grand tambour pour réunir tout le pays.
+
+[264320-267340]
+Musomani minnu b'an bolo ɲina o bɛ furu san wɛrɛ.
+Les filles qui sont là cette année seront mariées l'année prochaine.
+
+[267420-269760]
+An bɛ fɛ minnu bɛ furu san wɛrɛ olu ka sigi.
+Nous voulions que celles qui seraient mariées l'année prochaine soient excisées.
+
+[270300-278520]
+U bɛ na ka na tabale gosi, dunun bɛ fɔ, tɛgɛrɛ bɛ fɔ nisondiya bɛ jira bɛ kɔntannen do ko n den bɛna fara musow kan.
+Ils vont jouer le grand tambour, les tam-tams, on applaudit, on manifeste la joie, chacun est content parce que sa fille est devenue pubère.
+
+[278800-280050]
+N den bɛna kɛ muso ye.
+Ma fille deviendra une femme.
+
+[280520-281730]
+I bɛ sigi nɛgɛ kɔrɔ.
+On t'excise.
+
+[282380-287510]
+U b'u, i furu don mana se o bɛ sɔrɔ ka lɛnpɛ ni baya in bɔ e la.
+Le jour de ton mariage, on t'enlève la ceinture, du cache-sexe et la ceinture de perles.
+
+[287990-290240]
+Ka kɔnɔwolonwulafnidennin sir'i la.
+On te fait attacher un petit pagne à …
+
+[291010-294460]
+N'o sirila i la e bɛ san bɛɛ ban n'o ye.
+Si l'on l'attache, tu vas faire toute l'année avec ceci…
+
+[295490-297520]
+I b'o siri i bɛ duloki don o kan.
+Tu l'attaches et tu portes une chemise.
+
+[297740-299720]
+I bɛ taa to mantɔn i cɛ la kungo kɔnɔ.
+Tu vas donner le repas à ton fiancé au champ.
+
+[300150-301150]
+I b'ɛ na.
+Tu reviens.
+
+[301560-303590]
+O cɛ n'o kɛra fɛn ye.
+Si son mari devient riche>>
+
+[304090-306690]
+San maaa yɛlɛma o b'a muso to kɔrɔkɛ bolo.
+Au début du nouvel an, il confie sa femme à son grand frère.
+
+[307280-309060]
+A bɛ taa tungan fɛ.
+Il va en étranger.
+
+[309220-314360]
+N'a taara n'a ye fɛn sɔrɔ n'a nana, a ka kan ni fɛn min ye a b'o kɛ.
+S'il revient avec de l'argent, il va lui récompenser.
+
+[314580-318790]
+Kɔmi a bɛ se ka kɛ a bɛ du jɔ a bɛ se ka kɛ a bɛ tɛrɛn san.
+Il se peut qu'il construise une maison ou achète un terrain.
+
+[319120-322900]
+N'a y'a san n'a y'a jɔ,n'a bana a b'a kɔrɔkɛ wele.
+S'il l'achète et construit, il fait appel à son grand frère.
+
+[323680-325360]
+Kɔrɔkɛ de ye dutigi ye.
+C'est le grand frère qui est le chef de famille.
+
+[325570-327460]
+A bɛna a bɛ du di kɔrɔkɛ ma.
+Il va donner la maison au grand frère.
+
+[328140-330540]
+N'i kɔrɔkɛ ko a ka dan yɔrɔ min na a bɛ jɔ ye.
+Il respecte le grand frère.
+
+[330890-333490]
+N'i kɔrɔkɛ ko k'a sigi yɔrɔ min na a bɛ sigi yen.
+Il suit les conseils de son grand frère.
+
+[334130-337500]
+Bamananan laada an tun b'o de don fɔlɔ.
+C'est cette coutume qu'on connaissait chez les bambara.
+
+[337800-341780]
+Su mana ko npogotigiw bɛ bɔ ka jɔ fɛrɛ la bɛɛ bɛ donkili da.
+Pendant que toutes les filles se retrouvaient à la place publique pour chanter.
+
+[342150-343840]
+I b'i diyaɲabaa fasa da.
+Tu fais les louanges de ton chéri bien aimé.
+
+[344060-348220]
+I b'i ka fini ta cɛ min ka d'i ye i bɛ taa ka taa bila cɛ in kan na.
+L'homme que tu aimes, tu vas poser un tissu sur son cou.
+
+[348520-351770]
+O cɛ yɛrɛ fana bɛ na a bɛ na ka na e perezante dunufɔlaw la.
+Cet homme aussi va te présenter aux joueurs de tam-tam.
+
+[352960-355820]
+O fana b'a jira ko muso b'ale bolo.
+Il fait savoir aussi qu'il a une femme.
+
+[356230-360240]
+San wɛrɛ dɔ wɛrɛ fana ta bɛ kɛ o fana bɛ na o b'i perezante.
+L'année suivante, une autre personne aussi va se présenter.
+
+[360940-361940]
+An bɛ to ten.
+Nous restons comme ça.
+
+[362660-372020]
+N'an tora ten, anw b'an ka laadatigiya a n'an ka tontigigi an b'u fara ɲɔgɔn kan ni saraka min ka kan ka bɔ o bɛ bɔ.
+Nous réunissons les nobles et les gardiens des vieilles coutumes pour faire des sacrifices nécessaires.
+
+[372290-377520]
+N'an ye sarakaw bɔ n'an  tilala dugutigiw ni kafotigi ni tontigiw bɛ ɲɔgɔn fara ɲɔgɔn kan.
+Après les sacrifices, les chefs, de village, de canton et les gardiens des vieilles coutumes se rassemblent.
+
+[380110-383200]
+A y'an ci ci min na anw taara an ye ci ɲɛnabɔ
+La tâche que vous nous aviez confiée est réglée.
+
+[383470-385220]
+Ci kɛra ta ci kɛra ta.
+C'est comme ça que l'affaire s'est passée.
+
+[386130-393430]
+Mɛ yɛrɛwolo san kɔnɔ, yɛrɛwolobulon kɔnɔnan na  karisa de ka kan ka ni di ɲina.
+Dans le vestibule, on décide de la personne, qui est légitime, qui doit donner une telle chose.
+
+[393900-399860]
+N'o ka kan bɛ misi ma o bɛ minɛ e ka misi la o bɛ di o bɛ faga.
+Si le choix tombe sur le bœuf, tu vas le donner et on l'égorge.
+
+[400930-402780]
+Bamananw dalajɛlen do.
+Les bambara sont réunis.
+
+[403480-408650]
+An b'an ka ɲɔdulɔ min an ka tulon kɛ an b'an ka yɛlɛ kɛ.
+Nous buvons nos vins traditionnels, nous nous amusons, nous rions.
+
+[409050-414210]
+I tɛ se walimuso ma i tɛ s'i fadenkɛ muso ma i tɛ maa janfa.
+Tu ne couches pas avec la femme d'autrui, tu ne couches pas avec la femme de ton frère, tu ne trahis personne.
+
+[414970-419880]
+O y'a sɔrɔ silamɛya ma na bamananya kɔnɔ.
+Pendant ce temps, il n'avait d'islam dans le milieu bamabara.
+
+[420230-426200]
+Bamananya ye ko belebele de ye diɲɛ- Mali taabolo la.
+Le mode de vie traditionnel est très important dans le fonctionnement du Mali.
+
+[427000-429170]
+Hɔrɔnya yɛrɛ fɔlɔ-fɔlɔ ye bamanan ye.
+Le bambara est le plus honnête.
+
+[430540-435510]
+Bamananden, n'i kɛra hɔrɔn yɛrɛwolo ye, a bɛ bɔ bamananya de kɔnɔ.
+Le bambara symbolise l'honnêteté.
+
+[436650-438580]
+A tɛ kɔmi siya tɔw lagosili don dɛ.
+Ce n'est pas pour dénigrer les autres ethnies.
+
+[438830-440470]
+Mɛ fɔlɔ bamanan bɛ maloya.
+Mais auparavant le bambara avait honte.
+
+[441200-448000]
+N'a fɔra ko nin ye bamannanden sɛbɛkɛla de ye k'a bɛ sɛnɛ de kɛ k'a ye sonyani kɛ a b'a yɛrɛ faga.
+Un cultivateur bambara sérieux, s'il vol, il se tue.
+
+[450000-454870]
+Anw fɛ yen, Duma Falikɛ kɛlɛ tigi tun do.
+Chez nous là-bas, Falikɛ de Douma était un guerrier.
+
+[455000-456110]
+A bɛ se kɛlɛ kɔrɔ.
+Il maîtrisait la guerre…
+
+[457640-458690]
+A bɛ s'a yɛrɛ kɔrɔ.
+À avait la maîtrise de soi.
+
+[459310-460420]
+Se b'a ye.
+Il était fort.
+
+[461310-463870]
+N'a tigɛr'i n'a cɛ i b'a to a ta la.
+Si tu l'affrontes, il te vainc,
+
+[464490-465710]
+Pasike se b'a ye.
+Parce qu'il est fort.
+
+[466930-468050]
+Masa do.
+C'est un roi.
+
+[468580-469580]
+A balolen do.
+Il est déterminé.
+
+[470400-471400]
+Bamanan do.
+C'est un dépositaire des coutumes traditionnelles
+
+[472370-473460]
+Diarrakunba ni kaaya.
+Incompréhensible
+
+[474660-476430]
+Kabumurujara ni balnzandon
+Incompréhensible.
+
+[476630-479210]
+Ni ɲamanakulu bɛ sɔn yɛrɛwolow de bɛ wele.
+Si l'on veut offrir un sacrifice à la colline de Ɲamana, on fait appel aux légitimités traditionnelles.
+
+[480010-482800]
+K'a ye bɔ k'an bɛ taa Ɲamana kulu sɔn bi.
+Qu'ils sortent pour aller offrir un sacrifice à la colline de Ɲamana.
+
+[483520-484900]
+An b'an ka tontigiw wele,
+On fait appel aux gardiens des vieilles coutumes.
+
+[485750-487150]
+Numuw bɛ da anw ko.
+Les forgerons nous suivent.
+
+[487670-488860]
+ An b"an ka misi san.
+Nous achetons notre bœuf.
+
+[489390-490590]
+An bɛ woro ta.
+Nous prenons les noix de cola.
+
+[491100-492360]
+Nɔnɔkɛnɛ bɛ ta.
+On prend du lait frais.
+
+[492880-494050]
+Filenkura bɛ ta.
+On prend une calebasse neuve.
+
+[494620-498980]
+N'o bɛ na maa min den ma k'e kan ka k'o kɛ o don e bɛ kɛ k'o wo datugu.
+Si le choix tombe sur n'importe quel enfant, il sera sacrifié.
+
+[501870-503130]
+Bamananya.
+C'est le mode de vie traditionnel.
+
+[504200-505270]
+Foyi t4a kɔnɔ.
+Il n'y arien.
+
+[505840-513780]
+Bamananw mana siggi n'u ye tiɲɛ da o ye buguri da san kɔnɔ fɛn o fɛn bɛ kɛ o b'a fɔ.
+Si les bambara font la divination, ils peuvent dire tous les évènements qui vont se dérouler dans l'année.
+
+[514310-518920]
+San kɔnɔ ni fɛn o fɛn ka kan ka dilan ni ko jugu ni min ka kan datugu o b'o datugu.
+Dans l'année, ils vont prévenir les malheurs du village.
+
+[521580-526070]
+Taamadenw mana jigi bɛɛ bɛ boli ka na ko n badenkɛ nana.
+Si les circoncis arrivent tout le monde court pour accueillir son frère.
+
+[526470-529140]
+Bɛɛ boli ka na ko ne den nana.
+Chacun court pour accueillir son fils.
+
+[529400-532050]
+Bɛɛ bɛ boli ka na eee ko ne ka tanba nana.
+Chacun vient en courant, en disant euh mon Tamba est venu.
+
+[532240-533560]
+Ne ka so maa ni nana.
+Mon fils adoré est venu.
+
+[533690-534870]
+Anw ka dutigi nana.
+Notre chef de famille est venu.
+
+[536850-538300]
+An bɛ fara ɲɔgɔn kan.
+On se réunisse.
+
+[538560-539600]
+Tabale bɛ gosi.
+On tape le grand tambour.
+
+[539690-543690]
+Ci bɛ bila o musolakaw ayiwa a denmuso cɛ nana dɛ.
+On informe les membres de famille, de la femme, de l'arrivée de leur beau-fils.
+
+[544310-546420]
+Ayiwa o tuma a bɛ labɛnw kɛ.
+Donc, vous allez faire des préparatifs.
+
+[546960-552190]
+Cɛ nana ka ban an bɛ fɛ ka dɔgɔ ɲini an bɛ kɔɲɔ gosi, an bɛ kɔɲɔ dununba gosi.
+Le mari est déjà arrivé, nous voulons jouer du tambour pour célébrer le mariage.
+
+[552850-556470]
+Jeliw bɛ wele u bɛ taa dunun fɔ.
+On invite les griots à jouer du tambour.
+
+[556680-558380]
+An bɛ fasa da hɔrɔnw na.
+On fait l'éloge des nobles.
+
+[558850-561350]
+Min se ye miliyɔn ye b'o d'i ma.
+Certains peuvent te donner des millions.
+
+[561520-563650]
+Fɔlɔ kɛmɛ tun ye miliɲɔn ye.
+Auparavant, cinq cents francs avaient la même valeur qu'un million.
+
+[564270-566510]
+Waa kɛmɛ a bɛ d'i ma.
+On pouvait te donner cinq cents mille francs.
+
+[566810-570560]
+O tun ye kolokisɛ ye n'u y'a kɛ minɛn kɔnɔ u b'a d'i ma.
+C'étaient des coris, ils les mettaient dans une tasse et on te le donnait.
+
+[570770-581340]
+Ni min y'i sɔn kolokisɛ kɛmɛ o b'i sɔn kolokisɛ dɛbɛ, bonya kɔnɔ karama kɔkɔ, jigi kɔnɔ, layidu kɔnɔ.
+On pouvait te donner de quarante jusqu'à cent coris dans le respect et la considération.
+
+[581450-584390]
+An bɛ kɔɲɔ dunun gosi ka kɔɲɔ kɛ.
+On joue du tambour pour célébrer le mariage.
+
+[584460-588430]
+Bɛɛ kɔntannen, bɛɛ fɛrɛlen, bɛɛ wasalen.
+Tout le monde est content, tout le monde est à l'aise, tout le monde est satisfait.
+
+[588700-592360]
+Kɔɲɔ bɛ kɔɲɔkɛ ni kɔɲɔmuso min nɔfɛ kɔɲɔkɛ nalen bɛ ka bɔ dugu la.
+En ce moment, il se trouve que le marié vient de retourner de son voyage à l'étranger.
+
+[592840-595500]
+A bɛ fɔ k'an ka taa kɔɲɔkɛ ka sama finiw jira.
+On va dire d'aller présenter les cadeaux d'habits de la nouvelle mariée.
+
+[597310-604640]
+Kɔɲɔkɛ taara tugan fɛ a taara fɛn ɲinin a nana fɛn min d'a muso ma a b'a fara ɲɔgɔn filen kɔnɔ.
+Le nouveau marié part à l'aventure pour la richesse, s'il vient avec des cadeaux pour sa femme, on les mettait dans une calebasse.
+
+[605440-609220]
+K'a fara ɲɔgɔn kan k'a kɛ lɛfɛ kɔnɔ ka pomati d'a kan.
+On les réunissait dans un éventail en paille.
+

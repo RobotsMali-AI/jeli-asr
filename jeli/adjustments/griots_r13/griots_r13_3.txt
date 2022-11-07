@@ -1,0 +1,584 @@
+[360-3090]
+N bɛ bɔ yen, n bɛ na To.
+Je quitte là-bas pour venir à To.
+
+[5920-14170]
+Ɛɛ Kana, i mana bɔ Tisala i bɛ ba tigɛ ka na Kana.
+Eh Kana, quand tu quittes Tisala, tu traverses le fleuve pour venir à Kana.
+
+[14750-16180]
+Kana, kɛlɛmasadugu don.
+Kana est un village de guerriers.
+
+[16670-17700]
+Cɛfarindugu don.
+C'est un village d'hommes forts.
+
+[17940-21310]
+U ye kɛlɛ kɛ ka kɛlɛ mɔɔnɔbɔ Bitɔn fɛ.
+Ils ont fait la guerre et la poursuivre derrière Biton.
+
+[23200-27000]
+U farala Bitɔn kan, u ma siran, u ma yɔgɔyɔgɔ.
+Ils ont soutenu Biton, ils n'ont ni craint ni paniqué.
+
+[29531-36320]
+N bɛ bɔ yen, n bɛ don Bitɔn ka dugu kɔnɔ.
+Après là-bas, je rentre dans le village de Biton.
+
+[37330-38150]
+Ɲamana.
+Niamana.
+
+[38450-41730]
+Bɛndugu Ɲamana, bamanandugu, cɛfarindugu.
+Bendougou Niamana, un village de bambaras et de guérriers.
+
+[42620-47390]
+Bitɔn bɔra yen ka na donsoya la Segu.
+Biton a quitté là-bas pour venir faire la chasse à Ségou.
+
+[48010-51550]
+A ye sogo de bon, a ye sogo nɔminɛ.
+Il a tiré et poursuivi le gibier.
+
+[52800-55640]
+K'a nɔminɛ fɔ ka taa se 
+Inaudible
+
+[56573-58920]
+A taara se jiri dɔ kɔrɔ.
+Il est arrivé sous un arbre.
+
+[59500-60550]
+A yɛlɛnna k'i sigi yen.
+Il est monté sur cet arbre.
+
+[62313-71020]
+Kɔnɔw nana fɔ a ye : a donsokɛ n'i ye yan sɛnɛ, i b'a kɛ fini ye.
+Les oiseaux sont venus lui dire: ah, chasseur, si tu cultives ici, il faut cultiver le fonio. 
+
+[71630-76800]
+N'i y'a kɛ fini ye, kɔnɔw man'a ta k'a dun, i bɛ yen mara.
+Si tu cultives le fonio, partout où les oiseaux vont amener ses grains, tu gouverneras là-bas.
+
+[78293-81490]
+A seginna ka na Bɛndugu Ɲamana.
+Il est retourné à Bendougou Niamana.
+
+[81990-86390]
+A nana Ɲamana min kɛ, kɔnɔw ye fini in bɛɛ dun. U y'a lagosi k'a lakari. 
+Lorsqu'il est venu à Niamana, les oiseaux ont picoré tout le fonio; il a été saboté.
+
+[87440-95110]
+A seginna ka na, surugu ko a ma: i bɛ taa, i bɛ ba tigɛ.
+Il est retourné, l'hyène lui a dit: il faut traverser le fleuve.
+
+[95460-100380]
+I bɛ ba tigɛ, n'i taara se Segu, yen y'i sigiyɔrɔ ye.
+Tu traverses le fleuve et si tu arrives à Ségou, c'est là-bas que tu dois t'installer.
+
+[100800-105660]
+[Mais] i bɛna sigi fanga kunna [mais] bɛnka caman b'a la dɛ.
+Tu seras roi mais c'est avec beaucoup de conventions.
+
+[106730-109950]
+U bɛn'a fɔ u ka kalabɔ kɛ.
+Ils vont décider d'organiser des élections.
+
+[110530-113660]
+Kalabɔ mana kɛ, u b'a fɔ k'u ma jɛn n'a ye.
+Après les élections, ils vont dire qu'ils ne sont pas d'accord avec ton pouvoir.
+
+[114470-116220]
+U bɛna kalabɔ kɛ tun, u b'a fɔ k'u ma jɛn n'a ye.
+Ils vont reprendre les élections, ils diront toujours qu'ils ne sont pas d'accord.
+
+[116660-118010]
+U y'okɛ fɔ siyɛn wolonwulan.
+Ils ont fait cela jusqu'à sept fois.
+
+[118640-123740]
+Bamanan cɛkɔrɔba ba dɔ bɛ yen, o ko : a' ye fara hasidiya ma.
+Il y avait un vieux bambara qui leur a dit : arrêtez la jalousie.
+
+[127610-129920]
+Kala tako duuru wɔɔrɔ a [gagnera].
+Sept élections, il a gagné.
+
+[130340-130970]
+A' y'a to.
+Laissez-le!
+
+[131470-133480]
+[Bon] Bitɔn kɔrɔ ye bi tɔn.
+Bon Biton veut dire Bi-ton.
+
+[134490-136890]
+O de kɛra Bitɔn n'o tɛ a tɔgɔ ye Mamari.
+C'est ce qui est devenu Biton sinon son nom est Mamari.
+
+[138920-141320]
+Bi tɔn bi tɔn o de kɛra Bitɔn ye.
+Bi-ton bi-ton c'est ce qui est devenu Mamari.
+
+[141910-144970]
+O la a yɛrɛ dalen bɛ yɔrɔ jumɛn?
+Alors où est-ce qu'il repose?
+
+[145460-146440]
+O ye Sekɔrɔ ye.
+ça c'est Sekôrô.
+
+[146870-149200]
+N'i ko Sekɔrɔ, fanga kɔrɔla yan.
+Quand tu dis Sekôrô, le pouvoir a vieilli ici.
+
+[149690-150690]
+Fanga basigira yan.
+Le pouvoir s'est stabilisé ici.
+
+[151390-152390]
+A kaburu bɛ yen.
+Sa tombe se trouve là-bas.
+
+[153120-156700]
+N'i bɔra Sekɔrɔ i bɛ na Sebugu.
+Quand tu quittes Sekôrô, tu viens à Sébougou.
+
+[157210-158410]
+Sebugu kɔrɔ ye mun ye?
+Que signifie Sébougou?
+
+[158710-161670]
+Fanga bugunna yan k'a basigi yan.
+Le pouvoir s'est développé et stabilisé ici.
+
+[162590-165170]
+I bɛ bɔ Sebugu ka na Sekura.
+Tu quittes Sébougou pour arriver à Sékoura.  
+
+[165770-166770]
+Sekura kɔrɔ ye mun ye?
+Que signifie Sékoura?
+
+[167480-168550]
+Fanga kurala yan.
+Le pouvoir s'est renouvelé.
+
+[169780-171900]
+I bɛ bɔ Sekura ka na Segu.
+Tu quittes Sékoura venir à Ségou.
+
+[172450-174400]
+Segu, fanga seginna so.
+Ségou, le pouvoir est revenu à la maison.
+
+[177820-184570]
+Fanga mɔɔnɔbɔra yen k'a jɛnsɛn ka yɔrɔ bɛɛ minɛ.
+Le pouvoir s'est élargi là-bas et s'est répandu pour dominer partout.
+
+[186300-193830]
+Fanga bɔlen yen, u ye kɛlɛkɛcɛw ta ka taa Kɔrɛ.
+Après ils ont emmené les guerriers à Kôrè.
+
+[193950-195220]
+Ka taa Kɔrɛ Dugakɔrɔ sigi.
+Pour aller introniser Kôrè Dugakôrô.
+
+[195820-198590]
+Ka bɔ yen ka taa Jakuruna ka Toto sigi yen.
+Après là-bas ils sont allés à Diakourouna pour introniser Toto.
+
+[199050-200050]
+Olu ye kɛlɛ cɛfarinw ye.
+Ce sont des guerriers.
+
+[200140-205080]
+Ni ko k'u bɛ muruti, olu bɛ olu kunbɛn ni marifa ye.
+En cas de révolte, ils les contrecarrent avec les fusils.
+
+[206120-207480]
+Kɛlɛcɛ caman b'u bolo.
+Ils ont beaucoup de guerriers.
+
+[209400-213260]
+Ni kɛlɛ nana bin Segu kan, u bɛ fara Segu kan ka kɛlɛ kɛ.
+Si on attaque Ségou, ils aident Ségou à faire la guerre.
+
+[216324-218700]
+I mana bɔ yen, i bɛ na Too.
+Quand tu quittes là-bas, tu viens à Too.
+
+[220760-226040]
+Bila kɛrɛfɛ dugu dɔ bɛ yen ko Jaramana.
+A côté de Bla, il y a un village appelé Diaramana.
+
+[226690-228420]
+Jaramana, bamananw don.
+Diaramana, ce sont des bambaras.
+
+[229200-232830]
+Bamanan minnu don, o duuminen bɛ sɛnɛ de kan.
+Ce sont des bambaras qui sont basés sur l'agriculture.
+
+[234201-238420]
+Jaramana kɔrɔ ye min ye, anw b'an ja yan kan, an tɛ bɔ yan.
+Diaramana signifie : nous nous appuyons sur ici, nous ne quitterons pas ici.
+
+[238840-240034]
+O de kɔrɔ ye ko Jaramana.
+Cela veut dire Diaramana.
+
+[249530-261560]
+N'i bɔra Jaramana, i bɛ na Ntoranaso.
+Quand tu quittes Diaramana, tu viens à Ntoranasso. 
+
+[261850-263840]
+Ka bɔ Ntoranaso ka na Yangaso.
+De Ntoranasso à Yangasso.
+
+[265010-267090]
+I bɛ bɔ Yangaso ka na Bila.
+Tu quittes Yangasso pour venir à Bla.
+
+[268250-269311]
+A bɛɛ ye Jɔkadugu ye.
+Tous sont des villages de Diôka.
+
+[270250-273930]
+Malew bɛ yen, Tangara bɛ yen, Buwarɛw bɛ yen.
+Il y a des Mallé, des Tangara, des Bouaré.
+
+[274890-277250]
+N'i ko Male, Male ye Jɔka ye.
+Si tu dis Mallé, c'est le Diôka.
+
+[278060-280250]
+N'i ko Tangara, Tangara ye bamanan ye.
+Si tu dis Tangara, les Tangara sont des bambaras.
+
+[281430-286010]
+U ye Segu dɛmɛ kɛlɛ la, Tangara, Buwarɛ, Kulubali.
+Ils ont aidé Ségou pendant la guerre: les Tangara, les Bouaré, les Coulibaly.
+
+[286780-290670]
+Olu de farala Segu masakɛ kan ka kɛlɛ kɛ.
+C'est eux qui ont aidé le roi de Ségou à faire la guerre.
+
+[292180-295370]
+Nin n bɔra yen, n bɛ na Too.
+Je quitte là-bas pour venir à Too.
+
+[295860-299730]
+O ye Miɲankala ni Jɔka cɛ ye.
+ça c'est entre Diôka et Miankala.
+
+[300570-303810]
+Dugu dɔ bɛ yen ko Ngolokunna, Ngolokunna Seriba ka dugu ye.
+Il y a un village appelé Ngolokouna,  c'est le village de Ngolokouna Sériba.
+
+[304250-305110]
+Olu ye Jirew de ye.
+Ce sont des Djiré.
+
+[305792-307570]
+U fana nana mɔriyasen de fɛ.
+Ils sont aussi venus par voie de maraboutage.
+
+[308030-309030]
+Jire kɔrɔ ye mun ye?
+Que signifie le nom Djiré?
+
+[310406-311406]
+Gireli mɔrikɛ.
+Le marabout de Kireli.
+
+[312170-315090]
+Gireli mɔrikɛ, o de yɛlɛmana k'o kɛ Jire ye.
+Le marabout de Gireli, c'est ce qui est devenu Djiré.
+
+[316060-317060]
+Jireya nana tan.
+Le nom Djiré est venu comme ça.
+
+[318870-324610]
+[Bon] n bɛ bɔ yen, n bɛ taa Dakumana.
+Bon, je quitte là-bas pour aller à Dakoumana.
+
+[325340-327460]
+Dakumana, bamanan dugu don.
+Dakoumana, c'est un village bambara.
+
+[327790-332410]
+Kodɔn dugu don [mais] u ka kodɔn, muso de y'a di u ma.
+C'est un village de savoir; mais leur savoir leur a été donné par une femme.
+
+[332700-337360]
+O de nana ni laadafɛn ye k'a di u ma.
+C'est elle qui est venue leur donner le fétiche.
+
+[337790-341070]
+Laadafɛn in dilen, u bɔra k'u bɛ taa muso in bila.
+Après avoir pris le fétiche, ils sont sortis pour aller accompangner la femme.
+
+[341390-348360]
+U ko a n'an ye muso in to yen n'an m'a janfa, a bɛna taa a di maa wɛrɛ ma.
+Ils se sont dit, si nous laissons partir cette femme, elle va aller donner la même chose à quelqu'un d'autre.
+
+[348940-351020]
+U ye muso janfa yen.
+Ils ont trahi la femme là-bas.
+
+[354670-355810]
+Laadafɛn tora u bolo.
+Le fétiche est resté avec eux.
+
+[356300-357860]
+Dalilubɔ.
+Un rite.
+
+[358290-364140]
+Ni dalilu in bɛ bɔ, sankunbɛn o sankunbɛn bɛɛ bɛ bɔ, a' bɛ taa dalilu bɔ.
+Chaque nouvel an, tout le monde sort pour célébrer ce rite.
+
+[364830-370450]
+N'u ma mɔgɔ sɔrɔ, min ye dakuntigi ye o bɛ sa.
+S'ils ne trouvent personne, le maître de la cérémonie rituelle meurt.
+
+[370540-373000]
+[Mais] n'u y'e ye, e bɛ sa.
+Mais s'ils te voient, toi tu meurs.
+
+[373450-375180]
+N'e y'u ye, e bɛ sa.
+Si toi tu les vois, tu meurs.
+
+[375610-377180]
+U nan'a fɔ ko Dakumana.
+Ils ont fini par dire Dakoumana.
+
+[377750-381660]
+O kɛra Dakumana ye, u bɛ dalilu de bɔ; laadalafɛnw don.
+C'est qui est devenu Dakoumana; ils pratiquent les rites traditionnels.
+
+[382798-385010]
+Ka bɔ yen ka na Galakan.
+De là-bas à Galakan.
+
+[385770-390370]
+Galakan, olu sigira yen ko anw b'an galamantɔn yan.
+Galakan, eux, se sont installés là-bas en disant : nous nous établissons ici.
+
+[390920-391670]
+O kɛra Galakan ye.
+C'est ce qui est devenu Galakan;
+
+[392320-392900]
+Bamananw don.
+Ce sont des bambaras.
+
+[393520-397960]
+U ko Bitɔn, an bɛ fara i kan k'i dɛmɛ kɛlɛ la.
+Ils ont dit à Biton : nous allons t'aider à faire la guerre.
+
+[398380-400580]
+I kana s'an ma, an kana se i ma.
+Tu ne nous attaqueras pas, nous ne t'attaquerons pas.
+
+[400820-401780]
+An t'i janfa.
+Nous ne te trahirons pas.
+
+[402370-403180]
+O ye Galakan ye.
+ça c'est Galakan.
+
+[403810-408070]
+N'i bɔra yen, i bɛ na Ɲeca.
+Quand tu quittes là-bas, tu viens à Niétcha.
+
+[408730-413440]
+Ɲeca, olu ye bamananw ye [mais] Tangaraw don.
+Niétcha, ce sont des bambaras mais des Tangara.
+
+[414420-417100]
+Tangara minnu don, bamananw don.
+Ce sont des Tangara bambaras.
+
+[418200-420850]
+U bɔra Bila ka na sigi Ɲeca. 
+Ils ont quitté Bla pour venir s'installer à Niétcha.
+
+[422170-431690]
+N bɛ bɔ yen, n bɛ n munu-munu n bɛ taa Kɔnina.
+Je quitte là-bas, je quitte là-bas pour partir à Kônina.
+
+[432620-437080]
+Kɔnina, mɔri gɛlɛnw taara sigi yen.
+Kônina, des marabouts réputés sont allés s'installer là-bas.
+
+[437410-438850]
+O lu ye Konatɛw ye.
+Ce sont des Konaté.
+
+[439370-440710]
+Konatɛw de sigira yen.
+Les Konaté se sont installés là-bas.
+
+[441380-446360]
+[Mais] minnu y'a tu tigɛ, olu ye Jaraw ye.
+Mais ceux qui l'ont fondé sont des Diarra.
+
+[447010-448430]
+Nka Konatɛw de y'a tɔgɔ sɔrɔ.
+Mais ce sont les Konaté qui ont pris le nom.
+
+[448880-453510]
+Dɔw bɛ dugu tu tigɛ, o ni dugukolo tigui o tɛ kelen ye.
+Y en a qui fondent le village mais qui sont différents des propriétaires de la terre.
+
+[454610-461350]
+[Bon] ni laadako min nana, minnu ye dugukolotigiw ye, olu b'a kuma fɔ.
+Bon, quand une question de tradition arrive, ceux qui sont les propriétaires des terres, ce sont eux qui en discutent.
+
+[461760-464950]
+Dɔ ninnu bɛ kɛ, dugutigiya bɛ falen-falen u ni ɲɔgɔn cɛ.
+Les chefs de village sont choisis parmi les autres-là.
+
+[466800-467940]
+O ye Jɔkala kɔnɔ ye.
+ça c'est à l'intérieur de Diôkala.
+
+[468440-470900]
+Jɔka ye kɛlɛ kɛ ka kɛlɛ kɛ.
+Le Diôka a assez fait la guerre.
+
+[471210-477220]
+Ni n bɔra yen, n bɛ na don Segu bafɛbolo kɔnɔ.
+Quand je quitte là-bas, je viens dans la partie de Ségou vers le fleuve.
+
+[479610-482020]
+I bɛ ba tigɛ ka taa Kala.
+Tu traverses le fleuve pour aller à Kala.
+
+[482730-489330]
+Ka bɔ yen ka taa Bakarijanna.
+De quitter là-bas pour aller à Bakaridianna.
+
+[489920-491800]
+Bakarijan wolola min?
+Où est né Bakaridian?
+
+[492560-493974]
+Bakarijan wolola Tamani.
+Bakaridian est né à Tamani.
+
+[494553-497420]
+Tamani, tɔgɔtigidugu don.
+Tamani, c'est un village de célébrités.
+
+[498130-499030]
+Dugulendugu don.
+C'est un village autochtone.
+
+[499650-503480]
+Kabin'a sigira tɔgɔtigi dama de bɛ bɔ yen.
+Depuis qu'il est né, il n'y a que les célébrités qui y naissent.
+
+[504790-507480]
+Tamani Aba bɔra yen, o y'a tile kɛ.
+Tamani Aba vient de là-bas, il a fait son temps.
+
+[508910-517950]
+Bakarijan bɔra yen ka taa lamɔn ŋama.
+Bakaridian a quitté là-bas pour aller grandir à Ngama.
+
+[518410-526020]
+Ka kulusi ta yen, ni ko gɛlɛn min nana, faama b'a bila o la, a b'o kɛ.
+Il est devenu homme là-bas et quand une situation difficile arrive, le roi lui confie cela et il la résout.
+
+[526570-528860]
+Kɛlɛ nɔgɔyalen, a taara sigi Bakarijanna.
+Après la guerre, il est parti s'installer à Bakaridianna.
+
+[529420-530607]
+Bakarijanna bɛ ba kɔfɛ.
+Bakaridianna se trouve derrière le fleuve.
+
+[531510-533730]
+I bɛ bɔ Kalabugu ka taa Bakarijanna.
+Tu quittes Kalabougou pour aller à Bakaridianna.
+
+[533850-537400]
+N'i bɔra yen, i bɛ taa Bayon.
+Quand tu quittes là-bas, tu vas à Bayon.
+
+[537890-539311]
+Bayon fana bɛ ba kɔfɛ.
+Bayon aussi se trouve derrière le fleuve.
+
+[540070-543190]
+N bɛ bɔ yen, n bɛ segin ka na Segu.
+Je quitte là-bas et je reviens à Ségou.
+
+[543770-546510]
+N'i ko segu, i ko kɛlɛmasadugu.
+Qui dit Ségou, dit une ville de guerriers.
+
+[547330-550800]
+N'i ko kɛlɛmasadugu, i ko dɔnnidugu, seko.
+Qui dit ville de guerriers, dit ville de savoirs et de culture.
+
+[552030-555540]
+Bamanan, ne bɛ n bama n yɛrɛ kan.
+Bamanan, je m'appuie sur moi-même.
+
+[555790-557690]
+N tɛ siri maa na, maa tɛ siri n na.
+Je ne dépends de personne, personne ne dépend de moi.
+
+[558700-559790]
+O ye bamananya ye.
+ça c'est être bamanan.
+
+[560170-561430]
+Nka fɔcogo caman b'a la.
+Mais il y a plusieurs manières de le dire.
+
+[562100-567160]
+Dɔw b'a fɔ maa min banna a ma na.
+Certains disent : celui qui a nié son Seigneur.
+
+[567440-568270]
+O ye bamanan ye.
+ça c'est le bamanan.
+
+[568720-571110]
+A fɔko ɲuman ye mun ye?
+Quelle est la bonne manière de dire?
+
+[571460-573460]
+Maa min b'i bama a yɛrɛ kan, a tɛ siri maa na.
+Celui qui s'appuie sur lui-même, il ne dépend de personne.
+
+[573950-574620]
+O de bamanan ye.
+C'est ça le bamanan.
+
+[576500-581300]
+U bɔra yen ka taa Sirabilen.
+Ils ont quitté là-bas pour aller à Sirablén.
+
+[582110-584970]
+U ye Segu Ngolo dɛmɛ kɛlɛ la.
+Ils ont aidé Ngolo de Ségou pendant la guerre.
+
+[586170-587874]
+Ka Aladeeli caman k'a ye.
+Ils ont fait beaucoup de prières pour lui.
+
+[589120-592020]
+N'i bɔra Sirabilen, i bɛ taa
+Quand tu quittes Sirablén, tu vas à …
+

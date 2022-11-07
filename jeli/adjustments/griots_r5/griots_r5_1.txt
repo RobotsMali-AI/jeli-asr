@@ -1,0 +1,595 @@
+[4880-5700]
+Aw ni yantuma.
+Salut à tous.
+
+[14075-14995]
+Aw ni yantuma.
+Salut à tous.
+
+[15979-17970]
+Ɛ ! ne ye Bakɔrɔba Jabatɛ ye.
+Je suis Bakoroba Diabaté.
+
+[19999-23114]
+N bɛna kuma an ka Mali de kan.
+Je vais parler de notre Mali;
+
+[23279-24812]
+N bɛna kuma an ka jamana kan.
+Je vais parler de notre pays.
+
+[25407-27516]
+Ne tɔgɔ ye Jeli Bakɔrɔba Kuyatɛ.
+Je m’appelle Djéli Bakoroba Kouyaté.
+
+[30081-31831]
+N'i y'a mɛn ko Mali <
+Quand on parle du Mali<
+
+[32098-33506]
+Jamana belebele don.
+C'est un grand pays.
+
+[34259-35439]
+Jamana fɛrɛlen do.
+C'est un pays vaste.
+
+[36399-38120]
+Siya bɛɛ b'a kɔnɔ.
+Il y a toutes les ethnies.
+
+[38558-40353]
+Diinɛ bɛɛ b'a kɔnɔ.
+Il y a toutes les religions.
+
+[41432-43463]
+Wa a bɛɛ bɛnlen don kelen kan.
+Ils sont tous d'accord sur la même chose.
+
+[44286-46406]
+N'o ye jamana taabolo ɲuman ye.
+Qui est la bonne marche du pays.
+
+[47087-51792]
+An bɛna kuma waati min kow kan, o y'a sɔrɔ Mali tɛ yen.
+Les choses dont nous allons parler,  le Mali n'existait pas à l'époque.
+
+[52037-53559]
+Burikina tɛ yen.
+Le Burkina n'existait pas.
+
+[53739-54805]
+Sɛnɛgali tɛ yen.
+Le Sénégal n'existait pas.
+
+[55015-56106]
+Korowari tɛ yen.
+La Côte D'Ivoire n'existait pas.
+
+[56285-57253]
+Moritani tɛ yen.
+La Mauritanie n'existait pas.
+
+[58024-60604]
+Anw bɛɛ tun bɛ wele jamana kelen de la.
+Nous étions tous du même pays.
+
+[62529-63589]
+N'o ye Mande ye.
+Qui est le Mandé.
+
+[66308-70649]
+O weleli kɔnɔ, jamana yɔrɔ caman tun bɛ yen.
+Sous cette appellation, il y avait plusieurs parties du pays.
+
+[71824-76932]
+N bɛna kuma min kan bi, o ye Kulibaliw ye.
+Ceux dont je vais parler aujourd'hui, ce sont les Coulibaly.
+
+[78156-81755]
+jamu, fɛn belebele don.
+Le nom est une grande chose.
+
+[82502-87849]
+Dɔnku n'i ye jamu lajɛ, jamu ye majamunikan dɛ ye.
+Donc quand on considère un nom, c'est l'éloge de ce nom qu'il s'agit.
+
+[88143-92480]
+I tun mana koba min kɛ anw fɛ yan, e tun bɛ majamu ni o ye.
+Ton éloge était fait à partir de la grande tâche que tu avais accomplie. 
+
+[93231-96147]
+Sɛbɛnni nalen, jamu de jɔra.
+Avec l'avènement de l'écrit, on mit fin au nom.
+
+[97840-106880]
+A tun tɛ i n'a fɔ min e ye  Kulibali, wali e ye Jara ye,  ubiyɛn e ye  Jalo ye  ko e den fana bɛ wele o jamu na.
+Ce n’était pas parce que tu t'appelais Coulibaly ou Diarra ou bien Diallo que ton enfant devait porter le même nom.
+
+[107344-112051]
+E den fana tun mana koba min kɛ, a fana tun bɛ majamu ni o ye.
+On faisait aussi l'éloge de ton enfant à partir de la tâche   qu'il avait accomplie. 
+
+[112380-115921]
+O majamunikan, a bɛ fɔ o de ma ko jamu.
+C'est cet éloge qu'on appelle le nom.
+
+[118081-119693]
+O jamu dɔ ye jumɛn ye ?
+L'un de ces noms, lequel est-ce ?
+
+[119923-121413]
+A bɛ fɔ o ma ko masaren jamu.
+On les appelle des noms royaux.
+
+[121753-125900]
+Masarenw fana, Mandenkaw dɛ don.
+Les Masaren aussi sont des Mandés.
+
+[126640-131467]
+Ɔ n'i y'a mɛn ko masaren Masaren, o fɔra Keyitalakaw de ma ko Masaren.
+Quand on parle de Masaren, il s'agit des Keita qu'on appelle Masaren.
+
+[132510-138000]
+A ni jamu minnu bɔra ɲɔgɔn na an bɛ se k'a fɔ olu bɛɛ ma ko Masarenkunda.
+On peut appeler groupe ethnique des Masaren  les noms issus du même patronyme.
+
+[139956-143663]
+N'i y'a mɛn ko Masaren, Masaren Mande, dɔwɛrɛ tɛ masadenw kɔ.
+Quand on parle de Masaren au Mandé ce n'est autre que les enfants du roi.
+
+[144110-148930]
+Ni masadenw bɔra k'u jɔ, mɔgɔw b'a fɔ ko masadenw filɛ, masadenw filɛ.
+Quand les princes apparaissent en public, les gens disent : «Voici les enfants du roi, voici les enfants du roi»
+
+[149357-156003]
+O de nana yɛlɛma mɔgɔw nɛn kan, masadenw, masadenw dɔw ko masalew dow ko masarenw.
+Tous ceci a évolué dans la bouche des gens, les Massaden, certains disent les Massale, d'autres disent les Massaren.
+
+[156233-157939]
+O ye da kɛcogo ye.
+ça c'est la façon de prononcer.
+
+[160323-178298]
+O Masarenya kɔnɔ jamu minnu b'a kɔnɔ: Keyita, Konatɛ, Konarɛ, Daɲɔn, Dantɛ, Dugunɔn, Somanɔn,  Kulubali, Berete, Goyita.
+Dans ce clan des massaren, les noms qui y figurent sont: Keita, Konaté, Konaré, Dagnon, Danté, Dougougnon, Soumano, Coulibaly, Berthé, Goita.
+
+[178508-179880]
+Nin bɛ ye masarenjamu ye.
+Tous sont des patronymes Massaren.
+
+[180360-182111]
+Hali kaja a tɔ yɛrɛ fana bɛ yen.
+Même Kaja, et il y en a encore d'autres.
+
+[184671-190031]
+Ɔ nin masarenjamuw na, n bɛna kuma Kulubaliw de kan. 
+Parmi ces patronymes massaren, je vais parler des Coulibaly.
+
+[190739-196159]
+Olu de bɔra maninkala, ka u ɲɛsin ka taa kɔrɔn fɛ.
+Ce sont eux qui ont quitté le pays malinké pour se diriger vers le nord.
+
+[200015-205514]
+O Kulubaliw la : Ɲangolo ani Baramangolo <
+Parmi ces Coulibaly : Gnangolo et Baramangolo <
+
+[206314-208740]
+Olu de ni u ka jama wulila.
+Ce sont eux qui sont partis avec leurs gens.
+
+[208822-211165]
+Dugu dɔ bɛ yen ko Tɔrɔgɛlɛnin.
+Il y a un village qu'on appelle Tôrôguelenin.
+
+[211372-215676]
+Tɔrɔgɛlɛnin, bi a bɛ sɔrɔ Kɔnɔwari mara kɔnɔ.
+Tɔrɔgueleni se trouve aujourd'hui sur le territoire ivoirien.
+
+[216114-219050]
+Parisike ne y'a fɔ, nin waati la o y'a sɔrɔ Kɔnɔwari ko tɛ yen.
+Parce que je l'ai dit, à cette époque il n'y avait pas la Côte d'Ivoire.
+
+[219915-221323]
+A bɛ Kɔnɔwari yɔrɔ jumɛn?
+De quelle partie de la Côte d'Ivoire parle-t-on?
+
+[221473-223091]
+An b'a fɔ yɔrɔ min ma ko Wojɛnɛ.
+Il s'agit de la ville qu'on appelle Odienné
+
+[226391-235446]
+Ɲangolo ani Baramangolo u n'u ka jama, u wulila ka bɔ Tɔrɔgɛlɛnin k'u ɲɛsin kɔrɔn kan.
+Gnangolo , Baramangolo et leurs gens ont quitté Tôrôgueleni et se sont dirigés vers le nord.                                                                                                                  Ils sont arrivés dans le pays du Do et de Kiri.
+
+[236570-246783]
+U ye Bajɛ tigɛ, ka na  Bawulen tigɛ, ka u ɲɛsin ka taa                                                                                                                                                               U taara se Do ni Kiiri jamana kan.
+Ils ont traversé le fleuve Badiè et le fleuve Bawuoulen et ont pris la direction                                                                                                                    Ils sont arrivés dans le pays du Do et de Kiri.
+
+[247508-251633]
+U ye Bajɛ tigɛ, ka na  Bawulen tigɛ, ka u ɲɛsin ka taa                                                                                                                                                               U taara se Do ni Kiiri jamana kan.
+Ils ont traversé le fleuve Badiè et le fleuve Bawuoulen et ont poursuivi                                                                                                                    Ils sont arrivés dans le pays du Do et de Kiri.
+
+[252388-255620]
+Do ni Kiiri jamana in, bi a bɛ fɔ o de ma ko Segu.
+Ce pays du Do et de Kiri est appelé aujourd'hui Ségou.
+
+[256510-259899]
+Ɔ nka ɲamakalaw b'a fɔ ko Do dugu tan ni fila
+Mais c'est ce que les griots appellent les douze villages de Do.
+
+[260499-264243]
+Wɔɔrɔ bɛ ba yen fanfɛla la, wɔɔrɔ bɛ ba yen fanfɛla la.
+Il y a six de l'autre côté du fleuve, six de l'autre côté du fleuve.
+
+[265083-268056]
+Nka Doduguba, o b'a fɔ ko Marakaduguba.
+Mais on désigne Dodougouba sous le nom de Marakadougouba.
+
+[268306-269968]
+Dɔw ko Dodugubanin.
+Certains disent Dodougoubani.
+
+[271007-276817]
+Ɲangolo ani Baramangolo, u n'u ka jama nana se yen.
+Gnangolo et Baramangolo sont arrivés là-bas avec leurs peuples.
+
+[277040-279198]
+U b'a fɛ ka sigiyɔrɔ ɲini.
+Ils veulent avoir où habiter.
+
+[281283-283463]
+Ɔ u nana se Do dugutigi ma.
+Ils sont arrivés chez le chef de village de Do.
+
+[284243-287189]
+Ka jira dugutigi la ko : «an b'a fɛ ka sigiyɔrɔ ɲini i fɛ yan».
+Ils indiquèrent au chef de village : «Nous voulons te demander un endroit pour nous installer chez toi»
+
+[288954-290338]
+Do dugutigi k'u ma <
+Le chef de village de Do leur répondit<
+
+[290738-291628]
+A ko «ayi !»
+Il dit : «non !»
+
+[292188-293418]
+«A' ye tɛmɛ ! »
+«Passez votre chemin !»
+
+[293928-294968]
+«Anw tɛ se aw kɔrɔ.»
+«Nous n'avons pas les moyens de vous prendre en charge»
+
+[295691-296481]
+«A' ka ca»
+«Vous êtes nombreux»
+
+[300103-303065]
+Kɔrɔkɛ ni dɔgɔkɛ fila in, u ye ɲɔgɔn ye.
+Le grand frère et les deux petits frères se sont entretenus.
+
+[304687-306920]
+A ! u k'u ye kuma min fɔ nin ye tiɲɛ ye.
+Il dirent que ce qu'ils ont dit est vrai.
+
+[307167-308089]
+«An ka ca»
+«Nous sommes nombreux»
+
+[308519-310426]
+«Ɔ an ka an tila fila ye»
+«Divisons-nous en deux»
+
+[311493-312983]
+Dɔgɔkɛ n'o ye Ɲangolo ye<
+Son frère qui est Gnangolo<
+
+[313423-314399]
+A ko «Ɲangolo»
+Il dit «Gnangolo»
+
+[315659-317487]
+«E ka ba tigɛ ni jama fan kelen ye.»
+«Traverse le fleuve avec une partie des gens»
+
+[317987-319572]
+«E ka taa sigiyɔrɔ ɲini»
+«Cherche un lieu d'installation»
+
+[320714-323603]
+A ko : «ne ni jama fan kelen anw bɛ to yan«».
+Il dit: «Moi et l'autre partie des gens nous allons rester ici»
+
+[326539-327306]
+A ko «o tɛ baasi ye»
+Il dit «Ce n'est pas un problème»
+
+[328236-329271]
+U fila bɛnna o kan.
+Ils se sont tous les deux mis d'accord là-dessus.
+
+[331360-335240]
+.Baramangolo seginna, a nana ka n'o fɔ dugutigi ye.
+Baramangolo est revenu dire cela au chef de village
+
+[335902-337202]
+Dutigi k'o tɛ baasi ye.
+Le chef de village a dit que ce n'était pas un problème.
+
+[337902-341495]
+«Ni i y'a n ko a ka tɛmɛ, aw ka ca an ma dɛ.»
+«Si tu as, si je vous ai demandé de passer votre chemin, c'est que vous êtes trop nombreux pour nous»
+
+[341831-343685]
+«N'o tɛ dunan ko man go an ye koyi»
+«Sinon nous ne rejetons certes pas les étrangers»
+
+[344635-350971]
+«Anw bɛ min kɛ yan o de ye jɔnjulaya, o ni finimugufeere ani gesedaw.»
+«Ce que nous faisons ici c'est le commerce d'esclaves, la vente de tissu et le tissage de fil.»
+
+[351511-358771]
+«Ni anw nana aw minɛ ka to yan ni balo tɛ an bolo ka di aw ma, o de tun y'a to an ko aw ka ca aw ka tɛmɛ.»
+«Si on vous avait gardé ici, on n'aurait pas eu de vivres à vous donner, c'est pourquoi nous vous avons dit que vous étiez trop nombreux et de passer votre chemin.»
+
+[359440-362108]
+Ɔ ni aw y'aw tila fila ye, abarika !
+«Alors, si vous êtes divisés en deux, Dieu merci !»
+
+[362445-364012]
+«Anw bɛ se aw kɔrɔ»
+«Nous pouvons vous prendre en charge»
+
+[365081-369750]
+ Ɔ dɔgɔkɛ n'o Ɲangolo ye, o ni jama fan kelen ye, o ni jama fan kelen ye ba tigɛ.
+Le petit frère qui est Gnangolo a traversé de l'autre côté du fleuve avec l'autre partie des gens.
+
+[370661-373159]
+Dugu dɔ bɛ yen, dugu in tɔgɔ ye ko Bayikɔ.
+Il y a là-bas un village qui s'appelle Bayiko.
+
+[374294-375614]
+Olu taara ka taa u sigi yen.
+Ils sont partis s'installer là-bas.
+
+[377010-381801]
+Ɔ kɔrokɛ, o sigila Do ni Kiri jamana kan yen.
+ Le grand frère lui s'est installé dans le pays du Do et de Kiri
+
+[382521-388360]
+Ɔ dugutigi ko : «sisan n'a ma ɲɛ ko aw bɛna sigi, anw t'a fɛ an ka sigi ka gun ɲɔgɔn na» 
+Le chef de village dit: «maintenant que vous allez vous installer, nous ne voulons pas que nous soyons les uns sur les autres.
+
+[389206-391140]
+«Bari gunnkan kɛlɛ sɔrɔ man go.»
+«Parce qu'il n'est pas difficile de se brouiller avec un voisin trop rapproché»
+
+[392090-395460]
+«Anw bɛ taa yɔrɔ dɔ di aw ma kungo kɔnɔ, aw bɛ aw sigi yen»
+«Nous allons vous donner un espace en brousse et vous allez vous installer là-bas.»
+
+[396780-398507]
+Baramangolo ko o tɛ baasi ye.
+Baramangolo dit que ce n'était pas grave.
+
+[399837-404358]
+«Ɛɛ kɔmi aw ko aw tɛ baara wɛrɛ kɛ ni jɔnjulayaw tɛ»
+«Comme vous dites que vous ne faites pas autre chose que la vente des esclaves»
+
+[404748-406071]
+«Anw ye sɛnɛkɛlaw ye»
+«Nous sommes des cultivateurs.»
+
+[407462-413604]
+ «Ni ne sigila aw fɛ yan n bɛ layidu di aw ma san saba n bɛ kɔngɔ bɔ aw ka jamana na pewu»
+«Si je m'installe chez vous ici, je vous fais la promesse d'éradiquer la faim de votre pays d'ici trois ans.»
+
+[415034-416274]
+A u ko ko «A bɛ diya an ye»
+Ils dirent : «Cela nous ferait plaisir»
+
+[418122-423857]
+Ɔ dugutigi ye mɔgɔ ci ni Baramangolo ye, ka taa kungokolo yɔrɔ dɔ jira a la.
+Le chef de village a envoyé quelqu'un avec Bouramangolo pour aller lui montrer un endroit en brousse.
+
+[424948-426217]
+«A' bɛ yan tu tigɛ !»
+«Débroussaillez ici !»
+
+[426398-427653]
+ «Aw bɛ aw ka dugu sigi yan.»
+« Vous allez installer votre village ici .»
+
+[429012-430282]
+Bamangolo k'o tɛ baasi ye.
+Baramangolo dit : ce n'est pas un problème.
+
+[430585-431680]
+U ye minɛnw bila so.
+Ils ont gardé les effets à la maison.
+
+[432505-434126]
+Ni i b'a fɛ ka yɛlɛma yɔrɔ la<
+Si tu veux aménager dans un endroit<
+
+[435206-436490]
+I bɛ fɔlɔ ka mun kɛ?
+Qu'est-ce que tu fais en premier ?
+
+[436972-438457]
+Aw bɛ taa kɔlɔn sen.
+Vous allez creuser un puits.
+
+[440663-441870]
+Bari ko bɛɛ bɛ ji de bolo.
+Parce que tout dépend de l'eau.
+
+[442361-444713]
+Ni ji tɛ yɔrɔ o yɔrɔ, foyi tɛ se ka ɲɛ.
+Un endroit où il n'y a pas d'eau, quel qu'il soit, rien ne peut y réussir.
+
+[445193-447312]
+Ni ji tɛ yen, so tɛ se ka jɔ.
+Sans eau on ne peut pas construire de maison.
+
+[447812-450044]
+Ni ji tɛ yen, mɔgɔ tɛ se ka ko.
+Sans eau personne ne peut se laver.
+
+[450580-451731]
+Dumuni tɛ se ka dilan
+On ne peut préparer la nourriture.
+
+[452670-454796]
+O tuma na, u fɔlɔla ka kɔlɔn sen.
+Dans ce cas, ils ont commencé par creuser un puits.
+
+[455999-459919]
+U ye kɔlɔn sen ni ka ban tuma min na, u nana ka na sow jɔli daminɛ.
+Quand ils ont fini de creuser le puits, ils ont commencé à construire les maisons.
+
+[461599-465210]
+Yɔrɔ la, ni aw bɛna fɛn jɔli daminɛ aw b'a daminɛ bugu de la.
+Alors, quand vous vous mettez à construire quelque chose, vous commencez par une case.
+
+[466030-467711]
+I ye buguw jɔ <
+Tu as construit des cases.
+
+[468386-468800]
+Munna ?
+Pourquoi ?
+
+[468870-470378]
+Bugu jɔli ka teli. 
+La construction d'une case est rapide.
+
+[471057-471918]
+O bɛɛ ye bin ye.
+Il est entièrement constitué de paille.
+
+[473325-474655]
+ɔ u nana ka na dugu jɔ.
+Ils ont ensuite construit le village.
+
+[474745-476464]
+Mɔgɔw nana ka na don a kɔnɔ.
+Les gens sont venus s'y installer.
+
+[478074-484565]
+Tuma min n'o kɛra, u ye tu tigɛ n'o ye foro jiri ye.
+Après cela, ils ont débroussaillé, c'est à dire ils ont coupé les arbres pour ouvrir un champ.
+
+[484931-488141]
+U ye forojiri tigɛ tuma min na ka bila samiya ɲɛ <
+Quand ils ont coupé les arbres du champ juste avant l'hivernage< 
+
+[490620-492697]
+Tile nana bɔ ka jiriw ja.
+Le soleil a brillé et a séché les arbres.
+
+[497648-498816]
+Ka tasuma don a la.
+Ils y ont mis le feu.
+
+[499338-500344]
+Ka forokɛnɛ sɔrɔ.
+Pour avoir l'espace de culture.
+
+[502157-503470]
+Tuma min na ni forokɛnɛ sɔrɔla<
+Quand ils ont eu l'espace des champs<
+
+[503930-507711]
+Samiya donda nana se, u ye cikɛ daminɛ.
+A la veille de l'hivernage, ils ont commencé les cultures.
+
+[509001-509953]
+Ka sɛnɛ kɛ, o san fo u nana bɔ. 
+Ils ont cultivé cette année jusqu'à s'en sortir.
+
+[513983-515663]
+San diyara, ji nana.
+L'année a été bonne, il y a eu de l'eau.
+
+[516345-517196]
+Balo sɔrɔla.
+Il y eut une récolte.
+
+[518709-520907]
+Aa, Dokaw ko:
+Les habitants de Do dirent:
+
+[521010-524274]
+«Baramangolo ye min fɔ, tiyɛn na a b'a sira kan»
+«Vraiment Baramangolo est sur le chemin de ce qu'il a dit»
+
+[524394-526626]
+«Hɔrɔn don, laadiri don»
+«C'est un noble, c'est un honnête homme»
+
+[527436-531259]
+A dɔnna ka fɔ ko mɔgɔ wɛrɛ nana Do ni Kiri jamana kan o san. 
+On sut que d'autres gens étaient venus dans le pays du Do et du Kiri cette année-là. 
+
+[533193-536033]
+San filanan, o fana kɛra o cogo ye.
+La deuxième année, ça été la même chose.
+
+[537143-539472]
+San sabanan, o fana kɛra o cogo ye.
+La troisième année, ça été la même chose.
+
+[541300-543690]
+O tuma na, dannaya dala Buramangolo kan.
+Dans ce cas, on a fait confiance à Bouramangolo.
+
+[544130-548181]
+K'a fɔ, hɔrɔn don, laadiri don, foniseere don.
+On a dit : c'est un noble, un honnête homme, un homme généreux.
+
+[549495-551005]
+Buramangolo tun ye foniseere ye.
+Bouramangolo était généreux
+
+[551045-556056]
+N'a ye juru don i la, n'i yɛrɛ ma taa a sara, a t'a kanni i la.
+Quand il te donnait un  prêt, tant que tu ne le remboursais pas, il ne te le réclamait pas.
+
+[557347-558957]
+Baramangolo Kulubali<
+Baramangolo Coulibaly<
+
+[560998-562896]
+Ɔ u tora o cogoya la <
+Ils en restèrent là.<
+
+[563786-571067]
+Do yɛrɛ mɔgɔ caman wulila Baramangolo ka laadiriya, a n'a ka hɔrɔnya kɔsɔn ka taa i sigi a ka yɔrɔ la.
+Plusieurs personnes de Do se sont installées chez Baramangolo à cause de son honnêteté et de sa noblesse.
+
+[571463-572781]
+Ka yen kɛ duguba ye.
+Faisant de là-bas une grande ville.
+
+[575208-576740]
+U tora o cogo la <
+Ils sont restés ainsi<
+
+[576992-581002]
+Ka to o cogo la, fo ka na Baramangolo yɛrɛ si kɔrɔbaya.
+Ils sont restés ainsi, jusqu'à ce que Baramangolo prenne de l'âge.
+
+[582458-588219]
+Ɔ dugutigi min ye sigiyɔrɔ di a ma, dugutigi in nana faatu.
+Le chef de village qui lui avait donné un endroit pour s'installer vint à mourir. 
+
+[589398-593574]
+Dugutigi faatula, Dokaw ye ɲɔgɔn dalajɛ.
+Le chef de village décédé, les habitants de Do se réunirent.
+
+[594604-596713]
+O y'a sɔrɔ Mande de bɛ jamana bɛɛ mara.
+À l'époque, c'est le Mandé qui gouvernait tous les pays. 

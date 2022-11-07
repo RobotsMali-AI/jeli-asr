@@ -1,0 +1,607 @@
+[3700-4700]
+Oke mɛrisi.
+Ok, merci!
+
+[6703-16390]
+Ɛɛ, ne b'a fɛ ka kuma fɛn min kan bi, o ye an ka manden tɔgɔw  ye. 
+Je voudrais me prononcer sur les noms du mandé.
+
+[18159-19159]
+Bɔn!
+Bon!
+
+[20367-30310]
+Mɛ mandenko dengun nana mɔgɔ caman sɔrɔ, bari n'a fɔra ko manden, a bɛ kɛ dɔw ɲɛna ko Manden dan ye Mali ni Laginɛ ye.
+Nombreuses gens ont eu des difficultés quant à la délimitation du Mandé car beaucoup pensent que ça se limite au Mali et à la Guinée.
+
+[31965-37590]
+Alɔre, karɔrɔ manden ye jamana de ye, jamana belebeleba de don.
+Pourtant le Mandé est un vaste empire.
+
+[38531-40390]
+Jamana in tun ka bon kɔsɛbɛ.
+L'empire-là était vaste.
+
+[41421-42421]
+Kabini bi ma se.
+Depuis bien  avant aujourd'hui.
+
+[43346-49380]
+Mandenjamana tun bɛ taa fo jamana ta ni fila ɲɔgɔn na,n'i y'a jamanaw sigi-sigi bi.
+L'empire du Mandé regroupait environ douze pays, considérant la délimitation des Etats d'aujourd'hui.
+
+[50929-51929]
+Ɛseke i y'a faamuya?
+As-tu compris?
+
+[51990-52990]
+N y'a faamuya 
+J'ai compris.
+
+[53050-62660]
+O la, o jamana ta ni fila jate o, n'i y'a lajɛ tɔgɔw bɛ da an fɛ yan.
+Dans ces douze pays , on nomme.  
+
+[63060-67700]
+Paseke, tɔgɔ dakun de ye ka ne ni e bɔ ɲɔgɔn ma.
+On nomme , pour me différencier de toi.
+
+[68174-69174]
+Un-hun
+oui
+
+[69793-70793]
+I y'a faamu ya wa?
+As-tu compris?
+
+[72178-76600]
+Tɔgɔ ye hadamaden yɛrɛ ka hakɛ fɔlɔ-fɔlɔ de ye.
+Le nom est le prémier droit de l'Homme.
+
+[78089-85550]
+Mɛ n'i ye jateminɛ kɛ anw fɛ yan Manden yan, anw ka Manden don bɛɛ n'a tɔgɔ don paratikeman.
+Quand on analyse bien, chez nous au Mandé, chaque jour pratiquement a un nom spécifique.
+
+[88247-89247]
+Ɛseke i y'a faamuya?
+As-tu compris?
+
+[90260-92400]
+N'i ye ntɛnɛn ta, ntɛnɛntɔgɔw bɛ ye.
+Quand on prend le lundi , il y a des noms pour jour 
+
+[92876-101540]
+N'i ye tarata ta, n'i ye araba ta, n'i ye alamisa ta, n'i ye juma ta, n'i ye sibiri ta, n'i ye kari ta, tɔgɔ bɛ da ka bɛn ni nin bɛɛ ye.
+Quand on prend les mardi, mercredi, jeudi,vendredi, samedi et dimanche, il  y a deS noms spécifiques pour tous ces jours
+
+[101588-105480]
+Maandenka tun bɛ tɔgɔ da hukumu min kɔnɔ, n b'a fɛ k'o de ɲɛfɔ kuwa?
+Je voudrais expliquer les circonstances dans lesquelles les mendenkas nommaient.
+
+[106105-107105]
+Kelen!
+Un !
+
+[107482-110310]
+Manden, dɔw bɛ na n'u tɔgɔ yɛrɛ ye.
+Au Mandé , ils y en a qui viennent avec leurs noms.
+
+[111421-113580]
+Kabini u ma na diɲɛ na , u tɔgɔ donnen don.
+Leurs noms sont connus avant leurs naissances.
+
+[116980-117870]
+I b'a faamu wa?
+Compremds-tu?
+
+[118460-120680]
+N bɛ o ɲɛsɔn dɔ d'i ma.
+Je vais te donner un exemple.
+
+[121264-124910]
+Lama kuwa, ɛkizanpulu, n b'a lama dɔ d'i ma.
+Je vais te donné un exemple.
+
+[125209-126209]
+N'i ko ko Fakɔ.
+Si tu dis , Fakɔ.
+
+[128175-131690]
+Anw ka sosiyete kɔnɔ bi bamanan ni manika.
+Dans la société bamanan et malinké actuellle.
+
+[132840-142390]
+Ani senufo ni jɔnka ni minyanka hali bɔbɔw cɛma, n'i ya fɔ ko Fakɔ dɔrɔn, mɔgɔ o mɔgɔ di bɛ san bi duuru ni dɔɔnin na olu b'a dɔn Fakɔ ye min ye.
+Egalement chez les sénoufo, mininyanka, et même les bomu, quand on dit Fakɔ à un quinquagénaire, il saura automatiquement de quoi il s'agit.
+
+[145373-146373]
+Ɛseke i y'a faamuya?
+As-tu compris?
+
+[146975-153480]
+Fakɔ ye den ye den min, a fa fatura k' a sɔrɔ ba lasiritɔ don.
+Fakɔ est un enfant dont le père est décédé quand sa maman était enceinte de lui.
+
+[156633-161550]
+Den bɛ ba dɛbɛ la waati min na, fa fatura.
+Le papa est décédé quand l'enfant était dans le ventre de sa mère.
+
+[163147-167760]
+Awa, fa fatulen k'a sɔrɔ ba majigi.
+Le décès du papa avant l'accouchemment de la maman.
+
+[167980-171020]
+Ni Ala nan'a kɛ  ni ba nan'a ka yɛrɛmasɔrɔ kɛ. 
+Une fois accouchée.
+
+[171095-176080]
+Den min bɛ sɔrɔ o la sisan, den in tɔgɔ de bɛ da ko Fakɔ.
+L'enfant né dans ces conditions est nommé Fakɔ.
+
+[177841-187070]
+N'i y'a ye n ko ko den dɔw b'u dɔgɔ di  yanni u yɛrɛ kana diɲɛ na, o y'o dɔ de ye.
+C'est le cas des enfants qui se nomment eux-mêmes avant de naître.
+
+[189048-189820]
+Biɲɛ!
+Bien!
+
+[190268-191800]
+ Mɛ Fakɔ musoman bɛ yen.
+Mais il y a le Fakɔ féminin.
+
+[194295-195295]
+Fakɔ musoman bɛ yen.
+Il y a Fakɔ féminin.
+
+[196830-198600]
+I n'a fɔ n'i ko sisan ko Sakɔ
+Quand on dit Sakɔ, par exemple,
+
+[199958-202650]
+Sakɔ jamu bɛ ye, Sakɔ tɔgɔnbɛn ye.
+Il y a Sakɔ comme nom, il y a Sakɔ comme prénom;
+
+[205678-207950]
+Musokɔrɔba dɔ tun b'anw ka dugu la.
+Il y avait une vieille dame dans notre village. 
+
+[207990-211740]
+Ale ko ne ma koo... a b'a fɔ ne ma ko n tɔgɔma 
+Elle m'appelait homonyme.
+
+[213006-214780]
+Ne ma se ka n tɔgɔmaya in faamuya.
+Je n'ai pas compris en quoi on étaient homonymes. 
+
+[214810-218700]
+Ale ye musokɔrɔba ye, ne ye denmisɛnnin ye, epi ne ye cɛ yze ale ye muso ye.
+Elle, elle est vieille, je suis jeune, je suis homme , elle est femme.
+
+[219855-222180]
+Ne wajibiyara sisan ka taa n mamuso ɲinika.
+J'étais obligé de demander à ma grand-mère.
+
+[222385-225800]
+N ko ma ko musokɔrɔba dɔ bɛ yɔrɔ in na , n k'a b'a fɔ ne ma ko n tɔgɔma.
+Je lui ai dit maa, il y a une vieille dame qui m'appelle homonyme.
+
+[227880-228990]
+Ko ne ma se k'o faamuya dɛ!
+Que je n'arrive pas à comprendre cela.
+
+[229000-229586]
+hun
+hun
+
+[229661-232630]
+Ne mamuso ko ne ko ne ma ko musokɔrɔba in tɔgɔ.
+Ma grand-mère m'a demandé comment s'appelle la vieille dame.
+
+[233123-234370]
+Ne ko ka tɔgɔ ye ko Sakɔ.
+J'ai qu'elle s'appelle
+
+[234640-236700]
+Ee ko Sakɔ ye Fakɔ musoman de ye.
+Sakɔ n'est que le féminin de Fakɔ.
+
+[238668-239668]
+Ɛseke i y'a faamuya?
+As-tu compris?
+
+[239944-240944]
+Biɲɛ!
+Bien!
+
+[241072-242890]
+Mɛ tɔgɔda wɛrɛ bɛ ye sisan.
+Il y a d'autres manière de nommer.
+
+[242965-250580]
+I n'a fɔ ni muso jiginna, yanni tile wolonwula ka se n'o y'an ka laadala denkundi ye. 
+Par exemple, si la femme accouhe, notre traditionnel baptême étant le septième jour.
+
+[251738-256290]
+Ni ba fatura , o de n tɔgɔ bɛ da ko Tonkɔ.
+Si la maman décède, l'enfant sera nommé Tonkɔ.
+
+[257186-258500]
+K'a to i kɔ.
+Rester derrière soi.
+
+[261007-265780]
+Inefuwake, maninka, a kɛra maninkajamana ye o a kɛra bamananjamana ye o.
+Que ce soit dans le Manden ou dans le Bamanana.
+
+[266174-275510]
+Muso jiginen sisan, yanni tile wolonwula ka se , den tɔgɔ ka kan ka da don min na, ni ba fatura, u bɛ  den in  tɔgɔ da koTonkɔ.
+Si la maman décède avant le septième jour, le jour où l'enfant sera baptisé, il sera nommé Tonkɔ.
+
+[277260-278070]
+I b'a faamu?
+Tu comprends?
+
+[278151-279151]
+N bɛ ka faamuya 
+je comprends.
+
+[279174-280400]
+Ɛɛkɛmu, biɲɛ!
+Bien!
+
+[281183-285950]
+O kɔfɛ, i bɛ taa sɔrɔ tɔgɔ caman wɛrɛ bɛ yen.
+Au-délà de cela, on trouve beaucoup d'autres noms.
+
+[290075-292400]
+Tɔgɔ caman wɛre bɛ yen.
+Il y a plein de noms.
+
+[292471-297690]
+ I n'a fɔ sisan ,ni ee  muso ye den sɔrɔ.
+Quand la femme accouche.
+
+[298042-301510]
+Kelen, fila, fo ka taa se saba ɲɔgɔn ma.
+Une fois , deux fois jusqu'à trois fois.
+
+[301775-302775]
+Ni den in ma jɔ.
+Si l'enfant-là meurt.
+
+[303157-308600]
+A dɔw la, n'aa ye den sɔrɔ o kɔfɛ,den n u beɛ taa bila sununkun na de!
+si elle accouche après, on dépose l'enfant dans un tas d'ordures.
+
+[310060-313020]
+U bɛ taa den in da so kɔfɛ, mɛ a tɛ i n'a fɔ u y'a lafili dɛ!
+On le dépose derrière les maisons, mais on ne l'a pas jeté
+
+[313261-315340]
+Mɛ u b'a kɛ sanbilan k'a kɛ i n'a fɔ u y'a fili.
+Mais ils vont faire semblant comme s'ils l'ont jeté;
+
+[318242-319242]
+I y'a faamuya wa?
+As-tu compris?
+
+[319972-324950]
+O tumana fɛ , u bɛ taa den in bila sununkun na o cogo la ten.
+C'est ainsi qu'ils vont déposer l'enfant dans un tas d'ordures.
+
+[325448-328650]
+I bɛ taa sɔrɔ a masuso dɔ bɛ ye, o bɛ k'a jɔjɔlimajɔ.
+Il se trouve qu'une de ses grand-mères le surveille de près.
+
+[329039-330460]
+Mɔmuso dɔ bɛ k'a jɔjɔlimajɔ
+Une grand-mère le surveille de près.
+
+[331039-338300]
+U b'a bila dɔrɔn ka wagati kɛ,suwate, a sinankun dɔ ubiɲɛ a mɔmuso dɔ bɛna k'a ta.
+Ils le laisse là-bas pendant un laps de temps un cousin à plaisenterie ou une grag-mère va le reprendre.
+
+[339488-341170]
+N'u nana ni den in ye sokɔnɔ.
+Une fois l'enfant à la maison.
+
+[341383-343300]
+U bɛ den in tɔgɔ da ko Sununkun .
+Ils le nommeront Sununkun
+
+[343536-346380]
+Walima u bɛ den tɔgɔ da ko Ɲamaton
+oubien il nomme l'enfant Ɲamaton
+
+[348818-349818]
+Ɛseke i y'a faamuya?
+   Est-ce que tu as compris?
+
+[350526-352770]
+I bɛ sununkun ye cɛ la, i b'a ye muso la.
+Il y a Sununkun masculin et féminin.
+
+[353043-355160]
+I bɛ Ɲamaton ye cɛ la, i b'a ye muso la. 
+Il y a Ɲamaton masculin et féminin.
+
+[356292-364190]
+Nka lepuli, n'i ye jateminɛ k'a la, a caman bɛ ye,o denw u bɛ kɛ den tɔgɔmaw de ye.
+Beaucoup d'entre eux sont des enfants célèbres.
+
+[367827-368600]
+I y'a faamuya wa?
+As-tu compris?
+
+[368749-375110]
+N'i bɛ Sununkun tɔgɔ dɔn, n'i y'a kɔlɔsi , n'i y'a ye jama o jama la, n'i kɔni m'a ye ɲɛfɛ, i t'a ye kɔfɛ.
+Si tu connais quelqu'un qui s'appelle Sununkun, il faut bien remarquer, dans un groupement, soit il est à la tête ou au milieu, il ne peut être à la queue.
+
+[375494-376980]
+A dɛsɛlen kɔni ye cɛmala ye.
+Le milieu est sa mauvaise note.
+
+[377763-382160]
+Pariseke , den in bɛna don min na, den in nadon sanga de bɛ yɛlɛn den in na.
+La popularité du jour de sa naissance le suivra toujours.
+
+[385854-387930]
+Den kelen sɔrɔla, o fatura.
+Il y a eu un enfent dans ce foyer.
+
+[388605-389410]
+Den fila sɔrɔla.
+Tu as eu un deuxième.
+
+[389645-390260]
+O fatura 
+Celui-là est décédé.
+
+[390310-391120]
+Den saba sɔrɔla.
+Tu as eu un troixième.
+
+[391696-392696]
+O fatura.
+Celui-là est décédé.
+
+[393084-395840]
+Ɔ, ni Ala nana ka naaninan di aw man
+Si Dieu vous donne un quatrième.
+
+[396345-400070]
+Alɔre, a dɔw la, u b'a kɛ nin cogo in na k'a den tɔgɔ da. 
+Ils procèdent ainsi pour donner le nom.
+
+[400278-403840]
+A  dɔw la u tɛ tɔgɔ sɛbɛlaman yɛrɛ d'a la. 
+Dans certains cas, on lui donne un nom banal comme cà.
+
+[406993-408490]
+U b'a da dɔw la ko Segikolon
+Ils nomment certains, Segikolon.
+
+[409832-411480]
+U b'a da dɔw la ko  Jɔkolon
+ Ils nomment certains Jɔkolon
+
+[413050-413620]
+I y'a ye? 
+Tu vois?
+
+[414724-417380]
+Bɔn , musoman dɔw bɛ yen u b'a fɔ olu ma ko Lala.
+Il y a des féminins qu'on appelle Lala.
+
+[418442-419900]
+I bɛ Lala Tɔgɔ minnu ye dɛ!
+Les Lala que tu vois.
+
+[420232-422010]
+Lala tɔgɔ in kɔrɔ tɛ dɔwɛrɛ ye dɛ!
+Lala n'a aucune autre signification 
+
+[422276-423980]
+Nin nana ɛseke nin bɛna to yan wa?
+ Celui- là est venu, mais va-t-il rester?
+
+[427627-429850]
+U bɛ tɔgɔ in kɛ dɔrɔn i n'a fɔ fɛn fu kuwa,
+Ils vont faire de ce nom comme quelque chose d'unitile.
+
+[430823-432800]
+K'a kɛ i n'a fɔ u bɛ k'a lagosi kuwa.
+Faire comme s'ils se foutaient du nom.
+
+[432840-434560]
+Mɛ ofɛte, lagosili tɛ kuwa.
+Mais en réalité ils en donnent du crédit.
+
+[434590-435310]
+Degun de b'u kan.
+Ils sont juste attristés.
+
+[437487-438487]
+Degun de b'u kan.
+Ils sont dans la tristesse.
+
+[438794-441310]
+INAUDIBLE
+INAUDIBLE
+
+[441310-444660]
+An ka mirindi dɔw bɛ ye, ɛɛ mirindi ye pepulu de ye.
+ Dans certaines de nos sociétés
+
+[445211-448480]
+An ka mirindi dɔw bɛ ye , n'i taara Wasolon fanfɛla la.
+Si tu pars vers Wasolon
+
+[448739-450510]
+Ni den cɛman don sisan.
+Si c'est un garçon.
+
+[450800-451620]
+A dɔw bɛ yen.
+I y en a.
+
+[451941-453530]
+Ni den sɔrɔla ni cɛman don.
+Et que l'enfant est un garçon.
+
+[454132-456330]
+A Kɔrɔkɛ kelen tɛmɛna.
+Il a eu un grand frère.
+
+[456409-457409]
+Kɔrɔkɛ fila tɛmɛna.
+Il a eu deux grands frères.
+
+[458062-459062]
+Dɔwɛrɛ tɛmɛna.
+Il en a eu d'autres.
+
+[459259-461870]
+N'u ye denw sɔrɔ dɔrɔn u bɛ taa ka taa den in di numuw ma.
+Dès la naissance, ils iront donner ce dernier aux forgerons.
+
+[463813-470310]
+Numuw bɛ fan fiyɛ yɔrɔnin min na o sumalen waati...
+Quand par-là où les forgerons soufflent le feu refroidit...
+
+[470500-473470]
+U bɛ den in ni bamunan da o yɔrɔ la.
+Ils posent l'enfant là-bas avec le berceau.
+
+[473750-475830]
+N'u ye den in ni bamunan da o yɔrɔ la.
+S'il posent l'enfant et le berceau là-bas.
+
+[476271-478470]
+U bɛ fan fiyɛ a kan.
+Ils souflent sur lui.
+
+[478744-482530]
+Bɔn ,n'u ye fan fiyɛ a kan sisan numukɛ fana mana den in ta.
+S'il souflent sur l'enfant le forgeron va le prendre.
+
+[482837-490480]
+Numukɛ bɛ tila , a bɛ se ka fɛn o fɛn kɛ den in ye a b'o fɛɛrɛ tigɛ.
+Le forgeron va prendre l'enfant et mettra en place tout ce qu'il peut pour que ce dernier puisse vivre.
+
+[490622-494840]
+Mɛ a tigi kɔni ka d'a ka d'a la nin bɛɛ bɛ laban Ala ta de la.
+Mais que les parents sachent que le dernier mot ne revient qu'à Dieu.
+
+[497760-501450]
+Caman bɛ ye, Ala bɛ si di o den o lu ma.  
+Dieu leur donne généralement une longue vie.
+
+[501492-502492]
+ Den o bɛ balo kuwa?
+L'enfant-là peut-il vivre? 
+
+[503134-504134]
+INAUDIBLE
+INAUDIBLE
+
+[504711-508710]
+U jigi tɛmɛna tɔw la cogo min, dɔ in tɛ kɛ o cogo la ten 
+Les desespoirs qu'ils ont eus avec les autres enfants prendront fin. 
+
+[509598-512000]
+U b'a f'o ma ko Fanbuguri.
+On l'appelle Fanbuguri
+
+[515319-516090]
+A bɛ faamu wa?
+Tu comprends?
+
+[516034-516948]
+N y'a faamu.
+J'ai compris.
+
+[517043-517420]
+Biɲɛ!
+bien!
+
+[518554-521740]
+  O tigɛlen kɔfɛ ka bɔ yen n'i nana ɛɛ don tɔgɔw la.
+Parlons maintenant des noms des jours
+
+[523467-529500]
+Sunjata, bɔra, Sunjata n'a ba taara ɲanimaboli la min kɛ.                      
+Sunjata est sorti, Sunjata et sa mère sont partis à ɲanimaboli.
+
+[529719-533460]
+Sogolon Kuduma o y'a b'a ye.
+Sa mère, c'est Sogolon Kuduma.
+
+[534996-539980]
+Ani ɛɛ Bori Manden.
+Y compris Bori Mandé.
+
+[540973-544430]
+Kamaramuso dɔ tun furula Sunjata fa fɛ.
+Le père de Sunjata avait épousé une femme Kamara.
+
+[544442-545390]
+A ye den kelen sɔrɔ o fɛ.
+Il a eu un enfant avec elle.
+
+[545420-546492]
+Den o tɔgɔ tun ye Bori Banden 
+Cet enfant s'appelait Bori Mandé.
+
+[546793-547793]
+ un-hun
+oui
+
+[547820-548820]
+I y'a faamuya?
+As-tu compris?
+
+[549227-558240]
+INAUDIBLE
+INAUDIBLE
+
+[558885-560790]
+INAUBIBLE
+INAUDIBLE
+
+[564414-565470]
+Kɔmandirɛze 
+Comment dirais-je?
+
+[566202-569600]
+Sasuma  Berete o ye ɛɛ a ba sinamuso ye.
+Sasuma Berete est la coépouse de sa mère.
+
+[570551-575540]
+Ɛɛ, balimamuso dɔ in n'o ye Nana Turuba ye, a n'o taara ɲɔgɔn fɛ ɲanimaboli la.
+Il partit à ɲanimaboli avec sa soeur Nana Turuba.
+
+[576577-581396]
+U taalen min kɛ o ɲanimaboli o yɔrɔ la sisan.
+Après avoir été dans ce ɲanimaboli,.
+
+[582951-583840]
+Ɛɛ
+ee
+
+[586999-591610]
+U ye fɛɛrɛ dɔw de kɛ purke...
+Ils ont mis des statégies en place afin de...
+
+[593874-599560]
+Tɔgɔ minnu b'u la dɛ , o tɔgɔ de y'a to u ɲinibagaw taalen o kɛra sababu ye k'u ye.
+C'est grâce à leurs noms qu'ils ont été retrouvés par ceux qui les cherchaient.
+
+[602544-603544]
+Ɛseke i y'a faamuya?
+As-tu compris?
+
+[603972-611370]
+K'a s'a kan u taara marakajamana min kan , o marakajamana o ni an ka Manden tɔgɔ ninnu tɛ kelen ye.
+Parce que le pays sarakolé qui les avait réçu n'avait pas les mêmes noms qu'au Mandé.

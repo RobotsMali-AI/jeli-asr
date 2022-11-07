@@ -1,0 +1,448 @@
+[102-4153]
+Segu kɛlɛboloba in ye u ɲɛsin Karata jamana ma.
+Les troupes de Ségou se sont dirigées vers Karta.
+
+[4230-9974]
+U nana se wolon dɔ ma ba tigɛ.
+Ils sont arrivés à un endroit où ils ont traversé le fleuve.
+
+[10076-18025]
+Hali sinin n(i sera  a batigɛ yɔrɔ la folon cilen don yen ka taa Karata.
+À cet endroit, jusqu'à présent, il y a un ruisseau qui se tend jusqu'à Karta.
+
+[18102-19410]
+O bɛɛ ye sokɛw tɛmɛnɔ ye.
+Ce sont toutes les traces du passage des chevaux.
+
+[19461-21923]
+Sokɛ tun ka ca cogo min, jama ka ca o cogo kelen na.
+Les chevaux étaient aussi nombreux que les hommes.
+
+[22000-26256]
+Minnu bɛ sen na olu ka ca ka tɛmɛ minnu bɛ so kan ye.
+Les piétons sont nombreux que ceux qui sont sur cheval.
+
+[26333-31538]
+Sotigiw ka ca kojugu, mɔgɔ t'a dɔn jama min ka ca min ye.
+Les chevaliers sont trop nombreux donc personne ne sait laquelle de la foule est nombreuse.
+
+[31589-34948]
+Segu kɛlɛboloba in ye folonaba in minɛ u tɛmɛna u taara.
+La grande troupe de Ségou est passée par le grand ruisseau.
+
+[35025-38538]
+Kɛlɛbolo b'a la ka ta, kɛlɛbolo b'a la ka taa.
+Les troupes sont entrain de partir.
+
+[38615-42000]
+U taara se tu dɔ min fanga tun ka bon kojugu.
+Elles sont arrivées à une forêt dense.
+
+[42128-51692]
+Segu faama ko adamadenw ka to sokɛw kɔfɛ.
+Le roi a dit que les hommes doivent rester derrière les chevaux.
+
+[51820-61179]
+Sokɛw fɔlɔ de bɛ tu foroki o kɔfɛ mɔgɔw bɛ don.
+Les chevaux vont entrer en premier dans la forêt, et puis les hommes vont les suivre.
+
+[61282-64282]
+Faama Mɔzɔn ye mun kɛ?
+Qu'est-ce que Monzon a fait ?
+
+[64487-67076]
+A ko ko a ka mɔgɔw ka tasuma don kungokɔnɔna na.
+Il a dit à ses hommes de mettre le feu en brousse.
+
+[67282-73179]
+U ye tauma don kunga la, binjalan tasuma ye binkɛnɛ jeni.
+Ils ont mis le feu en brousse et le feu de l'herbe sèche a brûlé l'herbe verte.
+
+[73333-80948]
+O sisi ni sokɛw gɔngɔn farala ɲɔgɔn kan.
+La fumée de cela est mélangée à la poussière des chevaux.
+
+[81179-85538]
+Minnu b'a la ka taama sen na, o gɔngɔn tilara ka fara sokɛw gɔngɔn kan.
+La poussière que soulèvent les piétons s'est ajoutée à celle des chevaliers.
+
+[85692-91871]
+O tuma o y'a sɔrɔ u surunyana Karata masasiw ka dugu la.
+Après le soulèvement de cette poussière, ils étaient proches du village des massassis de Karta.
+
+[92000-93846]
+Dugu min bɛ ysn ko Jabe.
+Le village Diabe.
+
+[94000-100256]
+Karata Desekɔrɔ Kulubali denkɛ fɔlɔ tɔgɔ ye ko Baamana Kulubali.
+Le fils aîné de Désékɔrɔ Coulibaly s'appelle Bamana Coulibaly.
+
+[100384-109384]
+Dese ni a ka mɔgɔw sigilen, Dese y'i kanto a ka mɔgɔw , ne ɲɛ bɛ ni fɔlɔ min na, nin fɔlɔkɔ fanga ka bon dɛ.
+Étant assis, Désé a dit à ses conseiller que la poussière qu'il voit est énorme.
+
+[109487-115461]
+A denkɛ fɔlɔ Baamana y'i kanto ɛɛ, nin fɔlɔkɔ in fanga ka bon o ye diyagoya ye kɛ.
+Son fils aîné Baamana a dit, c'est obligatoire que cette poussière soit énorme.
+
+[115641-124974]
+E ɲinɛna ko i ye ci bila i ka jɔnkɛ ma Segu k'a ka na gese da walasa bamananmusow ka taafe sɔrɔ?
+As-tu oublié que tu as invité ton esclave Ségou pour venir tisser afin que les femmes bamanan puissent avoir de pagne ?
+
+[125076-128358]
+O tuma e ye ci bila o jɔnkɛ min ma e ɲinɛna o kɔ wa?
+As-tu oublié l'esclave que tu as appelé ?
+
+[128461-135512]
+E t'a dɔn n'i ye ci bila jɔnbugu ma k'a n'a ka jɔndenw bɛɛ de be na ɲɔgɔn fɛ?
+Ne sais-tu pas que quand on invite le village d'un esclave, qu'il vient avec tous ses fils enfants esclaves ?
+
+[135589-141025]
+Desekɔrɔ Kulubali y'i kanto ko Ala ye barika don jɔnbugu.
+Désékoro Coulibaly a dit que Dieu a béni le village des esclaves.
+
+[141153-144179]
+Ne ye ci bila n ka jɔkɛ ma k'a ka na gese da.
+J'ai invité mon esclave à venir tisser.
+
+[144307-148666]
+Nka ne tun t'a dɔn ko Ala ye barika don jɔnbugu la fo ka taa se nin kisa ma.
+Mais je ne savais pas que Dieu avait béni le village des esclaves jusqu'à ce point.
+
+[148794-162769]
+Baamana Kulu y'i kanto a fa ma ko n'a bɛ labɛn min k'a ka wuli k'o kɛ sabu ko nin tɛ jɔn sirantaw ye.
+Baamana Coulibaly a dit à son père de faire toutes les préparations qu'il, car que ces esclaves n'avaient pas peur.
+
+[162897-166179]
+Ko ninnu nana kɛlɛ de kama wa k'a ka labɛn ko nin kɛlɛ kelen bɛ kɛ.
+Que ceux-ci sont venus pour la guerre, donc que cette guerre aura forcément lieu.
+
+[166333-179487]
+Adamaden n'i siranna, n'i y'a dogo maaw la k'i siranna, kulusi, duloki, ani fugula minnu b'i la b'a dɔn k'i siranna.
+Quand un homme a peur, et que tu caches aux gens, la chemise, le pantalon et le chapeau que tu portes savent que tu as peur.
+
+[179641-187794]
+Desekɔrɔ Kulubali y'i da a ka so kɔnɔ sani dugu ka jɛ dɔ bɔra a fanga sabu a ja tigɛra kojugu jama in caya fɛ.
+Désékoro Coulibaly s'est couché dans sa chambre avant le matin, il a perdu du poids, parce qu'il a tellement eu peur de la supériorité numérique de ces gens.
+
+[187897-194384]
+Segu kɛlɛ nana, o donn Siyanro Salimu yecogo ka ɲi ka tɛmɛ kɛlɛ bɛɛ kan.
+Les guerriers de Ségou sont venus, ce jour-là, Siyanro Salimu était plus beau que tous les guerriers.
+
+[194512-196846]
+N'i y'a ye kɛlɛ kɔnɔ a bɛ kodiya i ye ka tɛmɛ bɛɛ kan.
+Quand tu le vois sur le front, tu vas l'aimer plus que tout le monde.
+
+[197000-199666]
+Masaya bɛnnen don a la ka tɛmɛ kɛlɛ bɛɛ kan.
+Il ressemble plus au roi qu'au guerrier.
+
+[199846-202641]
+A ka bon ni kɛlɛ bɛɛ ye, labɛn min b'a la o tɛ maa si la.
+Il est plus grand et plus préparé que tous les guerriers.
+
+[202871-207641]
+A ni kɛlɛboloba in nana i da Karata jamana kan n'o ye Jabe ye.
+Il est venu avec cette grande troupe à Karta dans le village Diabe.
+
+[207717-213128]
+U ye ci bila ka  t'a fɔ Dese ko a ye ci bila a ka jɔnke min ma ko jɔnkɛ nana.
+Ils ont envoyé quelqu'un informer Déssé que l'esclave qu'il a invité est venu.
+
+[213205-217641]
+O tuma k'a k'a fɔ a musow ye k'u ka bɔ ni ges ye, ni Ala kitira min na o bɛ.
+Donc, dit à tes femmes de sortir avec le coton à tisser, ce que Dieu veut sera fait.
+
+[217769-221461]
+Aa, Dese dabali banna.
+Ah, Désé a eu l'inquiétude.
+
+[221564-229435]
+A ye ci bila a faden masasi Kulubaliw ma.
+Il a appelé ses frères Coulibaly massasis.
+
+[229589-236153]
+Masa minnu b'ɛ Karata jamana kan a ye ci bila a bɛɛ ma, a bɛɛ ye jɔgɔn sɔrɔ Dese la.
+Il a appelé tous les massasis de son pays et ils sont tous venus chez lui.
+
+[236230-240256]
+Olu ko a m a ko an weelekun ye mun ye Dese?
+Ils l'ont demandé pourquoi nous là Déssé?
+
+[240333-248538]
+A ko k'ale tun ye ci bila ka t'a fɔ Mɔzɔn ye Segu k'ale tɛ jɔn dɔn ni dɔwɛrɛ ni ggesda tɛ.
+Il a dit qu'il avait dit à Dah dans un message que selon lui, l'esclave n'a pas d'autre travail que de tisser.
+
+[248641-255179]
+Ale ɲɛ bɛ adama na a ka ca i b'a fɔ ko ntɔnden.
+Mais qu'il voit que ces hommes sont nombreux comme les criquets.
+
+[255307-257128]
+Ale kamana ganna.
+Qu'il est inquiet.
+
+[257256-262897]
+O tuma ne faden de ye aw ye, aw ye ne sigiɲɔgɔnw ye, n bɛ ci bila aw ma walasa aw ka bɔ a kalama kɛlɛ min bɛ sen na.
+Vous êtes mes frères et voisins, je vous informe de la situation.
+
+[263000-269256]
+Karata masasi Kulubali ko i ye an weeleli min kɛ diyara an ye.
+Les massasis ont dit ; nous sommes contents de ton appel.
+
+[269358-273435]
+Nk anw ni maa minnu bɛ sigi laa a bɛ fɔ olu ma ko Kakɔlɔw.
+Mais nos voisins sont les kakolos.
+
+[273564-276846]
+I jija an ka kuma in bonya don kakɔlɔw la.
+Fait tout pour informer les Kakolos sur cette situation.
+
+[276948-280538]
+Adamaden mana farinya cogo o cogo i ka farinya bɛ dan kaɔlɔden ta.
+Personne ne peut être plus téméraire que les Kakolos.
+
+[280615-284000]
+N'an ye ci in bonya don Kaɔlɔw la, olu be an dɛmɛ kɛlɛ in na.
+Quand on informe les Kakolos ils vont nous aider à faire cette guerre.
+
+[284153-288410]
+U ye cila bila, o y'a sɔrɔ kakɔlɔw ke cɛ kelen tun bɛ yen ko Jajiri.
+Ils les ont informés que, ce jour-là, il y avait un homme chez les kakolos qui s'appelait Djajiri.
+
+[288538-290717]
+U tun b'a weele ko Jajiri Makasa.
+Ils m'appellent Djajiri Makassa.
+
+[290820-296230]
+U ye ci bila Jajiri Makasa ma ni jeliw tun bɛ to k'a fari kalaya.
+Ils ont informé Djajiri Makassa que les griots flattaient.
+
+[296307-309512]
+U tun bɛ to k'a fɔ a ma ko npaalo Maka ni Kunba Maka, Leke Jaaba ni Sɔkɔnɛ Jaaba,  Kantamugu Jaaba, muuru Sawuraka ani muuru dabuka,kabatigɛ Banjugu ni sira wale Tanfuu Ɲɛnɛfara Kamara Sibi Ɲɛnɛfara Kamara,  Makasa ju baalo Kamara jenbe.
+Parole de griot.
+
+[311871-318564]
+Kakɔlɔ yɛrɛ de ye farinya ye, n'i magao bɛ saya la n'i ɲɛ dara kakɔlɔ den kaan don min na o don i bɛ taa lahara.
+Quand on voit un Kakolo et que tu as besoin de la mort, tu mourras ce jour.
+
+[318666-320717]
+Kakɔlɔ ka farin kojugu, u bɛ balo saya dɔrɔn de kama.
+Les kakolos vivent seulement pour la mort.
+
+[320769-330794]
+Kakɔlɔ makasaw , fofanaw ni Boyikilew nana fara kulubaliw kan.
+Les kakolos Makassa, Fofanas, et Boyikiés sont venus s'ajoutés aux Coulibaly.
+
+[330923-333230]
+O ye Jajiri Kulubali ye.
+C'est Djajiri Coulibaly.
+
+[333333-341051]
+Karata masasiw nana a fɔ Dese ye ko u nana a ka kuma lamɛn.
+Les massasis de Karta réunis ont dit à Déssé qu'ils sont venus l'écouter.
+
+[341179-344846]
+Min ka di i ye o fɔ an ye.
+Dis nous ce que tu veux.
+
+[344948-347282]
+Dese ko yali aw ye ci fɔ kakɔlɔw ye wa?
+Déssé a dit : est-ce que vous avez informé les kakolos?
+
+[347410-349230]
+U ko an ye ci fɔ kakɔlɔw ye u sɔnna.
+On a informé les kakolos qu'ils sont d'accord.
+
+[349307-350794]
+O tuma k'an b'a kɛ cogo di sisan?
+Comment on va faire maintenant?
+
+[350923-359769]
+O tuma Segu ni Kara masasiw ni Karata kakɔlɔw ye kundo kɛ.
+Les troupes de Ségou et le massassi de Karta, les Kaolos de Karta se sont affrontés.
+
+[359846-362743]
+Kundo kɔrɔ ye u ye kiribiti kɛ o yɔrɔ bɛɛ lajɛlen.
+Ils se sont affrontés sur le champ.
+
+[362794-364230]
+K a ta don forobamugu la.
+Ils ont mis le feu à la poudre commune.
+
+[364333-366820]
+Ni minɛ man di nitigi la.
+Il n'est pas facile de tuer.
+
+[366871-376846]
+Marifakisɛ kalaman fɛ, cɛbakɔrɔ satɔ bɛ bin ni kalakala don a da o b'a sɔrɔ joli bɛ bɔ a fɛ.
+Par balle, l'homme mourant met de l'herbe dans sa bouche, cela prouve qu'il a déjà le sang dans sa bouche.
+
+[376923-382564]
+marifanɛgɛ tɛ malo adamaden ma n'i ma labɛn.
+La balle ne rate pas un homme sans préparatif.
+
+[382692-385820]
+egu n Karata ye kundo kɛ.
+Ségou et Karta se sont affrontés.
+
+[388487-393205]
+Ka katabali ba naani wuli, adamaden sata cayara kojugu a don fɔlɔ.
+Il y a eu trop de morts le premier jour.
+
+[393358-396153]
+Su kora u k'u ma k'an ka kɛlɛ da.
+La nuit est tombée, ils ont demandé l'arrêt de combat.
+
+[396256-402025]
+U ye ci bila ka n'a fɔ Segu Mɔzɔn ye k'a ka kɛlɛ bila ko ni dugu jɛra k'u na tɛmɛ ni kɛlɛ.
+Ils ont informé Monzon d'arrêter le combat la nuit et le matin, ils vont recommencer.
+
+[402076-406589]
+Mɔzɔn ko k'a sɔnna, k'ale jɔn de ye k'a nana geseda la.
+Monzon a dit qu'il est d'accord qu'il est un tisserand venu pour tisser.
+
+[406692-408974]
+Dugu j ɛlen, u ye kiribiti wuli.
+Le matin, ils ont recommencé.
+
+[409051-410897]
+Maa sata cayara kojugu.
+Il y a eu trop de morts.
+
+[411000-413179]
+Adamaden sata cayali balala adamadenw na.
+Le nombre élevé de morts a surpris les gens.
+
+[413282-419384]
+SU kolen u ye ci bila ka n'a fɔ Mɔzɔn ye ko u ka kɛlɛ bila.
+La nuit tombée, ils ont informé Monzon d'arrêter le combat.
+
+[419512-425230]
+Dugulen, u ye darakaw, u ye kiribiti wuli.
+Le matin, après le petit déjeuner, ils ont recommencé.
+
+[425384-435692]
+Kalkolo Fofana, Makasa, ani Boyikile maa ba tan ni fila sara sɔgɔmada kelen a bɛɛ denke fɔlɔ.
+Les Fofana, Makassas, Boyikilés, il y a eu plus de 12 milles morts parmi les Kakolos un seul matin qui sont tous des fils aînés.
+
+[435743-438025]
+Karata masasi sen t'o la.
+Les massasis ne font pas partie de cela.
+
+[438128-443307]
+Segu te se ka kunbɛ min na seguka ka farin kojugu.
+Les gens de Ségous sont très féroces.
+
+[443435-447384]
+Segu kɛlɛbolo fɔlɔkɔ ka bon kojugu.
+La poussière des troupes de Ségou est énorme.
+
+[447512-451410]
+Cɛ o cɛ y'i da Segu kan o don kama Segu y'i tiɲɛ.
+Tous les hommes qui ont affronté Ségou à ce jour ont perdu.
+
+[451512-454410]
+Karata masasiw dabali banna.
+Les massasis de Karta ont eu peur.
+
+[454487-459743]
+Olu ni maa si ma deli ka ti ɲɔgɔn ka se nin hake ni olu ma o sebaaya sɔrɔ.
+Ils n'ont jamais affronté quelqu'un comme ça sans avoir la victoire.
+
+[459820-463948]
+Nka bi y'a tile saba ye olu ka maaninfinn sata ka ca kojugu.
+Aujourd'hui est le troisième jour, ils ont perdu beaucoup d'hommes.
+
+[464025-470051]
+Karata Desekoro Kulubali denkɛ fɔlɔ tɔgɔ ye ko Baamana Kulubali.
+Le fils de Déssékoro s'appelle baamana Coulibaly.
+
+[470179-477564]
+Nin kɛlɛba in bɛ sen nka don o don sɔgɔma a bɛ n'a fɔ a ka jɔnw ye u bɛ karangakogo dayɛlɛn.
+Malgré cette guerre atroce, chaque matin, il vient dire aux esclaves d'ouvrir le portail pour lui.
+
+[477717-483538]
+N'i ye dugu sigi n'i t'a fe juguw ka bin i kan i bɛ kogoba dɔ koori.
+Pour éviter l'attaque des ennemis, tu arrives dans ton village avec un mur.
+
+[483641-487820]
+I bɛ donda ke kelen ye, ka bɔda kɛ kelen ye.
+Tu mets une porte de sortie et une porte d'entrée.
+
+[487923-495589]
+Nka u bɛ wo bɔ a kogo la, i bɛ marifa daburu bɔ o fɛ ka judu ti.
+Ils mettent des trous dans le mur et tirent sur l'ennemi à travers ces trous avec le fusil.
+
+[495743-500025]
+Juguw mana mugu ci kogo b'a kunbɛn a bɛ fɔ o de ma ko karangakogo.
+Le mur empêche la balle des ennemis, on appelle cela "karangakogo".
+
+[500102-514846]
+Dosokɔrɔ tan ni fila bɛ, bilakoro cɛ tan ni fila, jɔnke cɛ tan ni fila bɛ Baamana Kulubali bolo, ni dugu jɛra u bɛ karangakogo dayɛlɛn a ye.
+Baamana Coulibaly a : 12 chiens, 12 gamins, 12 esclaves, il ouvre le portail le matin.
+
+[514923-518717]
+N'u ye karangakogo dayɛlɛn,  a bɛ taa kungo kɔnɔ ka mugu ci ka sogo faa.
+Quand ils ouvrent la porte, il part chasser en brousse et tue les parois pour les amener à la maison.
+
+[518820-523769]
+N'a ye sogo faa a b'a boso k'a da a ka jɔnw kunna olu n'a bɛna don dugu kɔnɔ. 
+Quand il abat les animaux, les esclaves l'apportent à la maison.
+
+[523846-530564]
+A bɛ Segu kɛlɛbolo fara ka taa nin kɛ ka tila kɛlɛbolo fara ka segin n'a yɛrɛ ye.
+Il traverse les troupes de Segu en partant et en revenant.
+
+[530641-534205]
+Aa, Segukaw dabali banna.
+Ah, les ségoviens n'ont pas compris.
+
+[534282-544820]
+Ni kɛlɛba in na, kɛlɛ kɛlen don k'aw ka dugu daminɛ , e ye dugutigi den ye i b'a la ka kɛlɛ cɛci ka taa sogo faa ka na.
+Malgré cette guerre atroce, toi en tant que fils du chef de, tu traverses les troupes pour partir à la chasse et tu reviens comme ça !
+
+[544897-550743]
+O don, Jeli Nkɔrinin jabate ni Zaazuruzarɛ tun ye jeli ye o donnin kama.
+Ce jour-là, Jeli Nkorinin Jabate et Zaazourizarè étaient des griots.
+
+[550820-554384]
+Cɛntigiba Dantɛ tun bɛ yen o donnin kama.
+Tièntigiba Danté était là à ce jour.
+
+[554461-566538]
+Cɛntigiba Danrɛ, Zaazuriarɛ, ani Jeli Nkornin Jabat~taara a fɔ Siyanro Salimu ye ko: Mɔzɔn ye faama an sɔnnen don o ma.
+Tièntigiba Danté, Zaazuruzarè et Jeli Nkotnin Diabaté sont allés dire à Siyanro Salimu: qu'ils sont d'accord que Monzon est le roi.
+
+[566589-571410]
+Nka Mɔzɔn n'a ka faamaya bɛɛ, a ye Segu kɛlɛbolo ɲɛmaaya ta k'a di e  ma.
+Malgré que Monzon soit roi, il t'a nommé chef des guerriers.
+
+[571512-585205]
+Desekoro Kulubali denkɛ Baamana de bɛ Segu kɛlɛ cɛci ni bilakoro cɛ tan ni fila, jɔnkɛ 12, doskɔrɔ 12 ni ye ka taa sogo faa kungo kɔnɔ ka segin n'a ye.
+Le fils de Déssékoro, Baamana traverse les troupes de Ségou avec 12 chiens, 12 gamins, 12 esclaves pour aller chasser et retourner dans son village.
+
+[585256-587076]
+Hɛɛrɛ ka si hɛɛrɛ ka tilen.
+Rien ne se passe.
+
+[587153-589666]
+O tuma Mɔzɔn ye e kɛ ɲɛmaa ye ka da mun kan?
+Pourquoi Monzon t'a nommé chef ?
+
+[589743-591769]
+An b'a fɛ k'e jɔyɔrɔ dɔn.
+On veut connaître ta place.
+
+[591871-595615]
+U tora u b'a fari kalaya, U tora u bɛ ɲamakalakan fɔ  a ye.
+Ils lui disaient des paroles de griot, son corps se chauffait.
+
+[595743-598666]
+U tora u b'a fari kalaya, u tora u bɛ ɲamakalakan fɔ a ye.
+Ils lui disaient des paroles de griot, son corps se chauffait.
+
+[598717-603051]
+O donnin kama bamanankɛ bonyana dɔɔnin fo k'a bonya a farilafinin ma.
+Ce jour-là, le bamanan a grossi jusqu'à ce que ses vêtements risquent de déchirer.
+

@@ -1,47 +1,62 @@
 {
     "griots_r13": {
         "theme": "Diokala",
-        "dialect": "Bamako",
-        "gender": "M"
+	    "theme_en": "The tale of Diokala",
+        "dialect": "Standard Bambara",
+        "gender": "M",
+        "status": "Disambiguation needed"
     },
     "griots_r24": {
         "theme": "L'e\u0301ducaion d'hier et d'aujourd'hui",
-        "dialect": "Bamako",
-        "gender": "F"
+        "theme_en": "Commentary on education in the past and today",
+	    "dialect": "Standard Bambara",
+        "gender": "F",
+        "status": "Disambiguation needed"
     },
     "griots_r17": {
-        "theme": "Histoire de Samory",
-        "dialect": "Malinke\u0301 kangaba",
-        "gender": "M"
+        "theme": "Histoire de Ɲani Mamadu (Mamadou soufrant) suivi de l'histoire de Samori Ture",
+        "theme_en": "Tale of Ɲani Mamadu (‘Suffering Mamadu’) followed by the tale of Samori Ture.",
+        "dialect": "Kangaba Maninka",
+        "gender": "M",
+        "status": "Needs revision"
     },
     "griots_r9": {
         "theme": "Les ''Niamakala'' hommes de caste",
-        "dialect": "Bamako",
-        "gender": "M"
+        "theme_en": "Commentary on Ɲamakalaw (Casted people)",
+        "dialect": "Standard Bambara",
+        "gender": "M",
+        "status": "Disambiguation needed"
     },
     "griots_r28": {
         "theme": "Le mariage d'hier et d'aujourd'hui",
-        "dialect": "Bamako",
-        "gender": "F"
+        "theme_en": "Commentary on marriage",
+        "dialect": "Standard Bambara",
+        "gender": "F",
+        "status": "Disambiguation needed"
     },
     "griots_r22": {
         "theme": "Various",
-        "dialect": "Malinke\u0301 de Siby",
-        "gender": "F"
+        "theme_en": "Various",
+        "dialect": "Siby Maninka",
+        "gender": "F",
+        "status": "Disambiguation needed"
     },
     "griots_r20": {
         "theme": "Les Maabo",
-        "dialect": "Se\u0301gou",
+        "theme_en": "Commentary on maabɔ griots and a tale related to Ségou",
+        "dialect": "Se\u0301gou Bambara",
         "gender": "M"
     },
     "griots_r3": {
         "theme": "Les forge\u0301rons",
-        "dialect": "Bamako",
+        "theme_en": "Commentary on blacksmiths (numu)",
+        "dialect": "Bambara Standard",
         "gender": "M"
     },
     "griots_r1": {
-        "theme": "L'histoire d'une fille",
-        "dialect": "Bamako",
+        "theme": "Cinq contes distincts",
+	    "theme_en": "Five distinct tales",
+        "dialect": "Bamako Bambara",
         "gender": "M"
     },
     "griots_r5": {
@@ -140,7 +155,8 @@
         "gender": "M"
     },
     "griots_r2": {
-        "theme": "L'histoire d'un grand marabo",
+        "theme": "L'histoire d'un grand marabout",
+	"theme_en": "History of an Islamic cleric",
         "dialect": "Se\u0301gou",
         "gender": "M"
     },
