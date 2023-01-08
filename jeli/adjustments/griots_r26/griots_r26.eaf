@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-11-05T15:29:26-05:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-11-12T14:16:04-05:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,13 +7,13 @@
             MEDIA_URL="file:///home/seb/Gaudios/Griots/Soumaila_Traore/SCENE020.WAV"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../../Gaudios/Griots/Soumaila_Traore/SCENE020.WAV"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b715aa95-2ec7-44a0-a760-5f85ef54c09e</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">1820</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">1822</PROPERTY>
     </HEADER>
     <TIME_ORDER>
-        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="8375"/>
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="8375"/>
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="9690"/>
-        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="9690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="6697"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="6697"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="10017"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="10017"/>
         <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="10970"/>
         <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="10970"/>
         <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="11638"/>
@@ -3654,9 +3654,9 @@
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
     <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="transcribe2">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1821"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
-                <ANNOTATION_VALUE>n jamu Tarawele </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>N tɔgɔ Sumayila N jamu Tarawele</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9116,9 +9116,9 @@
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="translate2">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a911"
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1822"
                 TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>mon nom est Traoré    </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Je m'appelle Soumaila, mon nom de famille est Traoré</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

@@ -6,7 +6,7 @@ import os
 import shutil
 from html.parser import HTMLParser
 import subprocess
-from . import config
+from rmai import config
 
 class DabaHTMLParser(HTMLParser):
     def __init__(self, *, convert_charrefs: bool = ...) -> None:
@@ -40,12 +40,12 @@ class DabaHTMLParser(HTMLParser):
 
 class DabaUtils(object):
     """
-
+    
     """
-
-    BUF_DIR = f"{config.ROOT}/jeli/tmp"
     # RUN_DIR = f"{config.ROOT}/jeli/run"
-    BAMAROOT = f"{config.ROOT}/jeli/bamadaba"
+
+    BUF_DIR = f"{config.ROOT}/res/tmp"
+    BAMAROOT = f"{config.ROOT}/res/bamadaba"
     BAMADABA = f"{BAMAROOT}/all_dict.txt"
     BAMAGRAM = f"{BAMAROOT}/bamana.gram.tonal.txt"
 

@@ -7,3 +7,6 @@ srt_maker.py
 srt_maker2.py
 srt_maker3.py
 notes.log
+*.pfsx
+*.srt
+srt_to_tsv*

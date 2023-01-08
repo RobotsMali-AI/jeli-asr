@@ -1,25 +1,18 @@
 # Dataset - Revision log
 
-- **Audio & Trans**: Audio fragments match transcriptions, utterance match transcription, correct variety transcription.
-- **Fr**: French gone through automatic revision
-- **Bam & Fr**: Bambara Disambiguiated, french adjusted into native french, consistent naming conventions
+**[Revision DIR](./revision/new_eafs)**  
+**NAMING & DICTIONARIES**:  [LOCAL_DICTIONARY](./DICTIONARY.md)
+
+- **Audio & Trans**: Clips match transcriptions, utterance match transcription, correct variety transcription, and correctly segmented.
+- **Fr**: French gone through automatic revision & human validation (Grammalecte, and hunspell dictionary)
+- **Bam & Fr**: Bambara Disambiguiated using Daba, french adjusted into native french, consistent naming conventions.
 - **Integrate to EAF**: Consistent tier naming scheme, rewrite of EAFs
 
+- **~**: Progress
+- **X**: Not started
+- **V**: Completed
 
-| Recording | Audio & Trans. | Fr (auto)  | Bam & Fr | Integrate to Eaf |
-|:---------:|:--------------:|:----------:|:--------:|:----------------:|
+| Recording | Audio & Trans. | Fr | Bam & Fr | Integrate to Eaf | Comments | Corrector |
+|:---------:|:--------------:|:--:|:--------:|:----------------:|:--------:|:---------:|
+| griotsr1 | ~ | X | X | X | - | [s7d11](https://github.com/s7d11) |
 ||
-
-<!--
-# Would you like to contribute?
-
-
-## Linguist & Language Experts
-### Main workflow
-- Extract text
-- (Daba)
-- Retrieve Daba text
-- Pull requests
-## ASR and speech processing
-## Others
--->

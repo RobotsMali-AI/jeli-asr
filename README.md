@@ -1,7 +1,10 @@
 # Jeli ASR & Dataset
 
+## CRITICAL INFORMATION
+**This dataset is considered to be significantly flawed, there is an active effort to make it useful for research purposes. The dataset is going through major revision work and therefore is not static. We suggest to contact the authors prior to using the data for any research related activities.** Review [Adjustments](./adjustments.md) to track the status of the revision work.
+
 ## What is Jeli-ASR
-This is a multidimentional open-source package consisting of a dataset & an ASR model. The dataset consists of the transcriptions of 30 hours of griots stories and narrations, and their translations. The corresponding [audio](https://zenodo.org/record/7296317) is hosted on zenodo. The ASR model development is actively ongoing, please take a look [asr](./asr/).
+This is a multidimentional open-source package consisting of a dataset and an ASR model. The dataset consists of the transcriptions of 30 hours of griots stories and narrations, and their translations. The corresponding [audio](https://zenodo.org/record/7296317) is hosted on zenodo. The ASR model development is actively ongoing, please take a look [asr](./asr/).
 
 ## Dataset
 The Griots corpus is a speech corpus containing both audio and its accompanying transcribed text. You can find the intent, the approaches, a detailed look, and a thorough explanation of the dataset on the [Data-Card](https://docs.google.com/document/d/17cBQo7yisZuRpLP9gFul4pvQiARgrDwPLDNE980zxx4/edit?usp=sharing). It is about 28k utterances & clips (couting). There are two sub-speech dataset. Griots Narrations and Street Interviews.
@@ -29,7 +32,7 @@ Along side the griots' narrations, a smaller sample of individuals were intervie
 ### [Wav2Vec](./asr/wav2vec/)
 ### [Kaldi](./asr/kaldi) (Soon)
 ### [Espnet](./asr/espnet) (Soon)
-<!-- ### TF - Keras Transfomer -->
+<!-- ### [KumaSTT](./asr/kuma/) -->
 
 ## jelipkg toolkit (Jeli => Griot in Bambara)
 
@@ -116,7 +119,7 @@ Type one of the followings to:
 
 ### Future Functionalities & Work
 - Standardize EAFs
-- Disambiguate Bambara lines
+- Disambiguate Bambara lines 
 - Ajust Translations
 - Direct CLI (one command) capability
 - Multi-recording download
@@ -125,13 +128,15 @@ Type one of the followings to:
 
 ## Contact & People
 **Principal Investigator**: Michael Leventhal, `mleventhal <at> robotsmali.org`  
-**Manager**: Sebastien Diarra, `sdiarra <at> robotsmali.org`  
-**inquiries & Collaboration**: `research <at> robotsmali.org`
+**Manager**: Sebastien Diarra, `sdiarra <at> robotsmali.org`
+**ASR**: Allahsera Auguste Tapo, `aat3261 <at> rit.edu`
+**Inquiries & Collaboration**: `research <at> robotsmali.org`
 
 ## Reference
+
 ```
 @misc{griotsdataset2022,
-  author                = {Sebastien Diarra and Michael Leventhal and Mouktar Traore and Alou Dembele},
+  author                = {Sebastien Diarra and Michael Leventhal and Allahsera Auguste Tapo},
   title                 = {RobotsMali Griots Speech Dataset, and ASR},
   howpublished          = {\url{https://github.com/robotsmali-ai/jeli-asr/}},
   year                  = 2022
@@ -146,9 +151,9 @@ Type one of the followings to:
 ### Linguistics / Language
 Contribution is highly sought after from language experts and language professionals. Principally those with dual bambara-french knowledge. It is our goal to get a good quality dataset. There are three ways you can contribute to this project:
 
-- [Utterance Validation/Revision]()
-- [Bambara Adjustment]()
-- [French Adjustment]()
+- [Utterance Validation/Revision](./docs/utterances.md)
+- [Bambara Adjustment](./docs/bambara_text.md)
+- [French Adjustment](./docs/french_text.md)
 
 ### ASR
 Point person: **Allahsera Auguste Tapo**: `aat3261 <at> rit.edu`
@@ -159,7 +164,9 @@ Reach out to the point person. If interested in collaborating or contributing to
 Contributions are welcomed. There are no defined guidelines. In order to keep the philosophy of the package please refers to [jeli](./jeli/TODO.md).
 
 ## Contributors & Acknowlegments
+- **[INALCO LLACAN](http://www.inalco.fr/en/research/research-units/llacan)**'s Valentin Vydrine and Jean-Jacques Meric for their active help in all stages of this project.
 - `Coleman Donaldson` of ***[An ka taa](https://www.ankataa.com/)*** for critically reviewing the work, and pointing out some very important facts about the data.
+- **[Google](https://about.google/)** specially the Creative Labs, and Google Cloud for supporting this work in its initial stages.
 
 ## License
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.

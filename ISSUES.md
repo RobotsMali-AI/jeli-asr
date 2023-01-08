@@ -1,5 +1,6 @@
-# A log tracking
+# Known issues
 
-- Griots R6  - Transcription missing
-- Griots R25 - Transcription missing
-- Griots R26 - Transcription missing
+- Misaligned / Invalid segmentation 
+- Language / Incorrect transcriptions
+- Non-standardized naming conventions
+- Inconsistent EAFs files
