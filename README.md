@@ -127,10 +127,10 @@ Type one of the followings to:
 **IMPORTANT**: It is recommended to download one recording/interview at a time, if you have an unreliable network due to the size of the dataset.
 
 ## Contact & People
-**Principal Investigator**: Michael Leventhal, `mleventhal <at> robotsmali.org`  
-**Manager**: Sebastien Diarra, `sdiarra <at> robotsmali.org`
-**ASR**: Allahsera Auguste Tapo, `aat3261 <at> rit.edu`
-**Inquiries & Collaboration**: `research <at> robotsmali.org`
+**Principal Investigator**: Michael Leventhal, `mleventhal <at> robotsmali.org`    
+**Manager**: Sebastien Diarra, `sdiarra <at> robotsmali.org`  
+**ASR**: Allahsera Auguste Tapo, `aat3261 <at> rit.edu`  
+**Inquiries & Collaboration**: `research <at> robotsmali.org`  
 
 ## Reference
 
