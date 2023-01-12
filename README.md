@@ -1,7 +1,7 @@
 # Jeli ASR & Dataset
 
 ## CRITICAL INFORMATION
-**This dataset is considered to be significantly flawed, there is an active effort to make it useful for research purposes. The dataset is going through major revision work and therefore is not static. We suggest to contact the authors prior to using the data for any research related activities.** Review [Adjustments](./adjustments.md) to track the status of the revision work.
+**The dataset is going through major revision work and therefore is not static. We suggest to contact the authors prior to using the dataset for any research related activities.** Review [Adjustments](./adjustments.md) to track the status of the revision work.
 
 ## What is Jeli-ASR
 This is a multidimentional open-source package consisting of a dataset and an ASR model. The dataset consists of the transcriptions of 30 hours of griots stories and narrations, and their translations. The corresponding [audio](https://zenodo.org/record/7296317) is hosted on zenodo. The ASR model development is actively ongoing, please take a look [asr](./asr/).
@@ -166,7 +166,7 @@ Contributions are welcomed. There are no defined guidelines. In order to keep th
 ## Contributors & Acknowlegments
 - **[INALCO LLACAN](http://www.inalco.fr/en/research/research-units/llacan)**'s Valentin Vydrine and Jean-Jacques Meric for their active help in all stages of this project.
 - `Coleman Donaldson` of ***[An ka taa](https://www.ankataa.com/)*** for critically reviewing the work, and pointing out some very important facts about the data.
-- **[Google](https://about.google/)** specially the Creative Labs, and Google Cloud for supporting this work in its initial stages.
+- **[Google](https://about.google/)** specially the Creative Lab, and Google Cloud for supporting this work in its initial stages.
 
 ## License
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
