@@ -1,7 +1,7 @@
 # Jeli ASR & Dataset
 
 ## CRITICAL INFORMATION
-**The dataset is going through major revision work and therefore is not static. We suggest to contact the authors prior to using the dataset for any research related activities. A list of logged issues is found here: [ISSUES](./ISSUES.md).**
+**The dataset is going through revision work and therefore is not static. We suggest to contact the authors prior to using the dataset for any research related activities. A list of logged issues is found here: [ISSUES](./ISSUES.md).**
 
 ## What is Jeli-ASR
 This is a multidimentional open-source package consisting of a dataset and an ASR model. The dataset consists of the transcriptions of 30 hours of griots stories and narrations, and their translations. The corresponding [audio](https://zenodo.org/record/7296317) is hosted on zenodo. The ASR model development is actively ongoing, please take a look [asr](./asr/).
